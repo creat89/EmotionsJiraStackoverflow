@@ -1,0 +1,240 @@
+"Yeah, i understand you but i need to win the battle for today and tomorrow worry about the war!"
+"I don't have whois installed on my server (apparently it's in the works but no real news on it). I was wondering if anybody knew a way to emulate the functionality of it though. I figured I'd be posting some data to a url but I don't know what, or where. Basically I'm at a complete loss, and would appreciate any help or even something that I could look into."
+"Oh, bummer, I think i got i right now?"
+Fantastic that's exactly what I was looking for!
+"'Course I do, corrected."
+"No worries, main thing is your problem gets solved!"
+"+1 fast and furious, or should I say, you are fast and I am furious! `:P`"
+"Excellent, I'm glad that worked for you!"
+"hmm, not sure where to find an example.. Basically, If there could be a page in admin that I could have a text area for a user to edit that would replace text somewhere in my theme, that would be excellent!"
+"I've added to my answer to show a ""code once and still be scalable"" way of defining your font sizes. Good luck with your project!"
+No worries! I've done the same thing many times on SO.
+"Wow! Actually, that's nearly what @MarkSeemann wrote, but in code :) Hope that helps."
+"Found the culprit! At first I tried the solution suggested by @billinkc in the comment, it worked (I managed to create a folder) but the folder wasn't usable as I couldn't upload packages. I have db_owner permission on the MSDB database and so I can see and access the SSIS MSDB folder. What I really needed was the db_ssisadmin permission. Not to worry as db_owner permissions allow me to give myself the db_ssisadmin permission! After this was done, all the problems (the one in the original Q and more) disappeared."
+"Please do have a look at django-rest-framework, I just stepped over from tastypie to this new framework, works great! Especially the class based views and the browsable api! and many other advantages (e..g. to upload images)"
+"Godd luck, hope you figure it out! :)"
+Horray for Android!
+"You might want to poke around in , and also the . Another place where you can specifically ask questions is the Yahoo Users Group for TOAD - send an email to toad-subscribe@yahoogroups.com Hope this helps! Mike"
+"I have found the from Position Absolute to just be that, Absolutely awesome! :). I have an on how to include it in ASP.NET MVC and in ASP.NET, you could just pass it the generated form id."
+I think you should be able to make your connection without doing a lot of contortions with your database. It's just a matter of getting the right connection string in your code. Check out this very excellent reference -- scroll down for SQL Express tips. http://www.connectionstrings.com/sql-server-2008
+"Wow, friendly people here, 11 mins and 2 up votes!"
+"Your library should be named , with symlinks of and both pointing to that. The library should be created using in the linker command line (or on the gcc command line). Hope that helps!"
+that's the hope :)
+"@Gary well, you _do_ get a non 0 return code if `rm -rf` fails to delete at least one file; as I said, tune to your needs ;)"
+"So, it is as simple as purchasing a domain name, and then adding that identifying information to the hosts file? If so, that is excellent!!"
+No. Just size permgen appropriately. It's no different to having to size the heap appropriately. Don't be afraid!
+"I have the following code: This code causes python to go in an infinite recursive loop, and the output is actually incredibly cool: This keeps growing exponentially :) Its pretty but why is this happening?"
+Fantastic! This makes using ipython with --profile sh the best possible method for me to do this :)
+There is a particularly efficient algorithm using de Bruijn sequences described on Sean Eron Anderson's excellent page: It works in 13 operations without branching!
+It depends on the screen size because a 7' screen with FHD will not have the same dpi as a 17' screen with FHD. to know DPI I use this calculator : and for the folders please try the actual google documentation it is pretty complete: hope it helps!
+There are some really great answers here that I wholeheartedly agree with!
+"Is there a shorthand for a new line character in Scala? In Java (on Windows) I usually just use ""\n"", but that doesn't seem to work in Scala - specifically outputs in Eclipse, (sic) from the command line, and from the REPL (GREAT SUCCESS!) works, but is there anything shorter?"
+"This might work for what I have in mind, will certainly give it a try."
+"Ah, excellent :)"
+After two weeks of painful search I finally found this!
+"Hey I just had to solve this on a project I am working on, here is my answer Then in my configuration (I am using Fluent NHibernate to configure my unit tests in code) AWESOMENESSSSSSSS!"
+Amazing how well this works! I had excellent answers immediately! It's like I'm living in the future!
+"Excellent, thanks very much!"
+"This worked great for me, thanks!"
+"@Styxxy, It looks like the GPMC is explicitly designed for AD GPO's and/or doesn't support modifying GPO values, and the process for tracking registry values doesn't seem to apply to many of the Local GP's that can be modified in the gpedit.msc interface (procmon shows no registry changes while making the change). Example: 2012SP1: ""Computer Configuration\Windows Settings\Security Settings\Local Policies\User Rights Assignment\Perform volume maintenance tasks"" add/remove SID to the list. If you or anyone can provide some assistance that would be extremely helpful! Thanks!"
+I have never use this but looks really great and pretty easy to use !
+"@DennisRongo Great success! Thanks for the link, post it as an answer and I'll accept"
+@Stilly.stack wooow I didn't know that that was important!! thanks a lot :)
+"That's an excellent idea! I was able to convert the plugin, but it just crashes VS when I click on it in the menu."
+"I'm absolutely staggered by the amazing response I've received in the last 10 minutes! Thankyou all so much for your answers. Very, very helpful."
+"I have an xml document that is generated based on what the parametres are in the URL for example: This will generate an xml page. Now I want to display this in a formatted way on the menu, after having a look it seems that: file_get_contents() seems to be the best option. But I was just wondering how I can place elements and attributes found in this xml into the html code? Any tips/help would be hugely appreciated!"
+Very useful thankyou!
+Wow! It is really great answer! So helpful! Thank you very much!
+Welcome :) :) :)
+"I want to update two channels on Xively and I can not get my datastream to update both. I am seeing one channel being updated (""Temperature""), but the other ""sensor1"" is not being updated. This is my first crack at a datastream, so any advice/pointers/tutorials to look at would be much appreciated. I have looked all over and can not get this to work. I intially used the Feed API to set up one feed for one sensor, but now i want to add more sensors. Again, any help would be extremely appreciated!"
+Excellent suggestion!
+@BrodieG excellent! thanks for the clarification. So I guess that generic primitive are a particular case of generics...
+I have been using (and loving) the jQuery intellisense for Visual Studio 2008 (blogged about by Scott Guthrie ) but has any one ever come across an intellisense script for the components of jQuery? Thanks!
+"Excellent, thanks!"
+"John, Your solution is absolutely awesome! But, just to share, I have been using this method above until I see your ideia. So, it seems not to be the best solution for this, but for sure it is a way around."
+"Has anyone seen a wordpress plugin slider that will show partially the next and previous image before it slides in? OR does anyone know of one that may be easily customized to show that effect? any demos, guidance or links will be extremely helpful! Thanks very much in advance! Michael"
+"Q6: Dynamic Memory allocation: Consider the following declaration for the multi-level array, names: Create an equivalent multi-level array: dynamic_names that has all its elements and the data pointed to by its elements on the heap. What exactly does this even mean? seems a little broad and with no direction to put me in... Would be very awesome to help! Thanks!"
+I really liked your approach to it! I found that changing the code to the following made my progressbar update correctly. I had some issues while using math.round().
+but stackoverflow is awesome!
+"I'm using the ImageMapster jQuery plugin, and I want to limit the number of selections that can be made on a (image-) map to a certain number. Let's say I have 30 areas, but only want 3 to be selected at the same time. After 3 selections have been made, the 4th selection should overwrite the 3rd. Is there a way I can do this? Any help would be hugely appreciated!"
+"I am writing a webPage using asp.net and c#. I want to divide my webpage into 2 columns such as in one I will have buttons that change the view in the other column, without ""stepping on"" the content of the first column. example: button 1 | :) a picture... button 2 | I tried to use divisions but I think I'm not using them properly. any help would be great! thanks!!!"
+"I'm trying to allow multiple clients to connect to a host using select. Will I have to connect each one, tell them to move to a different port, and then reconnect on a new port? Or will select allow me to connect multiple clients to the same port? This is the client code: This is the server code: Any help would be excellent! Thanks."
+@KevinB what an excellent resource! That just made my life waaaaay easier!
+"Oh and keep up the great work Alex, I really love were you are going with EF4!"
+"Great article 0xced, thanks!"
+I am learning ML. Can some one please help me out with basic input/output functions in ML?? I just want to read input from console and store it in a variable and use it in my ML program. Please help. If you can point me towards some example for this also it would be super great!!! Thank you.
+"I'm absolutely loving BreezeJS and was so surprised to see that my Enum values were being displayed as their text values and not their ordinal ones! What I would love to be able to do is, on the client side, open the MetadataStore, fetch the enumeration and modify it's textual properties for display purposes. Is this currently possible? From my research it would appear not, but I'm wondering if there is perhaps a simple workaround. Everything I've tried has involved a large number of hacks and server-side attributes, but to no avail, or the solution just seemed overly complex and not worth the benefits."
+Awesome! Its resolve my issue. But is there any way to copy/move files with billion of numbers and without removing existing files/folders ?
+"Great info! Thanks, Alex! :)"
+"You already have a great answer, but I wanted to give you a resource so you don't actually have to install IE8. You can use this site to test IE6-9, FF2-4, Chrome 5-6, Safari 3-5, and Opera 9-10. It's a really excellent tool!"
+"EXCELLENT! works like magic, just what i needed"
+@Brant - No worries!
+"Excellent, I'll check that out later, looks promising, thanks!"
+"Thanks Dominic, this is really great! Tell me if I got this right: you create a heightmap, add noise to it, then assign tiles according to the height of each position?"
++1 Thats a very sexy way of getting days within a range!
+@Dimitre: +1 Excellent and complete answer!
+Have a look at these articles Or start with this extremely excellent book to get a very solid foundation with data warehousing concepts
+That's an excellent idea Jeff. Thanks!
+"For anybody else that is looking for a great tutorial, the is absolutely excellent. It gave me the background for the way an MVC application is designed, and enough to start making my own applications and research to fill in the blanks. Highly recommend this tutorial."
+Awesome! Thank you!
+This is really simple and works great! I did a javascript test: http://jsfiddle.net/77eej/2/
+Great!.. works as advertised - Thanks aku. Voting you closer to the 5K mark :)
+"Does anyone know of a link to a reference on the web that contains a sample English dictionary word script, that can be used to populate a dictionary table in SQL Server? I can handle a .txt or .csv file, or something similar. Alternatively, I'm adding custom spellchecking functionality to my web apps...but I don't want to integrate the standard components. If there are good references (with samples) on building a dictionary word checker, I'd love that too!"
+"wow, awesome! never knew this. Thanks again!"
+"I'm just working my way through Django, and really liking it so far, but I have an issue and I'm not sure what the typical way to solve it. Suppose I have a View which is supposed to be updated when some complex Python object is updated, but this object is not driven by the database, say it is driven by AJAX calls or directly by the user or something. Where does this code go? Should it still go in models.py????"
+Somewhere on the web there is a blog post which is just a lot of scrum boards. It is really good to see how other people do it. Maybe someone can find it for us :) I think this looks like a pretty comprehensive way of doing things!
+"If you're looking for a free alternative to Red Gate's most excellent SQL Compare, you might want to check SQLDBDigg made by . It's what I used until I caved and bought SQL Compare."
+"I am using some PHP script to add some data from a complex form to MySQL db and then showing it all in some HTML table. Everything works just fine, but I would like to 'upgrade' my script with jQuery and (I suppose) AJAX. What I would like to do is when user submits data, the row (or ) shows up in the HTML table without refreshing a page. Form and table are on same page, of course... Some guidelines would be really helpful because I'm not sure should I even use AJAX or something else for my needs. Links for some tutorials will be also great :) Thanks a lot for any help!"
+"Excellent! This works as well as I could have hoped, thanks alot"
+"I've been using a custom function for some time now to prevent clickjacking on certain sites. However, I've been surprised to find there's not a lot out there about how to do this 'idiomatically' using the various popular JavaScript frameworks. Are there users of jQuery, Dojo, YUI, and/or ExtJS that have used their framework to implement clickjacking protection? I'd love to see examples!"
+today you - my personal Super Hero!
+@Daniel: excellent! that's it exactly.
+"Although I didn't technically end up escaping the dot, your suggestion actually did make me realize another alternative. While wondering how I would ""pass"" the escape code to the ""SQL"" server, it dawned on me: Why not use a ""SQL Pass-Through Query"" instead of an ODBC linked table? Since I only need read access to the SQL Server data, it works fine! Thanks!"
+"excellent, all working now, thanks !"
+"By the way, I don't know if you found the hover animation binding somewhere and adapted it, or created it yourself, but all the same I really enjoyed it! Quite clever. :]"
+"But they fixed it, and you don't have to worry about it as long as you set the correct doctype, to make IE not be in quirks mode."
+Excellent answer below. Would be great if you could mark one as accepted.
+@Brian - that is an excellent link!
+"Thank you, you're positively awesome!"
+"excellent adding! for debugging, go to wp-content\plugins\syntax-highlighter-compress\syntax-highlighter-compress.php and add the following line to wp_shc_head() :"
+"I'm reading an excellent article by Paul White - ! and he uses this code: I'm trying to find out more about using dbo.Name to declare a variable, not having much luck with books online. Any ideas where I can find this? Thanks"
+"Thanks, that's great additional info Sam!"
+Awesome work guys. Got to love the fact that the SO community are so fast that issues I can't solve alone don't particularly impact on my day! Thanks! :)
+"I'm trying my hand at creating a chrome extension, but am running into a wall. I want to be able to use the browser-action popup to write/modify values into local storage (extension storage). Then, I want to use the stored values in a content script. From what I've read, it looks like I need a background file? but I'm not sure. Some coded examples would be extremely appreciated! Thanks for your help!"
+"If you package this code in a class library like I did, you'll have to change the access modifier from `internal` to `public`. Excellent code, saved me a lot of time."
+There was an excellent presentation at WWDC this year on advanced scrollview techniques. You may want to spend an hour watching that. It might be of great help to you in this situation. The video is available in iTunes under the iTunes U section or from the apple developer site.
+"My client sells jewellery in different materials such as gold, silver, oxidised, etc. When using the Layered Nav widget I would like to display the thumbnails corresponding to the selected filter. So if the users selects the 'gold' attribute in the widget, the gold thumbnails should display in the archive. Using ACF I added image fields to the main product for thumbnails and modified the action in my functions.php. I am trying to write a function that will retrieve the right thumbnail for the currently viewed filter but I cant find a way to check the active attribute for the page. I think it may be possible to use a query_var variable, but my knowledge is too limited. Any help will be hugely appreciated!"
+thanks so much! excellent insight!
+"once again, i just want to comment on this - great suggestion!"
+"+1 - Excellent link, thanks!"
+Excellent article! Very useful :)
+Excellent thanks!
+"I just started using cdb and I love it! I've found and a few interesting articles I've found on using cdb, but I'd love to see other peoples resources. What sites do you use to extract the max usefulness from cdb (windbg)"
+"is a metadata management system developed on the Microsoft SharePoint platform that heavily leverages RDF, OWL, and SPARQL. It has some big customers in the broadcast space and is an excellent example of enterprise use of these technologies."
+Excellent summary!
++1 big fan of your blog Jason.
+"Excellent, thank you for sharing this!"
+"I would be extremely appreciative if anybody can help me. I am learning C++ and I have been trying figure this one out. Basically, VS C++ Express does not come with the .DEF template. What other way can I go about creating this file? Is there a parameter I can set in VS so that the linker can create this on the fly? Thanks!!!"
+I'm sure this could be of some great help for you : Hope this helps !
+hi guys I am trying to create a program to allow a user to input a sequence of brackets (one at a time) and check to see whether there is a corresponding ending bracket. The brackets are entered on a new line every time to aid in the reading. I've set up an ADT for it but just cant think of how to get the while loop going and the checking...... I know if an ( bracket is entered i should push that into the stack and when a ( is entered i should pop one of the stack but I just cant work out the bits in the middle any help would be loved :) //ADT code
+excellent answer!! Its very informative. Thank you.
+"I know neither is true for now, but I really want these to be true. I heard that ruby-gnome2 and shoes are the top most used desktop libraries for ruby. since shoes and gtk depends on some common things, and shoes give a higher abstraction for UI, why not go a step further to merge them? make shoes totally on top of GTK. I respect different intent of shoes' creators, so, just a question to make me clear. Thanks very much for your great job!"
+"You made an excellent point in a comment below, @RailsSon: you want to print Â£s to display a specific currency, but employ that display using a Japanese expression for financial numbers. I find it strange that your request hasn't been implemented in the language by decoupling the `locale` module's use of currency value and that currency's display properties."
+"@R.. Wow! Really great answer!! You should post it as an answer here, as it's really more precise. Just a question, though, when you say round for the alignment of the type, you mean that if for example on your example you had a short b instead of int b, it would be aligned to offset 2, instead of 1?"
+"Excellent, injekt!!! Loved the way you answered."
+I intended to post this quote. It is very true :-)
+"I downloaded and read Rails As She Is Spoke, what an excellent book, thanks for the recommendation!"
+Wow great idea! Try to do it with inlineEditSupport. http://www.salesforce.com/us/developer/docs/pages/Content/pages_compref_inlineEditSupport.htm
+"Does anyone know of an easy way (or any way) to implement the JSTEG Steganography algorithm using JAVA ,C # or MATLAB? I have been trying to do this for weeks now, but can't get anywhere... Any help would be hugely appreciated! Many Thanks. Dian"
+"Ah man, my changes did not save. JSFiddle was lagging terribly for me so I'm not suprised -- sorry!"
+"Lambdas automatically 'suck' in local variables, I'm afraid that's simply how they work by definition."
+That's too sad :(
+no answer yet.... sad =(
+That's very sad and the issue was opened a year ago...
+"@sambo99: I'm really not sure what you mean, I'm afraid."
+Restoring splitter distances has given me a lot of grief too. I have found that restoring them from my user settings in the form (or user control) Load event gave much better results than using the constructor. Trying to do it in the constructor gave me all sorts of weird behaviour.
+"Ok, I find the reason: device won't answer to simple user (and doesn't matter what permissions did you ask in program manifest). You can directly speak to device only if you are root (or from kernel mode). That means you cannot use devices directly from general applications. Very sad :("
+The solution is crying out for the MSMQ solution but unfortunately the posting service is not on the domain. Is there anyway to post to the public queue that is on the domain from the machine in the DMZ? I could use a webservice to post but this is a extra component to maintain. The database table is the alternative solution but again it is not the ideal.
+"I usually don't post meta comments, but 29k views and 7 upvotes? That is sad"
+It is really painfull to get all code form TFS whenever you make a build using NANT. Is there any settings in ccnet.config which will only take the files which are changed form last time which can speed up the process.
+I'm afraid I gave up and switched to django instead!
+any ideas at all would be hugely appreciated - can't find anything about this anywhere! :)
+"I need to develop a messenger-like text box, where certain tokens are being replaced with UI controls. Just for example, if the user types :-) it should be replaced with a smiley image. I have previous experience with WPF's RichTextBox and i understand the concept of TextPointer and TextContent. I just don't know how to replace a TextRange with a UI control... Would extremely appreciate your help :-) ! Gili"
+Just .net 4 I'm afraid :/
+"Sorry -- Current output is raw HTML as far as I know. I'll double check that, though. Warren -- I suppose that is what I'll have to do. Looks quite scary, though!"
+"Pity you haven't said what you are monitoring for. You should decide whether 15 seconds is ok or not. Feel free to drop it way lower if you wish (and have a fast HDD) No worries unless you are running a soft real-time system Have a look at tools suggested in other answers. I'll add another sugestion: ""iotop"", for answering a ""who is thrashing the HDD"" questions."
+@IanNewson Whoops.. I didn't see your answer.. I just replied to this question as I have faced the same problem before. Also the answer to the question is a very general one.. there is nothing to copy here.. It is not fair to downvote my answer.. hope you understand!! Cheers :)
+I need from document object or from a DOM element (i.e. a DIV) to know which is its window object. In Firefox I can do: but obviously in that AWFUL browser that statement not work!!!
+@jozefg I'm really afraid of what you've told :(
+malware from facebook?? could you explain that
+"Whoops, just realized something...there's no way for me to specify a max length when using String.String(sbyte*) which basically means death to using the constructor for the purpose of reading out of a ring-buffer since it could keep reading past the max length into the next segment!"
+Great! I don't know why but accepted answer is not working. Do you know why?
+This is really weird. But a great question you posted! Nice to read. Here could be a solution: http://stackoverflow.com/a/3277996/1320237Why would it be impossible to import the Calltips module from the standart library? Maybe you have a Python 3 idle open? Then they interfere?
+"Sorry, I misread your question and thought that the dragged row was the one that was shrinking. It's hard to say what is going on without seeing all your code. Is it possible that you don't have the columns styled to a fixed size and they are shrinking because you are dragging the widest content out of them? If you could set up a small duplication at [jsfiddle](http://jsfiddle.net) it would be helpful."
+"I am using Internet Explorer 11. Something annoying keeps happening when I add code to my site through the CMS form that I use. Take this line: Let's say I want to copy just this in IE, through the form on the page: When I go to copy just that section, it actually copies this: It is VERY annoying! It doesn't happen on Chrome or Firefox. For reasons with the CMS I have to use Internet Explorer. Is there a setting I can change so that doesn't happen? On Windows 7 if that helps. Sorry if this doesn't 100% fit with programming, someone let me know if there is a better place for this question."
+"Hate to say it, but how about just testing it?"
+That's a terrible soution actually!
+The problem is identical using pyinstaller - this is very frustrating!
+"Aye, the timer idea would result in horrible flickering for sure!"
+I hate it when a simple cosmetic change is invisible to me and causes my things to not work right but I forget about the change i made!
+"I see that over on this question there is a request to say how to do something using LINQ to see if a property matches in a collection. However, is this the fastest reasonable process by which to do this? I will be deploying something that requires a certain amount of resource management, and I want the application to be as responsive as can be, without making the code terribly hard to decipher when someone else, or myself come back to it later."
+"I am trying to save a ListObject from a .NET 3.5 Excel 2007 VSTO Workbook to a new sheet (done) and save that new sheet to a new workbook (done) without that workbook requiring the VSTO customization file (!!!!!). Has anyone had any luck with this? The only way I've had any success is just saving as a CSV file but that's not exactly acceptable in this case. I'd rather not save to a CSV just to copy back to a XLS file. worksheet.SaveAs(saveDialog.FileName, Excel.XlFileFormat.xlOpenXMLWorkbook)"
+"Yes, I hate how Skype tries to use port 80... I sometimes forget to change it, and then when I try to test some web thing I've written, Apache won't start."
+"I'm rethinking the design of my GUI. I designed a few JFrame with Netbeans automated GUI (yes, I'm lazy, and this generated code is often awful, I know !), but now I want them to be JPanel (actually, to inherit from another class that inherits JPanel). But I had the ""setDefaultCloseOperation"" modified, so my code is broken : setDefaultCloseOperation is impossible for a JPanel. Since I can't modify the generated code, I was wondering : is there a way to make Netbeans understand I changed my mind, and regenerate the code ?"
+"From netstat -anp | grep I at two different times, I can see HttpClient is not re-using my connections. I connect to the same host every time with different urls such as Why is HttpClient not just re-using the same connection to myhost.com every time? I have the following code for intialization of the Pool that I pass to HttpClient... I see they are using an HttpRoute and have localAddress in the equals which seems odd as HttpRoute should be equal on just hostname and schema(https/http) and that is it, right? Does that have something to do with it? Is this a bug? Performance is very crappy having to re-establish https sockets every time!!!!!"
+"Also if someone could please let me know if my question is hard to understand, I will re-state. This is incredibly frustrating...suddenly my Stylus files are not compiling at all, and I have not changed any code."
+"You could look at using , but performance might be completely horrible."
+Nobody answers here..sad!!!
+"Arrrghhh, how I hate those people who downvote answers without leaving a comment as for why the downvote..."
+Offtopic: why the hell do you apply the regexp only to the first 4 characters of the user agent? This is going to fail horribly in most cases.
+"From my experiences so far, I've concluded that the HTML5 Manifest scheme was really terribly designed. My site serves a manifest file when a user is logged in. Unfortunately, when they log out, they can still access the cached protected materials. Can anyone think of a way to fix this?"
+"I would tend to leave them open -- but open them with the file share permissions set to allow other readers and make sure you flush log output with every message. I hate programs which don't even let you look at the logfile while they are running, or where the log file isn't flushed and lags behind what is happening."
+"@David Wallace: Yes, and it's even more sad when some guys -1 the correct answer!"
+"I have an existing javascript/flash -interaction kludge that sucks terribly. Now I've decided it'd be better to write a flash app that does the specific thing without the need to interact with javascript. Therefore I'd need to produce flash apps in linux, and I don't have money to throw at adobe right now (perhaps never if their software keeps being terrible). Also not going to do software development on windows, have been there, conclusion: that's not going to work well ever. So, any solutions? Free or open source?"
+"How can I get my Error, Logcat, Debug, etc. tabs to go back to the bottom-middle of Eclipse? For some reason, they moved up between the Package Explorer and the code editor in a vertical arrangement - I really hate it when sections of an IDE break off and dock to some seemingly arbitrary area."
+"Ew, that sounds a bit ugly! Is it possible for an instance of a class to be created before its unit's initialization section has run? In other words could an instance of TMyObject try to use FLogger before it's been set in the initialization section?"
+I am trying to override Control-Meta-Down Arrow and Control-Meta-Up Arrow in emacs. I've tried all sorts of combinations of: and: etc... but it always says: . This means it is only taking into account the . Why is it ignoring the Control?? I've been working on this for 3 hours and emacs online documentation with regards to key bindings is surprisingly absolutely terrible.
+Anyone else get this or suffer from this? I am using Vista and VS 2008 and when I goto open a Web Site it literally takes 2~3 minutes for the dialog box to show up. Once i actually select a website it's not a problem but getting to that point hangs VS really bad.
+I was afraid of that. Poorly formatted code really bothers me. I guess I'll learn to live with it.
+"One of the IIS developers has an excellent walkthrough here: However, for the love of god why?"
+"This is extremely ugly but I think it's what you're asking for: There are ""workarounds"" I guess."
+"I had the same problem and ended up doing the same workaround. When I was done I didn't really hate it though, because it allowed me to free-up the UIPageViewController and all of it's child UIPageViewControllers and all of their resources when the user wasn't actively using the tab."
+You must be a sad sad person...
+"I'm having an extremely frustrating error trying to code a simple encryption program on Python 2.7. Basically its rejecting on if/else statement by saying my syntax is invalid, and I have no idea what I did wrong. The : in the if input ==""1"": statement is what Python highlights as incorrect."
+"I'm trying to pull in tagged photos of the current logged in profile. Got a session ID but it appears it's an empty array. I'm aware this code is probably really awful, I'm new to PHP and just trying a few things."
+I agree with this. For *non-essential services* increasing timeouts is incredibly frustrating.
+"I absolutely hate cluttered seed files. Admittedly, it's a personal preference and not a right or wrong. Here's what I did in my app at work to handle the significant volume of seed data we are required to use: My seeds.rb file: A sample seed file in the seeds/ folder: This has the effect of loading our seed files in the desired order (using 01_ then 02_, etc.). It also breaks up our seeds into logical groupings and organizes them in such a way that, for our team, we can more easily manage them."
+"I have just about finished adding all of the content to each page of my website. I've noticed, however, when I navigate between links some of the pages shift to the right about 10 px or so. This is extremely irritating. All of my pages are contained within the same container using a fluid grid. However, not all pages have the same amount of content. I noticed that pages with empty divs don't shift when I navigate between them. However, if I navigate from a page with content to a page with little or no content, I see the shift. Should this be happening if all of my pages are using the same container, same fluid grid? Does this make sense? Can you sense my desperation?"
+Very painful and doesn't work with inputs from the user.
+"@Kev its a deployment headache, you can ilmerge it in ... but still its an extra bit of luggage you need to worry about"
+"I find it comes back periodically. What's most frustrating about it is that everytime it does come back, it breaks WebDeploy as the account under which that runs does not have access to delete the aspnet_client folder created!"
+"Does anyone commit Qt to their own source control? If so, how do you do it? Do you commit the whole Qt directory or do you pick only the ones that your application needs (bin/lib/include/src) How do you handle the case when new Qt version comes out? I'm asking because I'm trying to setup Build automation and Qt moc is a bit of a pain...and just wondering how people handle committing 3rd party library in general."
+"The move to version 7 is painful, I totally agree. Our process has taken just as long (and seems to be stretching out forever) - especially coming away from Rational Suite into individual v7 products."
+"This has nothing to do with but everything to do with the absolutely awful markup of your HTML and the lack of . You're going to want to wrap all of this ""free-text"" inside of a or two, and then make sure you're putting the inside of the Sample CSS: HTML:"
+"Same server, i'm using phpMyAdmin and its being a pain saying i'm not using it the right context!?"
+"Too slow and I prefer to operate in the same mode as my users. Also, I just really hate switching to debug. And its a waste of diskspace."
+"Usability notes: Personally I hate when sites put the ""forgot password"" or ""forgot username"" or ""help"" links inbetween the password field, and the Login button. As a keyboard user, I shouldn't have to TAB over them to get to the submit button. Better yet, also capture the Enter keypress on the password field so that I can auto-submit with the Enter key."
+"Crashes for me on a virtual machine without Flash loaded. I hate annoying Flash embeds as much as the next guy, but â€œusing it is BADâ€ might be overegging it slightly..."
+"I am having trouble with adding text to the RichTextBox with tabs in it. I have code similar to this: And when I do this I can see tabs in paragraphs that start with '\t' but if I actually delete the tab then press the Tab key, the indentation is wrong. In fact it's about half the size exactly. Also if I tab in the middle of a line the tabbing is different. Also when I pull the Text out of the TextRange lines that start with tabs appear to not generate '\t's generated by pressing the Tab key. This is incredibly frustrating. Does anyone have advice or ideas how to work with this?"
+whatever generated this code is terribly broken!
+"I'll bet you that your main's function signature is incorrect. You use: but SDL_main.h wants Aside: You see, SDL does something really horrific when compiling: It renames your function to , injecting its own main function which, in turn, calls yours. Note that if this doesn't work, then you may be compiling with wrong flags. To be sure, take the flags by running: For more information, see"
+"StyleCop has rules that seem to differ from MS's prior style guides. For example, StyleCop hates m_ and _ for prefixs to private members. Also, the VS default code generation violates StyleCop by putting using statements outside the namespace. *sigh*"
+@JJ That was the mistake JJ. Plain Oversight and extremely ridiculous.
+"Compare these two methods: Aside from the method signatures (bar can declare instead of ), is there any practical difference between the two methods? To be clear: I'm aware that this is a horrible approach to exception handling, and should not be done!"
+This answer is not optimal because I have no clue which Konrad you are referring to.
+"I am trying to make a search TextBox with an embedded magnifying glass icon. I have the following markup so far: However, I can't find the entry in SystemColors which will give me the same color as the standard TextBox border. This is a blueish color by default. Am I being really stupid here?!? EDIT: btw, the image is contained in a stackpanel because I'm planning to put a dropdown arrow in there as well."
+here's my hack that assumes arguments are all imaginary: ...horrible! but what you ask for isn't really possible without for instance hacking to dispatch to a new subtype of java.lang.Number. Really it would make more sense to use a Java or Clojure complex number library.
+"ADG is a terrible and wondrous thing. I'm still trying to figure out the ""data"" object structure when using group fields Cheers"
+"The 0x1A byte is a terrible, painful [source of agony](http://stackoverflow.com/questions/12483711/serialdata-eof-circumstances)."
+"Tools to automate alteration of markup code for any objective are a horribly frightful proposition. Simply write your code correctly the first time. If you have archaic code then it likely has many other problems in addition to SEO, and automatically imposing global changes can expose problems you may not be prepared to address."
+"I'm developing an OSX application () that runs with LSUIElement set (system menu only - no tray icon, doesn't appear in cmd-tab). It works totally fine, but someone just pointed out that it has a blank process name in the Activity Monitor listing. Just says nothing. Everything else in there has a name. Even other apps running at LSUIElement. I've tried to search around the web, but I can't spot anyone talking about this. What on earth should I be looking for?"
+"I have a that has three views per cell, with three cell displaying on the view at one time (for a total of nine views). Think of it as a bookshelf. Sometimes I can have as many as 500 books. I've added shadow to the with code that is this: When I add the shadow code, as seen above, scrolling performance is just totally killed and becomes choppy. Each image has a different so the shadow has to be created for each item as it scrolls. Anyone have any tips on how to add shadows to my images on a without having this issue?"
+"Here is a solution that works for lower case strings only. Horrible horrible code, but I was trying to see how few lines I could write a solution in."
+"WTF??? Why not just mark Enrico's answer as Answer instead of copying it over and marking your own answer? Stealing is bad, m'kay?!"
+"Is it possible to use Twitter's API to grab search results? For example, if I wanted my page to show all tweets (man I hate that term) with the word ""cat"" in it? Is it also possible to get just the matching results that were after a certain date?"
+"We have released a beta version of our software, and as we talked to people who started using it, we have found that a lot of the features (which we thought were essential) were not known and not used by the users. What are the possible ways to inform the application users about the features of the application? I personally find the ""Tip of the day"" popups extremely annoying and disable them quickly. Are there better ways?"
+"I am building the Android OS on Mac OSX (Lion), and Eclipse as an IDE. I am trying to understand certain parts of the OS however this requires performing many searches throughout the project. These searches take 5 or 10 minutes on Eclipse, and the way they are presented is also extremely annoying. Also, I need a separate editor to open up the native files found in the OS, since if they are opened in Eclipse there is no color coding of the C++ syntax. I feel that Eclipse is really slowing me down - can anyone suggest a better IDE for browsing the Android OS (preferably free)?"
+"I have various files that I want to be ignored by SVN when committing. I know that I can go into TortoiseSVN and ignore them in various ways. I know that I can run svn propedit svn:ignore from the command line to do the same thing. The problem is that I have to have everyone on my team to do that, which is a pain. Is there a way that I can put some file in a folder or set something in my SVN repository that tells it to never check a certain file in?"
+"Consider the following example: In the above example, inside filterOccupied I have to use four for matching type. This becomes really painful when the records has more than ten fields. Is there a better way to do this ?"
+"The documentation for the minitest-ci gem (seemingly the only option for producing test results for a CI tool such as Jenkins) has the extremely annoying habit of not preserving the results of when invoked as - the test results from running minitest:models are deleted prior to running the rest of the tests. minitest-ci's barely-extant documentation claims adding this to test_helper.rb will disable the troublesome auto-clean behavior, but it doesn't: Has anyone out there managed to get minitest-ci to preserve all the test result files? I'm reaching wits' end here."
+Such awful code!
+Coding horror!!!
+"For what it's worth, NSCollectionView does this too (you can see it in action in the IconCollection sample code). They apparently wait for a ""quiet period"" in which you've stopped dragging. I've been trying to write a similar class, and it is definitely a pain to get the animations to run consistently and properly during the resize."
+Then you should be more specified in asking the question. You confused me..
+"Cool, that was going to be my next suggestion! Good luck :)"
+I SOLVED IT! I used YouTube API and it works fine :) Thank you for your help!!
+Excellent! Thanks for the info.
+"@Chris, excellent, I'm thrilled to hear that you're migrating to salted hashes! :)"
+"No worries! Keep at it...it's overwhelming at first, but it gets easier"
+Excellent! Worked perfectly!
+"I have been struggling with the same issue, the Facebook docs on this are awful, but finally I worked it out: Hoe that helps!"
+Why all the down votes?
+Wow - why would someone vote to close? This is a great debate!!
+I would be extremely shocked if this was possible.
+"I'm not good at programming and my trying to open one of my spreadsheet documents. Below in the basic login im using, I then request a list all my spreadsheet, which is returned in $feed. And now I'm worried I'm not on the right track with opening a document so I can read and write cells."
+"Sometimes, i get scared of the abilities of ````awk````!"
+The fact that this is even remotely possible in JavaScript scares me.
+"No, and I would be very afraid if there was."
+"I'm very worried about the following screen. When i launch ""Instruments"" in Allocations mode, i see every image of my app adding to ""Living"". I really don't understand how it could be possible..."
+"Why on my ""git push"" command I get the following very scaring error message? I've appended the text as it appeared on my shell, the strange symbols are shown. Is my Git installation broken? My fist git clone was using https I'm using on Ubuntu 10.10 x86_64"
+One of my tables in my SQL database has a growth rate of two nibbles per nanosecond. I was wondering how many megabytes per day that is and should I be worried? My hard disk is 150 GB.

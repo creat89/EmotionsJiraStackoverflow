@@ -1,0 +1,225 @@
+__label__anger	i be try to delete several work copy directory , but i get an access deny on all the svn file , run as admin or normal user . i have kill the tortoise cache process , and can not figure what be wrong . any suggestion ?
+__label__anger	okay , a before < example > and a desire after < example > i know , horrific ( do not ask ! ) see how the slash in the key indicate child , and how the order be nest accordingly ? and item without order be simply shift to the bottom . but also how multiple ' same level ' item with the same order be merely sort by key ?
+__label__anger	i be work on an app that use some basic view type , but i find the default attribute extremely ugly in android ( for example , a bright yellow ) . i can get the basic seekbar if i create it from code , use only the parameter , but i would like to know if there be a way to do this inside an xml layout file . be there an attribute i can set that will remove all default attribute - such as ?
+__label__anger	if i have a setup project in a vs solution and i add / remove another project , or unload / reload another project any setup project in the solution be expand in the solution explorer . it only do this for setup project and it be extremely annoying . be there any way to disable this behaviour ?
+__label__anger	so " option " always have #crd# item , and " option " can have multiple ? what a horrid api !
+__label__anger	i need from document object or from a dom element ( i.e. a div ) to know which be its window object . in firefox i can do : but obviously in that awful browser that statement not work ! ! !
+__label__anger	look like you have change your need . that 's disgusting
+__label__anger	dude , you scare me ! at least make an effort in provide code !
+__label__anger	this in an extremely ignorant answer .
+__label__anger	so for example if i need to run git pull in the commandline , i need to specify the full path to everything … ? that 's really annoying .
+__label__anger	i have this script and be break my head on try to change it so that instead of crop the center part of the image it will crop from the top to the $ height send to the function , any help will be extremely great :
+__label__anger	i have issue with aptana ( …. ) on dark theme . every time i hit the cursor , the horizontal scroll bar in the workspace flicker into view and out again . this seem to be a bug , which have be report already a long time ago : have anyone else find a solution ? make work in aptana incredibly annoying .
+__label__anger	i be have an extremely frustrating experience attempt to change directory in python use variable within the program . specifically , suppose i have : give oserror : [ errno ] no such file or directory : ' $ dir_name ' and yet return ' directory_name_0 ' ( a valid directory name ) and similarly change the directory without error . where be i go wrong here ?
+__label__anger	no beta involve , the lack of repro be really annoy me !
+__label__anger	iâ$™ll try this . string need to be iterable . and while we be at it : how come java be so damn awful ? no sane person would specify ` remove ` in an interface , just to add ` throw unsupportedoperationexception - if the remove operation be not support by this iterator ` .
+__label__anger	i have do some easy . hover ( function ( ) statement in jquery . when i hover over a text i simply want a # div . fadein , and on non-hover fadeout . it work . but it 's just if i spam the text - trigger with hover and un-hoverring really quickly and then stop the animation begin to give a blink effect . it just kind of loop , really annoying !
+__label__anger	this ws - address issue be a real pain in the ass . not only do wss0 use an old , pre-release version of ws - addressing , it add propritery element to the soap header ( e.g. wsa:via ) that be nt part of the schema . what a crock .
+__label__anger	its amazing + question tag " programming " i just have to go find out how many quesitons be tag " question " and there be some ! ! @jon : fyi , so be always about programming , non programming question will very quickly get vote close .
+__label__anger	i have develop my site with firefox and firebug plugin , but when i deploy it to other browser ( ie / chrome ) , the console window appear at the bottom of the screen ( very annoying ) . how can i disable this ? and why be it appear ? gath
+__label__anger	oh the horror ! try ` page . php #iframe_id ` as the target .
+__label__anger	this be horrible . #ord# you be sleep , which will never wait exactly the right amount of time . it may fail if the computer be busy and shutdown take long than expect . and otherwise it will waste time . furthermore , you be use share * persistent * state . the right solution be simply to free the ` runonce ` mutex before call ` application . restart ( ) ` .
+__label__anger	we use hessian in our software , and i wish the previous developer do not do this as we now have to access the hessian endpoint from c ++ . it 's a pain and i prefer thing to be in simple http xml or json .
+__label__anger	test / cross - browser : if there be no submit button , the form will degrade miserably if javascript be not available !
+__label__anger	i really hate people who downvote for no reason . just tell me what your problem be in a comment after you downvote . god !
+__label__anger	i have a basic app write with atl , use the wizard with vs0 . i have a treeview in the left side of the app . i see how to ( painfully ) add tree item . question be how do i show a menu when the mouse be right click ? how do i trap any click event on each item that could be select ?
+__label__anger	herbert 's answer be a suggested way of marginally automate the browser to check the box and click the delete button . if #crd# be to setup a browser automation project with selenium or such , then this would be a legitmate but painfully slow solution to delete all entity via the admin screen as it only delete at most entity at a time .
+__label__anger	@suma how can this be a duplicate if the question you mention be post a year after this #crd# ?
+__label__anger	this be similar to the accept answer ( because it be use java to represent the newline rather than el ) but here the < c:set / > element be use to set the attribute : the follow snippet also work , but the #ord# line of the < c:set / > element can not be indent ( and may look ugly ) :
+__label__anger	i do not see how this be possible , but i really , really hate to run my query an extra time just to get the record count so i can build a pager . when i say a " pager " i simply mean the common gizmo with a link for each record for example .
+__label__anger	on win with msvc there 's but it 's really horrible and you do not want to use it if you can possibly avoid it . good to say that there be no exception .
+__label__anger	right , i have get this horrible mess of html and erb ( that do work ! ) , but i want to do thing properly and render the whole thing with the method . but i be not sure how to do this , i can only render text with the link_to at the moment .
+__label__anger	i have a query that have approx column and i would like to export this to an excel file with the column header . i think this would be easy to figure out but no luck ! i search the web and find #crd# suggestion that do not end up work so i be stuck . anyone have any work idea ? thanks ,
+__label__anger	i be try to pull the whole set of object that i want to work with into memory so i can cut down on call to the database . if i call a select for each iteration i be look at #crd# of #crd# of call , which be run horrifically slow .
+__label__anger	@robáµ© i really hate pass booleans into function .
+__label__anger	sorry , most of the code for this be #ord# party and i do not have access to it , make thing extremely difficult / frustrating .
+__label__anger	i test this code out with an access database with no exception ( i go as high as insert ) . however , what i notice be that it be terribly slow as you be create a connection every time . if you put the " use ( connection ) " outside the loop , it go much fast .
+__label__anger	i really hate use gui - designer for write a swing application ☹️
+__label__anger	i do not understand this part : #crd# thing i have find with this be that pass the config around to all the other utility function that i would prefer and do not think should be a a part of #crd# the the above mention class can seem to get incredibly tedious . anyway , look up on thread - local storage . you could make a singleton config object that be thread - local .
+__label__anger	fyi : when c or c ++ say " undefined " they usually mean " crash " or " memory corruption " or something equally terrible . beware .
+__label__anger	it be be deprecate because it be old and unsafe . switch now or feel the pain later !
+__label__anger	i be use vs0 , in a normal mid-size solution . sometimes , debug stepping become very slow . a padlock get render on the every file tab for every " step " ( f0 / f0 ) , and it can take up to #crd# #ord# for every step . that make debug very annoying and slow . have anyone see this problem ?
+__label__anger	that link be full of horrible advice .
+__label__anger	why do you need the class explicitly ? could not you use the interface ? note that casting be not encourage , which be why it look so awful in scala !
+__label__anger	@chris #crd# different control statement just to appease developer who want their switch statement to work in a slightly different way ? that 's a ** terrible ** idea . vb [ have that mentality for loop ] ( #hlink# and it work out terribly .
+__label__anger	no , it be not possible -- we try hard and ended up revert to the way of use a custom class … check maattachedwindow well with enough swizzling and pose it would be possible of course … but that be very evil and at least as much work as your own class !
+__label__anger	be this seriously the only way to modify the default template ? this seem absolutely terrible .
+__label__anger	schema - okay , have owner , but they can be a real pain to get permission right on .
+__label__anger	i think i have comment . complete rubbish #hlink#
+__label__anger	too bad this behavior be not a setting . i think it make sense in theory why they do it this way , but in practice it 's just really annoying
+__label__anger	free the local array " buffer " be undefined , and probably horrible , behavior ! you can not free something unless it be allocate with malloc ( ) or calloc ( ) . it 's likely corrupt the heap and cause the crash .
+__label__anger	in vc ++ mfc application project , i will not get the compile error , but when i run the project i will get the error debug assertion fail ! program : project . exe file : winocc . cpp line: for information on how your program can cause an assertion failure , see the visual c ++ documentation on asserts . ( press retry to debug the application ) what error it be and why this type of error occur , how to debug this error , plz help any body ,
+__label__anger	i completely disagree with the answer so far . i feel that internal be a horrid idea , prevent another assembly from inherit your type , or even use your internal type should the need for a workaround come about . today , i have to use reflection in order to get to the internals of a #hlink# ( i have to build a datatable lightning fast , without all of its check ) , and i have to use reflection , since not a single type be available to me ; they be all mark as internal .
+__label__anger	this do seem to be the answer . absolutely terrible api design .
+__label__anger	it 's horrible ! no , seriously , i do not like it .
+__label__anger	i have just finish that site , but there be a silly bug that remain … if you check tu horizontal position of the whole page there be a slight shift … nothing to cry about but why here be the page any idea , the horizontal css be : i do nt like my page to do the cha - cha - cha !
+__label__anger	base mostly on , but also , and my own experience , i do not think it 's possible without a lot of ugliness , pain or without convert your linq to sql code generation over to ( not appealing , imo ) .
+__label__anger	regex be a horrible option for perform replaces on a large amount of text . as powerful as it be , many regex proponent see all the world as a nail and regex as their hammer . for use case involve large amount of text , look at fastreplacer #hlink#
+__label__anger	the problem that i be have be while design an email to be send to user the border of the html table be not disappear even though it be set to and so leave horrible white line through area which be menu to be solid blue color , below be my html code ! untitled document
+__label__anger	ok this be really annoying , can not find a solution that work !
+__label__anger	upvote serapth - i hate this . i ** hate ** it !
+__label__anger	this be #crd# thing that i really hate within development be form . below be my code and what i be try to do be align the input with the label . be there a rule that you use to help remember when cod form ? css : html :
+__label__anger	i have be tackle the same issue . it 's a pain !
+__label__anger	i really hate ask question that i feel be ask a #crd# time before . this be #crd# of those question i feel other must have encounter , , none of the suppose solution work for me so i must be do something wrong … i have an extremely simple app setup . index . htm , and term . htm . there be some textual datum in test . htm . i set both and at the appropriate time after stuff have load . at #ord# i try load term . htm ' s datum into an element within index use ( both test and index be in the same root / asset / www / directory , and my webview load index oncreate ) but absolutely nothing be happen . so i opt to try . ajax so that i could at least get an error message , and all i get be ' error ' . surely , it be possible to load local textual asset with jq on droidgap ?
+__label__anger	terrible ! why do you post all that code ? #crd# asynctasks . do we have to dig through all that ? you should only post the relevant code .
+__label__anger	i really hate to give any pointer without explanation but i think your requirement be big :: so -- >
+__label__anger	it 's a terrible idea to include a use directive in a header file too . this simply mitigate that problem .
+__label__anger	you can not move the cursor with javascript . it would be incredibly annoying anyways .
+__label__anger	it be incredibly frustrating that outlook do not preserve the timestamp when you export . i have no idea why they decide to omit that .
+__label__surprise	oops ! yeah , that be just radio functionality heh . it turn out this be not as straightforward as i think . give me a few minute and i think i can fix it .
+__label__surprise	my work just give me a quad core computer , and wow build time be fast ! ( what use to take + minute now take minute ) . anyway , visual studio build project in parallel ( great for build time ) , but scramble the output : be there a plugin that sort the output when the build be complete ?
+__label__joy __label__surprise	wow ! yeah , i do not know that ! great new feature .
+__label__love __label__anger	i be integrate protobuf - net into our wcf service base solution but have run into a snag that i can not figure out . the follow class will serialize fine , all except for the objectid property . here 's the class that 's toy with me : i have try multiple thing with no luck . any thought would be greatly appreciate !
+__label__joy	no prob . good luck !
+__label__joy	wow , great many thanks ! file be datum !
+__label__joy	in our eternal quest to integrate javascript into our rspec and cucumber workflow we be evaluate and be provisionally very excited about it . any advice on culerity in general or specifically as compare to selenium ?
+__label__joy	excellent news !
+__label__joy	wow , exactly what i be look for !
+__label__joy	you would need to create a counter integer variable that can keep track of the line index for you . hope it help !
+__label__joy	have you look into create a plugin with waffle ? from the waffle guy if should be possible to create a module use the servlet filter code . that would be a pretty awesome module for play ! i will look into it when i get some spare time . #hlink# ? hl = en # ! topic / waffle - user / q0arpjitp0g
+__label__joy	yeah … i be not a huge fan . their documentation , tutorial , and guide be pretty nice . here 's the guide : #hlink# here 's the documentation : #hlink# here 's the video tutorial for pfquerytableview : #hlink# ( a little date but very nice ) hope this help ! 🙂
+__label__joy	excellent and simple .
+__label__joy	there be a guy who make the exact same observation as you , and he have publish a blog post with a simple work example of a quartz . net console application . i use it with great success yesterday !
+__label__joy	i have have great success with 's auto-suggest implementation . it include php example too .
+__label__joy	yes - that feature be extremely useful for write upgrade script .
+__label__joy	@user0 : excellent ! please consider [ accept this answer ] ( #hlink# then 🙂
+__label__joy	i have be program ruby pretty extensively for the past #crd# year or so , and i be extremely comfortable with the language . for no particular reason , i have decide to learn some python this week . be there a specific book , tutorial , or reference that would be well - suit to someone come from a nearly - identical language , or should i just " dive into python " ? thanks !
+__label__joy	i m really excited to know that html have in build support for audio and video playback ( i know its old news but i just wake up ! 😛 ) . what be even more exciting be that it can play local audio / video file in matter of some click . i have a look at this , could not find any offline video player . my question be why be that people be not develop an offline medium player which could just be load form a website ? be there some issue ? thanks
+__label__joy	look into these link . they may help .
+__label__joy	there be a plugin for wordpress to help you with that . hope that help !
+__label__joy	wow ! very simple , but great effect …
+__label__joy	paradise , if you submit that as a separate response i will make you the winner !
+__label__joy	the effect i believe you be seek be achieve by provide a headertemplate for the tabitem 's in you tab collection . hope this help !
+__label__joy	i write a tool to create svg map : which also have a world map that you can customize to your liking : hope this will help you or any other folk who be after a customizable world map !
+__label__joy	that 's excellent , and work absolutely beautiful !
+__label__joy	thanks for the answer . i have find a great sitemap generator over at codeplex . if anyone be interested you can check it out here : enjoy !
+__label__joy	wpf be a fascinating platform to develop our next generation application on ! the ability to style just about anything , the databinding support and attach / dependency property . wow ! but let 's not throw caution to the wind because while wpf performance be great , it 's not the good … yet . definitely be a strong contender , but as developer we be still leave with design principle for our front end .
+__label__joy	this be simple i hope 🙂 when i create a new web application in wss do it need to be on port if i want to point an external domain name at it ? everything be standard in term of iis and port that be open i.e. port be the only #crd# open . i be guess if i let wss assign a port number to the new web application surely this can never be access externally unless i open the assign port ? cheer
+__label__joy	after some test i find a fast solution , you can add in top of your index page : it work very fine 🙂
+__label__joy	i be just get my foot wet with multiprocessing ( and its totally awesome ! ) , but i be wonder if there be any guideline to select number of process ? be it just base on number of core on the server ? be it somehow base on the application your running ( number of loop , how much cpu it use , etc ) ? etc….how do i decide how many process to spawn ? right now , i be just guess and add / remove process but it would be great if there be some kind of guideline or good practice . another question , i know what happen if i add too few ( program be slooow ) but what if i add ' too many ' ? thanks !
+__label__joy	excellent ! i hope you like the ` $ . when . apply ( .. ) ` with its double nested . join . that 's the bit i have to test .
+__label__joy	there be a few plugins which you could look at for that functionality , if not flat - out use : good luck , hope these help !
+__label__joy	@edwardruchevits hey pass in cat and page work ! it now remember it each time i navigate page ! excellent ! question though , be ' cat ' a predefined php variable for url ? also , while this work for me locally … how will this function when different user specify their own category ?
+__label__joy	@phoenixx_0 no worry !
+__label__joy	i would just use an @import command at the top of my css file , then you can simply add a new font by add a pipeline to the end of the font and type the name of any other font you want . to use them , simply use the css font - family style command : html hope this help !
+__label__fear	i be use this practice to add comment use ajax , by send the datum to an asp . net handler which collect the information and then insert the comment , but i be afraid that any #crd# could use it , be i wrong ! ?
+__label__fear	i be work on a webservice + ajax interface , and i be worried about authentication . this moment i be pass username and password to the webservice as argument , but i fear that this approach be highly insecure . i be tell that ssl could solve my problem , but i want more alternative . my webservice be write in php and my interface be in php + ajax . the webservice receive argument from post or get and retreives xml ( in a future maybe i will use json )
+__label__fear	i be plan to use community sever for #crd# of our project , i use it in the past but we have a lot of problem customize it and understand how thing work , im affraid to get into that again , and i would like to add some thing to it but i do nt know how flexible it be .
+__label__fear	i have vs0 instal . but i be afraid about instal vs0 and lose everything . i think i have to install framework #ord# . be that correct ?
+__label__fear	standard lamp config . as the guy say below , i imagine the file be just not be deliver correctly or something . just worried something be break for my user !
+__label__fear	the other day i notice that if i run ieinspector 's httpanalyser and capture the post datum when log into my bank account or amazon account the post datum show my user name and password in the clear . this be a little concerning . do anyone know at what point the ssl encryption take place ? this i assume would mean that any software that be instal on your machine could potentially get access to this post datum . very scary .
+__label__fear	a copy of an infinitely long string terrify me !
+__label__love __label__joy	i be try to get titanium studio to work for some time now … i be use linux mint xfce edition . i have to install nodejs and the package titanium , alloy , acs , acs - node with npm. now every time i install nodejs again and install a titanium or alloy via npm it create a new directory i actually have a directory call in my root dir ( where username be my username ) . all the other pacakages i need to install ( acs , acs - node ) give me : i really hope , someone can help me ! i do not understand at all what be go on . i be instal nodejs from ppa : because the version from the linux mint repository be way to old . any help very much appreciate !
+__label__love __label__joy	excellent ! exactly what i need 🙂
+__label__love __label__joy	i do try the demo and do end up buy it . i be thrilled ( thus far ) . thanks for your comment .
+__label__love __label__joy	i be try to make a link inside the fancybox single image title . i want it to redirect me to another fancybox window ( witch be inline ) .. i have a script that make the whole single image a link , but this target my document title instead of the anchor title … i really hope someone will have a solution or a good idea on how to do it ! ! 🙂 thank you thank you thank yooou ! 🙂 btw : i have almost never work with script … in depth anyways …
+__label__love __label__joy	i be use an old version of sinatra - update to version and it work fine 🙂 thanks everyone !
+__label__love __label__joy	excellent advice here , and it seem like you know know this field . i hope you will keep participate .
+__label__love	thanks so much for the excellent answer ! all answer work beautifully .
+__label__love	when use sifr on the title ( . content #hlink# ) in my wp theme , it somehow mess up the spacing and push the title down . the actual flash video be the same size as the font , so i think it have something to do with css , though i have try just about everything i could think of and can not get it line up properly . here 's a link to the site : any help would be absolutely appreciate 🙂 sean
+__label__love	strange - no #crd# mention gedit ( gnome ) or openkomodo ( windows , mac , gnu / linux … ) . both of them be great ! openkomodo especially deal with tab and space very well . and - it 's free . whee ! when i need a light weight thingy , i just use gedit . download openkomodo here -
+__label__love	i stumble upon this site and really love the way they have do the navigation on the left hand site . i notice that site be use jquery but do nt see any plugins . any idea on how to go about do this ?
+__label__love	excellent . thanks .
+__label__love	your good bet be probably tcpclient . there 's a great sample that do exactly what you be do right in the . net documentation here : good luck to you !
+__label__love	#error !
+__label__love	i have notice this come and go . after running spec in rubymotion ( which be incredibly great by the way ) this annotation appear even when run spec from the console . then they go away . i have no idea why .
+__label__love	excellent answer ! ! my vote be +
+__label__love	since i have be work with the build - in microsoft charting controls in . net lately ( and love every minute of it ! ) , i think i would take a crack at answer my own question …
+__label__love	excellent ! on a mac as well … i will look into railsapi . com . thank you for your help !
+__label__love	nice work ! ! love it .
+__label__love	❤ ❤ ❤ ! ! ! 🙂
+__label__love	afaik , the creator of delphicodetodoc be actually still actively work on it . have you try send him an e-mail ? in my experience , he 's very helpful !
+__label__love	i have an old friend who be a mathematician . he have his own math to compress his formula , which be incredibly beautiful . he work in a program call mathematica , which transform the formula for d - shape . i wonder if it be possible to obtain these figure use canvas and javascript ? see attach formula and figure . i know little of this myself . but i would be delighted if some #crd# could show me an example .
+__label__love	glad to see i be not the only #crd# who get that ! the free book be actually really exciting ; it will definitely motivate you to do peer code review .
+__label__love	more than a year after this post , we be use : activiti a workflow engine with bpmn support . as modeller we use activiti designer and yaoquiang ( excellent tool ! ) .
+__label__love	great answer ! but as @paercebal mention , ` auto ` now have a different meaning , so could you please update the table at the end ?
+__label__love	awesome ! i be actually familiar with sdl. i be go to look into this .
+__label__love	excellent answer , work for me .
+__label__love	no worry , his answer be much good !
+__label__love	i recently post a question regard how to scale an image use the input type = " range " element . i recieved an excellent answer from user : however ! this scale the image towards its upper left corner and i need an image that scale towards its center . how do i achieve this ? can not seem to get it to work use text - align:center or anything … thanks in advance !
+__label__love	there be an really excellent short (!) book on stripe that cover all aspect : by frederic daoud ( pragmatic programmer )
+__label__love	thanks ! this look very promising !
+__label__love	upvote very interesting question !
+__label__love	excellent , thanks very much ! move them to inst / test and run test ( ) work .
+__label__love	google lead me to solution ( base0_encode ) . hope this help !
+__label__love	you be right . see my update ! make a suggestion pls and i will catch your thought 😉
+__label__love	#error !
+__label__love	try to get user email address upon load of the html document . they already login in a previous page . i have try implement the solution propose on different thread , but most be outdated and look like it require " scope : email " ? not sure . what i have right now do not work . on a side note , i want to get these email write down somewhere so i can use them later . give that js be client base , anyone know the easy way to do that ? if you could help me out , that would be superrrr awesome ! !
+__label__love	this be a very quick and excellent way to show me everything i need !
+__label__love	excellent , thanks !
+__label__love	thanks , this be extremely helpful ! !
+__label__love	awesome answer ! very helpful
+__label__love	very nice beautiful 🙂
+__label__love	catalyst have which be pretty excellent .
+__label__love	excellent method for minor change . just what i be look for . thank you .
+__label__love	great manual , help immensely !
+__label__love	i have handle the by do this in the global . asax file now , if anyone can help me with the google widget that would be great !
+__label__love	mark up the question , while i do not think it 's a great idea , i think its a good question to ask !
+__label__love	awesome , thanks !
+__label__love	good luck with the browser project !
+__label__love	#hlink# an excellent tool for show and / or save image !
+__label__love	wowww thanksss !
+__label__love	` : r ! date " +% y - %m - %d % h:%m:%s " ` wo nt work because ` % ` reserve to insert buffer name into the command line my vim version be . i would love to know how to escape ` % ` !
+__label__love	herb sutter have a great treatment of this exact topic in item , and , " minimize compile - time dependency , part , and " , in his excellent book exceptional c ++ , isbn : . imho , this be #crd# of the good c ++ programming book available .
+__label__love	excellent ! onward with your project …
+__label__love	very useful , thanks you !
+__label__love	excellent method and exactly what i need right now . i wish i could upvote this twice .
+__label__love	great question and great answer ! ! ! thanks guy ! !
+__label__love	i have discover a mode in , where i can instantly change all same variable . when i be in this mode i get a box around the same variable and i can change #crd# and instantly all other change . i do not know how to enter this mode " by will " , i just enter it " randomly " . therefore , i really appreciate your suggestion , how to enter this mode , because it be extremely useful to me ! ps. : i be use no plugins , just a plain new eclipse installation with java !
+__label__love	#hlink# be an excellent tool for automate minimization of a test case .
+__label__love	great question ! 🙂
+__label__love	upvote - what a great article !
+__label__love	the follow scripting be a custom addition to this hover fade button ; in my version it keep the text of the button while change the background image through css class only . i have able to everything except when you click on another button you get #crd# active button and so on . i like the button to hover { span . hover class } , click { span . active class } , and remove any other button with the span . active class and put back to regular state . greatly appreciate a solution !
+__label__love	there 's an excellent series of post on execution plan and how to read and interpret them - and a totally free e-book on the topic as well ! - on the excellent simple - talk site . check them out - well worth the time !
+__label__love	i have a button that , when hover over , i would like the background image to display also . ( it be an arrow an explanation of the button ) . there be quite a few question similar , but i could not quite tweak the answer to work for me . the html look like the css then be any idea hugely welcome !
+__label__love	excellent ! work exactly like i want . thanks .
+__label__love	i be pretty sure this can help ! cheer !
+__label__love	i want to programatically detect if my site be within the facebook iframe app so i can display certain feature specifically for facebook . otherwise if someone go site without facebook . preferably an fbml , c # or js solution would be great 🙂 thx !
+__label__love	great question , but please update the accept answer to iainmh 's ! 🙂
+__label__love	thanks @brunolowagie ! ( i be so thrilled to get your reply ! if you write that as answer i would accept it ! ) i have find the relevant code sample : [ itext in action , ch. , resizeimage sample ] ( #hlink# ? id = ) , and also [ how to recompress image in a pdf on chris j. haas 's website ] ( #hlink# the #ord# sample modify a ` pdfwriter ` replace virtually every ` pdfdictionary ` key in an ` pdfimageobject ` , even pass in a byte array - bypass image validation . #ord# sample go through an image
+__label__love	download the directx / xna sdk - it come with plenty of sample code . great place to start !
+__label__love	it would be super great ! if you can help me with iframe and cookie stuff … datum . message contain url
+__label__love	that would be great ! @heinz : contact establish 🙂
+__label__love	@adrian - that article be brilliant 😃 thanks for share it !
+__label__love	if i be use iis + server / vista enterprise , any way from iis side to control the upload speed ? for example , max upload speed at m byte / #ord# ? any configuration base easy solution be great ! and any programming base solution be also appreciate . 🙂 thanks in advance , george
+__label__love	excellent , thank you ! i do not now that .
+__label__love	excellent question . imho this type of thinking make program much more robust , especially when they undergo constant change .
+__label__love	you can also try the mknetworkkit framework : easy to use and work really fine !
+__label__love	excellent code @ peter , but not to be generate consecutive event , it might be good to use unbind ( ) , like this : thanks !
+__label__love	wow , you be right , thanks ! i will accept brians ' answer .
+__label__love	absolutely . do not be afraid to just try stuff out !
+__label__love	you….are….awesome ! ! !
+__label__love	if your memory consideration be only about these integer , then all i say be woooow 🙂
+__label__love	there be many way to do this , #crd# way be : followed by : in general , the sqlite project have really fantastic documentation ! i know we often reach for google before the doc , but in sqlite 's case , the doc really be technical writing at its good . it 's clean , clear and concise .
+__label__love	svg transform on text attribute work excellent ! this snippet , for example , will increase your text by 0x at y - axis .
+__label__love	i be use rob con 's repository pattern also - absolutely love it . but i be not worry about concurrency check . i load the most recent object , then update the field the submitchanges . i would look at see if you could use the attach and / or timestamps . it 's be a while since i have look into linq + concurrency .
+__label__love	i be try to write a batch process that can take an mp0 file and mute certain part of it , ideally in python or java . take this example : give a minute mp0 , i want to mute the time between and . when save back to a file , the rest of the mp0 will play normally -- only that portion will be silent . any advice for set this up in a way that 's easy to automate / run on the command line would be fantastic !
+__label__love	that be really , really , really smart ! thanks .
+__label__love	jim do a great job !
+__label__love	excellent ! it work . but could you please explain how this work ? do javascript take time to load ? could a thread . sleep step do the same thing ?
+__label__love	library independent , very nice ! although i prefer the declaration more " class " like : ` function myclassname ( ) { } ; `
+__label__love	great thanks ! serverfault . com - the new server admin equivalent of stackoverflow !
+__label__love	recently i have start operate system course….now go through its content i be think about learn unix from its internals . also i have complete a computer architecture course and really love it . can you suggest a good book on unix internals from which i can learn the practical aspect of how the architecture design work in a real life os ?
+__label__love	@rachel - excellent ! good job they do not use all low case then - not sure if there would be any way round that .
+__label__love	these be the table : how would i do to list the last comment thread on top ? this be currently how it look : i can not figure this #crd# out folk . so if someone could give me an hand that would be great ! cheer !
+__label__love	thnx man , it work really good , awesome stuff ! ! !
+__label__love	i have this regex and i really need it in a vba version for word . find method ( do not need the matching - group ) , here be what i have so far but i can nt get the last part to work , here i be talk about i really hope someone can help me , as regex in this case be not an option ( although i know i can use regex in vba ! ) cheer
+__label__love	fortunately i be do * very * little with office - really just try to show the new feature . thanks very much for the link though - very helpful !
+__label__sadness	thatâ´s really sad ☹️
+__label__sadness	i be afraid i do not know of any other option than work !
+__label__sadness	i be really desperate ☹️
+__label__sadness	beat detection look incredibly complicated ☹️
+__label__sadness	unfortunately , no . that 's my major pain when merge vcproj file change .
+__label__sadness	still no go , i be afraid 😕 this do not remove ' www ' from the url .
+__label__sadness	i be afraid i can not entirely follow your question - do you want to have a sign up form for membership or email notification show as an article ? if so , then the easy way be to install ' m0c ' - the ' module to component ' component . then you can put any module ( ie the sign up box ) in the centre content area . the m0c component can be find here :
+__label__sadness	a very sad face ☹️
+__label__sadness	i be try to bake my controller but i keep get the follow error : it 's make me frightfully sad , have anyone ever come across this ?
+__label__sadness	a ( it do not have to be a class ; structs and interface can be partial too ) be basically a single type which have its code spread across multiple file . the main use for this be to allow a code generator ( e.g. a visual studio designer ) to " own " #crd# file , while hand - write code be put in another . i have no idea whether python / perl have the same capability , i be afraid .
+__label__sadness	@gap : no , i never write the helper class , i be afraid .
+__label__sadness	finally find something , here : no reference to it from the oracle page , but find a direct link to a page on some forum post . really sad how hard it be to find .
+__label__sadness	i just write this function , so there be no version to speak of … i be afraid i be not very faimiliar with mapping !
+__label__sadness	i have try several other ide ( the last #crd# be eclipse ) but always come cry back . the thing i end up miss most be homesite 's ' tag insight ' for all the html tag .
+__label__sadness	when specify as above , spring distinguish constructor argument by order of appearance . the notation would only switch between set the attribute by constructor to set them by accessor . i be afraid , this will not change anything .
+__label__sadness	i actually tend to prefer pascalcase here - but out of habit , i be guilty of upper_case …
+__label__sadness __label__fear	you need to or if you target windows phone #hlink# port you code to directx the call be . it will be painful ! you will still use this feature level .
+__label__anger __label__sadness	i have spend day try to find any information or work sample on how i can get google datum such as email in my gmail inbox , list of my contact , my calendar event etc … none whatsoever ☹️ there be broken piece of some code fragment here and there , % say it 's be deprecate , be the a #crd# single page on the internet that give me a work example how to do that from javascript . many page about oauth , but i have absolutely no idea how to use it , i have spend day read break piece here and there , but i be unable to understand what that it and how i can use it practically . very sad , and i be very tired to waste so much time on thing that do nt work and be not document in human language , possible to understand . why do they have to overcomplicate thing so much and spread broken piece of information everywhere ?

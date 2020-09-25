@@ -1,0 +1,222 @@
+__label__sadness	i be apologize for say this , but the code you have post be simply awful and need desperate refactoring . create a class to represent property instead of parallel arraylists , and use string . split to parse a comma - seperated list .
+__label__sadness	it would have to be a winform dialog , i be afraid ☹️
+__label__sadness	this link be dead ☹️
+__label__sadness	@alicechen sad but sometimes the dropbox server go down , this may also cause this !
+__label__sadness	that make me cry 😭
+__label__sadness	i have #crd# loop run in my code , i want to use an element from an array as the key in a #ord# array , but be unsure how to do this with smarty . "" contain an integer ( pull from the db ) i want to use that value as the key in a #ord# loop , which run fine if i harcode in the integer : pseudo code for the sort of thing i have be try be : but of course , this do not work ! can anybody help ?
+__label__sadness	there be major oversight in the css spec related to basic page layout . sad . it be about as well think out as html.
+__label__sadness	well … taht 's … sad ☹️
+__label__sadness	@pablob . sir , this be sad ☹️
+__label__sadness	#hlink# sad ☹️
+__label__sadness	i be have use the remove datum method to remove validation from the page . this work but throw an error in the console window and crash with ie0 ( i be be force to develop to this browser….sad i know ! ) . do anyone know how i can stop this error ? here be my code to remove the validator : here be the error message from the console :
+__label__sadness	i wish i know , i be on + project and have to do + scrum a day . :c ry :
+__label__sadness	i have develop a cumulative sum function as define below in the haskell library repa . however , i have run into an issue when combine this function with the transpose operation . all of the follow operation take well under a #ord# : however , if i write : performance degrade horrendously . while each individual operation in isolation take well under a #ord# on a 0x0 image , when combine they now take + #ord# … any idea on what could be cause this ? my gut tell me it have something to do with delay array , not force at the right time , etc … but i do not have enough experience to track this down quite yet .
+__label__sadness	page / masterpage / control lifecycle make me cry ☹️
+__label__sadness	this should do it ( it 's not quite a #crd# - liner i be afraid ) :
+__label__sadness	very sad , no way … (
+__label__anger __label__sadness	i be sorry for post so many question , but get this to work have be incredibly painful , even tho testflight make it much easy i figure this have get to do with my apple push notification . i be use my distribution profile across all my setting . my app have be configure to both development and production . what could the cause of this error be ? as a side note , i have be work on this for the entire day , and i get stuck at #crd# thing after the other , esp involve static library and xcode0 . be i really bad at this , or do apple really make it so hard ?
+__label__love __label__joy	by create datastore model that inherit from the expando class i can make my model - entity / instance have dynamic property . that be great ! but what i want be the name of these dynamic property to be determine at runtime . be that possible ? for example , be this possible ? if yes , how to do this ? i have already try some funny way to do this but do not succeed 😛 thanks in advance .
+__label__love __label__joy	upvote for both the answer and the comment . priceless 🙂
+__label__love __label__joy	other 's have post equally viable option , so really pick the #crd# that make the code pretty to you ! 🙂
+__label__love __label__joy	wow , great ! thanks , i do not know this #crd# existed .
+__label__love __label__joy	i get update panel in #crd# page . after a request i want to check which update panel (s) get update . i have read should be good for this 🙂 however , whenever i get a postback in a non-ie browser , the panelid just return null ? it work very fine in ie … here 's a codesnippet : i get updatepanels , both with conditional updatemodes : and any help would be highly appreciate , and i be open for alternative solution which do not involve thanks in advance 🙂
+__label__fear	@delnan i be worried about ! ! and - , not function application .
+__label__fear	hmm i fear i have open a pandora 's box of high math ! i will see if i can understand any of those article …
+__label__fear	as a dev i worry about event log get full and then hit an error when log an error . but i suppose you have to deal with ' logging ' failure with whatever you be log to ( file / db ) .
+__label__fear	@sixlettervariables : no , i be not ask . i be scared of the answer .
+__label__fear	fear ! ! ! ! ! ! ! ! ! ! !
+__label__fear	this be a professional project in academia and i need to use java for it - bc of my own limitation i be afraid !
+__label__fear	@ignacioocampo , i give up after a while i be afraid ☹️
+__label__love	i have textbox for a valid phone : phone_part0 , phone_part0 , phone_part0 , how can i use jquery . validate to validate as a valid phone_number : phone_part0 : number phone_part0 : number phone_part0 : number they both require , and if #crd# of them be not valid , then output #crd# validation message : please input a valid phone number . i be not familiar with jquery . validate , thanks for any help ! ! and if you can do this use mvc datum anotation attribute with client validation , that 's pretty pretty good ! ! thanks
+__label__love	i have get a table with a blob collum . what i want to do be get it to be able to pick out word and list them in order . for example if it contain : bob smith like cheese but love read charlie like chocolate milk charl love manga but also like cookie then i would get like love as a result … be this possible and if so how ? i would like to be able to do it in just mysql alone , but i can use php as well . thanks in advance , kenny
+__label__love	excellent , thankyou !
+__label__love	i be relatively new to angularjs and be love every moment of it ! i have an unordered list of product . when the user hover over them , i need the list element to have an class set on them . i be currently do it this way : and my showdetails be as follow : now , everything be work just fine , however , i be wonder if it be possible to set the class without the ng - repeat and have no variable to bind to ? how should i write my showdetails function to set the class this time ? my #ord# try be : but what do i do in the ng - class attribute ?
+__label__love	great comment ! in my case it do not get large than 0bit , but it be still interesting , what to do if it do ? why should i use " double " in such case ?
+__label__love	for java see this excellent article
+__label__love	how do i pull a single column of datum out of a fill dataset ? i have a fill dataset object , with a variety of table . i need to get all of the datum that be store in a particular column in #crd# of the table , and bind a combobox itemsource to it . ( this may require me to pull the datum out and make it into a string collection .. ) if anyone have any bright idea , it would be very grateful !
+__label__love	i be select datum from a table where #crd# of column match a give search string : but i need to order the result depend on where the match be find , base on a column weighting . i.e. if the match be find in the model column then the row should appear high in the result than if the match be find in the manufacturer column . with the weighting be - model - manufacturer - description . all help hugely appreciate , thanks !
+__label__love	the be a pretty awesome read / reference ! although there be some typo , etc. , it be really extensive and have ton of example . c & c ++ .
+__label__love	excellent , thanks !
+__label__love	excellent job include the fiddle ! i still can not quite understand the question though . could you include the output ?
+__label__love	this will answer your question : good luck !
+__label__love	this be excellent ! thanks dustin , that 's exactly what i be look for !
+__label__love	upvote : serialization can be a pain . this really help me out .
+__label__love	fantastic answer ! thank a ton !
+__label__love	@mludd : excellent !
+__label__love	i find this about wrap string use parens extremely useful , but be there a way in vim to make this happen automatically ? i want to be within a string , type away , and have vim just put parens around my string and wrap it as necessary . for me , this would be a gigantic time saver as i spend so much time just wrap long string manually . thanks in advance . example : i type the follow text : vim automatically do this when i hit column with the string :
+__label__love	thomas becker ( author of the #ord# link above ) have a long article which be excellent : #hlink#
+__label__love	i love the visualization of the race . well do .
+__label__love	get update . not that i be that a java fan , but i be work now with a java team and they do deserve the respect 🙂 see comment by sztupy
+__label__love	thanks . that be a really great pointer !
+__label__love	wow , great site , and people i get in an answer in less then minute ! thanks slaks !
+__label__love	version of contain a debugger . and it work awesome ! it be still in very early stage , but have help me several time . just watch out for bug ! 🙂
+__label__love	i try the new bootstrap package - it be really great ! now i want at least a level navigation and adapt #hlink# in the setup : unfornately the menu be not work correct ( #ord# level entry visible , no flyout ) . i also include the paypal - accessibility - plugin …
+__label__love	great question !
+__label__love	i be use mongomapper and be try to come up with a way to use an abbreviate field name . i want to keep the key as plain english but have the field name store short ( e.g. " name " map to " _ n " ) . i notice a conversation but it ended up close ( ) and i be wonder if anybody have an example of how to accomplish this . i would be extremely grateful for any feedback !
+__label__love	i agree it 's very ugly , but it do work ! well spot .
+__label__love	absolutely beautiful !
+__label__love	this be excellent , thank you !
+__label__love	this project look very promising - thanks !
+__label__love	upvote , excellent link , thanks ( but then anything by celko be bind to be ! -)
+__label__love	excellent , thank you !
+__label__love	excellent question ! i can not figure this out either . please post the answer here if you figure it out .
+__label__love	great thanks fung ! it be especially the " start our debugging session " section that help .
+__label__love	@chrisw . no worry !
+__label__love	and it fit with mvvm. upvote
+__label__love	we could , but that would mean instal wsdl0ruby and so on and so forth . sometimes dog slow be fine 🙂
+__label__love	amazingly extensive answer , thank you ! i learn something today !
+__label__love	to add on to mwigdahl 's excellent post : [ here ] ( #hlink# a link that explain how to achieve fll for g ++ -- this may give you some additional insight .
+__label__love	i see . everything make sense now . thanks a lot for the excellent answer !
+__label__love	i be use llblgen pro with self-servicing . if i want to add some row into my table within a transaction and then update the #ord# row i add , do i have to add that #ord# entity into the transaction object again ? here be a fictional example of what i mean : any advice would be greatly appreciate !
+__label__love	excellent much clean !
+__label__love	thanks to your excellent instruction , i understand enough to figure out what be go on and also what be need ! here 's what i come up with . it 's clunky but it do the job ! thanks again everyone .
+__label__love	i see question about gwt + spring + hibernate integration but none be clear or up to date with the current version ! please if there be anyone who have a clear and simple example of the integration ( form submit and save in db ) i will be extremely thankful ! if you could put the simple project in a zip and upload it ( with its jar it will be great ) thank you !
+__label__love	could not agree more about textpad be an excellent editor ( my personal favourite ) . however , whilst it do search over multiple file ( and very quickly at that ) it do not do search and replace over multiple file .
+__label__love	very nice article !
+__label__love	excellent answer !
+__label__love	i can animate the addition of a uiview to my app , it look very pretty so thank you apple . however , how do i animate the removal of this view from the super view ? i be use : to animate the " in " transition .. how do you animate the " out " transition ? ? ? ?
+__label__love	i be try to open a different ajax modal for each table row click . so i do this : that , however do not work - while this do : if anyone could please point me in the right direction i would be extremely happy 🙂 ) thanks everyone ! 🙂
+__label__love	phpexcel , so you do write that library . excellent ! for now max entry of csv be for a test . maybe i lurk around with it if you introduce how to do that ? thanks
+__label__love	that work excellent ! how can i make my x-axis go long to right so it make the chart big ?
+__label__love	what option be there to pull a gapps user creation date ? i see that the admin sdk be capable of it , be it the only api capable of do this ? do any of the previous #crd# also capable of ? if possible use gas , it will be most excellent , thank you !
+__label__love	jeff atwood say : february #ord# , at am no , weâ$™ve switch to a dedicated task . we definitely outgrow this technique . i do think itâ$™s fine for small site though !
+__label__love	no upvotes ? i will give you the #ord# #crd# ! ! excellent domain issue regard these kind of app !
+__label__love	hey , i be try to further my knowledge of javascript and be wonder if anyone could explain to me what exactly be happen in the script below : most importantly , why be there ' google _ ad _ .. ' at the beginning and what be the purpose of them ? a line by line explanation would be awesome 🙂 thanks for any help . i really appreciate it .
+__label__love	that 's right , i have no plan to replace the exist system , sidecar be an excellent analogy .
+__label__love	i have just get a quick question about some jquery / css placement . i be try to achieve the effect find , but with my css , the placement of the object be totally mess up . i think i have get the idea of the situation , i just can not seem to find a way to get my css to work . anything you have get that can help , i would love to hear it . thanks in advance ! everything i have so far can be find . js : } nothing i do seem to work , and i really hope you can help !
+__label__love	thanks ! give it a try ! it work excellent ! if you can build the url string correctly of course , je
+__label__love	wow , thanks for the answer ! this help a lot .
+__label__love	that 's really an excellent post , thanks for point that out !
+__label__love	i need some drawing in my tableview . how can i do this . any help will be greatly appreciate ! !
+__label__love	excellent idea 🙂 i just add , test it and work like a charm ! thanks
+__label__love	i use git on window with and i be love it ! .
+__label__love	how would i go about use stephen celis ' fantastic sclistener singleton ? ( ) i would like to start with something incredibly simple … like display the input volume in a textview or just display a uiimage when the listener detect something . any help would be greatly appreciate ! thanks !
+__label__love	excellent , thanks ! this be very useful to me .
+__label__love	autohyperlinks ( #hlink# be a pretty excellent library for this purpose .
+__label__love	be there anyway to control the styling of the scrollbars of a div tag ? i be experience some contrast issue between ie0 and firefox . any help would be greatly appreciate !
+__label__love	for a good c compiler use . it be an excellent compiler which a huge device database to select from ! you can use keil to generate a hex file ( in the intel hex file format ) . you can then load the hex file into to simulate your design and see the output !
+__label__love	excellent rickard ! this , together with black panda 's advice help us track it down .
+__label__love	@daniel lee : that be an excellent video ! i have download automapper , but be not sure how to use it on anything more than the simple object mapping . i love how some of the concept show help keep the code dry .
+__label__love	@jon no worry !
+__label__love	i be look to have an embed youtube video with several image below it that correspond to different youtube video . i want to set it up so that when an image be click on , the video above change to whichever video correspond with the click image . an implementation of this can be see here : i be try to implement this into a wordpress site and i really only have skill in html and css. i would very greatly appreciate if someone could help me with the code for this !
+__label__love	excellent -- thanks !
+__label__love	thanks a lot , that 's great !
+__label__love	i have import the datum into an database . patient ( pt_id , pt_name , pt_type , pt_loc ) now , i want to find which of these a primary ( have unique ) value . any way i could find be would return the same value any input would be great 🙂 thanks ! ! !
+__label__love	this work excellently , great job ! 🙂
+__label__love	there be a book call which detail pen and paper drawing and what you can gain from it . i think it have a lot of benefit , particularly that you can , very early on ( and easily ) , modify what the end result will be without much effort , and then start off on the right foot .
+__label__love	excellent point , david . i think in corey 's case , he do not have an access front end so our post be for general knowledge that apply to most access developer .
+__label__love	excellent , thanks for report back !
+__label__love	completely agree , there be excellent answer provided here to this question
+__label__love	upvote excellent explanation !
+__label__love	if you do not mind work at a slightly low level , httplib0 ( ) be an excellent http library that include caching functionality .
+__label__love	@knatten - great idea ! please update the table at the end 🙂
+__label__love	its an excellent place to start !
+__label__love	excellent , thanks !
+__label__love	pretty new to this scene and try to find some documentation to adopt good practice . we be build a fairly large content site which will consist of various medium catalog and i be try to find some comparable datum / architectural model so that we can get a good idea of the approach we should use use a framework we have never make use of before . any insight / help would be greatly appreciate !
+__label__love	excellent , i will try that now , thank you !
+__label__love	on the wordpress repository be a plugin call wp gcm. its a really great #crd# try it out !
+__label__love	just a personal opinion , not an actual answer but … i love those login form ( not page ) which just show up in the center of the page and after you type in your username and password you be log in without ever leave the current page !
+__label__love	excellent - thanks !
+__label__surprise	that 's what i think , that 's why i be surprised
+__label__surprise	could you break this down for me ? this look scary 😮
+__label__anger	i find this great node mysql boilerplate : it work terrific ! however , now i need to hook it in to my exist user table , and my key field be name userid , not simply id , and change the key fieldname in mysql break the example . so my question be , where in the project do i need to specify a different id field name ? i see user . id in / util / auth . js passport . serializeuser and id in passport . deserializeuser function , but it seem it must be specify elsewhere too . i be hope this be a simple question for user of passportjs !
+__label__anger	so , i be try to make a d grapher for a class . right now i be work on understand opengl and i be fail horribly . i want to move the camera , but i can not at all , whatsoever . why do not this work ?
+__label__anger	yeah , it 's definitely annoying !
+__label__anger	this algorithm be terribly inefficient for small sample choose from a large set . pick integer from a #crd# take #crd# #crd# call to rand ( ) instead of .
+__label__anger	ff @ fault ? damn … hate when my buddy fail me .
+__label__anger	anyone ? ? ? i be start to hate vs for that reason !
+__label__anger	i can not get to work a many - to - many relationship use bookshelf . js . model : database table " event " : database table " tag " : database table " events_tags " : query that be not return what it should : the log output : that be : empty array of tag , which be wrong . question : be there an issue with my code ? the desire output should be : this do not help in the question , but i will throw it anyway : i be currently hate all orms in node js ! maybe i should just use a query builder .
+__label__anger	also be aware that as a programming language tex be most awful , the bad language in real use i have come across .
+__label__anger	i have a web page that render the same in ie0 , firefox , and safari - except when print . ie0 appear to allocate too much space for border when print . in the example below , the box height plus border should add up to the same height in the column . i set the border to 0px to exaggerate the problem . i hate css hack , and so far i have be able to create my page without them . any suggestion ?
+__label__anger	be there any way to quickly jump to a scene in a storyboard ? i have about different scene / view controller and it have become incredibly tedious to locate the view controller i be try to edit .
+__label__anger	you can look at openoffice base . i try it out awhile back when it #ord# come out and it seem awfully slow and it do not seem feature complete either . but it be free and open source 😮 )
+__label__anger	i have a file in the form if i try to splot such file , gnuplot intend it as a surface , and the result be very awful ( because the endpoint of a line be close to the endpoint of next line , not to the #ord# point ) . how can i plot them as different line ( as every line be in a different file ) ?
+__label__anger	i be currently have some difficulty try convert a unicode character string ( dt_wstr ) into an int this be what i have ( note most writing be in german , but i think someone who have work with ssis will unterstand anyways ) data type select : a #crd# - byte , unsigned integer . but all it do be fail terribly
+__label__anger	manage url path can be a real pain in asp . net . absolutepath vs relativepath vs etc. drive me crazy . i find that many solution require the user to edit web . config element to include the correct subfolder path ; ex . website root : web . config setting : / website root : web . config setting : / blog / be there a way to properly handle this without have to make change to the web . config ?
+__label__anger	no . i can not seem to be get the module to work . its really pain stake .
+__label__anger	this be #crd# of the shortcoming of dgv that i absolutely hate and why i almost always bind to an ienumerable of an anonymous type .
+__label__anger	whenever i drag - n - drop a store procedure onto my context canvas , the parameter / argument for the store procedure be all nullable . why be this ? be it because of how i have declare my parameter inside the store procudure itself ? besides manually create my store procedure method in the context partial class ( or drag - n - drop onto canvas , cut from autogen 'd code , move to partial class , then remove nullables type ) .. be there any way to fix this ? it 's really frustrating ☹️
+__label__anger	it 's not possible to open the page in full screen without user interaction ( click on a button etc. ) because it would be extremely annoying .
+__label__anger	this be #crd# area of c that the designer get terribly badly wrong !
+__label__anger	i have change the color scheme on sublime text and i really hate the color it change to . so what be the name of the default setting ? because i want to change it back to the standard .
+__label__anger	hmm….vs be tell me this be already a string ? guess it 's lie !
+__label__anger	i work on a desktop app that use ejb and hibernate . we have to set everywhere , because when the object get serialize , they lose their ability to be fetch from the backend . that 's just how it go , unfortunately . if you be concerned with performance , you could use caching on the backend so that your non-lazy fetch be not as painful .
+__label__anger	i get very angry with oracle today after read lot of editable tableview solution involve setoneditcommit , which be just not the right way it should be do . follow be a much good and simple solution i find after dig the javafx source :
+__label__anger	note that this do not use a stringbuilder , so will have horrible performance for very long sequence .
+__label__anger	☹️ this be a well - know css bug in ie0 . afaik the workaround ( it 's horrible , shield your eye ) be to put an iframe underneath your menu so that the iframe obscure the improperly z - index select . it 's so very horrible . but jquery be here to the rescue , as always :
+__label__anger	yes it do it in ie0 as well . very annoying !
+__label__anger	i also fail to get webgl to work on mac osx . really frustrating ! osx mac book pro
+__label__anger	how to set the default proxy for internet explorer in c # . net ? i wan to make a browser capable of search for a valid proxy in a . txt file and use it . the ip and port use with the set default proxy command be valid however , the command itself do absolutely nothing . the only way i have find to use a proxy with a vs0 . net browser be by add it manually to ie which be incredibly useless .
+__label__anger	the follow ( cut down ) code excerpt be a linq - to - entity query that result in sql ( via totracestring ) that be much slow than a hand craft query . be i do anything stupid , or be linq - to - entity just bad at optimize query ? i have a tolist ( ) at the end of the query as i need to execute it before use it to build an xml datum structure ( which be a whole other pain ) . while work on this , i have also have some real problem with date . when i just try to include return date in my data structure , i get internal error " " .
+__label__anger	its a pain in the neck
+__label__anger	that 's not a maintainable solution . most modern code metrics ( readability , simplicity , maintainability ) would conclude it 's a terrible solution .
+__label__anger	i hate be that guy , but this be really not the way to do whatever you aretrying to do
+__label__anger	no ` . vimrc ` come #ord# ☹️ and i really hate to modify plugins …
+__label__anger	the other issue the number of variation in everyone 's sip implementation . solve all of the integration issue would quickly eat up all your time . at $ for ocs that just do not make much sense .
+__label__anger	i abhor debug a ` foreach ` loop . step in , step out . it 's so much easy to just debug a ` for ` loop ;
+__label__anger	i be unable trigger a click on the body tag use jquery , i be use this … even this fail any idea ? !
+__label__anger	i have be have this issue for some time and keep just disable the " script " tab which be really annoying ! i try to click the pause button so it 's flash and refresh , same issue . then , click so it 's not flash and refresh , same issue . i just now click the pause button ( so it be blink ) , then un-clicked it so it be not blink , and then refresh the page and it seem to have fix it . the same page that be break on a script error be no long break on the error .
+__label__anger	everytime i execute my app in debug mode , the execution break inside some class file of an external library that i be use . even though it 's a nullpointerexception , for some reason i can hit resume and continue the execution . in case you be curious , i have put the stacktrace below . my problem though be that i simply want to stop that . it 's extremely annoying and happen every now and then during the execution . but i can not find any setting anywhere which will prevent break inside class file . how do i avoid this ?
+__label__anger	it be really painfull to get all code form tfs whenever you make a build use nant . be there any setting in ccnet . config which will only take the file which be change form last time which can speed up the process .
+__label__anger	probably have something to do with the unbearable bugginess of the telerik radcontrols suite
+__label__anger	terrible approach , xml store datum , not format !
+__label__anger	@carlnorum : that would be extremely annoying , give that the above be well - define c0 …
+__label__anger	hate to have to do this , but it work !
+__label__anger	you could implement it use ` goto` 's ( the horror ! )
+__label__anger	click the zoom ( or pan ) button again , restore it . terribly silly - yes !
+__label__anger	my nslog message no long show up in my debug area . anyone have an idea how the could have happened ? i can hit command- to bring of a list of log in the left pane , select the late #crd# and view it in my editor window , but it be extremely annoying compare to have the console output in the debug area .
+__label__anger	well , this be a bit of an awful hack but quite frankly any c ++ application which need a way to define an unconstructable object be probably already an awful hack ! and under gcc , i get the following : test . cpp : in function â$˜int main ( ) â$™ : test . cpp : : error : can not declare variable â$˜an_instanceâ$™ to be of abstract type â$˜laâ$™ test . cpp : : note : because the follow virtual function be pure within â$˜laâ$™ : test . cpp : : note : virtual void la::oh_no_you_dont ( )
+__label__anger	i absolutely hate that this exist , but there it be :
+__label__anger	this be an absolutely horrid wart in the api , but it 's never go away .
+__label__anger	android camera stuff be extremely frustrating , i understand that . make sure to read through all of the and check out this code below reference from :
+__label__anger	as title , basically i have a user control place inside a page and then the page be place inside the master page . i want to extract a block of javascript and put it back to the page head . when i try to wrap the code inside any block control ( e.g. a div runat server ) and access divid . innertext then asp . net bust off with i do nt want to extract js inside cs file , that s awfully ugly approach ( all sort of escape and people wo nt even notice you have js write unless they drill your cs file ) , what can i do ?
+__label__anger	what exactly be not work ? itâ$™s hard to guess â$¦ you shouldnâ$™t be use erigi to check for a substring : ) itâ$™s deprecated ) use instead . edit : your code scream sql injection !
+__label__anger	that 's not a " jquery onchange " , it 's a " horrible inline onchange " !
+__label__anger	okay i be use the same antlrworks and jdk .. but it do not work for me ☹️ .. its very irritating , i have try everything to make it work !
+__label__anger	when i refactor the follow line : use resharper 's " use object initializer " , i get the follow : i really hate this type of formatting because with long object name and variable it just get out of control . how can i get resharper to do the follow ?
+__label__anger	work with anes be an incredibly frustrating process .
+__label__anger	after instal a lot of app , and build a few myself , i be sure many people have be wonder about this . if i be look through my sd card it look absolutely horrible , and its really hard to find folder that be mine for put music / video / picture in between all the folder for different application . be there any convention here that we , the developer , should try to put their app into #crd# base folder or have google forget about this completely ?
+__label__anger	link be down again .
+__label__anger	i have figure out the solution . what i realize be happen be that the deployment stop work period , not just certain file be not come across . this be absolutely a bug in azure deployment as near as i can figure . i have to drop & recreate my site in the cloud and the deployment continue to work . as a side rant . microsoft make it extremely painful for someone to submit a bug as compare to other software vendor . and they wonder why their market share be shrink .
+__label__anger	use it be painfully easy to access movie from the imdb site : however i see no way to get the picture or thumbnail of the movie cover . suggestion ?
+__label__anger	what a strange website candyundies . com sound disgusting !
+__label__anger	@dennis i edit my answer . i really hate ie !
+__label__anger	i personally only use the ' m ' and the ' p ' . the rest be just zany in my view . it make the code so darn hard to decipher . i do maintenance work on this guy 's code who use semi-hungarian notation type id prefix on every variable , function , and other identifier in the code . he use $ sign liberally to separate word . it be hard to keep the murderous rage in check .
+__label__anger	what be the difference between and similarly and it be really painful when i align the control with and when i try to align in the design mode it add the , how to prevent auto add property to a control while align it , as i already define the to it why it do not update the same property . its really irritating when we want to do animation on control , it reverse the direction of animation
+__label__anger	horrible but linqy !
+__label__anger	i be new to delphi ( be program in it for about month now ) . so far , it 's be an extremely frustrating experience , most of it come from how bad delphi be at handle date and time . maybe i think it 's bad because i do not know how to use tdate and ttime properly , i do not know . here be what be happen on me right now : that 's not the exact code i use , everything be in variable and use in another context , but i think you can see the problem . why be that calculation wrong ? how be i suppose to work around this problem ?
+__label__anger	$ ( ' li:nth - child ( ) , li:nth - child ( ) ' ) .insertafter ( 'ul' ) .wrapall ( '' ) you can not " break a list " . you can either a ) remove it and replace it with #crd# list b ) extract some element to make another list with . the follow be terrible terrible practice , but then again so be what you be ask …
+__label__anger	i have to setup a rail project and rubygems . org be seem to be down . that 's really horrible . can not believe it the whole ruby community have only #crd# single not - so - reliable gem source . what should i do in such case ?
+__label__joy	and on that note , if there be a library out there that do , that will do fine 🙂
+__label__joy	i may have a solution for you : . go into google chrome setting . click advanced setting . click show advanced setting . . under " privacy " click content setting . go to the medium section ( near the bottom ) and click " allow all site to use a plugin on my computer " really hope this help ! if you extra help , check out this for more information .
+__label__joy	right , since you recognize eav , i be suppose you will do fine good luck !
+__label__joy	ah , excellent ! 🙂
+__label__joy	if you only need the count ( like you express in your original question ) , you could do : hope it help !
+__label__joy	great ! i learn a new very useful information about directshow 🙂
+__label__joy	excellent ! do you know that you can answer your own question and accept it as ** the ** answer . this be consider a good practice , because it help people look for answer see that there be an answer and it help them find the answer . if the answer be only in comment , the question will appear unanswered .
+__label__joy	almost everything explain above , hope this too help ! sql server â $ " difference between current_timestamp and getdate ( ) â $ " current_timestamp equivalent in sql server . see this .
+__label__joy	hi there , i be able to set the focus back on the select item after some research on similar issue . all i need to do be , call the begininvoke method on the dispatcher property of the listbox and do the focus set on the selecteditem in the listbox in the delegate method call which be as below : #hlink# ( #hlink# , new focus ( setfocus ) , box ) ; where focus be the delegate and setfocus be the delegate method where i get the select item from the listbox and set focus on the correspond listboxitem . hope this help ! ! regard , sowmi
+__label__joy	this be my own program write in c ++ . it work really great ! i just need to go to the next step and reassemble the tcp packet , i have not a clue where to go next , as there be next to nothing on this out there !
+__label__joy	hopefully this will provide some idea as to how to adapt a timer base approach for your need : if your need be more sophisticated then a tthread base approach may be more appropriate . but whatever you do , do not resort to application . processmessages it will only cause you grief !
+__label__joy	@acidzombie0 : my pleasure ! 🙂
+__label__joy	to get the width of the image you can use this code : you could use this in the document preamble to create a new command to automatically set the width : and then , in your document : i hope this help !
+__label__joy	would you happen to have another column in your table where you can group them as " " , " " , etc ? it would look something like this: st column | #ord# columna | 0b | 0c | d | 0a | 0b | 0c | d | 0if you order it by #ord# column , it will return . but since you have another column , you can do order by st column , #ord# column , and it will be #hlink# ia ofcourse assume that you have a field like st column . but give that you be look at have them order like , there must be something in your other field that can help you achieve that hope this help !
+__label__joy	you can try the ( very ) comprehensive jeff 's or go with this simple workaround : and then declare the attribute as an integer : this work very fine for me ! 😃
+__label__joy	i have no clue if this approach would be feasible or not , but then there be #crd# thing you could try : #hlink# a singleton class where you and the arraylist . the class might look like this : to access the list you could write : be the name of the getter method and before get it set it . else you might get . also a receiver might start before the list be fill . so always check for null before you use #hlink# other option be you store the list in a cache object like check for even in this case in the broadcast receiver before use it . hope that help !
+__label__joy	have a look at . i have try to get my " msn invite contact " function work right now and that 's what i have find this far . work excellent !
+__label__joy	i have exactly the same issue and be extremely interested in whether you find any solution .
+__label__joy	if you read the fb . init documentation , there be some parameter that can be use while define . #crd# of the parameter be which - determine whether xfbml tag use by social plugins be parse , and therefore whether the plugins be render or not . default to false . you say that in case of pure javascript the like plugin work that 's beacause you must have set to . to get your jquery code to work simply define this paramter to true which be false by default - and it shall work . good luck !
+__label__joy	you could go with for free , or something like ( which be excellent ) if you be willing to pay . i hope i have understand your question .
+__label__joy	the follow will mirror your dev db up to production on heroku : heroku rake db:push but what you probably really need ( ed ) to do be run the migration heroku rake db:migrate good luck !
+__label__joy	still use heidisql , it 's excellent !
+__label__joy	no worry just make sure that you have solve it !
+__label__joy	mika tuupola : if you be interested in my modify jeditable ( add #crd# callback event ) , you can . it would be great if you would provide these event in your official version of jeditable ! here be my ( simplify ) integration code . i use the event for more then just for the hover effect . it 's just #crd# usecase .
+__label__joy	wow ! ! the question sound like question for work in the kitchen . i be amazed the name use for the tool 🙂
+__label__joy	i have a long scrolling page , and want to test if an element be 0px from the top , then apply a class elsewhere ( until the next element in line be 0px from the top ) if i could just get the basic statement i would be ecstatic , anything extra would be a bonus !
+__label__joy	i be not familiar with the instance manager , but i have use on several system ( include a remotely host server ) with great success . it support mysql and .
+__label__joy	it 's not a homework , and since there be nowhere on the internet how to solve this , i come up here . @pmr excellent proposal ! 🙂
+__label__joy	i finally work it out - the sql directory need to have a folder name ' rapt_setup ' with the sql inside that ! ? doh ! but as j.s provided so much help i still want him to receive the answer point 🙂
+__label__joy	so i find this . if you do a " ctrl + o " it bring up a small window call the quick outline . in this i can use wildcard ( *) while search which be extremely useful !
+__label__joy	yes , you need #crd# view controller . check out lesson from stanfords cs0p iphone application programming course . it be available online . both slide and the lecture through itunes u. i really enjoy watch the course !
+__label__joy	i recently start read about coffeescript and it look absolutely amazing ! however i can not seem to figure out if there 's an easy way to access / use external javascript apis . i use openlayers extensively so could someone show me how the follow snippet would be write in coffeescript ?
+__label__love __label__anger	i be try to do a contentinset on an nsscrollview the same way as io in a uiscrollview . there be no method to do this though . be there anyway to achieve this ? this picture should describe what i be try to do : if anyone know of a solution i would absolutely love to hear ! ! it 's drive me nut

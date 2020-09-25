@@ -1,0 +1,154 @@
+"I am sorry for the delay in responding. If you think the new patch is read for commit can you check patch available and it will get back on the radar. Is derbyall clean as well l? I am not seeing the original path anymore. For future reference, I think it is good in general to keep the old ones there to see what's changed. Thank you so much for all your work on Derby!"
+"I opened [HADOOP-3607] to fix a wrong URL, but appart from that I don't there's still references to the old structure."
+"I was in too much of a hurry, sorry hold on a sec."
+"Strange things going on. With Google Chrome, uploading patch files corrupts the file. With MSIE it worked. Sorry for the noise. Yesterday it worked normally..."
+"Sorry Ivan, attach a new patch with --no-prefix."
+"Sorry, I was wrong about needing to fix Gump - that just needs the build.xml patch to remove the copy of the files in lib."
+The patch here seems to be attached to a wrong jira. Sorry about the confusion. I have re-attached the path here.
+"Sorry, I'd accidentally deleted the --disable-eventfd from my compilation script."
+"Sorry Jacques, I'll upload another file."
+"no, sorry - priorities have been shifted around..."
+"Secondly reading this code I can see why this bug is happening, after completing stage 2 above when adding the new item the code does ""ordered - cancelled = quantity"" which equates to ""1 - 1 = 0""."
+"Oops, my bad, sorry. I indeed did not 'svn add' the new classes since I don't have write access to the repository anyway. But this way 'svn diff' goes wrong, of course. I will submit a new patch on Monday when I'm back at my working machine. I'm really sorry for the incovencience!"
+"Thx for the confirmation, vm will be created along with dns etc. hopefully later this week. sorry for the need to be a bit formal. rgds jan I."
+"If you know of a way, please describe it."
+"Sorry for the delay, I'm recreating the mirror now."
+"Ah, sorry I misunderstood you."
+"<pctony> Herbert, sorry we cannot do this. The scope of the blemlist AIUI is at the SVN repo level - and we run a single repo for all the ASF projects. However buildbot works at the per-project level. Short of perhaps re-writing all of our buildbot mechanisms from the SVN master this is not do-able. Sorry."
+"Yes, sorry."
+"Sorry, I was trying to get to the wiki but it's been a busy week."
+Sorry for letting you guys wait.
+Sorry that I think I missed some discussion in the mailing list. The implementation and test and BreakIterator is attached.
+I wasn't able to reproduce the problem with the attachments. I saw appropriate error messages; line numbers; etc. However; line number information was missing for the testcase idkeyerr10; so I've committed a patch which remedies this.
+"Thanks for the report, and sorry its taken so long to fix it."
+Sorry; I hit close by accident.
+Fixed the bug description - sorry for the noise
+I found the (sad) attempt at a script you asked about and uploaded it to MAPREDUCE-4282.
+"Sorry, I was not able to create one diff-file, so I added for every build.xml an own diff."
+I'm sorry.
+"Yes it is a dup, thanks Mike for taking care of this (I planned to do this yesterday but didn't make it)"
+sorry :)
+Sorry.
+"Sorry, you're right."
+"I haven't had any time to try re-upgrading after having to back out 2.0.8, but I will be sure to let you know how it works out as soon as I get the opportunity."
+"Hi Lars, sorry about the delay in responding. Good point about the TreeMap always returning result in a deterministic ordering. The patch itself I think is still beneficial because it removes a little bit of redundancy in the existing equality code. IMO, the fix makes it easier to understand as well. In addition, the tests are beneficial since we were missing coverage there. I think it'd be better if the fix were in sooner, but it's probably not an issue if we moved it to 0.94.7."
+"Running tests on this. Will commit once it is done. Sorry, this one fell off my radar..."
+I missed the context.
+"Tim, The fix is good. Please close this JIRA. Thanks a lot."
+Patch looks good. +1
+Thanks!
+Looks good. Thanks George.
++1 patch looks good.
+"Thanks, Sanjay!"
+"Wow, thanks Raghu, that's awesome and will save me a ton of time."
+> - FOUserAgent.getStream() is cool and very easy to use (now that it's properly > documented).
+"Cool, will do! Thanks for the review and good questions... and the whole idea! :)"
+"Xueqiang, I just committed your latest patch. Keep up the good work! http://svn.apache.org/viewvc?rev=803128&view=rev"
+It is good to have the test.
+"Ok cool, this is just a matter of adding strings to the various [NotFound()|https://github.com/apache/mesos/blob/0.15.0-rc4/src/files/files.cpp#L160] returns in files.cpp There are a number of error cases in the [browse|https://github.com/apache/mesos/blob/0.15.0-rc4/src/files/files.cpp#L204] and [read|https://github.com/apache/mesos/blob/0.15.0-rc4/src/files/files.cpp#L204] endpoints, I'd imagine one could change the javascript to generate bad requests which should be sufficient to test this :)"
++1 on intent from looking at what the patch fixes.
+Thanks for moving so quickly on this guys.
+Looks like this is fixed :)
+"Thanks, Dhruba!"
+cool man it looks good. we need a changes entry but from my side this looks good. we can tackle the todos on trunk
+Cool. Thanks for considering my bug report!
+Cool cool - thanks stack!
+I'll be happy to edit the wiki when I get this resolved!
+bq. OK w/ the latest patch all tests pass for me! Great Awesome! :)
+Awesome! This tool is cool.
+What is convenient for the user to download two archives to run the project (or install maven)?
+"Thirdly, the scenario you present in which someone copies a subset of their 3.5 schema would only error if that person ALSO chose to omit the defaultSearchField declaration -- but why would they do that?"
+This is pretty embarassing!
+Currently the user passwords are too insecure.
+I'm confused.
+{quote}You are messing down deep below hbase in dfs.
+"Of course, it could... :-) DOH!"
+My bad.
+Stupid Maven
+This whole thing is very distressing to me.
+I'm not entering bogus reports for the hell of it ;) Matt
+"Django is a fullstack framework, Click is not."
+My bad.
+"Well, that sucks."
+"Hell, this is gonna take me a lot of work to raise."
+Bad memory.
+Hudson is stuck.
+Weird.
+"They don't vote, they whine that something (or everything) sucks."
+That's weird.
+"Ah, that was my bad."
+Seeking back is pretty inefficient in DFS.
+That's my bad.
+"durrrh, that sucks."
+Ok. Stupid user Error here.
+"A feature with wrong functionality is as bad as, if not worse than, a bad performance."
+"Holy hell, I think I found one problem with turning a bignum into anything else."
+"No, it's not off the table, but it's moot unless we decide we want cqlsh in-tree at all."
+"Turning off hints is basically intended as a ""oh shit, something is broken with hints, let's turn it off"" switch."
+I don't care what we do as long as we don't change the attributes in JSP significantly.
+This sucks *so much*...
+Applied the patch into trunk with thanks to Luca after minor refactoring.
+"Thanks for the reviews, guys!"
+Committed to trunk. Thanks Edward.
+"Integrated to 0.94 and trunk. Thanks for the patch, Anoop. Thanks for the review, Stack."
+"Please apply this patch file. Cheers, Kaushalye"
+"Thanks, Jing!"
+"Thanks, Sravya!"
+"Thanks, Amar!"
+"Committed to trunk. Thanks, Enis!"
+Thanks for the clarification. I will reintroduce separate data structure for LEADING/FOLLOWING notifications.
+the code has been checked in. Thanks to Gordon for that.
+"Hi Sascha, There is an overlap with OFBIZ-3843, could you please check? Thanks"
+Would you please try the patch? Thanks very much!
+":) Best regards, Fabian."
+"I just committed this. Thanks, Raghu!"
+This looks like a fine approach to me. Thanks for putting the patch together. +1.
+"Hi Charles, thanks for the confirmation... We will chat with Willem, I'm off today but will work for a couple of days this week... Sergey"
+I want to integrate the sweet sweet logo Andrew crafted.
+"I have committed this. Thanks, Michele!"
+Committed to trunk. Thanks Johnny!
+Thanks for testing; Shinobu. Probably a misconfiguration. Chris; try asking on the user list if this problem persists.
+"I would love it in 3.3.2, will upload a patch for that version."
+Applied. Thanks!
+Thanks Zheng!
+thanks again Uwe
+Please try this patch. Thanks a lot!
+"Thanks again for this really great patch, Andrew."
+"Thanks, applied OK."
+"Thanks for applying the images. Please check and apply the patch I've submitted to FOR-1008 [1]. Since the changes required to resolve this issue involves files modified there, it has to be applied first. [1] https://issues.apache.org/jira/secure/attachment/12363540/valid_xdoc.patch"
+"I have committed this. Thanks, CW!"
+"I just committed this. Thanks for the reviews, Doug. (BTW the last patch didn't include the removal of lang/java/mapred/src/main/java/org/apache/hadoop/io/SequenceFileBase.java, so I did that manually when I committed.)"
+"Committed, thanks!"
+"Thanks for catching this, I have fixed it."
+"+1 Jihoon, Thank you for your contribution. Sergio, Thank you for your review."
+I just committed this. Thanks Mahadev!
+"Thanks Scott, I have committed your last work in svn with rev. 7876"
+The v4 changes look good. Thanks
+That fixes my testcase. Thank you!
+"Hi [~wikimore], [~michaelstockton], or any other Ruby user: I'd really like to commit that, but I need someone of you to review and confirm before. So if you want this being part of the next release .... thank you!"
+"Hi DIGY, I like to know a bit more about this patch: 1) what test case is it fixing? 2) how did you determine the race condition? The changes to the ThreadClass is considerable and I'm trying to understand why this wasn't a problem in earlier versions. Thanks. -- George"
+"I just committed this. Thanks, Tom!"
+"Committed @revision 1440266 in trunk Thanks Lufeng, if and when you get around to the patch for 2.x I can review. The patches for tests are very welcome in Nutch. Thank you."
+"bq. Though, pig itself compiled fine and is ready to go, the contrib projects (owl,zebra,piggybank/hiverc) didnt compile, I think because either it didn't download dependices of those projects or didn't include them in the build path. Ashutosh, yes. I did realize it and as you rightly guessed, it is because the ivy-dependency list doesn't have some jars that are actually being used by contrib packages. This is not an issue related to eclipse-classpath. However, there has to be a JIRA opened to solve this issue of downloading the missing jars by ivy. Can you please file a JIRA for this? Thanks"
+Applied. Thanks Simon!
+"Thanks Radim, I put this into trunk, branch-2, and branch-0.23"
+Thanks a lot!
+I've just committed this. Thanks Eli!
+"Committed to trunk. Thanks, Francis!"
+Patch committed to trunk. Thanks Niraj.
+Applied patch with thanks to William.
+Thanks for providing this update. WIll try to take a look at this sometime this week.
+"Hi Hairong, the speedups you measured with this patch are very impressive. It would be great to have it included in the system. The patch still applied successfully to current trunk when I tried it. So can you please go ahead and ""submit patch"" so we see how it does with test-patch? And I'll review it, and try to get someone else to also. Thanks!"
+Thanks Alex. It looks like a good path to solve this issue.
+"Hi, Gianmarco, Thanks for your concern. Actually we need one additional step to make bin/pig work. We shall copy $PIG_HOME/build/pig-0.8.0-dev.jar to $PIG_HOME/pig-0.8.0-core.jar. This will be handled in ant's ""package"" target when releasing. But if you check out from svn, we will do this additional step to work with bin/pig."
+Thanks Tom!
+"Otherwise, hopefully someone else will improve this code when they've got some time."
+"Yes, I just tried it and this change works when the user's classpath variable is unset. I've just committed this. Thanks Michael!"
+"Thanks a ton for your review, Todd. Here's an updated patch which addresses all of your comments except the following. bq. In EditLogFileInputStream, why do we need to pass isInProgress as a boolean? If it's in-progress, that means we don't know the lastTxId, so it would be INVALID_TXID, right? So we can implement isInProgress() by just comparing lastTxId. Because in the case of pre-transactional ELFIS, we pass in INVALID_TXID, even though the log is not yet in progress. I'm still working on producing an updated patch which also adds testing for the pending DN message queues."
+Thanks to Fabrizio for the patch.
+Looks good; the other services had the type hinting too; so this was indeed an erroneous situation. Applied & Committed; thanks!
+Good catch! Thanks for the thorough explanation and suggestions. I think it all makes sense. Will work on a patch.
+"Code looks good to me, patch's been committed, thanks! Awesome to now be able both the 0.8 and 0.9 messaging API through the same interface, this is going to save us a lot of headaches :)"
++1! Thanks! I also ran with mvn clean install and it looks good.
+"Looks great, thanks Tinny!"
+"The patch looks good, and so do the tests. Thanks. My only question is why were the following lines added to setup? {code} conf.set(YarnConfiguration.NM_LOCAL_DIRS, ""file:///bin/echo""); conf.set(YarnConfiguration.NM_LOG_DIRS, ""file:///dev/null""); {code} The test seems to pass just fine without them, and I did not understand their need."

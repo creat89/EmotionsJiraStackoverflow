@@ -1,0 +1,227 @@
+"Can somebody point me to a resource that explains how to go about having 2+ IIS web server clustered (or Webfarm not sure what its called) ? All I need is something basic, an overview how and where to start. Can't seem to find anything..."
+"I store ranges in MySQL DB, but a lot of queries to MySQL for getting provider name - it's terrible :("
+I'm afraid you can't!! Weka is not covering that functionality.
+"I'm very sorry about my horrible English! only for this example I use radio button, I'm considering using textbox too"
+:( :( :( :( :( :(
+"Since I am completely useless at regex and this has been bugging me for the past half an hour, I think I'll post this up here as it's probably quite simple. In PHP I need to extract what's between the tags example:"
+"Unfortunately some projects require hundreds of images for CSS, general site images and flash then there can be hundreds of PDF's, Docs which are needed for the site. Including them can mean it takes ages to load a project and sync it. If your unlucky enough to use VSS then this is far more painful."
+@Bukes: That's disgraceful :(
+"Now I think it is not possible in c++ (without explicitly qualifying the namespace), it's so sad :("
+"Here is my PHP code.. ..I'm extremely crappy with my JavaScript code, could someone help me convert this? I basically want to convert a variable such as ""marine-heavy"" to ""Marine (heavy)""."
+"OK, then, no solution that going DB mysql... so sad ! :-( i will close the question !"
+"Sorry, I wasn't clear. You would need to add that as a BOOL property on your class. It originally sounded as if you had a single place that handled the notifications and displayed the errors."
+@btevfik..thats very sad:(
+"Why is powerbuilder community so small? If I have asked anything about JQuery/.NET/PHP, there would have been at least 2-3 answers by now :-("
+"After looking at the answers below, I am very sad that this is an example of backwards progress for SSRS."
+"I don't want this to be the answer, (sob)!"
+I really hope you can help because I have been pulling my hair out on this one all day! We are in the process of developing an estate agency website and as part of this I am looking to develop a cluster map for the homepage which will have links to all of the properties. I have got the map geocoding a couple of dummy locations from the addresses that I added but when I have added the code to create a cluster it does not appear to be working. I am starting to think I have not added enough locations for this to click in but the demo's I have seen around have as little as 2 markers. Below is my code so far: I would really appreciate if you could test and any help or suggestions! Thanks in advance!
+Not to worry I've SOLVED it!
+that's great :)
+"is in so u need not to worry! Internally the data is always stored as TEXT, so even if you create table with , SQLite is going to follow the rules of data type"
+"I have the following code for searching multiple keywords within a document title which works fine. I want now to have a column that shows the number of keywords that are found in each title row and order in a descendent way. For example if I'm searching for ""Maternity leave"" I should get something like this: Name -- Keywords found Maternity Leave policy -- 2 Annual leave policy -- 1 Maternity advice for mothers-to-be -- 1 Hope it makes sense, Many thanks!"
+"We have eclipse manage things the way it wants, and use ant4eclipse (a set of ant tasks) for continuous builds. Works great!"
+"You should really take a look at sprox ( ). It builds on RESTController, is very straight forward, well documented (imo), generates forms and validation ""magically"" from your database and leaves you with a minimum of code to write. I really enjoy working with it. Hope that helps you :)"
+Excellent point! :)
+Excellent I was not aware of this!
+Great! Good to hear it. Can you please accept my answer? :)
+"Then perhaps Might be of some help. If need be you could always do the registry editing yourself via API directly for the association... but up to you EDIT: Also read the comments there, some good points eg the use of quotes for paths with spaces: @""C:\SomePath\MyApp.exe """"%1"""""" Also permission issues for registry access esp with Vista... good luck :)"
+"Before you go that route, have you seen this: It's a series of articles about writing Effects (supported in .NET 3.5SP1) as fragment shaders that run on your GPU... Pretty neat stuff!"
+"To convert raster images to vectorial images, I found (free) to do an excellent job (comparable to VectorMagic, which is not free anymore by the way). In Inkscape, import your image and use the Path/Trace Bitmap function. It has a lot of control. Once you converted to a vectorial image, save it as a SVG. Then, using , you can convert to XAML vector data. (Path & Canvas)"
+"Here is an excellent article that might help: CodinghorrorGenerally I would say: Put restrictive chmod rules salt, salt, salt !"
+"Few things to make this work :Your classname FILE should start with a capital letter, Your config array must be defined as $config = array() (and not $var or any other name), Your config file must be lowercase.The config file is passed through the constructor, so class ($config=array()), you can then access and store the config variables on an instance variable. hope it helps: config file : good luck :)"
+"I don't think there are any mature components too (for what I saw). You can use some dedicated DHTML components, like . We use it a lot in our project for our customers, and it's really great !"
+"Is there a shorthand for a new line character in Scala? In Java (on Windows) I usually just use ""\n"", but that doesn't seem to work in Scala - specifically outputs in Eclipse, (sic) from the command line, and from the REPL (GREAT SUCCESS!) works, but is there anything shorter?"
+"There is another way... As the WPF application is coded with the .NET framework, it is compiled to MSIL (Microsoft Intermediate Language). This means you can use a decompiler such as ILSpy to decompile and view the code of BaronReplays. This will give you some idea of how BaronReplays works so you can implement the same ideas into your own code project...Hope this helped!Rodit"
+Excellent! You should document that as an answer and accept it so many more people can solve this with a google search on 'single line of text' :)
+"Rebol (600 Ko only) is based on antigrain geometry library which is Opensource It seems really great, can OpenGL do better ?"
+"Yes, it's possible, juste remove the second parameter of your method (it's totally useless) ans it will work (I tested the code) !"
+"Great question! I also find myself a little lost in WPF because of the amount of flexibility it offers and have been looking for guidance in how to choose fonts, layout, spacing, colors, etc. I've had a hard time finding books or websites to improve my UI design skills, so I hope we find great answers here!"
+"I would recommend 2 things: - Calculate and combine polygons that are touching. This involves a LOT of processing and hard math, but I've done it so I know it's possible. - Create your own overlay instead of using KML in PNG format, while you combine them in the previous suggestion. You'll have to create a LOT of PNGs but it is blazing fast on the client. Good luck :)"
+"With what little I know, I'd recommend looking at http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours (it uses Parsec etc.) but I'm not leaving it as an answer because it's quite possibly a terrible one. Hopefully someone who knows better will answer (and then I'll delete this comment)."
+"My SPD doesn't reformat my code when I edit master pages. While I don't know why your does, rejoice that there is an answer"
+"I'm in no way supporting MPMoviePlayerController, but it does have a property for ""initialPlaybackTime"". Depending on your need, this combined with the Play/Finished notifications and a timer/thread can provide some degree of additional control. It ain't pretty though! :)"
+"Text to html and WYSIWYmG are really different things. A real time preview is cool feature... i've seen a great example somewhere :) hmm :))) here, at stackoverflow!"
+"@PeterGrantBue: I'm happy that my solution suits your needs. :-) Please, accept my answer if it really helped you out. Good luck with your game! ;-)"
+"@CodemonkeyKing, no worries! =D"
+Have you tried: I've also seen samples that in the markup for the media display layout file they specify an element such as: Good Luck!
+"I personally use for my company and have had great luck with it! Edit oops, I didn't notice the SVN requirement, BaseCamp can help with the other stuff."
+No worries! How do I determine the difference between template or class?
+"Old question, I know, but I found it while searching for a similar answer. Unless the API has changed, the reason why harpo's answer isn't working is because is an instance method, not a static method. But fear not--there's an instance of present in each instance of --the property. So in your case, if you're within a controller (or, I suspect, a view): That should do the trick!"
+"Is there anywhere I can download a SWF fo sIFR 3 of the Rockwell font (like the one that comes with sIFR 3), but with a bunch of special characters embedded too? Specifically the pound sign (Â£), but more would be great :) I don't have access to Flash right now and I've tried the automatic tools but with little success. I've looked everywhere, does anyone have any pointers? Many thanks!"
+"@DaveBish, What an excellent tool! I will be using this ALOT in future! :-)"
+"Excellent, Thanks!"
+"This is really great, worked a treat thanks"
+I always seem to use Get when working with data (strongly typed or otherwise) from the database and I have never really needed to use Fill although I just as easily could use Fill instead of get when pulling out and updating data. Can anyone provide guidance as to the implications and gotchas of each method? In what situations is it preferable to use one or the other? Any performance implications? Thanks in advance for the answers! I love this community!
+"I'm currently working on a responsive multi-level menu which currently shows every level of the hierarchy instead of only the first, which is what I want to achieve. I've created a fiddle, which can be found here: Here's the relevant Code: CSS: And also my JS: If someone could lead me in the right direction, I'd be really greatful! Thanks!"
+@ergosys Thanks that was extremely helpful!! Somewhat related to what I asked... I'll have a try on that tomorrow :D
+"Excellent news, good stuff!"
+Love this solution!
+The WPF SDK Team posted a EXCELLENT article about chromeless windows available here: This is a MUST read!!! UPDATED Also found article by Lester Lebo on how to use the WPF Shell Integration Library for a custom window chrome
+"I know there is a lot of information out there on this but I've searched and searched and still have not found the help that I need. Essentially I'm trying to fill the entire browser window with a background image that scales itself and retains it's aspect ratio automatically at any size so that it can be viewed on any device. Here is an excellent example of what I am trying to achieve: The background image, when sized to 320x480 then stretched from 480 to 640 expands itself to the right! If anyone out there can shed some light on how this is achieved via css I would greatly appreciate it!"
+"I am making an isometric game on the iPhone, and need a little help. What is the best way to go about calculating the path a object must take if it is thrown from one tile to another? I've been looking into using NSBezierPaths, but can't quite work out how to use them for the objects path? Any help would be greatly appreciated!"
+Check out Bruce Dunwiddie's excellent class. It provides really excellent information in the exception messages when you have this kind of mapping issue.
+I just followed your excellent recommendation --- thanks! :-)
+"The best resource I've found about web security with ASP.NET is the below, written by Troy Hunt: Absolutely priceless! He even made an ebook out of it that you can download as a pdf:"
+"This is incredibly useful, thank you!"
+"i really love the jquery validation plugins, look neat stylish and accessible, but as you know JavaScript can be turned off and boom your user can enter what ever he wants, therefore you should validate on server too, so what is the best approach here ? do double validation one with jquery and one on server side or is there a better solid secure way ?"
+Jeo Clecko's SQL for smarties is excellent.
+"Hi Barney, I think @EdMorton 's answer is pretty pretty more powerful than my comment!"
+^^ By the way - best of luck! I'm not there yet. Will be ready to launch soon though...
+totally awesome
+"Try . It's free, it has very good , excellent where you can see all the features in action. It has all functions you want and many more."
+Excellent point! Thanks!! I did mean just the left side though.. (I should have specified that). Was glad to learn your insight though..
++1 excellent question
+"I'd really love the surrounding content to ""scroll"" up/down in like when using Scroll - but would also love the appropriate div to ""fade"" in."
+"Excellent suggestion Aleksey! This seems to be a common need, so perhaps the Scala gods might consider adding this to Map"
+"I need to transform this : into this : I tried to use wrapAll with jquery, something like that : Any suggestions would be really appreciated :) Thank you very much !"
+"There's 2 parts to this question, both about RestKit: How can we post up 2 values email and password, and deal with the response using the object mapper How can we map 2 objects in a response We are expecting the following JSON response: What's the correct way to map this out, we've got a class setup for User and Token, but all the examples i've seen seem to not show something like this where there is two segments to the response, here's the code we have at the moment: Appreciate any help you can give on this, loving RestKit so far!"
+NicoGranelli mentioned Nancy(). It's really great! Plz check this project JabbR() It's a chat involving SignalR and Nancy. Great Job!
+"Hey Jon... just now (after reading the question and answers) I saw that it was you that asked the question. 4 years later I'm here looking for exactly the same thing! StackOverflow is really amazing... By the way: I just love the badge ""Works on my machine"" you have in your profile... I think I'll borrow this! :D"
+great question!
+"Excellent resource, thank you!!"
+@user3083131 no worries!
+yeah it working fine :) Thanks !!
+There's an excellent guide over on the Android Training site: It's about efficient loading of bitmap images - highly recommended!
+"thank you, i just want to be loved :-)"
+excellent in my case use the following code Thanks!!
+"No worries, I know how annoying this stuff can be!"
+"+1. Great question! Now, I have no clue about the answer, but I'll stay tuned."
+"*I really love your project, It is really amazing!* Are you directly asking to BalusC?"
+"Thank you, the first example was extremely helpful and I now have it working, thanks!"
+"This is great, thanks for the tip!"
+This is great! Thanks +1
+"I really enjoy programming in Mathematica, and hence was looking for solutions in it."
+Awesome -- this approach will work! Thanks! BTW -- I've followed your blog for quite some time! Thanks!
+"Hi I have designed a query that returns a set of data such as: What I want to do in SQL Reporting Services is to display data in a grid fashion. Such as For the dataset I provide. I want it to auto page break when needed, etc. Is there anything built in that I can use? Any recommendations on how to do this is greatly appreicated! Thanks."
+"@MarcinJuraszek: that's an excellent idea, thanks! just implemented it, however should I create an index for the 'rand' column? If I do, data infile takes ages to load the file. If I don't, I get no results when I add: `ORDER BY sb.rand ASC`. Any thoughts as well? @SomeSillyName: thankfully, these tables are temporary, so there are no row deletions."
+"is there anyway to have two TextView in one AutoCompleteTextView result? e.g. And so on... The ArrayAdapter only allows one binding for a view so how could I bind more views in the adapter? Like so: I've created a new xml layout for the layout parameter in the ArrayAdapter except when I bind the TextView to the string array, it only sets the text to the TextView with the given id. I've also searched through the other posts about this one and it did not suit my needs. If anyone could help that would be absolutely great :) Thank you."
+"for flow control Steven; the question seems to be about whether this pattern should be used, which seems to be rather subjective based on the answers, but it's an excellent question for thought."
+that is simply awesome :-)
+"The (NLTK) is an excellent resource if you're considering Python as a language. It incorporates lots of the stuff you'd expect in a text processing/NLP environment like parsers, stemmers and part-of-speech tagging. Documentation on it is pretty good too. As for datasets, NLTK comes with a variety of for experimenting with. Hope it helps, B."
+this one is great!
+Great question bud!
+"Excellent, this works perfectly! Thank you :)"
+Thanks for the tips! Loving StackOverflow!
+"I am trying to create a plot of several data series that are contained in a pandas DataFrame. Let's use as an example: This code produces a simple line chart with two different data series: However, if I try and create this same plot in a PyQt widget using , I only get a single line. My code for the second example is a little more involved: When I run this code, the output looks like this: If anyone can shed any light on this, it would be hugely appreciated! Thanks."
+"The previous solution is really great! However, I'm looking for one more feature: is it possible to eager load last subordinate record before a specific date? This is needed so that my users can browse a history a song's votes (with links to previous and next days)."
+"Good morning ! Is there any way to pre compile stored procedures in SQL Server? My requirement goes like this.. I have some stored procedures, which take more time in compiling than executing. So I want to precompile all the stored procedures. It would be nice to precompile them when the db server is started and running. Any ideas on this would be greatly helpful! Thanks & Regards, Pavan."
+Gosh ! you're right !!! Excellent !!!! Is there a way to expand it programatically ? I added .setOngoing(true) (to the top) but it's not expanded... (not really the top because the first one is a notification when I'm plugged to USB for tools developpement ). Thank you again my friend !
+Wow that was exactly what I wanted! So the second solution I showed is somewhat similar to what he's describing but he describes also extremely elegant triggers that would keep all the data fully sane without any external code sanitization! I think I will go with that design!
+I've always really loved slice assignment:
+Thanks Nat. The external data is large (external search results) so it's not possible to keep it as a new list. We're a SharePoint plugin so I can't guarantee that the BDC will be available at all installations. I guess I'm kind of out of luck with your suggestions but I appreciate the answer!
+"I have a slider built into my web page thats dimensions and ratio alter for different screen sizes, I need the images that I place within this slider to also alter for the same purpose. The code that I have does't seem to be working, I'm a bit of a newbie to jQuery and have pieced it together myself but I think that its essentially quite close to being functionalâ€¦ Any help would be hugely appreciated! M"
+The Java profiler is an excellent commercial solution. You can find further information in the docs on and .
+@Jatin Can you make an answer. The link is pretty fine!!! I just need such things
+I'm adding the Roles provider to the built in AccountModel but having some problems adding GetAllRoles in my view using the Register View Model. View Model from AccountModel Roles Service added to AccountModel Register View Page Inherits RegisterModel I'm not sure how to populate the DropDown list with all the Roles from the View Model. Any help would be really great!!
+#ERROR!
+"I am wondering.. is tree view/navigation possible to do (and somewhat easily) in XForms given a XML data structure? If it is possible, where can I find a really excellent example (code and hopefully a working form to view)? Also, are there any tips you have for implementing this? (I'm new to XForms, and only know the basics so far) Thanks so much!"
+"Thanks djuth, this works great and is very simple! I have to admit it is pretty limiting though, for example, I would love to have it autocomplete a staff name and then return a staffID but I can probably play around with what's added and parsed."
+"@NathanSmith Great success! If you submit that as an answer instead of a comment, I'll accept it!"
+"Kudos, great question!"
+Thanks for posting this Rob! Excellent work (saved me a month of R&D)!
+thank you so much as long you replace char(0) with 0 in the above this works great!
+"I second FlashDevelop. You don't get the visual design stuff for the MXML, but for the code (both MXML and AS) it's excellent."
+excellent - thanks everyone!
+Excellent question.
+Awesome!! Thanks :)
+@BrianGlaz : Really great answer!
+"Well, not free. But we have had very good results with Nevron. Their support is excellent as well. Another good option is TeeCharts."
+"Excellent, thanks for that!"
+"Loved all 3 responses! I picked Gordon's because it allowed me to do an outer join and ignore rows that had an additional filtering parameter (I didn't ask for this but I was able to implement that later). JBrooks solution was great because it had a smaller footprint and allowed me to leverage functions, and shree's one was a little too verbose for my bigger project but still did exactly what I needed. Thank you all!"
+Has anyone ever made a sharepoint lookup column that allows fill inn choices and does writeback to the list it does lookup from? what would it take to make such a column? If a 3.rd party solution is arround that would be realy great to :) Cheers!
+You can use Mercurial on Google code now. I never tried git before but I'm loving Mercurial.
+"That answer was extremely helpful Scott, thanks for the pointer on that!"
+"It may be worth taking a look at , it's a generic collection library for .NET which includes sets. Note that I haven't looked into it much, but it seems to be a pretty fantastic collection library."
+Thanks for the excellent link!
+thanks for the great tip! I was really thinking of this because this is the only file that change per environment
+@KunalK: excellent ! worked for me . If you put this as answer then I can accept it . And it will helpful in future .
+"Basically I am looking for the guidelines for How to approach on hard ware sizing for a given requirements.what are the parameters need to consider to arrive at sizing decisons. It will be really great if any body can help on identifing sizing details for appserver, webserver,database etc..Please"
+"You can do it with BUT, you should look into jQuery, an excellent Javascript library which makes it really easy to do that plus a LOT more! It's worth the small learning curve, trust me."
+"I've used the ExprTk library in the past, it's easy to use and fast in evaluation. http://www.partow.net/programming/exprtk/index.html"
+"is hugely useful :) I'm sure it could be improved a bit further with computing the name of the directory once and re-using it, but this is nicer-enough that I'm fine stopping here. :)"
+"I found an excellent tutorial on how to create site columns and content types - here : (THANKS AGAIN ROB!) Does anyone know of a written or video tutorial that will explain how to create a list and list instance in MOSS 2007. I use WSP Builder, and the build in templates from Microsoft aren't compatible (or up to the task). Preferably a method that focuses on the CAML (xml) , and explains in detail the theory, and demonstrates how it is done. Thank you."
+"This is a really great DBGrid ! Just give it a try, you will not regret it."
+"@PaulMougel,Thanks Super Great! it works! I added it (res.end()) habitually and have never thought it might could be the reason. Happy New Year. Thank again you so much."
+Never knew about VS macros. It's awesome!!! Just what I need in a couple scenarios. Thanks a lot
+"@ajreal no worries, I think I managed to fix it!"
+"We are working in real estate project, there we have image and video uploads in many places. We are started with in few places, But now we found an issue that it does not work if the flash player not installed in the browser. Its working only after installed the flash player in browser. This is really worrying. We should not force user to install flash player to upload images/video. How to handle this issue?"
+I have hit this too. No solution as yet. This is very worrying though!
+Is this valid ? what I'm really worried about is can you specify type and also use def at the same time?
+I running an exe from a .NET app and trying to redirect standard out to a streamreader. The problem is that when I do myprocess.exe >> out.txt out.txt is close to 14mb. When I do the command line version it is very fast but when I run the process from my csharp app it is excruciatingly slow because I believe the default streamreader flushes every 4096 bytes. Is there a way to change the default stream reader for the Process object?
+I was afraid of that!
+_Automagically_ appending data to `~/.ssh/authorized_keys` sounds scary!
+"I'm developing a propietary (non Open Source) Web Application in ASP.NET, and I want to use the Look And Feel of Joomla (images, control distribution, etc.). Is this illegal? I'm violating the license doing this?"
+"Why? Can¬¥t return $ -1.885,00?"
+I can't believe one of those Regex haters hasn't posted a comment about how parsing HTML with Regex contributes to the rise of Cthulhu!
+Does Python not support protected members? Oo
+Unless you are able to demonstrate the problem with displayed code then I'm afraid there's not much more I can do to help you out.
+huh...it will be very great if modal case working in my situation!!! I can't find any example in network of this realization!!!
+"I have no answer, but I'll 2nd the sentiment about the documentation quality for OpenSSL... I'm working with it now also (just starting), and it's horrible trying to find examples or documents for anything beyond simple operations... I feel your pain."
+It's very painful to add multiple tickets to Trac or to have it as your own todo list. That causes people to use their own task management tools so tasks are then spread all around. Is there any plugin or macro that would quicken the process of adding a ticket?
+"Didn't notice the horrid inline jQuery, remove it! Then open the browser console (F12) and check for errors."
+"If you can edit the code, you should just re-write it to use a custom API that does what you want. Failing that, use Maximilian's technique, but be warned that it is a maintenance horror. If you cannot edit the code, you can patch the import tables to redirect calls to your own code. A description of this technique can be found in - search for the section titled ""Spying by altering of the Import Address Table"". This is dangerous, but if you're careful you can make it work. Also check out , which does the same sort of thing but doesn't require you to mess around with the actual patching."
+The problem was due to a malfunctioning . Very painful and a lot of time wasted.
+"Has anyone found a way to change the icon displayed in the Office Button in A2007? Having converted an MS Access 2003 app to 2007, it's very annoying that my app is now displayed as an MS Office app instead!"
+"I am working in VB.net and have a Class, Foo, that implements an interface, IBar. I have a List of Foo's, but I need to pass a list of IBar's into a function, but I keep getting casting errors, even when I use DirectCast. My code is In both Main and Main2 I get MainWorks works, but it would be really annoying and inefficient to have to do that everywhere I want to call this function."
+"You might want to consider using , a replacement for Windows' terrible command-line chrome. It offers fully redefinable keyboard shortcuts plus tabs, so it's ideal for IRB."
+"So, 21 months later, here's what I did to get this to work (with Gradle 1.2) My Groovy-fu is not strong, so I'm sure that horrible bit in the middle could be simplified, but it work for now!"
+you have your terminology horribly confused.
+"such a strong argument without any ""reference"", is completely useless because just opinionated."
+"It is specific, I'm not asking for a discussion, I'm asking for specific things people know of that are emerging."
+Make a custom button: That'll get rid of that annoying border! ;-)
+So to do this I would keep a list of axes and when I delete the contents of one I would swap it out with a full one. I think the example below solved the problem (or at least gives an idea of how to solve it): The extremely ugly for loop construct is really just a placeholder to give an example of how the axes can be swapped.
+"@Johannes: Don't bother, he's much too stupid and heinous to be worth helping (see his comments on my answer, it's a model of how to get help)."
+Bejesuz that's ugly! Whomever wrote that should be flogged.
+"In this case, I'd keep the DoStuff() method but subscribe to it with: Admittedly that won't please those who do all their event wiring in the designer... but I find it simpler to inspect, personally. (I also hate the autogenerated event handler names...)"
+"When you say it didn't detect it do you really mean you were collecting everything and the packet you wanted wasn't there? I find that hard to believe. It doesn't need any configuration, it just works. Getting a sensible filter so it gets what you want and not loads of other crap is harder!"
+"Why use a `Mutex` here? The `Acquire` method just returns a reference to an instance (this is a reference type). Whether the object referenced is mutable or immutable is irrelevant. The reference is to the same object no matter if the object mutates. Why do locking? Even if the instance was not ""singleton"" or ""read-only"", i.e. even if the field reference could change, since [reference assignments are atomic](http://stackoverflow.com/questions/5209623/), there would still be no need for locking/`Mutex`. I will downvote this answer @ +109 net upvotes..."
+/me works out more what your code does and screams in agony.
+@tdiop your users will still hate losing their selection though!
+"It'll work, it is just incredibly annoying and spy-ware-esque."
+"I'm trying to test if a character in a string is a space, and I'm getting extremely frustrated: I'm not getting any errors and I've looked online, but people on different forums say this is how to test for a space. Uh."
+I created public and private key with cygwins ssh and pasted the public key into bitbucket account. says the ssh connection works fine! (so it should work!!!) Then I post into mercurial.ini in TortoiseHg And I post Into the hgrc file. But then when I want to push TortoiseHg says to me: Seems to me something is missing here but what exactly? Edit: I don't want to used TortoisePlink because it is SUPER SUPER SUPER SLOW! And https just cancels the connection after uploading several megabytes.
+Stackoverflow has horrible formatting for vbs :(
+"As Alexander said, you are comparing a string and a char. The sad thing is that the compiler already told you that, only it encrypted it in ISO-STL-TEMPLATE encryption, which is more difficult to read that perl! You may want to look at for decrypting C++ STL error messages."
+"Yeah - my solution to this was to limit IE users - they can only select a tiny subset of the rows and columns that FX and Chrome users can. Even then IE8 only just copes with maybe 25 cells (5x5 grid), 7 and 6 remain hopeless. It brings back memories of late 90s web development and is an ugly thing to do, but what else can you do if their browser is so poor?"
+I've struggled with this in the past and tried to elevate permissions using caspol and it was a real pain. I ended up converting it to a click once app in 30 minutes and never had a problem with it since.
+That's horrible.
+"I cannot seem to figure out why the phpunit target does not output any test results even though I have tests in position. The problem I am finding is there is no indication as to what the problem is! Incredibly frustrating. The output is as follows: My build.xml is as follows: My system: Vista, PHP 5.2.9, PHPUnit 3.4, PHPUnderControl, CruiseControl"
+Either you want to group or you don't. Now which is it? (This is why I really hate how MySQL allows non-aggregates in `GROUP BY`)
+**I HATE GIT !! What a crazy command line syntax**
+damn..thats what i was afraid of!!
+"""Error starting recording"", every time. OH how I hate meaningless error messages!"
+This is totally abusive if you intentionally are using this with resources that are managed.
+"I have recently found out that anything Swing(NetBeans, IDEA) is excruciatingly slow to paint the UI over Remote Desktop(RDP). Can you guys give me any suggestion for something that will work properly over RDP?"
+Ended up being a bad dependency. I had to add it manually to get it all working. Terrible!
+Horribly inefficient! It re-encodes the image each time. Try this instead.
+"In my case sometimes begins work after ""Source Control/Update"". Actually, its terrible bug, you have no guarantees that you see actual list!!!"
+"The objective of my endeavour is to have a linux computer execute a command (or maybe a local script - on the target) over a local network. Ideally, I would use SSH to do this but unfortunately my embedded target is running WinCE which is absolutely horrible. To do this, I would require an SSH server running on WinCE. I looked into the OpenSSH port but it doesn't work and development for that stalled six years ago. To wrap up, I am looking for an alternative solution to using SSH on WinCE. So, any ideas?"
+ahh got it. you didn't downvote me for simply asking you to explain a bit more did you?
+"Yes, but it's tricky, since datetime parsing in SQL is a pain in the neck."
+"With no offense, just as one developer to another, I'm afraid that your idea seems terribly inefficient. It seems to me that instead of uniting SQLite databases you should probably be storing several tables within the same Database file. However if I'm mistaken I guess you could ATTACH the databases and then use a VIEW to simplify your queries. Or make an in-memory table and copy over all the data (but that's even worse performance wise, especially if you have large databases)"
+"After I changed my windows regional setting from my native language to USA, the problem has gone. Do not forget to restart Visual Studio. really annoying problem !"
+"I'm using vbscript, all that does is reverse the setting of checkbox.checked, whichever way it is. As an aside, vbscript is awful to work in."
+"I lied. The problem is back with a vengeance... 4009 errors in 229 files. This is ridiculous! VS2013, Resharper 8.0.2."
+"Yeah, I know, I just can't figure out where the 'private' is coming from. It's very frustrating!"
+Is it to use the ViewData argument? As you already have seen that would be absolutely horrible. What I want to know is this: What is the recommended way to pass this sort of layout configuration to the partial view? By using a view model of course: and then: and then: and then: and then: and so on...
+I have a window using a WPF ListView/GridView bound to an ObservableCollection. The performance is utterly horrific. The application chokes trying to load 300-400 items and CPU usage spikes each time an item is added/removed/modified. Profiling doesn't reveal anything obvious. Anyone have any suggestions?
+"(and even worse, the + or - 10 is dependant on the order of registering the observers!)"
+"I absolutely despise working with PDF documents. But when I absolutely have to, I have been using . It has quite a bit of functionality, , and it is theoretically free. Though to use it effectively it helps if you get the book that they push on their website. I'm not certain if you can easily make thumbnails with it, but it has worked for me in generating and manipulating PDFs on every project I've worked on so far."
+"Although, using this outside testing is a horrible, horrible idea..."
+"The method in .NET returns a by-ref version of a type, e.g. passing the type of returns a type representing . However, if you already have a , what is the mechanism for obtaining a plain old ? There doesn't seem to be an opposite method to remove the by-ref modifier. At the moment I've put a hack in place which re-builds the assembly-qualified name without an at the end of the type name and then loads that type, but this is horribly dirty..."
+"8 hours? That's pretty quick! My last InnoSetup installation coding took TEN DAYS, and it still won't work right on Vista. It installed an app library, some sample apps, created a database, installed and started 2 windows services, and published a web site, but 10 days is still far too long..."
+upvoted scared the hell out of me when things stopped working!!
+"Why do you not want to store it in the assets folder? That's what it's for. Regardless, you can't reference your local hard drive for it. (also, personal opinion, Monotype Corsiva is a horrible, horrible font) EDIT: So I would add, you should be able to do it the way you're doing it, you just can't use your local hard drive. Just get a reference to your TypeFace as a , depending on where you are saving them (e.g. ) and use ."
+"Is there a way to have mod_wsgi reload all modules (maybe in a particular directory) on each load? While working on the code, it's very annoying to restart apache every time something is changed. The only option I've found so far is to put below every import.. but that's also really annoying since it means I'm going to have to go through and remove them all at a later date.."
+"I have a VB.NET MDI WinForms app. My users have been complaining about form creep (as they call it), this is where each time you open a specific form within the main MDI window it opens slightly below and to the right of the location it loaded previously - i.e. it starts in the top left of the window and works its way down to the bottom right. I have to agree with them that this is extremely irritating, is there any way to prevent this? The code to load the forms is: I can address this somewhat by setting the forms start-up positions to 'Manual' but then they just open directly on top of each other in the top left of the screen. Any other SO users come across this?"
+"The problem is that you never run the method, so the field stays at zero. It's a really terrible idea to give a field and a method the same name."
+"james, the stack trace under that is just my function name. Nothing more. very frustrating :("
+"It's HORRIBLE! No, seriously, I don't like it."
+"This is a hack. It does not load the whole file into memory. I really hope you use Python 3.DecodeLargeJSON.py If you notice some objects that can not be decoded then you can tell me and we can find a solution.Disclaimer This is not the valid and best solution. It is a hack that shows how it can be made possible.Discussion Because it does not load the whole file into memory, regular expressions do not work. It also uses the Python implementation and not the C implementation. This could make it slower. I really hate how this easy task is hard. Hopefully somebody else points out a different solution."
+"I had a memory crash on UIGraphicsGetImageFromCurrentImageContext() ... if you're creating and releasing a lot of them, you should wrap them in a fresh AutoReleasePool for each iteration. Even allowing the NSRunLoop to tick WAS NOT ENOUGH for Apple/iOS to do housekeeping on garbage lying around from this. e.g."
+This question is awfully vague.. and doesn't seem to have anything to do with programming..
+Strings containing XML is an extremely bad idea and asking for trouble. Use messages that have a defined schema.I had to rewrite significant portions of an app that used a lot of XML internally instead of types. It was horribly slow and impossible to figure out what was happening.
+"If double logins presented, it skipped it... looks so terrible))"
+"I got to this question via the Almighty Google. To complement on what Andrew said above, for those of you on OSX you might want to take a peek at /Applications/MacVim.app/Contents/Resources/vim/runtime/indent/html.vim and the modifications necessary should become evident. I can't believe I spent so much time suffering from poorly indented <li>s!"
+"on the root window is how xbindkey does it. Be careful about having some alternative method of killing the grab though, it's very annoying to have to go somewhere to into your own box just to kill that process... And that's why, if it was me, +""echo 'moo' > /tmp/moo-fifo"" would be the way to do it. That way, you could also control it in any number of other ways you haven't thought of yet."
+Your are really violating the idea of TDD if your code if doing something different for the Test. Why do you only need to change it inside the test?

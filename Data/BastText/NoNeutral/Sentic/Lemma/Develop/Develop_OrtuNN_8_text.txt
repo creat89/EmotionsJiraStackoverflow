@@ -1,0 +1,152 @@
+__label__love __label__joy	fix . thanks for report ( even if i be not sure empty password be a good idea 🙂 ) .
+__label__love __label__joy	thanks bruno and bilgin , you patch be in trunk revision : great to see good cooperation at work 🙂
+__label__love __label__joy	commit . thanks yuntao !
+__label__love __label__joy	look good . thanks for your work on this !
+__label__love __label__joy	this look good , but a bunch of test be now break because of the new hidden input , i will fix the test , do some more testing and commit in the next few day . thanks for the patch !
+__label__love __label__joy	thanks for the new patch , kristian ! the change look good to me . upvote to commit . a tiny nit in statementpoolingtest ; the code below could be express with an assertequals now that there 's only #crd# condition : if ( ! simplename . equal ( expectedname )) { - if ( ! simplename . equal ( expectedname + " " )) { - fail ( " expect class name " + expectedname + " or " + - expectedname + " , get " + simplename ) ; - } + fail ( " expect class name " + expectedname + " , get " + + simplename ) ; }
+__label__fear	hi dave ; i be not jira wise ; i will see if i can change the original ; if not ; i will start a new thread . it worry me that the last binary be #crd# year old . it seem to say that nobody be use ws - rm ; which i can understand . i will check with axis0 before i update the jira . i wo not check with ; since i be use feature . cheer ; patrice ;
+__label__anger	in this case , datum would pretty much just silently be lose .
+__label__anger	pull it back in if you think different .
+__label__anger	i think the correct resolution be to ensure that the prefix stack mechanism get reset each time the xmlreader be use .
+__label__anger	ah , too bad .
+__label__anger	my bad .
+__label__anger	will still be stick in the loop though if can not actually close region .
+__label__anger	bad ie .
+__label__anger	that be say , i be not totally opposed to make the limit configurable .
+__label__anger	if so , can you see if you can git bisect this bad boy ?
+__label__anger	please forget last comment , it be incorrect .
+__label__anger	my bad .
+__label__anger	shit , there be an dependency . please go to preference - > ldap - > entry editor and enable the option " show operational attribute " .
+__label__anger	how bad be it ?
+__label__anger	my bad .
+__label__anger	it also happen at the very startup after he have load only sstables ( hence datatracker likely have sstables , not a shit load ) .
+__label__anger	juhani .. my bad , i be mistaken .
+__label__anger	the sample you give be different .
+__label__anger	i do not do that because that seem bad in hive , so i return " null " from the operation .
+__label__anger	damn …
+__label__anger	i be currently try to get it into ajdt dev build but my git push be time out ( damn thing !
+__label__anger	@oleg , please accept that my " logical " be different from your " logical " .
+__label__anger	that irritate the hell out of me too , but i do not realise it be configurable in the . launch file .
+__label__anger	be i do something stupid here ?
+__label__anger	sorry , i guess i be against " never compute this shit " .. because you guy think return nan be ok .
+__label__anger	it really suck that there be now way currently to include transitive dependency .
+__label__anger	who make this stupid rule ?
+__label__anger	also , your username be stupidly name and confusing , so i delete it and create a new #crd# more appropriate .
+__label__sadness	sorry about the trouble .
+__label__sadness	miss new file - sorry !
+__label__sadness	sorry for trouble . i do not realize that port and context path be configure via pax web & cxf bundle configuration in servicemix
+__label__sadness	sorry for that .
+__label__sadness	but it be not the only issue : we also want to manage priority between the task , but we need to read them to get enough information to make the right priority .
+__label__sadness	i be not sure what the problem be , but the behavior ( at least in ) be that the _ isclosed atomicboolean be not be set to close in a timely manner .
+__label__sadness	sorry for the noise .
+__label__sadness	sorry .
+__label__sadness	oh , i be sorry , i be unclear .
+__label__sadness	oppss … sorry late reply … thx for handle this issue claus . i prefer it to be the way it be now ; document this behaviour as claus already do . i think there might be both behaviour have its particular usage ; if we want to have a param that be a string ; it make sense to use < param > .. < / param > ; anything in between that 's enclose with %{} will be evaluate and its tostring ( ) call . on the other hand ; if we want an object ; we could used the value attribute . i guess what i be try to say be that both way of use param have their own usage . of course this be just my cent
+__label__sadness	sorry .
+__label__sadness	sorry 😉 upvote
+__label__sadness	forget asf grant .
+__label__sadness	not sure i want the transient inability to clean up some local log or other trivial task to kill a whole pig job ?
+__label__sadness	i have try something similar ( i remove the handler and keep the reader ) , but the performance be not visible .
+__label__sadness	the patch should be relatively trivial , but like i say , i have no idea if there be other important stuff go on there or not .
+__label__sadness	sorry [ ~ kumarr ] , let 's just do this in .
+__label__sadness	work : - bash on linux not work : - bash on solaris - csh on solaris - ksh on aix - bash on aix so , you be right . i close this bug as " work as design " . sorry for the noise 🙂
+__label__sadness	sorry for the noise .
+__label__sadness	i do not have resource to hand to test this at mo .
+__label__sadness	i almost forget , as i receive the email notification on the weekend .
+__label__sadness	sorry , patch be attach
+__label__sadness	bq. so we can add isalreadyexpiring ( ) and if true sorry it should be so we can add isalreadyexpiring ( ) and if flase we can go with expireifonline
+__label__sadness	sorry … redeploy patch
+__label__sadness	hey vikram -- sorry about that , i have not pay much attention to this issue .
+__label__sadness	sorry , db name be tpcdb , user name tpc , pwd whatever …
+__label__sadness	the responder seem to be a bottleneck .
+__label__sadness	sorry i have be mia on this issue .
+__label__sadness	sigh , i do not like this overall if can not reuse everywhere .
+__label__sadness	sorry i miss the " overwrite " keyword .
+__label__sadness	miss new file - sorry !
+__label__sadness	sorry for the missing class src / java / org / apache / jdo / tck / lifecycle / statetransitionsreturnedobjects . java .
+__label__sadness	sorry for the late reply . your correction look good , i have just apply them . thanks !
+__label__sadness	sorry for the huge delay fabio .
+__label__sadness	sorry for the link ' block ' ; can not undo it … i want to add a ' clone ' link .
+__label__love	thanks karl .
+__label__love	hi anahita , your patch test successfully .
+__label__love	hi bilgin , you be right the entitymode . xml can be remove but i when i add it i be think to add a new file to posterminalinterntx entity to store " pos paid reason " instead of store it in the reasoncomment field . i have already create some enumeration into demoposdata . xml but it be still not be use . there be still a lot of thing that have be not implement or not work so contribution from other people be welcome . remove the hardcoded value pos- into webposevents . java at line be something still to be do . i be think to add a combo box after log in to choose the posterminalid but i do not get the time to do it . thanks marco
+__label__love	thanks for the explanation upvote for the patch .
+__label__love	patch be in. thanks , jarcec .
+__label__love	all the regression test run cleanly with the patch . commit revision . thanks for fix , ed !
+__label__love	hi tiago , thanks for look at this issue . on visual inspection of the change , your text change look fine . however , i can not apply the patch . you need to svn diff from the top of the tree show it show the path stare with java / engine / .. you should reopen the issue until it have be commit . also , just for good measure you should run suite . all and derbyall in case there be any canon update need . thanks kathey
+__label__love	sweet ! git , i love git ! 🙂
+__label__love	thanks alexey ; mark . i take the late patch from alexey ; incorporate mark suggestion and commit this to trunk .
+__label__love	thank you very much for your effort david .
+__label__love	thanks suresh
+__label__love	i just commit this . thanks jeff .
+__label__love	ok thanks ! close the issue then .
+__label__love	hi , thanks ! too be honest , i have not look at noop much . it be just use in the original patch . i'look at your update patch and see what more work need to be do .
+__label__love	commit . thanks namit !
+__label__love	commit branch and trunk . thanks for the patch mikhail .
+__label__love	the issue be very old . can you please confirm it with the late cvs source cut ? thanks !
+__label__love	thanks for take a look , jiannan
+__label__love	i just commit this . thanks , omer !
+__label__love	thanks sharan !
+__label__love	mind take care of this #crd# doug ? this look like a 0ism so need dnoting so in the book as for . thanks .
+__label__love	commit to trunk . thanks , thejas !
+__label__love	thank henri and don ! i find there be #crd# #hlink# in my jboss application server env . #crd# in % jboss_home% / server / default / lib / and the other in the lib directory of my web application . then i delete the latter and it work well . thank you so much !
+__label__love	upvote thanks , commit to cassandra- as commit 0a0ca0d0ce0b0c0aebe0bce0
+__label__love	thank you jing for the review .
+__label__love	thanks [ ~ ajisakaa ] . upvote pending jenkins .
+__label__love	fix apply , thanks .
+__label__love	hi bruno , i like it , seem to work well at st glance thanks !
+__label__love	address review comment . thanks vinod .
+__label__love	hi rich ! thanks for take the time to move forward on this . i do not have any junit problem at all with maven0 when i instal it . but clearly we be in a world of hard - to - replicate behavior here . 🙂 what be the exact problem you be see ?
+__label__love	hello leo the patch have be apply at revision r0 , thanks a lot for this enhancement , please verify that the problem be fully fix as you expect .
+__label__love	commit , thanks namit .
+__label__love	regex be your friend .
+__label__love	thanks rishi solanki to review the patch .
+__label__love	thank you , carol !
+__label__love	hi i be try to use hive performance benchmark . i read readme file and followed step by step , and finally i reach to the datum generation part . teragen have no problem , but i face a problem with htmlgen . i configure something to my own cluster ( vms ) , and launch generatedata . py , but it never finish ! i launch it about hour ago … so , i modify uservisits and ranking in config . txt to be small , but it be also fail . even it consume very little resource when i see ' top ' information in the ubuntu . have you guy ever meet this kind of problem ? and if you have , how do you solve this problem ? thank you so much
+__label__love	oh , thank you lohit . then should we close this issue ?
+__label__love	upvote thanks
+__label__love	pass test and commit to trunk . thanks charles !
+__label__love	i be able to download and extract #hlink# just fine . thanks for work on this , myrna .
+__label__love	upvote look good .
+__label__love	i have just commit this . thanks edwin !
+__label__love	thanks senaka for the patch .
+__label__love	commit this . thanks .
+__label__love	patch be commit to the trunk . thanks niraj .
+__label__love	thanks for your patch and your investigation ! i reopen the issue , will apply the patch soon .
+__label__love	thanks for you work on this jayachandra .
+__label__love	if you would like to take up this work , that would be great .
+__label__love	commit to trunk . thanks [ ~ elserj ] !
+__label__love	thanks guy !
+__label__love	@ted thanks for take a look . sure , i will make that change on commit .
+__label__love	hi edward thanks for spot it .
+__label__love	integrate to , and trunk . thanks for the patch , chunhui . thanks for the review , lars .
+__label__love	thanks amit & vivek - commit at r0 . -- ashish
+__label__love	very cool . thank you .
+__label__love	i just commit this . thanks , amareshwari !
+__label__love	sweet , i will review and apply .
+__label__love	thanks andrew , commit in rev.
+__label__love	hello andreas , thank you for the information . shall try the same and upload the patch shortly . thanks & regard , ravikiran mane .
+__label__joy	however , the goal of the test be very good .
+__label__joy	upvote the new patch look good .
+__label__joy	upvote look good - all test pass .
+__label__joy	good idea especially if you have a use case for that .
+__label__joy	upvote the patch look good .
+__label__joy	so very cool , and so very committed -- thanks matthias , this be awesome .
+__label__joy	thanks alexei , the patch be fine .
+__label__joy	well , the fix look good enough . seem there be a lot of dead or half - break code around st_print_frame ( ) / exn_print_stack_trace ( ) , but those deserve good refactoring all in all .
+__label__joy	long life myfacesssssssssss !
+__label__joy	thanks ashutosh and gunther for your help !
+__label__joy	good idea , thanks alexey . i have update the test patch .
+__label__joy	thanks once again .
+__label__joy	upvote patch look good . this clean up a lot of code .
+__label__joy	as suggest above ; i move the detector class from #hlink# to #hlink# subpackages in revision . that should complete the last remain open issue with this feature ; so resolve as fix .
+__label__joy	upvote patch look good . the checkstyle . xml be specify in hadoop - project - dist / pom . xml .
+__label__joy	upvote patch look good .
+__label__joy	i test a couple of project with idea and and some more with idea , and everything be work .
+__label__joy	great , thank you for the commit harsh ! mitch , thank you for provide the detailed bug report .
+__label__joy	upvote the patch look good .
+__label__joy	thanks to ernst fastl for add this .
+__label__joy	nice , i do not think about use the system table .
+__label__joy	sound like a good idea .
+__label__surprise	i do have some interest in work on this ; but it 's not currently on my radar . implement solr- would illustrate the issue that need fix .. although if this be tackle #ord# ; write solr- would be much easy .
+__label__surprise	i wonder if we could do some sort of auto-detect i will poke -- getstream ( ) .mark ( ) / reset ( ) can probably work for xml / json but it may break thing for javabin

@@ -1,0 +1,154 @@
+__label__love	this work great for me ; but it have demonstrate another issue when some tapestry 's script file try to use the clientid in order to create javascript identifier for variable . i will open a new issue describe this .
+__label__love	thanks to hazem saleh for provide us this enhancement fix at revision
+__label__love	commit a slightly clean up version of the patch in revision : thanks for your help todd .
+__label__love	thanks for the patch richard . apply to luni module at repo revision r0 . please check that the patch be apply as you expect .
+__label__love	commit . thanks namit .
+__label__love	i just commit this to both trunk and mr- . thanks jeffrey !
+__label__love	thanks ivan . i will do the change by just return if it match as you suggest . i will investigate it later . bq . auditor will be a top level daemon , so it should own its create it 's own ledgermanagers and zookeeper client . the only thing pass in to be should be the configuration . anyway we be plan to have initialization class which do start auditor and rw thread . would you agree to create ledgermanagers there and pass it to the auditor and rw daemon ? in that case , shall i keep the ctor as it be . ( by take manager ) { code } public auditor ( string bookieidentifier , abstractconfiguration conf , zookeeper zkc , ledgermanager ledgermanager , ledgerunderreplicationmanager ledgerunderreplicationmanager ) { { code }
+__label__love	thanks , karthik ! i commit this to trunk , branch- , and branch- - beta .
+__label__love	thanks for volunteer for this , prashanth !
+__label__love	thanks divesh , your patch be commit at revision :
+__label__love	[ ~ lhofhansl ] , thank you so much .
+__label__love	commit . thanks tim
+__label__love	integrated to trunk . thanks for the patch francis . do you want to address ram 's comment about patch ? thanks for the review , andy and ram .
+__label__love	thanks . the problem be with defer node expansion ; when this be on the node appear as null instead of a text node with an empty string . i will merge a fix shortly .
+__label__love	upvote thanks harsh , the patch look good . > also , might it be reasonable to mark just isinsafemode @ interfacestability . stable ? since this be a new api , we be not sure if want to change it . let 's leave it as - be for the moment .
+__label__love	thanks for your review . i have just commit .
+__label__love	thanks pi . i do not think there be any special trick besides those with linux ( such as you will need ant , junit , java , svn , etc ) . if you want , you can also send me your pig . jar and then i will try it out for you . good regard , xu #hlink# ( #hlink# >> )
+__label__love	upvote i just commit this to branch . thank you benoy .
+__label__love	sound perfect , thank you .
+__label__love	hi antonio , i can take this #crd# , if nobody be work on it . would be a nice #crd# to get my foot wet … 🙂 thx , sam
+__label__love	thanks tim , patch be apply as expect !
+__label__love	thanks andi .
+__label__love	duplicate of clk- which be already fix thanks malcolm
+__label__love	thanks oliver .
+__label__love	i just commit this . thanks samuel ! !
+__label__love	commit to trunk . thanks , prasanth !
+__label__love	thanks for take the time out to review the patch , bryan . yes , the patch be ready for commit unless someone else be review it too . thanks again .
+__label__love	commit ! thanks liyin !
+__label__love	look at datastax 's debian package , the change do not make its way in. dig deep , it 's only on the cassandra- branch . can someone merge / cherry - pick it to cassandra- and trunk . thanks , blair
+__label__love	i check this into trunk , branch- , branch- - alpha , and branch- . thanks daryn for a quick fix to this .
+__label__love	thank you .
+__label__love	commit and be my #ord# commit . thanks to all .
+__label__love	commit , thanks !
+__label__love	commit to trunk . thanks tim !
+__label__love	i commit this . thanks , jay !
+__label__love	apply , thanks .
+__label__love	thanks sandy . commit to trunk and branch- .
+__label__love	sorry jacques , i have not see that it be a group bug . in this case i have use to set in the group bug the sum of the component use by detailed issue . i do not like unknow component . otherwise we can add a new fictitious component - group issue - and assign this component to this type of issue . thanks marco
+__label__love	good regard , richard
+__label__love	thanks scott . git format patch be fine in my opinion : let s get this fix
+__label__love	to test this ; i use an aggregate ae with a cas multiplier that declare getcasinstancesrequired ( ) = . if this ae be instantiate and run in a loop with early code it eat up roughly 0mb per iteration . no such leak with the late code . thanks !
+__label__love	thanks tom !
+__label__love	commit to trunk and branch . thanks , arup !
+__label__love	thanks , patch apply .
+__label__love	please let me know if you need something else .
+__label__love	apply branch . resolve . thanks for the patch gary .
+__label__love	adrian , thanks for the patch : rev.
+__label__love	thanks for the patch jì_rgen . revision .
+__label__love	thanks imran . fix in luni module at repo revision r0 . please check it be fix as you expect .
+__label__love	thanks harsh , good to know .
+__label__love	lgtm , upvote , ( and i think i be sufficiently convinced that it 's ok for as well ) . i think tjake be plan to commit this , so i will leave it here for the time be , until he have a chance to look it over . thanks stephen .
+__label__love	the late patch look pretty good to me . #crd# small nit , upvote once these be address : # generally in the hadoop codebase we put the " @test " annotation right above the method declaration , below the method comment : { code } + @test + / * + * test #tostring ( ) for typical volumeid equality class + * / { code } # in the class declaration of invalid_volume_id , i recommend put a blank line between the method be declare there . thanks a lot for improve the test coverage in this area of the code , ivan , and thanks a lot to andrew for your review of these patch .
+__label__love	thanks for take care of this , alejandro .
+__label__love	hi ivan , { quote } + long numberofentriestoreplicate = lastentryid - firstentryid ; should be ( lastentryid - firstentryid ) + { quote } you be right , both side entry have to be consider . thank a lot for notice it . { quote } in general , i think this splitting should be in ledgerfragmentreplicator , rather than bookkeeperadmin . this way you could avoid the need to expose the update of ledger metadata . it will make control flow a little more complex as you will have to initiate replication on the next subfragment from the callback of the current , but i think it would encapsulate thing a bit good . { quote } yes , in general , all the split logic should be in lfr. i might push that code to bkadmin because , i do not want to disturb admin key flow much , which will go through lfr. now anyway , i move that logic , still not disturbing bkadmin key flow in anyway . attach a patch , which address the comment . also to give more confidence on split fragment scenario , i have add multiple boundary case for fragmentsplit . thanks a lot , ivan for your nice review !
+__label__love	well , if it be just a documentation bug , even good . thanks for the clarification .
+__label__love	thanks to todd and colin for the suggestion , this be much clean . i be still look for pointer on where to go for my checksum byte - wrangling ( now in fseditlogop#getrawchecksum ) .
+__label__love	ah , right -- skip the clear would be buggy . upvote again . 🙂
+__label__love	commit to branch- and trunk . thanks ahmed !
+__label__love	thanks , mike !
+__label__joy	look good to me .
+__label__joy	thanks for do that uma .
+__label__joy	this look good to me . upvote pending beta- .
+__label__joy	great ( it turn out simple than what i would have think ) . thanks andy .
+__label__joy	hi suran , the new #hlink# look very good .
+__label__joy	i take a quick look at d ( unused local ) . most of it look good , but i do not understand the few place where for backward compatibility there be what look like a useless statement just to make sure a property get read . wo not someone else someday follow up with patch h that remove what seem to be useless code and just take those out anyway ?
+__label__joy	look fine to me . oleg
+__label__joy	cool .
+__label__joy	upvote look good to me . try it out .
+__label__joy	awesome , you rock , drew !
+__label__joy	hi ramin , the patch look good except i think it would be good to give import / export its own sqlstate start with xie instead of reuse the exist store file_exists message . also it would be good to have test case for write the lob file . kathey
+__label__joy	attach update patch . arun , let me know it this look good . thanks
+__label__joy	look good . minor nit , can you change info . wait ( ) ; back to info . wait ( ) ; otherwise .
+__label__joy	indeed , good catch !
+__label__joy	review and test . look good so far ; so i be close this issue .
+__label__joy	awesome . i actually do find #crd# more non-code file - the readme doc in java / social - api / and have add them as deletes to my client . good to know it check out with you though . unless anybody object i will submit this relatively soon .
+__label__joy	awesome !
+__label__joy	it 's great to see you have get the ball roll chris .
+__label__joy	thanks ram , that seem like a definite improvement .
+__label__joy	upvote look good . as for the naming : [ jira ] .patch stand for trunk patch , imo . any branch designation can be add as qualifier . thanks
+__label__joy	look good to me . colm .
+__label__joy	this class , funny coincidence 🙂 what be you thought about queryparser be able to know about custom query implementation ?
+__label__surprise	closing because this have be in resolve state for over #crd# year ; if it turn out to not be fix please reopen .
+__label__surprise	what if you want to change this binary format ?
+__label__love __label__sadness	sorry , i do nt understand , be you say that this will not be fix for minoccurs = ? and the workaround be to set minoccurs = ? thanks , chris
+__label__love __label__joy	rakesh , the patch look good to me . ill wait for hudson to check this in. we be good to go for rc now ! thanks rakesh !
+__label__love __label__joy	the patch look good to me . upvote pending jenkins .
+__label__love __label__joy	great ! thanks . aaron
+__label__love __label__joy	awesome - thanks so much for the submission scott !
+__label__love __label__joy	upvote patch change look trivial . thanks !
+__label__love __label__joy	hello george , thanks a lot . the fix work fine 🙂 good regard , richard
+__label__sadness	i do not know what just happened .
+__label__sadness	brandon , sorry .
+__label__sadness	honestly , there be no way around this issue - of course we must discuss and come to some solution regard lucene / solr at this point .
+__label__sadness	sorry , i think issue ( and provided patch ) be about cocoon - servlet - service - impl , use by either c0 and c0 but only now i see that instead they be related to cocoon - servlet - service - component ( c0 only ) .
+__label__sadness	sorry , should ask #ord# .
+__label__sadness	sorry - i just do not read the issue carefull enough .
+__label__sadness	sorry guy … ☹️ i be the reason for this trouble .
+__label__sadness	sorry , i click the " submit " too quickly , the revision number be r0 .
+__label__sadness	i be very sorry .
+__label__sadness	if someone want to take this over , that 's cool - i be unlikely to have time in the next week and a half , though .
+__label__sadness	sorry , here 's the test that reproduce the issue .
+__label__sadness	hi simo , sorry for delay . i have a quick check to #hlink# . it seem to fit all our need : use the quick and more standard way to declare plugins in a transparent fashion . i do not have any objection with this patch , for me it be ok . thanks mic
+__label__sadness	especially i do not know very much about the test framework difference .
+__label__sadness	well sorry , i do not upload the right file
+__label__sadness	sorry …
+__label__sadness	i do not have very much experience on branch- , would you like to take a shot at the port ?
+__label__sadness	sorry i mean zookeeper- .
+__label__sadness	so i also change a test to test a non-ascii stopword 🙂
+__label__sadness	sorry , should have comment on this much soon .
+__label__sadness	sorry , grab the wrong ticket .
+__label__sadness	> alexander shorin not quite , i propose that the url remain the same . merely the source code get move around . on release - packaging time , #hlink# be pull in from the other repo . i mean in long term vision ( e.g. for couchdb + ) . it 's oblivious that for .x it will also available by old url and new #crd# ( if any ) . but ok . > jquery . js should stay the way it be as long as we ship futon . so when we replace futon with fauxton ( this will happen anyway ) we also stop ship with #hlink# and his deps , correct ? i want to clarify this moment since it be the main of this issue and to be sure that we all think about the same . sorry for such persistent question ! thanks ( :
+__label__sadness	brain fart .
+__label__sadness	sorry , probably a misunderstanding from my side …
+__label__sadness	sorry 😉
+__label__sadness	sorry , i do not look at the package thoroughly enough . i now see that it can be use in the non-rpc case also .
+__label__sadness	thanks to mathias werlitz - sorry for the delay .
+__label__sadness	yup sorry just fix .
+__label__sadness	hi josh , i be sorry i do not check all the path that could effect the http method url . after go through the code and i find a way to verify my change and find a minor issue of http component . i will commit a good patch shortly . willem
+__label__sadness	you be miss my point , sorry , by ' check in normally ' i mean just commit them use ' svn add .. ' ' svn commit .. ' not ' svn import ' you can nt do that . #hlink# be down for a while , but be now back , that however be not related as you do nt need to access #hlink# to commit to svn.
+__label__sadness	excuse me for steal assignement .
+__label__sadness	sorry for a mess in upload file , my connection get break during #ord# upload .
+__label__sadness	oops , sorry folk . wrong project .
+__label__sadness	i will try to do more research on it .
+__label__sadness	sorry , i kind of forget about this #crd# .
+__label__sadness	hi , here be the miss file . i be sorry for the delay . regard , eric
+__label__fear	and it will break ugly , everything seem to work , but datum be never stream to cassandra .
+__label__anger	i be however very interested in this feature as it be essential to me .
+__label__anger	this be very bad document .
+__label__anger	a stupid bug in a patch that be already apply .
+__label__anger	someone , but i be not sure who , owe me a public apology here . / larry
+__label__anger	* release of the framework .
+__label__anger	yep , my bad .
+__label__anger	my bad .
+__label__anger	damn , chuck be scary .
+__label__anger	as far as the query shit , i have no idea if solrdispatchfilter or whatever could / should do thread . currentthread ( ) . setname (x) or whatever ( and maybe restore after )
+__label__anger	hell , unaryfunction might even be fast than all of these call in a row .
+__label__anger	i be confused .
+__label__anger	indeed that would be very bad design .
+__label__anger	upvote for this : my bad .
+__label__anger	i would say to hell with window minority 🙂
+__label__anger	maybe only #crd# of us should play lawyer and the other #crd# play engineer .
+__label__anger	hudson seem to be stick on this .
+__label__anger	forget what i make ( d0 ) .
+__label__anger	holy shit !
+__label__anger	just to clarify … you make the dtpe handle exception the same way as cassandradaemon by update it to use nbhs instead of csls … do you just tell me to go fuck myself ?
+__label__anger	that 's some freaky shit ..
+__label__anger	if i get a chance i may even roll it into our dev environment but i be currently in the middle of mem leak hell .
+__label__anger	this be pretty trivial , just add #crd# assert to testpath#testnormalize .
+__label__anger	fuck u
+__label__anger	i be against such heavy commit myself , without some consensus to do so .
+__label__anger	because , we do not care for this in case where we there be no node that be down .
+__label__anger	my bad .
+__label__anger	and boy , hell break loose 😉 so … the big issue i be face be indeed with random sharing across thread .
+__label__anger __label__sadness	blooper after blooper - i hate svn.

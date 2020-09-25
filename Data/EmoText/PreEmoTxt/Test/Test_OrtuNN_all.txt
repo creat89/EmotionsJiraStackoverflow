@@ -1,0 +1,410 @@
+guys... this is so stupid...
+"@idiot Yeah, I was on that idiot-path for a good while but commons-lang is a hairball, at least where this hashcode making and equals is concerned."
+i suck.
+"But I will quit committing to Hama then, because I'm not going to support ONLY a binary format."
+This is not what I build a framework for.
+"Negative, I am against fetch groups in principle."
+"Shit, there is an dependency. Please go to Preferences -> LDAP -> Entry Editor and enable the option ""Show operational attributes""."
+Damn !
+It was a pretty stupid idea to use a static array of instances for QuorumOpMonitor.
+"Wow, it's like Thrift is going out of their way to make life suck for us this month."
+This really sucks!
+Why the hell is this not a bug?
+What the hell are you waiting for ?
+"Damn, I would close this out from the fix to JBSEAM-3742, except the quartz and seampay examples use a custom XML namespace and the XML schema validator is not happy with that."
+"It sucks to lose the code readability, but it seems like a reasonable price to pay."
+who the hell starts using our jira for typing lessons ?!?
+Finally closing this bug from hell.
+I am an idiot - this was a dupe of GUVNOR-84
+tricky shit man! I think I found the issue!
+Oh man ... it's a fucking precendence problem.
+That sounds like some serious buck passing.
+I think we all know it just sucks.
+This is where it gets confusing.
+"If I can give you one advice on this one, I'd say this: fuck Derby, use H2 instead as the default embedded database."
+(Do nothing): Are you serious about that?
+"So, I'm fine with your logic, but given that I don't understand it please don't get upset when I ask questions on how I have to use it."
+"Oh fuck :-) Sorry. Not my day, more beer needed!"
+"if you want to make these optimizations, fix the APIs so its intuitive, otherwise, no way."
+"We should not invoke the global synced fieldnumbers shit for every element, only when the setting actually changes"
+I wholeheartedly agree this API is confusing as hell.
+"Not only it's the first one in my life I'm seeing multiple ways of closing the same thing, it also conceals programming errors."
+> I hated that aspect of working for commercial companies.
+"Shit, I missed a cast."
+This is clearly bad webserver behaviour.
+"Shit, my bad. The posted patch is from a completely wrong branch of my git repo - I had not realized I ran the test-patch against a branch not branch-1."
+"(In this particular case, Hoss clearly intended to use the no-no word as an intensifier, and not to stir shit.)"
+This is pretty trivial.
+This is bad.
+"Well, that sucks."
+"Of course, StrFieldSource is a private class No it's not."
+That would suck.
+"If so, a test that succeeds with errors is confusing as hell..."
+I doubt that Squid is so bad at it.
+"Not too bad though, since clearing out commitlog segments is easily done."
+Tabs are evil.
+I looked at our distributed pom.xml and they're pretty obscure.
+once per every bad disk).
+This is bad.
+#NAME?
+Logger on top of Log4J and its abstract base class for supporting other frameworks.
+"Well, either you query the database every damn time, and your plugin/tool/code will be super slow."
+My bad...
+"<gmcdonald> , my bad"
+"I don't care if everything is pretty or not, but we should at least support basic admin functionality in IE IMO (though I have not used it for years for just about anything)."
+I've looked at what can be done within the NSIS framework we use to build the Windows installer.
+This sucks.
+Here is quite bad.
+This name gets confusing with all of our prenamed *Worker* and *Master* classes.
+Kind of sucks.
+I really don't care.
+I am planning to use this framework for some new RPCs I am adding.
+My bad.
+"Filling diags.log is bad mojo, since it's never rotated."
+My bad.
+The Async API in http client 4.x really sucks.
+"The eclipse ui was completly stuck, which was similiar to the other experinces."
+My Bad.
+"If that would be the case, this would be bad design."
+"We reported this crash to Oracle in plenty of time, and the *worse* wrong-results bug has been open since May 13: http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7044738, but Oracle decided not to fix that, too."
+And the current behavior is irritating.
+Im stuck with IE6 unfortunately.
+Closing this issue - if more needs to be done; maybe it would be better to open an new issue - this one has gotten rather large
+"No idea about the issue resolution/if it's still active, but I'm afraid that by no stretch of the imagination can it be termed a ""Critical"" issue."
+"Stroooong ++++++1 I wanted to do that long time, but some tests were made me afraid."
+"I'm excited to see progress being made here, but I have to agree with Joan, the security of this concerns me, even with the new sandbox.js you're putting together."
++1 looks good to me.
++1. Code looks good.
+"Looks good, patch applied -- Thanks Naoki!"
+Release note looks good.
++1 Looks good.
+"+1 This patch looks reasonable to me. Thanks, Hairong!"
+"+1 looks good Thanks, Mayank"
+"Re: patch, looks fine. I'd include <optional> too, on geronimo/ant deps, as per project.xml"
++1 This is a very desired feature for me. Ship it!
+"+1 This patch looks good. Let's remove from 0.4, and work on a better implementation on 0.5"
+Sounds like a good idea but better to only fix in 1.5 to keep 1.4 more 1.3-compatible.
+"Yes, we need to fix it. :)"
+"Great, [~jhsenjaliya]."
+This seems good to me. +1 to apply it
+Works for me. Thank you Paulex.
+Great idea.
++1 Patch looks good
+Looks very good. +1
+Looks good to me. Mike
++1 for this patch. Looks good.
+Tnx for the quick fix. Works perfect!
+"Nobody has started. If you want to submit a patch, that would be great! Thanks!"
+Looks good!
++1 Looks good to me!
++1 the patch looks good.
+It looks good to me too.
++1 Looks good to me.
++1 This looks good.
+Patch looks good.
+"+, looks good. Checking this in."
+"Wow, fast. Thanks!"
+The patch looks good.
+I've just tested the shiro trunk with karaf-2.2 release and everything works fine :)
+You're results are awesome Paul. Great work :) Looking forward to see your new JSON parser in trunk whenever you think is ready.
+Very cool.
+Awesome speedup! Finally all this work shows great results!!
+I believe in relativity :-)
+Code looks cool.
+Hey very cool.
+"Hi Carlos, This looks awesome! Lots of cool stuff."
+"http://svn.apache.org/viewvc?view=rev&revision=468444 Deepal, Thanks!"
+"Awesome co-op. Thanks, Robert & Mike, for picking this up."
+v2 Looks good to me.
+This is a great suggestion.
+it belongs to faces 1.2 :)
+It's OK.
+:) I've renamed ComponentColorProperty to be ComponentColorElement and RelationshipAggregation to TwistieAggregation.
+"Great! Awesome work, Nick, and thanks for the clarification, Bill."
+Great work...this is awesome stuff.
+Wow!
+"Thanks, Ashish!"
+thanks Tomas!
+Applied patch with thanks to Scott.
+"Looks good, thanks Laura!"
+Sounds like a good idea.
+But I'm probably not an JMX expert... ;-)
+Thanks Mark for taking care of this issue!
+Nice work [~stepinto] !
+Fixed then :)
+"John: first off, i want to apologize for the *extremely* belated patch review ... I know i told you i'd try to look at this months ago, but ... yeah ... life tends to get in the way of patches. on the whole, things seem pretty good -- although you were still using an interface instead of an abstract class. Having the main API for a type of plugin be an abstract class is an important mechanism to help future proof ourselves against possible additions we want to make the the plugin API in the future; if it's an interface we can't really change it once it's released (because we might break people Impls); if it's an abstract class, we can always provide a default impl for people. the biggest concern i have about this patch at the moment is that there are no tests, and no example configs, so it's hard to be sure it's even working at all :) here's what i see as the current todo list for this issue... 1) there are some legacy SolrIndexSearcher constructors that need to delegate to the SolrCore to get indexReaderFactory ... perhaps we should have a helper method that decides which SolrIndexConfig to use based on the ""name"" ? 2) we need tests showing custom IndexReaderFactory getting used (even if it's just a mock IndexReaderFactory thatsets a boolean to show it's being used) ... this will also serve as a test that config syntax works. 3) need commented out example of using a custom indexReaderFactory in example/solr/conf/solrconfig.xml 4) sanity check this against SOLR-465, make sure we aren't painting ourselves into a corner. 5) we should make IndexReaderFactory use the AbstractPluginLoader stuff and remove the guts of SolrIndexConfig.loadIndexReaderFactory. It looks like we'll need to add a ""single item"" version of load to the AbstractPluginLoader to make that work well. #5 is something that can be done after this is committed, but 1-4 are pretty important. If you can update the patch with some configs/tests i'll think about the legacy SolrIndexSearcher constructors and try to figure out a good solution for them"
+Thanks for the issue / steps to resolve. Pretty much did what you said verbatim. (as it worked out on the other regexp issue)
+Patch applied. Thanks!
+Verified; thanks.
+Fixed - thanks!
+Very nice; thank you! Your pom works perfectly... I didn't think of adding the version tag there and ended up exporting * and then later add !org.w3c.dom and !javax.xml to prevent errors...
+"Hi Jurgen, yes that's probably a good idea but not something that can be easily and/or quickly implemented. I'd like to change this JIRA to from a Bug to an Improvement so that it can be looked at in a future release. Thanks for the suggestion....."
+Thanks. Moved
+"I have committed this. Thanks, Junping!"
+"Hi, Ted, Matteo Thanks for the review. The commands.rb has some existing logic that tries to 'rescue' some exceptions. It will get more and more difficult to keep it generic artificially as we evolve and add more ... The approach to expand (instead of shrink) this logic is not a bad or ugly one ... But your suggested solution is fine."
+"Thanks so much, Knut Anders!"
+Thanks for the patch Janko. I put the changes into 1.3.x and 2.0.0.
+"That's great. Thanks, Junping. Then, I will first commit HADOOP-8820.b1.002.patch. For the additional bug fixes, let's create a new JIRA since we also need to fix the code in trunk."
+I've committed this to trunk and branch 22. Thanks Nigel! Tested via ant tar and ant package instead of Hudson since most of the change was done via svn remove (the patch only applies to build.xml).
+Committed to trunk. Thanks Prasad!
+I just committed this. thanks steven!
+commit the patch to trunk. thanks sameera.
+Yeah the patch is great. Just that it should not have been categories as a bug :)
+"+1, Thanks!"
+"Thanks Alok Agnihotri for your valuable patch. Special thanks to Rishi Solanki,Pranay Pandey,Brajesh Patel and others in helping Alok. Changes are in rev # 607341. -- Ashish Vijaywargiya"
++1 thanks. Don't forget to add line to CHANGES.txt when committing
+Thanks for reviewing Suresh. Committed to trunk.
+Committed. Thanks Yusaku!
+Patch applied to trunk/ . Thank you!
+It's working! Thanks.
+"I just committed this. Thanks, Alejandro!"
+I just committed this. thanks flavio.
+Thanks for the suggestion Raghu. Let me try it.
+Thanks!
+Thanks Rahul! I will take a look at it this evening. Aaron
+"Great, I think we are all on the same page, then! We'll move forward down this route. Thanks for taking a look."
+"Thanks, Jarcec!"
+I committed the patch branch-1 also. Thank you Andy and Slavik.
+"Oh, how this warms my heart to see this... Thanks Daniel - I know you've worked hard on this :)"
++1 Thanks Sambavi
+"Simon, thanks, please commit this :)"
+"Committed, thanks Sambavi."
+Committed r1146903 Thanks Jonas for the patch.
+"Thanks James, does the rest of the build work with this patch? Seems like this should work with the old RHEL5 toolchain but I didn't look closely."
+Committed. Thanks John.
+thanks
+Applied the patch with revision 170884. Thanks Carlin for the detailed updates (and for all the fixed double-dashes :)).
+"Hi Neil, Thanks for the advice ... > On the other hand, if you can design a handler that knows how to > make appropriate calls to the scanner's sendChars() method so that > the buffer gets flushed when a maximum buffer size is reached, then > perhaps a pluggable handler wouldn't be necessary since the default > behaviour would always work when an application has chosen to set > this limit. The code I have, as written, does have the pluggable handler notion, since I didn't want to arbitrarily couple the XMLBuffer class implementation (or worse, it's interface) to the scanner. I didn't go so overboard as to allow multiple registered handlers, or anything like that; this seemed simple enough without being a hack. > I'd also observe that XMLBuffer has to check to use the > infelicitously named ""insureCapacity()"" method to make sure it's > large enough Yes, this is where I implemented the full-handler invocation. It's more or less as you describe. Once I get everything cleaned up, I'll post the patch here; you'll probably find it to be entirely unsurprising. I think what I'll end up doing to allow user-configurable buffer size limit will be to add a setter method on Parser and AbstractDOMParser, something like setInputBufferSize(). I think that would be most consistent with the existing API. Sound ok?"
+I just committed this. Thanks Amareshwari!
+"I have committed this. Thanks, Aaron!"
+Thanks Andrew for covering me.
+Committed to trunk. Thanks Jeff!
+Committed. Thanks Zheng!
+Junit patch committed Revision: 634284 - Thanks John.
+"Thanks. Yes, when that fragment is part of an RTF file it provokes the exception, so if you could put it into a valid RTF file it should throw the exception."
+"Hey Aidan, can you cast your eye over this again. Thanks."
+"If you ment this <s:div id=""t4"" showLoadingText=""false""> <s:form id=""form"" action=""AjaxTest""> <input type=textbox name=""data""> <s:submit type=""button"" theme=""ajax"" label=""Update Content"" targets=""t4"" id=""ajaxbtn""/> </s:form> </s:div> it still doesn't post the form values in IE but works fine in FF Thanks a lot for your quick response. I really really appreciate -ravi -- Ravi Mangalagiri www.bluepitch.org (My personal website. Coming soon!) 703-505-4240 (c)"
+"Committed, thanks"
+"Thanks for the patch, applied to 1.x and 1.5.1"
+"Hi Colm, My comments are the same, see above: https://issues.apache.org/jira/browse/CODEC-161?focusedCommentId=13485148&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-13485148 I've not gone through to see if you've addresses any of comments but a quick scan shows that you did not pick up 2 and 3 so I'll wait for the next version of the patch ;) Thank you, Gary"
+"Patch applied, thanks!"
+"Committed to trunk. Thanks, Navis! [~thejas] I will recommend inclusion of this bug fix in 0.12 as well."
+"I have committed the patch to trunk, branch-2, and branch-2.0.4-alpha. Thanks you Jagane!"
+Thanks for the commit!
+"I've committed this to trunk, branch-2, and branch-2.2. Yingda, thank you for the patch. Chuan, thank you for help with the code review."
+"Thanks for the new patch, Kim. +1"
+Integrated to TRUNK. Thanks for the patch Ramkrishna. Thanks for the review Michael and J-D.
+"I have committed this. Thanks, Junping!"
+"I committed this. Thanks, Raymie!"
+Thanks Martijn!
+Thanks for the patch. Committed to 0.8.
+"Hi Chris, could you add my username as initial developers for the Spark JIRA? Thanks."
+Thanks Jarcec - that clarifies.
+"Thanks Ilya, Aleksei - the patch was applied to BTI branch 2.0 at r542776. Please check that the patch was applied as you expected."
+Thanks Daryn I put this into trunk and branch-2
+"Hi Pieter, it looks fine now ; thanks ; your mirror will be added to the list in an hour or so. Groeten, Henk Penning"
+"I've just committed this to trunk and branch-2. Thanks a lot for the reviews/testing, Chris and Todd."
+Hi Victor Thanks alot for your help testing this issue! Would be good to know if it works on Centos too. kind regards bob
+Yes it can be resolved. Thank You!
+"Alexei, the patch has been applied as expected. You can close the issue, thanks."
+The patch is in: https://git-wip-us.apache.org/repos/asf?p=sqoop.git;a=commit;h=3865f7deec722948a60cc1746e2330bd1c5cb9e4 Thank you Vasanth! Jarcec
+"committed as 1307725. thanks for Ivan's improvement, thanks Flavio for reviewing."
+I just committed this. Thanks Vinod!
++1 Committed. Thanks Suresh
+Committed to 0.11.1 branch and trunk. Thanks a ton Kai!
+Thank you!
+"siying, can you rebase this patch? thanks!"
+thanks luis!
+trunk and 0.95. Thanks for the review JD.
+Applied patch with thanks to Chris.
+"Integrated to trunk. Thanks for the patch, Rajesh. Thanks for the review, Ram."
+"Thanks, I've committed your patch, leaving out the change to equals() and not removing mergeBooleanQueries() as that is a public method which someone might be using. Also, could you please check if the test case is correct now? I couldn't apply that part of your patch cleanly and something might have been broken."
+"Apllied at revision: 545149, thanks!"
+"Hi Michael, thank you for your answer. I thought that it would not be so easy to solve this issue. Unfortunately. I agree with you that the main problem here is that a copy action is missing and I guess AttachStrategy.persist is the right place to add some kind of copy functionality. I started looking into the source code of the enhanced class from the test. PersistenceCapable declares a public method to copy fields (pcCopyFields(...)). Unfortunately you can't use in AttachStrategy.persist, because the entity to persist has no statemanager at this point (an exception InvalidStateException will be the result). My suggestion is to modify the class enhancement and remove the StateManager check in pcCopyFields (I don't see the need for this check). Afterwards you can use pcCopyFields in AttachStrategy.persist by adding something like ... if (manager.getCopyNew()) { int[] fields = new int[meta.getFields().length]; for (int i = 0; i < fields.length; i++) fields[i] = i; newInstance.pcCopyFields(pc, fields); } ... This solution works for my testcase. As an alternative you can modify (or add an additional) newInstance to copy the data. I have no real experience with OpenJPA. Perhaps there is a much better solution."
+Thanks for fixing it!
+Thanks for the review jimmy. committed to trunk.
+"Guillaume, I took a quick look at your suggestions. I agree that we can reduce the code a bit. However, I think that we need to keep the activate method as it initializes the servingXml internals. I'm not sure about the deactivate method. I also noticed that you have added a patch, but, being new to jira, I'm not sure if that means that you've made changes to my attachment or something else. Are you still looking for me to correct the formatting and to remove the extraneous methods/classes? Thanks, James"
+Applied patch into trunk and cxf-2.2.x branch with thanks to William.
+Applied to master and branch 1.2.x. Thanks Klaus.
+Applied to branch and TRUNK. Thanks for the patch Ramkrishna.
+Please review the submitted patch. Thanks.
+Thanks Otis.
+Committed. Thanks!
+Thanks Uwe!
+Thanks for finding and fixing. The patch applied at r474719
+Committed to trunk. Thanks for patch Tudor and review Michael.
+"Committed to trunk. Thanks, Teddy!"
+"Done, Thanks chatra"
+"Knut and Rick, thanks for your feedbacks. I will take care of the comments posted by Knut. Rick, thanks for adding -lint directive, it will be good to see the error from the compiler."
+Thanks for raising these documentation issues! I just committed a fix.
+"Committed to trunk. Thanks, Gunther!"
+Committed. Thanks Gang Tim Liu
+Thanks Jacques :)
++1. Just committed this to trunk and branch-0.23. Thanks Jason!
+"Hi Aidan, can you review this change please, thanks."
+"Jean-Marc, can you review it? Thanks."
+Thanks.
+That is useful advice (call me biased if you'd like).
+Thanks for providing the patch.
+Thank you!
+"Thanks, Adrian!"
+"Thanks, Alexei!"
+Thanks Ilya.
+Thanks Jimmy.
+thanks for the explanation.
+"thanks, nandana"
+Thanks for your patience.
+Thank you Ravi.
+"+1, thanks Tom!"
+Thanks Andrew - the patch was applied to SQL module at r525019.
+Thank you for the patch Sergey.
+I love a solution that's simpler and easier to understand than the original.
+"Hi Henry, Thanks for checking it out."
+"Thanks for reminding me; I agree, I'll do it."
+"Thanks, JinJie!"
+"Hi Sagara, Thank you very much for looking into this."
+Thanks for the quick patching Donald!
+"Thank you very much, Richard."
+thanks henry!
+"Hello George, The fix looks fine, many thanks!"
+"Best regards, Andrew"
+Thank you Brandon.
+This is quality work.
+"Thanks a lot for the reviews, Todd."
+Thanks for your patience.
+"Thanks Richard, Patch applied to NIO_CHAR module java.nio.CharsetEncoder at repo revision 389784."
+It will be great if you could confirm it either way first.
+I'm glad we were able to resolve this issue.
+"Megan, Glad to be of service : )"
+"Aha,, thanks for the information. That makes sense. Glad to hear that it helped! :)"
+Thanks for looking into this Suresh.
+Thanks a lot Subin.
+Thats sweet that you have the prior experience hacking this on top of a store already.
+"Excellent work, Doğacan - thank you."
+This looks simple and sweet to me.
+Sweet kickstart for our new wiki!
+Thank you Babak!
+"Could you please port it to branch-1 that that we could integrate it to branch-1-win Slavik, thanks for the review!"
+"Thanks Ashish, For committing the patch."
+Thanks Pat.
+Odd that you can't get the attached to build as it builds fine for me with the current latest code; never mind because I've tried it for you and yes this has fixed the problems and it now works. Thanks Jim! (Side note; I agree 100% about moving all the non-Java container specific tests out of the java container project)
+Thanks for the sample app; I updated it for 5.0.15 and verified the problem; then tried the fix. Had to modify the mixins to return false from beforeRenderBody(); but then everything worked as expected (the Any component omitted its body).
+Ah; fantastic - that works very well. Thanks!
+"Thank You very much for Your positive review and for improving the patch! Also, a small correction to Your previous comment, it should be: ""unit tests included in her patch"", as You know I'm one of the girls in this year's GSoC program. It was a great experience to collaborate with You and I Thank You for everything!"
+Thanks a lot for your excellent work Shazron!
+"looks fine, thank you, George."
+"Looks good. Applied, thanks! http://svn.apache.org/viewvc?rev=606891&view=rev"
+"Great, thanks!"
+"Awesome, works for me. LG committing. Thanks!"
+Awesome. Thanks!
+"That looks great, thanks! I replicated the database but can't figure out how to start the CouchApp, can you help? Cheers, Chris."
+"Jaigak - Its nice to see another application on top of Yarn. Since its a lot of new code, could you please add some notes on the high level components and suggest some pointers on navigating the code. It will help review the changes. Thanks!"
+"bq. If you back-port this to 2.9, you can't use any of the java.util.concurrent.* Very good point! - didn't thought about back porting at all. bq. I'm not sure you need a separate SearcherHolder class - can't you re-use IndexReader's decRef/incRef? I guess I did not see the simplicity the reader offers - blind due to java.util.concurrent.* :) bq. I think there are some thread safety issues.. this is weird - on my dev machine and in the patch it is not synchronized.. on the machine I run the tests it is. Anyway you are right. I changed the code to be compatible with 2.9 using indexReaders.dec/incRef.. will attache in a minute"
+"Thanks! Looks like a good clean-up to me. I admit I didn't check all the changed lines in detail, but the approach gets my +1 :)"
+Works fine with my minimal test case and the tutorial. Thank you!
+"Looks like a good solution! Thanks for taking care of this, Uwe! {quote} Should we backport this to 2.9 and 3.0 (which is easy)? {quote} +1"
+"The patch looks good, just applied on the 1.1 branch and trunk. Thanks a lot, keep them coming! :)"
+"+1. Patch looks good. Thanks Jian, and Zhijie, Bikas for the reviews."
+Many thanks ... looks good
+Committed to trunk. Thanks Mathias!
+"I'm sorry, the error was only triggered on a clean build. Thanks for the catch Eric, can you please review the simple fix?"
+"I apologize for taking so long to get to reviewing this. This has some good elements but also quite a few problems. Here are a few suggestions. 1. The bindingGBeans do not need to know the name of the gbean they are getting something to bind into jndi from, they need a reference to it. Similarly they do not need to bind a naming Reference, they can bind the object itself. For instance, the connector binding gbean can do something like this: private final ManagedConnectionFactoryWrapper managedConnectionFactoryWrapper; // this is the reference to the gbean that gives us the connection factory to bind ... //now it's time to bind the connection factory Object connectionFactory = managedConnectionFactoryWrapper.$getResource(); globalContext.bind(jndiName, connectionFactory); This is also going to affect how the builders set up the binding gbeans: they know the name of the appropriate gbean such as managedConnectionFactoryWrapper, since they just created it, so they need to use that name to set the reference pattern in the binding gbean. The binding gbean will then get (a proxy to) the ""real"" gbean that it can use as outlined above. 2. I don't see an implementation of a writable thread safe jndi Context, as dain pointed out you would need. 3. The zip file consists almost entirely of irrelevant files and the actual source files do not all appear to be in the geronimo project structure. This makes it extremely hard to figure out what to look at. 4. Some of the code modifications (such as to ServiceConfigBuilder) appear to be test cases rather than production code. It will be a lot easier to evaluate your work if you keep test cases and production code clearly separated as is done in typical maven projects. 5. I think you will need to redo the openejb work after dain's reintegration of his container rewrite. Thanks! Let us know if you have any questions about this."
+Fixed. Sorry folks; the 2 contributions ASM_8001_Java and ASM_12011 did not get committed from my local machine since the projects somehow were not part of my Eclipse workspace when I did the commits of these changes
+Unfortunatly; this minimal example is not very small ... When i try to simplify it to reduce size; it stops to crash because of different memory allocations sizes it goes through the other code branches. The problem can be reproduced only by transforming two files HAC_OPER_HIER.xml and HAC_OPER_LIST_FORM.xml with one XalanTransformer without recreating it (i modified attached xalanexe.cpp to reproduce it)
+"Thanks for accepting this patch. I'm sorry I wasn't sensitive to the brace convention already in the file. I probably could have javadoc'd the inner class, too :) I didn't think about the lack of thread safety of the SimpleDateFormat class: good catch. So this counts as a bugfix by markt (format was being used in an unsynchronized way prior to this patch) as well as an enhancement by me :) If DBCP typically uses localized error messages, I'd be happy to provide another patch that localizes the exception's message."
+"Same attachement with ASF grant this time (forgot to check the first time, sorry)"
+"Hello Oliver, Sorry for the late response. I haven't had any time to look into this again, maybe it was a misuse on my side after all. Since I haven't been working on the project I encountered the behavior in for months, this issue might as well be closed."
+"Stepan, Sorry, I didn't see you comment until I'd committed the change - Sian tested it for me. I've no idea what the msvcr71.dll issue is - but I don't think that is anything to do with my changes. The fetch-depends/checksum issue for icu-3.4.zip should be fixed with my patch."
+"We'll get it fixed soon, sorry for the inconvenience. I just wanted to point you (and others who may land here) to alternative resources meanwhile :)"
+Regrettably I do not have a working instance of svn so I can't create a proper patch I have attached the modified source file: org.apache.tuscany.sca.assembly.builder.impl.CompositeWireBuilderImpl.java I have commented the place where I modified a single line with: // FIX FOR JIRA BUG: TUSCANY-1930
+"I think my first preference would be to make this only a java 7 and up feature. The change is very clear and we can use our normal testing methods. Meanwhile users can set their umask appropriately. My second preference would be only to only change permissions by default with java 7 and higher. I think we really need to have tests for the default configuration and non-portable tests might have to be customized to different environments, which seems like a lot of effort for something that won't be used moving forward. I am sorry I didn't chime in earlier. Time has been quite tight recently."
+"Yes, sorry I forgot to mention this :-) But a header where this is stored would work great, and probably there should be a config item if you want it or not."
+sorry for the delay
+Sorry about that.
+"I'm afraid one can't extract the text from the given pdfs. Both are using fonts with a non human readable encoding and as there isn't included any mapping, you'll get rubbish instead of the text. Even the acrobat reader can't extract the text."
+"sorry, should be: path -p6 < pluto-1.1.0-taglib-el.diff"
+"Sorry for the noise, I forgot to grant the license to previous attachment for inclusion in ASF works. Thanks"
+"Good catch, sorry about that. I had run the tests but I guess I didn't re-run on the very latest rev against latest trunk. New patch fixes the NPEs."
+"Oops, sorry. Certainly right."
+"Sorry Michael, but I did find one small last issue with the patch. I guess you meant to use Boolean.parseBoolean(this.jcd.getAttribute(""org.apache.jetspeed.engineScoped"", ""false"")) instead of Boolean.getBoolean(...). After correcting that, the patch works for me and I'll commit that change. If you can confirm it still works for you then I hope we really can close this issue."
+"Unfortunately I have no Sql Server to test against at the moment. But I wonder, does this work when using a table name like 'SomeTable' (note the upper case). If you could verify for me that such mixed case names work with your patch when not in delimited mode, then I'll apply it ASAP. Tom"
+I meant the findbugs addon. Sorry for the confusion.
+"Ah, this is in Solr-land, sorry, thought it was Lucene."
+"Sorry Carl, this won't make it in the 2.2.0 release which is about to be released very shortly now... Maybe it could get into the 2.2.1 release if you are able to send us a patch or a reproducible testcase. thanks, Maarten"
+Sorry I missed this since it wasn't tagged iOS. Looking at it now.
+"Sorry looks like we took to long to get to this, the patch no longer applies. Can you please upmerge to latest?"
+[~sershe] sorry for late reply. I upload the patch to https://reviews.facebook.net/D13341. Could you help to review it ? thx.
+"Sorry for my delay. I would have answered early but I completely missed the notification mail about Christiano's comment :( @Christiano: I've just tested it again and it seams to work for me: {code} karaf@root> list START LEVEL 100 , List Threshold: 50 ID State Blueprint Level Name [ 42] [Active ] [ ] [ 60] Apache Shiro :: Core (1.2.0.SNAPSHOT) [ 43] [Active ] [ ] [ 60] Apache ServiceMix :: Bundles :: ehcache (2.3.0.1) [ 44] [Active ] [ ] [ 60] Apache Shiro :: Support :: EHCache (1.2.0.SNAPSHOT) {code} Looking into the shiro ehcache pom i found the following: {code} <Import-Package> org.apache.shiro*;version=""${shiro.osgi.importRange}"", net.sf.ehcache*;version=""[2.3, 3)"", * </Import-Package> {code} --> org.apache.shiro.ehcache [70]: Unable to resolve 70.0: missing requirement [70.0] package; (&(package=net.sf.ehcache)(version>=1.4.0)(!(version>=2.0.0))) says that you're using an old snapshot-version of shiro ehcache. This could happen with the snapshots since karaf simply takes what it could find in your local mvn repo. Either simply remove your local .m2/repository/org/apache/shiro folder and let maven grep the latest version or build shiro yourself locally should fix the problem. Sorry again for the delay and kind regards, Andreas"
+"Sorry, but your testcase doesn't fail on my machine, it gives me two counters in two windows - the second one with a ten second start delay. WinXP + JDK 1.5.0_09 + Tomcat 5.5.20 + T4.0.2"
+"Sorry, I use JDK 1.4.2_06 and not 1.4.1 :)"
+"It is a nasty bug that I've seen in real life, though."
+"Sorry for the delay and thanks for the good work, works like a charm!"
+(I could not get what KEYWORD means.)
+Seems to be failing for a different reason now testContainerLaunch(org.apache.hadoop.yarn.server.nodemanager.TestLinuxContainerExecutorWithMocks) Time elapsed: 0.523 sec <<< FAILURE!
+"Sorry, for all the issue mails, I forgot to mention the second: 2) There is commented source in the test, should it be enabled or removed?"
+I should have been very careful before doing this.
+"You are going to kill me when I say this, but it seems like we should just commit your first patch."
+One of the error is that hiddenActivations cannot be resolved.
+"Oh, I didn't consider one flow like after the edit log conversion, immediately #store failed."
+I misunderstood the case and sorry for the confusion.
+You would need to implement session resume; thats a whole new can of worms.
+"Done, sorry for all the mess on a simple patch."
+HTML is quite uncomfortable to work with.
+Our caller may not notice what happend right now.
+This is only a problem with exceptions from java.
+I misread.
+Seems to be a faulty mailserver setup at laguna-industries.com.
+"Unfortunately, in these days where everyone that can put a CD the right way up in a drive is a Linux/Unix/Windows/Internet Expert, this has become pretty common."
+"Mac, looks like the tests are failing (especially TestHarFileSystem)."
+"@Luke, Sorry for the late, attaching latest version patch"
+"Sorry, we are no longer using Xerces."
+The cause is that the call to SpecificResponder.writeError in Responder.respond ultimately calls GenericData.resolveUnion which in turn calls GenericData.getSchemaName before the line where the UnresolvedUnionException gets thrown.
+"Sorry, this affects 0.9.3 version too."
+Phabricator is being a little buggy.
+"Sorry about the noise, was trying out the precommit job."
+"Sorry, I see that you say the same, Mike :)"
+Sorry about the confusion before
+"Sorry folks, the full fix was committed in rather a messy manner due to some platform specific issues."
+Sorry - the above comes across as terse.
+I really don't know how to solve this problem.
+"Ha sorry Varun, thanks for the reminder, I will have a look at it soon..."
+"Sorry, my code base is a little old, looks like HADOOP-9147 add some new test in TestFileStatus."
+"Sorry, missed that select-box."
+"On 2008-10-20 11:43:52.354 woflexair commented: Joan, sorry for the noise in the bugbase but it's not a bug."
+Sorry about the report.
+The biggest problem is that we've had too many committers over the years and we'd have to get all of their permission to change it.
+Sorry.
+Sorry for the misspelling ;)
+I must have looked at this before my morning coffee..
+"Wow, that was some bad copy/paste work."
+sorry.
+"Sorry, misunderstood the issue!"
+sorry for delay
+"Sorry for the delay, was away."
+This was my bad.
+Didn't got the time to try it yet.
+"Um sorry, i thought this ticket was about something else - patch attached, David would you give a try?"
+Sorry.
+"Sorry, yes I believe this has been resolved."
+"Yes, the patch is badly named - sorry!"
+"Sorry, https://bugzilla.mozilla.org/show_bug.cgi?id=514760 is related but not same."
+WOW....you are right...I'm deeply sorry to bother you guys (and I'm also a bit embarrassed).
+Sorry to nag.
+Sorry I'm wrong about #2.
+Sorry for the noise.
+"Aaron, sorry about this."
+My patch wouldn't compile.
+"Line 1664 (sorry, the 0.94 codeline)"
+"sorry old xml here is the used one: <?xml version=""1.0"" encoding=""UTF-8""?> <root><value>?¤?¶?¼ und ??????"
+"Sorry for the super-slow uptake on this, the new job is using up all of my limited brain resources."
+s/[~apurtell]/[~lhofhansl]/ Sorry guys.
+Very curious as to where you saw that exception. Because digging through my log files; all I see are series of 'NoClassDefFound' exceptions. Same goes for the sample project I submitted. I get the following stack trace: java.lang.RuntimeException: java.lang.ClassNotFoundException: caught an exception while obtaining a class file for org.apache.tapestry.transformationtest.pages.Start at org.apache.tapestry.internal.services.ComponentInstantiatorSourceImpl.findClass(ComponentInstantiatorSourceImpl.java:240) at org.apache.tapestry.internal.services.ComponentInstantiatorSourceImpl.findInstantiator(ComponentInstantiatorSourceImpl.java:222) at $ComponentInstantiatorSource_1177c5597da.findInstantiator($ComponentInstantiatorSource_1177c5597da.java) at org.apache.tapestry.internal.services.PageElementFactoryImpl.newRootComponentElement(PageElementFactoryImpl.java:297) at $PageElementFactory_1177c5597e8.newRootComponentElement($PageElementFactory_1177c5597e8.java) at org.apache.tapestry.internal.services.PageLoaderProcessor.loadRootComponent(PageLoaderProcessor.java:387) at org.apache.tapestry.internal.services.PageLoaderProcessor.loadPage(PageLoaderProcessor.java:365) at org.apache.tapestry.internal.services.PageLoaderImpl.loadPage(PageLoaderImpl.java:60) at $PageLoader_1177c5597e5.loadPage($PageLoader_1177c5597e5.java) at org.apache.tapestry.internal.services.PagePoolCache.checkout(PagePoolCache.java:188) at org.apache.tapestry.internal.services.PagePoolImpl.checkout(PagePoolImpl.java:108) at $PagePool_1177c5597e4.checkout($PagePool_1177c5597e4.java) at org.apache.tapestry.internal.services.RequestPageCacheImpl.get(RequestPageCacheImpl.java:43) at $RequestPageCache_1177c5597e3.get($RequestPageCache_1177c5597e3.java) at $RequestPageCache_1177c5597d7.get($RequestPageCache_1177c5597d7.java) at org.apache.tapestry.internal.services.PageRenderRequestHandlerImpl.handle(PageRenderRequestHandlerImpl.java:55) at $PageRenderRequestHandler_1177c5597cc.handle($PageRenderRequestHandler_1177c5597cc.java) at org.apache.tapestry.internal.test.PageLinkInvoker.invoke(PageLinkInvoker.java:59) at org.apache.tapestry.test.PageTester.invoke(PageTester.java:167) at org.apache.tapestry.test.PageTester.renderPage(PageTester.java:129) at org.apache.tapestry.transformationtest.pages.TestStart.render_start(TestStart.java:12) Even turning on debugging output; I don't see the exception message you posted.
+I wonder why not so many people use Linux?
+"Why would I want to use XML, when i can use the QBC API, or HQL (HQL can be embedded in the XML, remember), to express this stuff much more naturally?"
+any suggestion ?
+Can this be closed?
+"Is there any documentation how to use axis2-wsdl2code-maven-plugin, with jibx binding, and how on hell you define xmlns:tns from you binding file"
+It could be something as stupid as accidentally deleting the output file.
+Can we even be sure that the thread is the same?
+"Hi Amardeep, Are we sure that this does not introduce any side effects, regressions?"
+Is the bug really in NGramTokenFilter?

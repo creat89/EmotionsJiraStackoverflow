@@ -1,0 +1,153 @@
+__label__love __label__joy	upvote the patch looks good to me . i will commit this later .
+__label__love __label__joy	bq. opened lucene- . thanks ! i committed this to trunk and backported to .x nice iterations … 😉 heavy committing
+__label__love __label__joy	nice ! thanks for adding nice debug logging , too 🙂
+__label__love __label__joy	upvote i committed this . thanks , kay kay !
+__label__love __label__joy	upvote i committed this . thanks , jothi !
+__label__love __label__joy	hi paulex , the fix looks good , thanks ! best regards , andrew
+__label__fear	given the dependencies ; i do n't think this is going to be an option for the cannonical struts distribution ; unless it is reworked to use ibatis or cayenne .
+__label__joy	jonathan : over to you 🙂
+__label__joy	the patches look good 🙂
+__label__joy	many thanks , neeme .
+__label__joy	looks good to me .
+__label__joy	took me a few seconds to get it , but then i realized how awesome it is .
+__label__joy	upvote patch looks good
+__label__joy	john it would be great !
+__label__joy	looks good , thanks !
+__label__joy	awesome - great stuff maria . thanks !
+__label__joy	thanks galder :)
+__label__joy	great . awesome job sergey !
+__label__joy	the patch & tests look good to me .
+__label__joy	i like the elegant parser !
+__label__joy	good advice , this works …
+__label__joy	looks like the issues are timeout related….should be good to go .
+__label__joy	thanks bryan !
+__label__joy	great last enhancements , thanks guys !
+__label__joy	this is awesome !
+__label__joy	upvote looks good to me .
+__label__joy	thanks koji !
+__label__joy	thanks , owen !
+__label__joy	is that ok for this file ( b / c i have no idea how to do the svn move now ... after i 've made all the changes already ) 🙂
+__label__sadness	oh , signed shift !
+__label__sadness	unless we switch to antlr ( and even though , i 'm not sure this would fix the problem ) , there is nothing we can do .
+__label__sadness	sorry everyone .
+__label__sadness	keep repeating this and the problem just gets worse .
+__label__sadness	hi marco , i changed the name of patch because it was made in java earliar , sorry for inconvenience .
+__label__sadness	unfortunately , we ca n't do that , because that is not explicit on the spec javadoc , and there is a way to do what is expected using " targets " property .
+__label__sadness	sorry typo : " our part " in place of " one part " above .
+__label__sadness	this is a silly one .
+__label__sadness	git is tricky that way .
+__label__sadness	sorry again .
+__label__sadness	it does not look very useful .
+__label__sadness	sorry , but look at mapsubtract and further down in the source you will find plenty .
+__label__sadness	sorry , last patch was missing new files
+__label__sadness	i was not aware of being required to call that method .
+__label__sadness	sorry , i forgot to change the priority of this one .
+__label__sadness	my error .
+__label__sadness	sorry timothy , i forgot to include a couple of dlls , gtou . dll and gtoud . dll in the test tool that i uploaded last friday . i have added them to cms_test_tool.7z . they are under cms_test_tool\dll . please register one of these dlls ( for example gtoud . dll ) to compile cmsmessagehandlercom . thanks ! helen
+__label__sadness	igor , sorry it took me so long to get back to this .
+__label__sadness	sorry , after investigation , the real source of the problem is when a tag is using dots ( < a.variable > ) apparently , xmlconfiguration does not support this . should it ?
+__label__sadness	that is a bit too lax i think .
+__label__sadness	sorry if this spam 's things , however it 's unlikely that i 'll work on these .
+__label__sadness	okay , i 'm convinced . sorry about the wait . as an apology i have coded up the url - based version in v3 . ( have n't actually tested it on non-local files though , but it compiles . 🙂
+__label__sadness	sorry [ ~ fiberlijun ] - have nt had a chance to look at it yet .
+__label__sadness	hi rupert ! sorry it took so long but i thought i 'd test building in a linux environment too so i set up a centos machine running maven and java .6_41 . got the exact same error on both machines . i have attached corresponding logs both from windows8 and centos to this issue . link here : https://issues.apache.org/jira/secure/attachment/ /surefire_reportsr1450112_win8_centos6. .zip kind regards esse edit : i 'll also run mvn clean install for just jenatdb with logging when i get home .
+__label__sadness	sorry , forgot that dev lists were merged before jmeter was made tlp
+__label__sadness	hi guillaume , i did not have an answer right away , so i sent you question to leonard rosenthol .
+__label__sadness	sorry for your time .
+__label__sadness	qianshi is working on the ssl session reuse , but this buggy bug system does not allow him assign this ticket , sigh
+__label__sadness	sorry i missed some of this the first time .
+__label__sadness	sorry , my bad . let me upload what i have .
+__label__sadness	sorry avdhesh , i forgot to add these two files to the patch , here is the new patch containing the missing files
+__label__sadness	i am not really sure what does the receive payment do before the shipment , it does n't sound as if it is doing what we expect it to do .
+__label__sadness	otis , you need to grab the ' zipped ' version aka solr- .patch.zip ( since june ) . i was trying to be space & bandwidth friendly … sorry i did not make it more obvious in some previous comments . henri
+__label__sadness	{ quote } because they are non-javadoc eclipse - related only , and not everybody uses eclipse . { quote } ouch … sorry about that . you will not see that again .
+__label__sadness	sorry , in rushing to commit i forgot to add author during the commit .
+__label__love	patch committed to trunk thanks hari !
+__label__love	committed to trunk and 4x . thanks simon !
+__label__love	thank you , + harit himanshu
+__label__love	did you set : struts . devmode = false struts.configuration.xml.reload = false this did the trick for me 🙂
+__label__love	thanks rick for applaying the patch .
+__label__love	hey tom , the change in your patch looks good . latest patch just updates two tests . i 'll commit this if hudson comes back ok . thanks , eli
+__label__love	incorporating konstantin 's comment thanks , mayank
+__label__love	upvote looks good . once it is committed , i will deploy it . thanks sourygna .
+__label__love	thanks erwan for you 're effort 🙂
+__label__love	patch committed thanks !
+__label__love	committed , thanks !
+__label__love	thanks oliver , that 's fixed it .
+__label__love	fixed the minor nits . thanks , sid !
+__label__love	thanks anton . fix applied to accessibility module at repo revision r598652 . please check it is fixed as you expected .
+__label__love	thanks for taking a look bikas and devaraj . committing this .
+__label__love	committed . thanks namit !
+__label__love	thanks rené , your patch is in trunk at r1061167 , r10. at r1061173 , r9. at r1061174
+__label__love	forgot to mention : thanks to alejandro and his team for pointing this one …
+__label__love	i just committed this to trunk and branch- . thanks xeiguiming !
+__label__love	i like richards update as well 🙂 what i did was out of pure anger so it may not have been the sexiest .
+__label__love	thanks for the very clear explanation of the needed change , dag .
+__label__love	hi tri , those files looks good . i cursorily checked only.commonuilabels.xml.patch but from their sides i guess the others are good as well . but done from the ofbiz roo directory , it 's the main ofbiz directory where you fine the license and apache2_header files . anyway not a big deal i will try to apply them as is and will let you know you do n't have to remove the old files , as you can see they are now grayed , and it 's good that you checked the grant license box . thanks
+__label__love	i 've just committed this . thanks espen , andrzej , and owen !
+__label__love	committed to trunk , and . thanks for the patch shaneal .
+__label__love	committed , thanks !
+__label__love	thanks for sweet patch erik .
+__label__love	hello , thanks a lot ! it works . lisa
+__label__love	thanks , joseph !
+__label__love	thanks for the patch erik ( and jon )
+__label__love	committed ! to branch hadoop - eclipse - merge . thanks srimanth .
+__label__love	thanks tucu ! you are right . i had not thought of that . i 'm on the fence because we are serializing a process which should happen fast ( so parallelizing is good ) . like you already mentioned bq. * add a method in the filesystem to disable its shutdown hook . mrappmaster would disable it and call closeall ( ) explicitly ( it already does ) . this is already present ( by setting conf . setboolean ( " fs.automatic.close " , false ) ) so i 'm not sure what problem this jira is fixing . or are we planning for the future ? i 'm fine with the latter answer being yes . i 'm just curious . the patch looks good for what it intends to do , although the latest one does n't include the fixes you made in response to nicholas ' comments .
+__label__love	added in rev . thanks will !
+__label__love	hi , im sujan . i need to send proposal for gsoc for airavata- . how can i do it ? please let me know the steps what should i do ? thank u email : hardsujan@gmail.com
+__label__love	i would love to have it right now for storm too . if you want me to sign up as a use case i am happy to .
+__label__love	thanks robert . committed to trunk .
+__label__love	cheers , ashwin …
+__label__love	thanks , andreas , i will check it ,
+__label__love	i just committed this . thanks , amareshwari !
+__label__love	@ashutosh : thanks a lot for the comments .
+__label__love	committed to branch and trunk , thanks gab !
+__label__love	thanks dawid !
+__label__love	thanks for looking into this allan .
+__label__love	fixed at r504842 , thanks !
+__label__love	i applied the patch , thanks !
+__label__love	thanks wei . i 've committed your latest patch to svn.
+__label__love	thanks bilgin , it is working fine now .
+__label__love	hi jacques , hi ankit ... i think i found the reason why we ca n't call layer recursivly ... i made a patch but i ca n't sync my trunk today ( i 'm at our friends house and they have only internet via gps connection ... it 's so slow :-d ) . i will provide the patch on monday morning . have a good weekend sascha
+__label__love	committed to branch . @stack , any chance of some trunk love ? 🙂 if not i will get to it later .
+__label__love	thanks klaus !
+__label__love	committed . thanks chris !
+__label__love	first sorry for the delay . it looks like this patch slipped through . i tried to apply it , but there are a bunch of conflicts ( some of them are related to recent docstring format changes and other seem to be related to other changes ) . can you please re-generate the patch against the latest trunk ? thanks !
+__label__love	committed trunk and branch . thanks for the patch n.
+__label__love	committed to trunk , branch- and branch- - beta . thanks jian .
+__label__love	applied to trunk . thanks andrey
+__label__love	committed to trunk . thanks for review , stack and ryan .
+__label__love	it is ok , thanks stepan .
+__label__love	agreed , the current behavior is incorrect , i just did n't want you disappointed . 🙂 if you create your singleton jira patch before this one is applied , then just include them together and close this bug . i agree that commit rights would make this simpler and supplying patches is the primary way to gain commit rights , so you are on the right path regardless what happens with pax web . 🙂
+__label__love	thanks a lot , jon for signing up this .
+__label__love	patch applied to fop trunk , see r793095 . thanks for the fix !
+__label__love __label__sadness	thanks tom ; sorry for the mess .
+__label__anger	doh .
+__label__anger	what the hell ? !
+__label__anger	damn , it seemed it did n't work .
+__label__anger	* damn * , i forgot .
+__label__anger	it 's my bad .
+__label__anger	it seems some of the wrappers in ink_hrtime.h ( ) might no longer be used either , e.g. ink_gettimeofday ( ) is never used , so let s get rid of that shit .
+__label__anger	hmm ... this is quite bad .
+__label__anger	do n't hate me , just throwing this out there .
+__label__anger	bq. here 's a patch for the general case , and it also adds a warning that you should set your similarity with similarity . setdefault , especially if you omit norms . is there no way to remove this stupid static default and deprecate similarity . ( g | s ) etdefault ( ) ? can we not use the similarity from indexwriter for the case of normswriter ?
+__label__anger	my bad .
+__label__anger	bq. this is solr 's fault by having a getter that does some heavy duty xml shit .
+__label__anger	ah - my bad .
+__label__anger	you are mixing runtimes . you must link _ all _ executables with the same run - time library . for release ; it 's multithreaded dll ; for debug ; it 's debug multithreaded dll. otherwise ; bad things will happen when memory allocated from one heap is freed in another . i rebuilt your code with the appropriate setting ; and everything worked fine . see the project settings dialog box ; c / c ++ tab ; and the ' code generation ' category .
+__label__anger	here is quite bad .
+__label__anger	css is really confusing sometimes .
+__label__anger	my bad .
+__label__anger	actually i do n't want to specify the encoding , because i do n't care how the data is transported to me .
+__label__anger	not pretty .
+__label__anger	and i think if we 're going to do a sweep up of shit , we should just kill root .
+__label__anger	downvote to jar hell .
+__label__anger	sun ri sucks , why the hell is savestate ( ) and restorestate ( ) not called with with javax.faces.state _ saving_method = server ? ? ?
+__label__anger	the evil npe strik back ! !
+__label__anger	this looks reasonable to me … sucks we have to special case handling of " " ...
+__label__anger	but , even if it was n't it would be totally worthless where it is at .
+__label__anger	ok , wow , welcome to linux hell …
+__label__anger	> we ca n't let fear of back - compat prevent us from making progress .
+__label__anger	where on earth are you anyway ?
+__label__surprise	why is it unsafe to share filter in selectstatement for nqf ?
+__label__surprise	what was the outcome of the discussion ?

@@ -1,0 +1,152 @@
+I wonder if we could do some sort of auto-detect I'll poke -- getStream().mark()/reset() can probably work for XML/JSON but it may break things for javabin
+I do have some interest in working on this; but it's not currently on my radar. Implementing SOLR-4241 would illustrate the issues that need fixing ... although if this is tackled first; writing SOLR-4241 would be much easier.
+Hi Dave; I am not JIRA wise; I'll see if I can change the original; if not; I'll start a new thread. It worries me that the last binaries are two years old. It seems to say that nobody is using WS-RM; which I can understand. I will check with Axis2 1.5 before I update the JIRA. I won't check with 1.3; since I am using 1.4 features. Cheers; Patrice 21/09;
+"Ah, too bad."
+I think the correct resolution is to ensure that the prefix stack mechanism gets reset each time the XMLReader is used.
+"if so, can you see if you can git bisect this bad boy?"
+How bad is it?
+"I didn't do that because that seems bad in hive, so I returned ""null"" from the operation."
+"Sorry, I guess I'm against ""never computing this shit""... because you guys think returning NaN is ok."
+Damn...
+My bad.
+"Also, your username was stupidly named and confusing, so I deleted it and created a new one more appropriate."
+"Juhani..my bad, i was mistaken."
+I am currently trying to get it into AJDT dev builds but my git push is timing out (damn thing!
+"Shit, there is an dependency. Please go to Preferences -> LDAP -> Entry Editor and enable the option ""Show operational attributes""."
+"Please forget last comment, it is incorrect."
+Am I doing something stupid here?
+Pull it back in if you think different.
+My bad.
+Who made this stupid rule?
+The samples you gave are different.
+"@Oleg, please accept that my ""logical"" is different from your ""logical""."
+Bad IE.
+My bad.
+It really sucks that there is now way currently to include transitive dependencies.
+"In this case, data would pretty much just silently be lost."
+"That irritated the hell out of me too, but I didn't realise it was configurable in the .launch file."
+"That being said, I'm not totally opposed to making the limit configurable."
+Will still be stuck in the loop though if can't actually close regions.
+"It also happens at the very startup after he has loaded only 3 sstables (hence DataTracker likely have 3 sstables, not a shit load)."
++1 looks good.
+"I just committed this. Thanks, Amareshwari!"
+Thanks for you work on this Jayachandra.
+"Integrated to 0.92, 0.94 and trunk. Thanks for the patch, Chunhui. Thanks for the review, Lars."
+"Hi Bilgin, you are right the entitymode.xml can be removed but I when I add it I'm thinking to add a new filed to PosTerminalInternTx entity to store ""Pos Paid Reason"" instead of store it in the reasonComment field. I have already created some enumeration into DemoPosData.xml but it is still not been used. There are still a lot of things that has been not implemented or not working so contribution from other people are welcome. Removing the hardcoded value pos-1 into WebPosEvents.java at line 77 is something still to be done. I'm thinking to add a combo box after logged in to choose the posTerminalId but I didn't get the time to do it. Thanks Marco"
+Committed branch and trunk. Thanks for the patch Mikhail.
+Thanks [~ajisakaa]. +1 pending jenkins.
+Ok thanks ! Closing the issue then.
+Thanks for the explanation +1 for the patch.
+"Hi Tiago, Thanks for looking at this issue. On visual inspection of the change, your text change looks fine. However, I can't apply the patch. You need to svn diff from the top of the tree show it shows the path staring with java/engine/... You should reopen the issue until it has been committed. Also, just for good measure you should run suites.All and derbyall in case there are any canon updates needed. Thanks Kathey"
+"Thanks Andrew, committed in rev."
+"Patch is in. Thanks, Jarcec."
+committed to trunk. Thanks [~elserj]!
+I've just committed this. Thanks Edwin!
+Thanks guys!
+Hi Rich! Thanks for taking the time to move forward on this. I didn't have any JUnit problems at all with Maven2 when I installed it. But clearly we're in a world of hard-to-replicate behaviors here. :) What is the exact problem you're seeing?
+"Thanks for taking a look, Jiannan"
+"Sweet! Git, I love git! :)"
+"Oh, thank you lohit. Then should we close this issue?"
+Thank you Jing for the review.
+Thanks Amit & Vivek - Committed at r907620. -- Ashish
+Committed this. Thanks.
+Regex is your friend.
+"If you would like to take up this work, that'd be great."
+"Hi Bruno, I like it, seems to work well at 1st glance Thanks!"
+"Hi I’m trying to use hive performance benchmark. I read README file and followed step by step, and finally I reached to the data generation part. Teragen has no problem, but I face a problem with htmlgen. I configured something to my own cluster (40 VMs), and launched generateData.py, but it never finished! I launched it about 10 hours ago.. So, I modified UserVisits and Rankings in config.txt to be smaller, but it was also failed. Even it consumed very little resources when I saw 'top' information in the ubuntu. Have you guys ever met this kinds of problems? And if you have, how did you solve this problem? Thank you so much"
+Passed tests and committed to trunk. Thanks Charles!
+Thank you very much for your effort David.
+The issue is very old. Can you please confirm it with the latest CVS source cut ? Thanks!
+Thanks senaka for the patch.
+"Thank you, Carol!"
+Hi Edward Thanks for spotting it.
+"Hi, Thanks! Too be honest, I haven't looked at noop much. It was just used in the original patch. I'look at your updated patch and see what more work needs to be done."
+"I just committed this. Thanks, Omer!"
+"Hello Leo The patch has been applied at revision r479576, thanks a lot for this enhancement, please verify that the problem is fully fixed as you expected."
+Thanks Alexey; Mark. I took the latest patch from Alexey; incorporated Marks suggestion and committed this to trunk.
+"Committed, thanks Namit."
+Thanks Rishi Solanki to review the patch.
+"@Ted Thanks for taking a look. Sure, I will make that change on commit."
+"Committed to trunk. Thanks, Thejas!"
+"Fix applied, thanks."
++1 thanks
+"All the regression tests ran cleanly with the patch. Committed revision 1126468. Thanks for fix, Ed!"
+I just committed this. Thanks Jeff.
+addressed review comments. Thanks Vinod.
+897392 Thanks Sharan !
+Patch is committed to the trunk. Thanks Niraj.
+"+1 thanks, committed to cassandra-2.0 as commit 3a7093356ca032d9ce8767b2c47980aebe4bce60"
+Thanks Suresh
+"Sweet, I will review and apply."
+Very cool. Thank you.
+Mind taking care of this one Doug? This looks like a 0.92.0ism so needs dnoting so in the book as for 0.92.0. Thanks.
+"Thanks for your patch and your investigations! I reopen the issue, will apply the patch soon."
+Thank Henri and Don! I found there are two common-validator.jar in my jboss application server env. One in %JBOSS_HOME%/server/default/lib/ and the other in the lib directory of my web application. Then I delete the latter and it works well. Thank you so much!
+"HI Anahita, Your patch tested successfully."
+"Hello Andreas, Thank you for the information. Shall try the same and upload the patch shortly. Thanks & Regards, Ravikiran Mane."
+"I was able to download and extract http://db.apache.org/derby/docs/docs-10.0.tar.gz just fine. Thanks for working on this, Myrna."
+Thanks Karl.
+Committed. Thanks Namit!
+Committed. Thanks Yuntao!
+"Thanks for the new patch, Kristian! The changes look good to me. +1 to commit. A tiny nit in StatementPoolingTest; the code below could be expressed with an assertEquals now that there's only one condition: if (!simpleName.equals(expectedName)) { - if (!simpleName.equals(expectedName + ""40"")) { - fail(""Expected class name "" + expectedName + "" or "" + - expectedName + ""40, got "" + simpleName); - } + fail(""Expected class name "" + expectedName + "", got "" + + simpleName); }"
+"Thanks Bruno and Bilgin, You patches are in trunk revision: 691953 Great to see good cooperation at work :)"
+Fixed. Thanks for report (even if I'm not sure empty password is a good idea :-) ).
+Looks good. Thanks for your work on this!
+"this looks good, but a bunch of tests are now broken because of the new hidden input, I will fix the tests, do some more testing and commit in the next few days. thanks for the patch!"
+"Nice, I did not think about using the system tables."
+Sounds like a good idea.
++1 the patch looks good.
+Thanks once again.
++1 the patch looks good.
+"Thanks Alexei, the patch is fine."
+"So very cool, and so very committed-- thanks Matthias, this is awesome."
++1 the new patch looks good.
+"Good ideas, thanks Alexey. I've updated the test patch."
+Good idea especially if you have a use case for that.
++1 patch looks good.
+As suggested above; I moved the detector classes from o.a.t.detect to o.a.t.parser subpackages in revision 1159985. That should complete the last remaining open issue with this feature; so resolving as fixed.
+"Well, the fix looks good enough. Seems there is a lot of dead or half-broken code around st_print_frame() / exn_print_stack_trace(), but those deserve good refactoring all in all."
+thanks to Ernst Fastl for adding this.
++1 patch looks good. The checkstyle.xml is specified in hadoop-project-dist/pom.xml .
++1 patch looks good. This cleans up a lot of code.
++1 looks good - all tests pass.
+"Great, thank you for the commit Harsh! Mitch, thank you for providing the detailed bug report."
+"However, the goal of the test was very good."
+Long Life MyFacesssssssssss!
+Thanks Ashutosh and Gunther for your help!
+"I tested a couple of projects with IDEA 7 and 8 and some more with IDEA 7, and everything is working."
+"Sorry, db name is TPCDB, user name TPC, pwd whatever..."
+Sorry for the noise.
+Not sure I want the transient inability to clean up some local log or other trivial task to kill a whole pig job?
+"Oh, I'm sorry, I was unclear."
+Forgot ASF grant.
+"I've tried something similar (I removed the handlers and kept the readers), but the performance was not visible."
+Sorry for the link 'block'; can't undo it... I wanted to add a 'clone' link.
+Sorry for trouble. I didn't realize that port and context path is configured via pax web & cxf bundle configuration in Servicemix
+"I almost forgot, as I received the email notification on the weekend."
+"I'm not sure what the problem is, but the behavior (at least in 0.1.4) is that the _isClosed AtomicBoolean is not being set to closed in a timely manner."
+sorry.. redeploy patch
+"Working: - Bash on Linux Not Working: - Bash on Solaris - CSH on Solaris - KSH on AIX - Bash on AIX So, you're right. I close this bug as ""work as designed"". Sorry for the noise :)"
+sorry.
+I don't have resources to hand to test this at mo.
+"Sorry [~kumarr], let's just do this in 0.96."
+Sorry.
+Oppss... sorry late reply.... Thx for handling this issue Claus. I prefered it to be the way it is now; document this behaviour as Claus already did. I think there might be both behaviour have its particular usage; if we want to have a param that is a string; it makes sense to use <param>...</param>; anything in between that's enclosed with %{} will be evaluated and its toString() called. On the other hand; if we want an object; we could used the value attribute. I guess what i'm trying to say is that both way of using param have their own usage. Of course this is just my 2 cents
+Missed 2 new files - sorry !
+"Sorry I missed the ""overwrite"" keyword."
+Sorry ;-) +1
+The responder seemed to be a bottleneck.
+Sorry for that.
+Missed 2 new files - sorry !
+Sorry about the trouble.
+Sorry for the noise.
+Sorry for the missing class src/java/org/apache/jdo/tck/lifecycle/StateTransitionsReturnedObjects.java.
+bq. So we can add isAlreadyExpiring() and if true Sorry it should be So we can add isAlreadyExpiring() and if flase we can go with expireIfOnline
+"But it was not the only issue: we also want to manage priorities between the tasks, but we need to read them to get enough information to make the right priorities."
+"Sorry, patch is attached"
+Sorry I've been MIA on this issue.
+Sorry for the huge delay Fabio.
+"Hey Vikram-- sorry about that, I haven't paid much attention to this issue."
+"The patch should be relatively trivial, but like I said, I have no idea if there is other important stuff going on there or not."
+"Sorry for the late reply. Your corrections look good, I've just applied them. Thanks!"
+"Sigh, I don't like this overall if can't reuse everywhere."

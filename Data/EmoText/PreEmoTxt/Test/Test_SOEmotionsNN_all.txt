@@ -1,0 +1,572 @@
+"By the way, I agree with Henrik P. Hessel. This is a very horrible piece of code."
+as you can see folks hate spending time giving details on bad advice!
+"the two are not mutually exclusive, archmage."
+It's impossible to receive unicast UDP packets in Silverlight (rage!!!).
+That is awful advice! I don't mean to be overtly mean but I lolled.
+"Oh, absolutely horrible practice. But still the answer he was looking for."
+Tried it again - it worked. God I hate reporting services!
+Someone is scared to tell the reason of -1 !
+"I have just started using Vim in a terminal (PuTTY or MinTTY), after always using gVim. However, when using syntax highlighting, rather than the actual text colour changing appropriately, its background is changed to whatever colour -- and it looks horrible! I've set my terminal to use 256 colours and downloaded a 256 colour colour scheme. I checked that the and settings are as I expect, but I still get this problem... Is this a Vim or a terminal configuration issue?"
+"I am developing a web page which embedded a ""Google maps"" view. In this web page, the user must specify several positions on the maps At this time, I am able to spread the balloons on the map displayed when the user click on a button to be dragged, but according to the zoom it can be very painful to zoom in and out to drag the balloon to a place. I would like to know if it could be possible to have a panel with all balloons to drag/drop on the map? My current development : My target :"
+"I'm doing one app which requires AJAX call on almost every user interaction possible, I started writing JS functions, webservices etc. to handle all of that(still long way to go from here). Now I am wondering If I made a mistake maybe I should put whole page in update panel because I really hate writting JS. Is there some drawback to use it instead of custom written ajax calls to web service and js functions, and is it better to use more update panels or one big?"
+"I'm trying to do this in a makefile and it fails horribly: do you know why? I guess it has to do with escaping, but what and where?"
+done... stackoverflow makes you wait several minutes. I really hate that
+Why would you do that? You're begging for horrible debugging sessions!
+"I don't see how this is possible, but I really, really hate to run my query an extra time just to get the record count so I can build a pager. When I say a ""pager"" I simply mean the common gizmo with a link for each 10 records for example."
+EDIT: Also you should avoid using it can make debugging extremely frustrating.
+"Ew, the `com` prefix is horrible!"
+"I wrote something that does work, but it's extremely ugly, but thought it could either help someone else or we could get something better. Here's what I came up with:"
+I am very jealous of your name!
+EF CTP5 is still having this bug! Anyway there is a simple work around for now See more here: Be aware that Count() is total rubbish performance wise!
+"as was already established, this is a miserable, horrible, awful, and terrible idea from a concurrency perspective. Anyway, since your question is really about Go's type system, here's how you would define a type with a recursive method."
+"I cannot seem to figure out why the phpunit target does not output any test results even though I have tests in position. The problem I am finding is there is no indication as to what the problem is! Incredibly frustrating. The output is as follows: My build.xml is as follows: My system: Vista, PHP 5.2.9, PHPUnit 3.4, PHPUnderControl, CruiseControl"
+"Okay so say we have a graph with a ball on it at (200,200) and we swipe our finger from (0,0) to (100,100) how do I go about moving the ball to (300,300)? This should be simple but it is really hurting my head! This is the code I have so far (using andengine)"
+After reading I was horrified! Isn't there a tool out there that can inspect a .h/.cpp file and deduce what dependencies could be waivered?
+Horrible answer because it is just wrong.
+"I have created a VB.Net lending application for a cooperative that caters to widows. The application tracks the members' loans and payments, and is also used as an accounting system. In my first release, the users felt that showing a messagebox every time an error occurs is very annoying. My solution is to output errors in a label control. The users accepted the modification, but i feel i am doing it wrong."
+"This is a terrible idea, as a compact on a database already in a suspect state can lose data that would otherwise be recoverable before the compact. Compact On Close should under all circumstances be turned OFF."
+7 seconds between asking and answering it yourself? Isn't that abusing the system a little?
+Another thing I hate to see is the : I've seen this in real code.
+-5 votes?? People who have downvoted this answer should have specified the reason for doing so as well.
+"I've tried msysGit and Git on Cygwin. Both work just fine in and of themselves and both run gitk and git-gui perfectly. Now how the heck do I configure a mergetool? (Vimdiff works on Cygwin, but preferrably I would like something a little more user-friendly for some of our more... Windows-loving coworkers.) Thanks!"
+"I want to catch all URL's in the root folder of the url www.example.com The url cannot end in a trailing slash, and can't contain any slashes at all. so these should pass: www.example.com/abc www.example.com/abc123-asdf www.example.com/abc123/ ** fail! www.example.com/asdfsd/asdf ** FAIL!"
+The ebook summarises Thread.Suspend and Thread.Resume thusly: The deprecated Suspend and Resume methods have two modes â€“ dangerous and useless! The book recommends using a synchronization construct such as an or to perform thread suspending and resuming.
+"I have a .net assembly that has a COM+ ServicedCopmonent in it and at the moment I install it into the GAC to get everything working. This means that I need to have every assembly that it references in the GAC as well. During development it is quite painful to make changes to thes assemblies, re-install them to the GAC and then test. Is it possible to maintain the COM+ component but not have everything in the GAC?"
+"I need to pass a regex substitution as a variable: This, of course, doesn't work. I tried eval'ing the substitution: but that didn't work either. What horribly obvious thing am I missing here?"
+"Why would you want to do that?? No offense, but that is the most annoying and useless 'feature' ever!"
+Is there a way to run a specific Ant task via the keyboard? I have a rsync to dev task that I run a lot and running to the mouse to double-click is a pain.
+I have a column containing the strings 'Operator (1)' and so on until 'Operator (600)' so far. I want to get them numerically ordered and I've come up with which is very very ugly. Better suggestions?
+"Background: I'm currently debugging an application written over a custom-built GUI framework in C++. I've managed to pin down most bugs, but the bugs I'm having the most trouble with tend to have a common theme. All of them seem to be to do with the screen refreshing, redrawing or updating to match provided data. This is a pain to debug, because I can't break on every refresh, and most of this stuff is time-sensitive, so breakpoints occasionally ""fix"" the bug. Q: Does anyone have any tips for debugging Windows-based GUIs, especially regarding the refreshing of individual components?"
+"Something that has always bugged me is how unpredictable the method in Javascript is. In my experience, the timer is horribly inaccurate in a lot of situations. By inaccurate, I mean the actual delay time seems to vary by 250-500ms more or less. Although this isn't a huge amount of time, when using it to hide/show UI elements the time can be visibly noticeable. Are there any tricks that can be done to ensure that performs accurately (without resorting to an external API) or is this a lost cause?"
+"I've been trimming the UI of our website by doing the following in the onload event of that control: This has become very tedious because there are so many controls to check again and again. As soon as I get it all working, designers request to change the UI and then it starts all over. Any suggestions?"
+It is extremely unreliable and if there are constant builds going you never know the actual build is broke.
+"The built in ones are awful. You can easily write your own RSS, RDF and ATOM parsers. I have a tutorial and a full visual studio project you can download that does just that http://www.jarloo.com/rumormill-5/"
+"What you are asking is inherently impossible. The game runs on the client and is therefore completely at the user's mercy. Only way to be sure is running a real time simulation of the game on the server based on user's input (mouse movement, keypresses), which is absolutely ridiculous."
+"IF another person says NUnit, I am gonna puke! Where TF did you people learn to read?"
+"Suppose I have this interface And this class Is there a way, or is there a tool that can let me automatically put in the comments of each member in a base class or interface? Because I hate re-writing the same comments for each derived sub-class!"
+I would agree except they are related and I really hated the idea of writing 4 separate questions since they seemed to close.
+That's really bad. GWT looks extremely ugly with IE8 default!
+Someone is scared to tell the reason of -1 !
+Why is `AbstractMap.SimpleEntry` convoluted?
+How about any ugly abuse of the builtin command ?
+"If you're worried about burning bandwidth, RDP is NOT going to help!"
+"Behaviour by tag, when you can just set a target action on a button directly? That's horrible!"
+@RobG - I hate IE! jQuery is my final weapon.
+Blimey - I hate XML Namespaces!
+Is there a way to zoom extents of a collection of shapes without computing min/max xy's and wh's - very painful when sloping lines are involved. Perhaps some kind of pixel detection?
+"I'm new to ror and am finding the scattered documentation extremely frustrating! When the commands rails generate model or rails scaffold are any fileds automatically created. I'm thinking here about the Id field in particular. Additionally, could anyone point me to the documentation which specifies this?"
+Combining NH attributes and some FNH automapping stuff looks very scary. I do not understand it at all but IMO classic ClassMap is much more transparent. You must pay with more key strokes but your head hurts less:). and this code deletes connection and endpoint as well from database:
+Your formatting is absolutely horrible to read. Could you fix that?
+What an awful Api!
+We in the process of building an IOS app (it's yet to be launched). We are trying to implement Push Notifications as part of the build. We have set this up via Amazon SNS and have created and registered an app certificate for the app which contains push notification permissions. Basically we send the app message from Server code - it states that it has been published and it returns the message ID but the device doesn't receive anything. To clarify the device registers ok for remote notifications and returns a device token. Very frustrating! Does anyone have any tips?
+"I agree, we often face this problem when using 10g XE databases, this is really annoying!"
+"Triggering quirks mode is a terrible, terrible, terrible thing. In quirks mode, jQuery is forced to use alternative methods to interact with the DOM and is almost definitely the cause of your speed issues in IE."
+"I am trying to generate API documentation via cabal and haddock. I want it to be latex. So I do: This fails ultimately with: Is there something I can do or is something wrong with haddock? FYI, I have to use cabal since the build process is rather complicated (lots of preprocessors, ffi libraries, ...). Invoking haddock manually is really painful. Building HTML documentation however is working completely as expected. The complete output is at . I am using:"
+@sjdowling when downvoting someone you are suggested to explain why...
+"One non-technical consideration. Embedding free data inside English phrases isn't going to look very smooth in many cultures (including Western ones), where you need grammatical agreement on e.g. number, gender or case. A more telegraphic style usually helps (e.g. Excellent input: ""xyz"") -- then at least everybody gets the same level of clunkiness!"
+"Ok, finally got this to work. Horrible documentation online! I'm posting my code in case others are having trouble:"
+been looking at this for days..
+That is incredibly frustrating!
+"I have a somewhat complicated issue. I have a grid defined (using the Struts2-JQuery Grid Plugin). One of the columns has a custom formatter that calls a Javascript function to put a button into that column. (Note: I absolutely HATE doing it that way). The point of the button is to open up a dialog box. This dialog box contains a checkboxlist, which can't be rendered in the grid. Somehow, I need to pass a parameter to the action that returns the view that will be displayed inside the dialog. Since this is somewhat complex, here is the code: Grid definition: Javascript Custom Formatter: Dialog Definition: Remote Manage Roles JSP (trimmed): Since I get the id of the grid object via javascript, but use the JSP taglib for the dialog, how can I pass the id around?"
+"Android apps are constrained to a certain amount of memory. As it's quite (insanely?) low, I think you shouldn't feel guilty about using all of it! The limit is 16 MB on very old devices, 24 MB or 32 MB on newer ones. There doesn't seem to be much info on the size for different devices, and nobody seems to know why the limit is so small when modern phones have 1-2 GB of RAM. Aha, I found some concrete numbers on the limit: G1: 16MB Droid: 24MB Nexus One: 32MB Xoom: 48MB"
+@Milhous *Everything breaks when you use Java*.
+"Do not touch a Physics-""Body"" inside of a TouchEvent. UI-Thread and UpdateThread hate working at the same time!"
+"I'm using VIM with pythoncomplete. When I'm making a completion, the current window is splitted and calltips are shown in the upper pane. I hate that! Is there a way to prevent that behavior or at least limit the size of the upper pane automaticly?"
+"I got iPhone app. When i start it, i see black view. This black view is shown before app's first view. And it looks really awful. Can i set here preview picture?"
+That is not about programing.
+Link (burstproject.org) is inactive and seems to have reverted to horrible Go Daddy wall of links/ads.
+"@gnud: No, it's not an implementation detail. It makes it a pain when you've been given an integer in ""natural"" base (i.e. Jan=1) and you need to use it with the calendar API."
+You should fix the libraries that are creating bad or non-named threads. I'd hate to debug your libraries' threads only to find that the names where changes elsewhere.
+"+1 for the /f I've written couple of scripts for that but without /f it was such a pain; required me to be there when running the script to type ""y+[return]"""
+"I have several hundred (static - no includes or server-side parsing) HTML pages. I would like to validate the HTML (XHTML 1.0 Transitional), but the idea of plugging each of them individually into the W3C Validator - or even using a Firefox plug-in to open each one - fills me with dread. Does anyone know of any (Windows) apps that can do bulk validation? The ""Validate entire site"" feature on is the closest I've come, but that's limited to 100 pages."
+"Yep, the power tools SHOULD let you do this, but unfortunately the merge goes horribly wrong each time so it's next to useless."
+Im not sure what they're called but im referring to the keywords in c++. Is there an equivalent in c#? It seems rather tedious having to repeat yourself! ala
+"So for my text parsing in C# , I got directed at YAML. I'm hitting a wall with this library I was recommended, so this is a quickie. And so on. Is that valid?"
+@Andy: Give him the Useless Use Of Cat award!
+"`cat $(find $FOLDER -name ""*.txt"")` that's terrible!"
+"I have this strange problem on my web page where if you click below the left side-panel, all the links get highlighted. It happens in firefox, not IE. I don't know why its only the side-panel that it happens to. Its not really a big deal but its extremely annoying to me, is there any way to stop it? If you want to check it out, the site is"
+"I am trying to figure out why foundation is acting differently to expected behaviour. If you look at the Kitchen Sink page for foundation, the default styles for secondary buttons hover affect is different to what I get if I set foundation up in rails. Note these images are from my rails application Image 1 - look at the '.tiny.secondary' button - no hover Image 2 - look at the '.tiny.secondary' button - with hover However on the page for foundation the color does not transition to the primary colour of the site. It transitions to a darker shade of grey. Have I missed some setting? Really frustrating me! I am guessing this is a bug in foundation"
+"strange error. One of which i cannot find any existing resources to solve the issue. The issue is, when using I get pointed to a folder at ""C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\10.0"". Naturally, this breaks everything which depends on the correct folder (the one my solution is actually in) being given. What is more strange is that there exists a unit-test to make sure that this path at least has the correct root folder and sometimes it will pass and will be working as expected, and then the very next debug, will point to the aforementioned folder again. Very confusing and very annoying ! Any ideas ?"
+"In addition to firebug (which should be your first port of call), the will also tell you where a given style is sourced from, just in case IE - shock, horror - should be different."
+I really hate this option. I am looking at managing this by GPO in my org.
+We are running Jenkins on a server that does not have internet access (even through proxy). Installing and keeping the Jenkins installation up-to-date is a pain! My idea was to make a local mirror of the complete Jenkins public update-site through a Windows workstation that has internet access. And then make this local mirror available to Jenkins through NFS share. So my questions: How to make the local mirror? Do you have a better/simpler idea to keep the Jenkins installation up-to-date?
+"I really hate thinking that code can tell me how to think instead of me telling it what to do ... anyway ... here is an example for loading the controller rendering the page, and it can load any controller inside the helper. EDIT: just realiced this is such an old post :( ... this is working in cakephp 2.2.3"
+This is probably caused because you have set to (Which is absolutely terrible). (See ) You should disable register globals so that the SESSION/POST/GET/REQUEST/COOKIE variables do not interfere.
+Anyone??? I'm starting to hate VS for that reason!
+"I'm going crazy guys, my labels are not updated in my views after running """" and """"! This is what I tried so far: make sure there is no """" strings around in PO files delete MO files relaunch and delete all . files in my project delete browser cache change browser drop the local database and launch synchdb shout to the monitor the commands I launch are the following: Is there any sort of Django caching mechanism related to compiled MO files that I have to empty? What can I do? I'm really furious! -_-'"
+"@Kolink Oh, I hate Facebook for many more reasons!"
+"I have been trying to use OfflineAudioContext and the FFT analyzer in chrome with a script processor but I am running into the same issue that this person has: In that SO answer, someone pointed out this bug report: but it is over a year old! My questions are: does anyone know if this will be fixed anytime soon and should I file a bug elsewhere? Is that bug report (that is a year old) still being looked at? Or better yet, maybe someone knows a workaround? My code is essentially the same as the jsfiddle on that SO link. It's really sad that this stuff doesn't work in chrome but it does in Firefox."
+"Too slow and I prefer to operate in the same mode as my users. Also, I just really hate switching to debug. And its a waste of diskspace."
+It's the most ugly :( :( :(
+"There is no TCP multicast, I'd vote this down, but I don't have enough reputation."
+"@GabrielePetronella I missed that link, I hate how stackoverflow removes the underline! Are you running it on a server or file protocol?"
+"It's a command-line tool. Unforunately Xcode doesn't use CodeSense for editing files outside a project, which is incredibly frustrating."
+How absolutely terrible you can't set controls not to show up on the print
+"Yes, same happened to me ... sometimes defines can be really horrible."
+"Did you ever solve this problem? I've just come across it and it's really annoying, especially because my video doesn't even have audio!"
+"XCode 5.0 Console Not Showing After Exiting App and Reopening. I put a simple NSLog in the next screen that I push to and there is no logging of it in my console. This makes it a pain to debug! I segue from one screen to a tabbar controller, if that helps? Has anyone encountered this issue?"
+"Indeed, this is awful. A pity there is no option to change it. Every other IDE/editor I used opened tabs to the right."
+I for checking whether the function exists yet. In summary: Does that work for you? If it does then you can just wrap in a loop. A bit less nasty than a setTimeOut!
+"-1 This is due to omitting ""var"" before ""a"" making it global and is unrelated to the question."
+"Malice? Seriously though, it's hard to account for formatting style sometimes. It's largely a matter of personal taste. Personally, I think that both forms are a little nasty unless you're seriously restricted in terms of line-length."
+"I have an .ico file with 5 icon sizes embedded in it being used as the main application icon and the System Tray icon. When it shows up in the task bar the icon is using the 16x16 format which is desired. When the icon shows up in the Notification Area/System tray, it is using the 32x32 format and Windows is rendering it down to a 16x16 icon, which looks horrible. How do I force windows to use the 16x16 icon size in the notification area? Here's my code to put the icon in the system tray:"
+I wondered if it's possible to set the editor windows tab width in eclipse. I hate it when I want to close several windows in a row and I always have to move the mouse. Can I set eclipse to use only ONE width for every window tab?
+"This is probably silly but very frustrating. Using VS2008 with a C++ project, when I'm working normally, the breakpoints window is visible and active but when I'm debugging it disappears and can't be shown. This is a problem if I want to edit the condition of a breakpoint while running. Pressing the breakpoints window button doesn't do anything and neither does pressing Ctrl+Alt+B Does this happen to anybody else? It's a brand new install with Visual Assist and QT integration as extensions. same configuration with VS2005 doesn't have any problems."
+"I do hate the plain id name. I strongly prefer to always use the invoice_id or a variant thereof. I always know which table is the authoritative table for the id when I need to, but this confuses me What's worst of all is the mix you mention, totally confusing. I've had to work with a database where almost always it was foo_id except in one of the most used ids. That was total hell."
+"Notably, the debugger shows the string *with* escape characters. When the string is printed in the console, the escape characters are not included. ""\""code\"""" vs. ""code"". This 100 character limit is very annoying as it prevents you from copying, say, a long JSON string and then immediately pasting that string (escape characters included) as a test string variable in your code."
+"@DevSolar I would like to use boost more, but its synergy with C++11 is terrible, and there are some rather... _curious_ design decisions (Iostreams requires Devices to be copyable, but makes streams noncopyable... oh, and also nonmovable - at least in the implementation I'm using, maybe they fixed it?)."
+"Would've loved to. But there is no hash_map in the C++ standard library, and PHB's don't allow code outside of that."
+"I have a class, let's call it LineGraph, that renders a line graph. I need to subclass it, but the derived class is only used in one place and is coupled to the class that uses it. So I am using an inner class. I see two ways to do this: Anonymous inner class Named inner class I am not a fan of anonymous inner classes, because frankly I just think it looks really ugly. But in the case of a subclass that's only used in one place, is a named inner class overkill? What is the accepted practice?"
+"Not an answer, but why on earth would you want 32,000 items in a combo box? That is a terrible way to store that much data."
+I hated using UML tools till I found http://yuml.me/ which offers some sort of DSL to describe UML diagrams. No mouse-fiddleling any more :-).
+"Evaluation of what? I may be being slow today, but I really don't understand what your problem is. I'm awful tempted to vote to close on the principle that I don't see a real question."
+"Is search and replace the only way to rename as asp control in the code behind file? I find this extremely annoying, but it is the only way I can find. Scenario: I'll find a variable that needs renaming (Usually to meet naming convention) I'll rename the variable in the aspx/ascx file. I'll have to go in the code behind files and search and replace. I get annoyed Are there any better ways - preferably that would not touch a similarly named variable in another scope in the project. I'm on VS2008 with resharper -- does VS2010 address this perhaps?"
+Why am i using over 80% CPU when just hovering some links? As you can see in the video i uploaded: the CPU goes to >80% CPU when i move my mouse over the links. My style for the items are as follows Why?
+"The function is extremely annoying because it uses a prototype or something insane like that. You'd have to do an ampersand-call to override the prototype: .However, you are trying to transpose the matrix, not to it (which would produce a continuous list like We could use an iterator in conjunction with : which works, but this is severely overthinking the problem. Let's just swap indices:"
+"The search term on both Stackoverflow and PInvoke.net yields zero results, so this should be worth asking. I've been fiddling around on MSDN and looking through Win SDK *.h files all day, and feeling a bit out of my element. I'm basically attempting to query the MSRPC endpoint mapper with managed code. Here is what I have so far: The above code isn't complete, but it illustrates my point. The code consistently returns: RpcMgmtEpEltIngNext: 87 87 meaning Parameter is Incorrect according to . So I'm basically stumped at this point, and I'm sure it's because of my extremely crappy PInvoke code."
+Why would you want to do that? Your use case sounds extremely malicious.
+"What a sad answer!! Maybe I can just don't install it, and leave the hell to user."
+"GridView? And accept some answers, for crying out loud!"
+"I kept a bitmap inside a movieClip, bitmap has been set to be smoothing. but when I changed the scale of this movieclip, it still got pixelated. Do we have the way to avoid. it is really painful."
+"This is not the answer but I figured out a very sad workaround. Extend the TextView component class In the constructor of the subclass, fire off the code ...yuck"
+"I just updated my MacVim to 7.3 and with it, it now changes directories to whatever file I'm currently editing. I use PeepOpen, so it's incredibly annoying to cd back to my project directory every time I want to edit a new file."
+"I am currently workin on a visual studio online hosted project that uses git for version control and have run into a problem with the team explorer menu. All of my collegues get this view when connecting to the project: But on my machine, im missing the tiles/buttons and have to right click the current branch, choose manage branches and from there, select Changes/Unsynced commits to handle my code which is extremely annoying. Im using Visual Studio 2013 Ultimate for this project, but i also have VS2012 installed."
+Never been this frustrated before... I HATE UIs! Will have to deal with them one day
+"To my limited knowledge, in Android, any activity must belong to a given process. However, the book says: "" The activity life cycle is not tied to the process life cycle."" that is to say, even if the process has been completely killed, its activities can still be alive! What makes me confused is: Because the input handlers of an activity are bound to the process. If the process has been killed, how do its activities react to the user's inputs?"
+"I would guess it is doing basic sanity checking (i.e. should anything have changed) - to prevent unexpected source code changes (I hate it when opening a file can cause side-effects - I'm looking at you, DBML!). On a side note, to force serialization generally (I don't think it will apply due to the above): the and are a convention used by the framework."
+This is heinous. I would not allow such a thing to survive a code review.
+"It seems very tedious! I have a nine table join to join together, where two of the tables is a inner join and the rest 6 is left outer joins. Is it doable in entity?"
+for some reason that still hates me!
+"I am referring to this behaviour: (Windows doesn't include the mouse cursor in the screen shot, I'm hovered on the uppermost (+) here.) I find this incredibly annoying in some cases, especially with larger methods. In , I have both checkboxes blank."
+I now have this extremely ugly solution. Anybody a better idea?
+"Okay, so given the overwhelmingly negative response, does anybody think db image storage is _ever_ justified?"
+I have a complex site that incorporates alot of javascript and it is getting absolutely KILLED by IE7. How would I go about serving this code: HTML JS In such a way that IE7 never gets the and therefore never hides ?
+"My first instinct is to branch normally (using p4 integrate), and then use an IDE or sed script to change the package names. But this makes future integration from the trunk extremely painful."
+This is the third post I've seen with people filtering by *ascii* char-code - it's a terrible idea! Where are you getting these examples from?
+"I think it should be a warning. Generally speaking, the common rule is that 'you should treat warnings as errors'. If I unintentionally write unreachable code, I will see it in the warnings, and fix it anyway. However, sometimes, like Neil says, you intentionally create dead code, for debugging purposes or whatever reason. I'd really, really hate it if the compiler would not let me do that."
+"I have run into this too. It is very annoying! Here's why it might be happening. The width of your li items, plus any margins is more than the width of #maincontainer. That means the last li item spills over #maincontainer and the script will want to move that last bit in, leaving an extra click. One way to check this: assign an id to the last li, and make the width less, and see if that doesn't fix it. If so you need to make the #maincontainer wider."
+doesn't mean nothing. You have to use
+"I realise this is probably an absolutely horrible way to do a query, and of course its not working. The point of it is to select users based on a date range and a keyword."
+I think this'll be what I'm going to go with. I really hate dealing with XML files.
+"My goal is to write a cookie when the user authenticates. We are using a crappy framework that hides its source code and event model so when I use their login control I can't set a session timeout on it! Anyhow, I am trying to write a cookie when the user is logged in, and then refresh the cookie expire time on subsequent page views (sliding expiration). So I figured I could initially create the cookie during Application_AuthenticateRequest in teh global.asax but that seems to be firing even when the user hasn't signed in yet. Is that suppose to be the case?"
+"I'm not sure why this answer was accepted. This simply isn't the correct answer. Deadlocks can occur whenever you have multiple threads. There's nothing inherent in GUI programs that makes them more likely to happen. Furthermore, they can easily happen even if you use BeginInvoke(). Brian Ensink's answer is the correct one."
+"Apart from the books available from , I am looking for some links to any resources that could help in learning the VTK library. Preferably, with example code and tutorials. Google results have not been terribly informative for me. So I am asking here for links to VTK resources."
+"Ugh, implicit joins! I want to tear my eyeballs out looking at that."
+"I really fail to see the use case... If you will type print_var_name($foobar) what's so hard (and different) about typing print(""foobar"") instead? Because even if you were to use this in a function, you'd get the local name of the variable... In any case, here's the in case there's something you need in there."
+"Yes, these queries are horrible. Do a regular join instead."
+"Yes, the question mentioned it won't work. I was trying to describe why it wasn't terribly important to even try to do it that way."
+"Agreed. Don't do this, it makes people cry."
+"I don't know why the editor is giving me so much trouble. At first the code blocks wouldn't do anything but indent, so I had to change it to pre tags. Then my carefully numbered sequence is now all 1s. This thing is making me look ridiculous!"
+"From my own experience, Microsoft SQL Compact Framework is a REAL NO-GO. It is REALLY FREAKING slow and its Query Analyzer is just really poor. I had to ask my team to rewrite all the plumbing code of my Windows Mobile component to get rid of the awful performances of SQL CE."
+"How awesome would it be if the Delphi IDE would put code in 2 formats on the clipboard, so that code that is copied and pasted in e-mails or word-documents has proper highlighting instead of plain text?!"
+But definitely agree that in 99% of cases office interop is horrible.
+"Basically, the doctype determines how crazy IE is going to be. If you don't set it to XHTML, or ""strict"" you'll be living in a world of hurt when it comes to IE (even if you set it, you'll still be hating on IE, but it does make it a lot better)."
+Tried this. Failed miserably. See http://stackoverflow.com/questions/528224/how-to-use-linux-fonts-in-windows-qt
+this is a terrible idea for webapps
+"I am trying to search my bash history similarly as with CTRL-r, but to forward direction. It has been a pain for me, when I just hit once too often CTRL-r, to find the previous command again. How can you forward search your Bash history similarly as in reverse searching?"
+"talks about consuming WCF services in Silverlight, but claims: There will be no proxies, no generated code, no 3rd party utilities, and no disgusting ""Add Service Reference"" usage. What is so wrong with me adding a service reference in my Silverlight project? Are there hidden overheads? Or is it a case of Fear Of Auto Magic on the part of the author?"
+the following code should show either the port or servername not both i always get both no matter what ? i have also tried the follwoing with no joy either !! i just cannot get the condition to resolve thanks in advance
+"I could easily be wrong about that, most of my work is this horrid single threaded behemoth.."
+"The minute you start down the road to control memory is the minute you start making a mistake. If you have REQUIREMENTS for memory, don't use .NET. If you don't have requirements, stop worrying about memory. .NET manages memory better than you ever could. Stop it. Leave it alone. No. Bad. Stop."
+"This is a stupidity of windows find utility, +1 for feeling my pain."
+"fails horribly for, e.g., `domain = 'http://www.google.co.uk/'`"
+sounds scary !!
+Very scary! O_O
+My company is just starting to look at using WPF for migrating all of our 10 year old business applications. These applications will most of the time be running on computers that have limited/old hardware. We are now a little worried that the hardware might be too limited for using WPF. We have installed Family.Show () on an basic older computer and that seems to run ok. But we would like know what your experiences with WPF on older hardware is? Anyone out there willing to share some experiences with us?
+Matt - can you revue the accepted answer. You have to scroll a long way to get to a [pure javascript answer](http://stackoverflow.com/a/5686237/360211) and I fear some users just take the accepted answer as gospel and use antiquated libraries as a result.
+"Is there a way to reuse a 3rd party control reference? For example, I have this referenced in my App.xaml I don't want to repeat this 3rd party control xml namespace on each page/control that needs a control from the library. Is there anyway to centralize these references and use the prefix defined here? The possibility of each control having a different prefix is also worrisome. In asp.net you would put a reference in the web.config and it was available globally, I'm just looking to see if there is a similar method in WPF."
+"I've got this code, working only in firefox. PLEASE help, I have no idea, it's such a simple script, why is it not working?? thanks"
+"I've set up Windsor to use constructor parameter names to map to a config file settings by convention. When a parameter is missing, it throws a very frightening : I want it to instead throw the following error: How can I do this?"
+"Google says: 1 nibbles per nanosecond = 476.837158 megabytes per second In other words: Yes, very worried indeed."
+"I've accidentally created a file called / and one called --reporter=test and now I can't delete them, attempting to delete the --reporter file results in rm: illegal option -- - I haven't attempted to delete the one called / I'm too scared, help!!"
+exactly why i'm asking because thats what i fear!
+If I plan to use data caching do I have to worry about conflicts when also using deferred loading? It seems that with linq i am losing control of my data.
+"In general, how expensive is locking in Java? Specifically in my case: I have a multi-threaded app in which there is one main loop that takes objects off a DelayQueue and processes them (using poll()). At some point a different thread will have to remove errant elements from the queue (using remove()). Given that the remove() is relatively uncommon, I am worried that locking on each poll() will result in slow code. Are my worries justified?"
+I've always been a bit frightened of Python. Is it not a relatively massive leap from an ingrained Web development mindset?
+"That's what I was thinking, but I am afraid it will bring confusion to the structure. I will need to add ""Set children"" field to parent class which should not be used anywhere in the code, only for hibernate cascade deletion. Do you think it is ok?"
+I'm having trouble setting the default character set of my JVM . (and was a bit afraid of messing it up!)
+"Can anyone think of a quick, easy and fullproof way of listing only ClearCase Remote Client views from UNIX? ct lsview obviously lists all the views, and you could search by looking at the Properties: section if you run a ct lsview -properties -full (gives you Properties: snapshot webview readwrite) then use a regex or something, but I'd be worried that someone calls their view 'webview' or something. Has anyone got a foolproof way? Am I missing a flag or something? If only there was -fmt on lsview :S"
+"I have a page that uses excanvas to draw some images. While testing the new page in IE6, one computer attempts to open office 2000 and install a missing component. If the office 2000 install is canceled the vml images appear. This problem only happens on one of my test machines but it still worries me. Anyone seen this issue when using IE6 and excanvas before?"
+"I am aware of question, but not to sure how to map it to my current situation. (Rebase is scary, undoing rebase is double scary!) I started out with several different feature branches of my master: I wanted to merge them all together and check they worked before merging back onto the top of master, so I did a: Then Which leaves me with Then I corrected some bits that didn't compile properly, and got the whole feature set to an acceptable state: My problem is that my colleagues tell me that we're not ready for FeatureA. Is there any way for me to keep all my work, but also revert to a situation where I can just rebase FeatureC on to Feature B?"
+Haha great :) Happens to the best of us!
+"You must redraw your background with each change in your line (thatâ€™s the canvas way) Donâ€™t worry, canvas is very fast at redrawing! Here is code and a Fiddle:"
+Is there a way that I can get a list of the models that a particular model belongs to in Rails? For example: Hope this makes some kind of sense!
+"Im using the AutoPersistenceModel in Fluent NHIbernate to map all my entities and that all works fine :D However, several of my objects have In the database there is a single comments table, and each entity with the above code, has its own link table to comments. At the moment what im doing is: for every entity. Is there some way i can set a convention where by all mappings to IList<Comment> are wired up automatically as manytomany with the above table name convention? Thanks Andrew"
+"Ah, finally I can solve this annoying problem!"
+"I would like to be able to do ""Extend my Windows desktop onto this monitor"" via code. A PowerShell script would be idea. I have googled around a far amount and WMI seems the way forward but as I have zero knowledge in WMI I thought I would try here. Hope someone can help! Cheers, Zi"
+"Thanks for the recommendation. I've just talked to them and I'm getting a demo. It looks good on paper, I really hope its can handle what I'm looking for."
+"Makes completely sense. Put the content there more in case any other folks want a quick place to find it outside of the developer pages. That said, if you do find a specific solution, please share as I am very interested! Am working on building an AppEngine app and utilizing Maven with similar characteristics as yours this weekend!"
+@Asad Actually do not need. I appended one letter at the end of each vowel and con table. @user3520307 My great pleasure to see my code be helpful!
+"Here's a secret. In the chrome dev tools, do a cpu profile run. After you have stopped capturing, at the bottom of the screen is a down triangle next to ""Heavy (Bottom Up)"". Click the triangle and select ""Flame Chart"". Once you are in Flame Chart mode, you can zoom and pan to see the digest cycles, how long they take, and exactly what functions are being called. The Flame Chart is so incredibly useful for tracking down page load issues, ng-repeat performance problems, digest cycle problems! I really don't know how I was able to debug and profile before the Flame Chart. Here is an example:"
+"I'm starting my first Drupal project, pretty excited :) I have a question the project is a hotel directory site. at sidebar I have locations list (London, Manchester, Liverpool, etc..) and filter the hotels related on location click. So, how should I create these cities? Should I put them manually and give links manually depending on location id? or is there any better way to create this location list and linking filtering dynamically (via cms, or custom module, etc...) Appreciate advices!!!!"
+Excellent! PHP really is an impressive language.
+"You can do as followed:When your app is not started/ running and you start from an notification, onCreate gets called. When your app is running (background or foreground), and you start a new intent from an notification this method gets called: (if you are using singleTop) To detect whether your app is running back- or foreground, you can simply set a boolean in onPause/onResume: Hope it helps!"
+I frightened myself how quick I figured that out!
+This gem is pure gold.
+I'm currently tuning a large app that uses L2S using the following process (to great success!) Start SQL Server Profiler and create a trace using the 'Tuning' template that gets saved to a file. Then interact with your app to exercise the slow spots. Stop the trace then start up the Database Engine Tuning Advisor. You can load up the trace file you just created and have it suggest all sort of optimizations. I've just created 5 non-clustered indexes based on its suggestions and my app is easily 90% faster that it was before.
+At the moment my divs load in one by one on page load. It's absolutely fine! Though when I make an ajax request and then to the same container my code then loops through all of the divs on the page rather than the newly added divs? My question is: how would I perform the same effect on only the newly added ajax success data? jQuery: HTML:
+I absolutely hope for your sake that this library does not use the RTL rng!!!!!
+"There is a such thing as a [sublime-project](http://www.sublimetext.com/docs/3/projects.html) file which you could check into Version control, but it seems like it could be overridden by Syntax specific settings per the [settings doc](http://www.sublimetext.com/docs/3/settings.html), and people would likely have to use the project file to get the benefit. [This blog](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-project-bliss/) is also interesting and applicable."
+Works very fine with jquery!
+This is definitely great for small stuff!
+This code works absolutely fine!
+"@BrodieG, but together, we are infinite bliss. Didn't you feel that already? :-)"
+"I've used on pretty complex websites with great success :) One caveat through (this applies to all ""fixes"" i believe) is that you can not make a background image of an element be transparent."
+I'm hoping someone familiar with using Bliss with Express will see this question.
+"excellent, good luck!"
+I've used BeautifulSoup for such things in the past with great success.
+"I am building advanced HTML tables with lots of CSS in them, what are the best tools out there for building advanced HTML CSS tables that could include dynamic elements like AJAX driven features (jQuery). I use Dreamweaver and Eclipse but they just touch the surface of having a really great tool set to build with. If you use a great tool let me know about it:-)"
+"This will recalculate the number of words whenever you stop typing for a while (specifically, ms). Enjoy!"
+"I have two tables which looks like this: Each news can only have one tag. What is the most effective way to handle inserts to the news table? The Tags table has like 50 000 rows. I'm only doing bulk inserts of approx. 300 news at a time, around 2 times per hour. I assume that i need some in-memory cache for the tags? If the tag is not in the tags table, i need to insert it and set TagID to the newly inserted id. Hope you'll get the idea!"
+"Not to take anything away from the answer already accepted, but I was able to get the duration of an audio file (several different formats, including AC3, which is what I needed at the time) using the namespace. This is part of . Adding a reference to that made my code as simple as this... And it's pretty fast, too! Here's a reference for the class."
+that's the hope :)
+All assets should be placed in the folder You can access the assets using the method or the Laravel HTML helper methods and . i.e to include Javascript file: Hope this helps!
+"@ThiagoLovizzaro no worries, you have to start somewhere ;) good luck in the future!"
+"Great, don't forget to accept my answer by clicking the tick on the left!"
+"Per https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/ChangingAppStatus.html#//apple_ref/doc/uid/TP40011225-CH30-SW1The ""pending an Apple Release"" means: Apple is holding your app version until the corresponding Apple iOS or OS version is released to the public. If you think an app should be released on existing iOS or OS versions, review the deployment target set in your app binary. If you rebuild your app binary with a different deployment target, reject the binary for this version and submit the new version.Sounds like you need to review the deployment target and if you change it, reject the binary and re-submit. If you need help with rejecting the binary, please let me know.Hope this helps!"
+"I think JSON is in incorrect format. Try this:Change the in your OperationContract to Try adding following when request is made: If still it doesn't work, then try Overriding method in your class. Now make an object of and call method and here you can see your required JSON format. After you get required JSON format, then try sending JSON in that format.Hope this will help! Thanks"
+Try: This should make it open as a pop-up (unless default browser setting are different)Although it's not recommended to use pop ups anymore because most users find it extremely annoying.Hope this helped.
+I understand you need to know the sizes conversion. Sometimes I use this tool: And I found an excellent article about the screen sizes and densities: I hope it will be useful for you!
+@TonyThinkk No worries!!
+I've had great success with DockPanelSuite I may post some sample code to get you started but it's fairly staright forward!
+"Not sure if this is by design, but for now, from within Python causes a javascript exception to be raised and displayed (along with line and column numbers). Great success!"
+This just saved me a lot of grief!
+Excellent! Will try it soon. But it should work i guess.
+"Wow! I have an idea of cool web 2.0 app, and i will share it with you now. Do you remember this xkcd strip: So, imagine the web-service on which high-school students list people they dated (links to facebook profiles or smth), and the service provides recommendations whom to date next to create symmetric graph or any other fancy graph configuration."
+Already answered to wrap it but here's an . Good luck!
+I have really enjoyed playing with my first robot. Now I want to make something a little more exciting. What's the best tutorial on making advanced robots?
+"In addition to the great LINQ-implementation of Dean, I had fun wrapping the code into an extension for DependencyObjects: This makes it extremely nice considering reuseablity."
+"You've got to start with a custom instance of . We'd prefer to implement the simpler , but in this scenario we need access to the underlying . Then, to wire it up in the iBATIS config: Hope this helps!"
+I've been very happy with bulk-loader. We've integrated it with Parsley's MVC and IoC frameworks - - with great success.
+"found a solution, would still love to see alternatives!"
+I know that there is a Item.RoleAssignments.Remove command but I have not found a way to list out all the current assigned groups so I could loop through and remove them. Hope this helps you guys!
+No worries and good luck with it! ;)
+"It looks it, which makes moving away from it all the more painful!"
+This is excellent!
+"excellent, just found ""randomize"" in the documentation! perfect: {:data => @json, :options => { :do_clustering => true, randomize: true} }) %>"
+"Try replacing... with.. Best of luck, hope that helps!"
+Please see: for an excellent fix! Much easier to implement and more versatile than the answer above.
+"There's no such thing. Any such log would have to be programmed into the database, so no worries, you don't have to disable it since it doesn't exist by default!"
+No worries - everything is easier with jQuery!
+please update and you will get to paradise =)
+"This would be easiest with a - no need to be scared, it's just a box!"
+No worries found it! I clicked on the little button on the top right of this
+I found that the best way to do this was to use Access and save as a text file and then you can set your own field width and export. excellent!
+I was wondering - when making my website - how i can put a bottom margin that lifts an a-tag up. CSS: And here's also my html: I really hope you can help me out :) greetings form the Netherlands!
+"No, definitely not return ""object"" ! WCF should make use of DataContracts and define full implementations of the request and possibly response objects for each call. See these two excellent articles on Datacontract basics: I have no idea why the developers of those services picked ""object"" as the return type - doesn't make a whole lot of sense to me! Marc"
+"I have just come across this great API: However, I would like to also retrieve the continent. Is this even possible as I can not find it. Maybe there is another API that is freely available that will offer city, country and continent? I have tried Googles AJAX API but they don't offer continent either. Maybe I going to have to just convert what I already have into continents, how?! I hope this isn't too subjective! Thanks all"
+"pagination is the same concept with or without sql. you just need your basic variables, then you can create the content you want. here's some quasi-code: hope that helps you get started!"
+Awesome! You have no idea how long I've been trying to find this!
+"I know this is an old thread but still, I'd like to share one more tool which I find extremely helpful and user-friendly: This is an online tool that will get you up and running in no time. It also features a variety of pretty nice layouts out of the box. Here are two for example:"
+You should look into the SDL library () as it supports multiple platforms and has bindings for a variety of programming languages. It also supports OpenGL. Good luck!
+"If you need portable Python audio library try . It certainly has a mac port. As for mp3 files: it's certainly doable in ""raw"" Python, only I'm afraid you'd have to code everything yourself :). If you can afford some external library I've found some here."
+"If you're running on Windows, you could do something similar using PowerShell. This could be extended pretty easily to find all unversioned and ignored files and delete them. Hope that's helpful to someone!"
+"There's a discussion related to this and one . Essentially, you use Invoke to accomplish it. Best of luck!"
+"Have you tried the and methods? There is a that mentions the approach. Also, in JDBC 4.0 Sun added the that allows you to get a unique handle on a row. The feature is supported by Oracle and DB2. For sql server you will probably need a third party driver such as . Good luck!"
+I don't think that you can... But if you can I'd love to see how!
+This is better than mine. Didn't know you could do a string array for formats. Very nice!
+pr0n for sure :))))))) (kidding Jonathan)
+"I feel extremely comfortable dealing with 32-bit PowerPC assembly code, but I am completely lost when trying to make sense of x86 code. Do any of the other common architectures like ARM, MIPS, Sparc etc have an easier than x86 instruction set?"
+"Not only that, but as the software ages they feel the need to upgrade simply because they know, every time they reference it, that they're using Office 1997, for example. Great for upgrade encouragement! Although even better is a message on the splash screen, ""Version 2008 is available now!"""
+@StoneFree welcome to the future brave time traveller! :o)
+"I'm pretty sure I never said ""excellent abstraction"". It's not meant to hide the details of the Win32 API, it's meant to provide a means to develop applications that use the Win32 API faster, and more uniformly, while still making it easy to call directly into the Win32 API when necessary or convenient. At that, it is excellent."
+Phew. The idea of not having a menu button scared me for a second!
+"@David, apologies - but at least one of them made sense (I hope!) :-)"
+"Whoops, neglected to look at the dates. Oh well, I still think it's a valid answer."
+Excellent! This is exactly what I needed. Thanks!
+"Excellent tips, thanks! Additionally you can try Clarity"
+"Excellent answer, thanks! Wish I could give you more points."
+"This is really great question - well organised and explained, nicely done!"
+"Ahhh! I just made num_rows work (even though I don't need it, as you pointed out) because of your indirect help! Thanks you sweetheart!"
+Stu Nicholls's site has a lot of examples of how to do this without javascript. It's a really excellent resource.
+no worries! it happens all the time.
+Wow great answer and very quick!. Explained everything.
+"Hey there i've been trying to make an image full screen in the browser without any whitespace and also have a random image everytime you refresh the browser, I know there has to be a way to do that maybe with an image array? Can anyone help i have no idea how to even start. So far this is what i came up with: Please help me! i would really love it!"
+"Well I'm kind of new with magento, and at work they ask me to do a group of products that they will be put in discount, so I created a category sales where I can link the products and put them in sale, so this is working perfectly, but the ask me to put dates in the products so the web master can put dates where the products will be shown between dates, so now I have no idea how to do this. I really hope you guys can help me thanks so much!"
+"I am trying to get the second dropdown box to change and populate when the first box has a car Make chosen. It connects to the database just fine, and if I type 'Honda' instead of 'carmake3' in the second dropdown, then it gives me a list of all the honda cars. I just need to work based on what the user selects. Any help would be extremely appreciated!"
+"The link works for me. That is a pretty awesome testing class! Thanks Andrew. I think I am going to convert and use that in my Silverlight project. Thanks for the tip about Caliburn, Josh G. I'll have a look at that too! :)"
+I am trying to toggle article length for a smartphone size site to save space. I thought that this would work - but I don't understand .closest() I guess. is a jsfiddle. Any direction would be GRRRRREAT!
+"I am using 'simpLESS' program to compile my .less files into .css files on the fly. It is really great! However, after using it only for couple of days, 'simpLESS' stopped copiling the .less into .css files. I have tried to reinstall, redownload and then reinstall, tried other directories, other .less files, tried recompiling manuall - but nothing works. Has anyone experienced this? Thanks!"
+"Thank you @Ward! We're loving how easy it is to create the GUI with Breeze! If can just work out this part, we will have a great solution!"
+Check out the WordPress repository. There is a plugin called WP GCM Its a very great one and has some great extras!
+It would be super great! if you can help me with iframe and cookies stuff...
+"I've been using yui3 grids lately for my column layouts, and I'm loving them! Here's a link to a great overview/tutorial: This is a very easy and flexible solution, which scales well to even very complex layouts."
+I would really love if someone could tell me how to tell whether 2 objects have touched (An image or a button) I know how to make them draggable but not how to tell if they have touched and to do something when they touch! Thanks!
+"I wanna make popover for add new event when user will click to day (""select"" callback in jsEvent.pageX and jsEvent.pageY parameter but Idea where is this popup still sticked on clicked element looks better. So my working code for stick popup to some element : html I already tried something like this: But isn't working. Any help will very greatful!"
+"Sky, it sounds like you can maintain *complete* test coverage for an exception. Excellent work! Maybe someday I'll learn how to do that."
+"I need someone to point me in the right direction on this.... In my Android application I have a ListView with custom views for each row containing various textviews each. I retrieve weather information for multiple locations and then want to write the results for each location to its own listview item. The question is, how do I refer to each textview on each listview item? I can't do it by name using , can I? If there are three items in the list, will the temperature textview for each item be names the same, just differ by an array index? If so, how do I specify TextViewName(0), TextViewName(1) and TextViewName (2) for the three list items? Yes, I'm still very new to Android....but loving it!"
+How to get keyboard and mouse input (what buttons are currently pressed) && also how to send output (make the mouse click at a specific position in another program). If you could also add comments on what different things do and why you use them would be terrific :D Cheers! //Daniel
+Excellent! Thanks for the link.
+"just wondering if anyone could help me. I have a file containing a line: xxxxx are 5 digit numbers and the numbers are different for everytime. I want to be able to search for xxxxx and put it in a variable, so I can use this varibale. Do I use grep and sed? If anyone can guide me through it, that'd be terrific :) xxx"
+"Tim, great-great sample, does exactly what I was looking for!"
+Excellent work on that site by the way!
+Apple's MapCallouts code sample demonstrates how do do this with the callout and their Weather Map sample shows how to do custom annotation views. There documentation is really excellent and these samples are both helpful.
+wow the reaction time on this by you guys was amazing xD I'll give everyone +1 once I get to the 15 rep ^_^ Thank you so much everyone!
+"Not sure if it's on my end or zombie.js's, but I cannot seem to get this very simple zombie.js script to work on my Backbone app. Is it something entirely on my end, or is it a known issue that zombie.js doesn't play well with Backbone apps? I'm also using Pow (http://pow.cx/) to connect to the app through myapp.dev in case that is related. Any advice or zombie.js examples with backbone would be extremely helpful!"
+what I am trying to do it show what terminal port im useing when I am currently logged in to my linux server. If anyone could offer some help I would be very greatfull!! thanks
+"WOW, EXCELLENT, AMAZING. Thanks, Roddy, the link helped me sort this out. My software had ""Setup Software"" as part of its description as it is used to set up a piece of hardware we manufacture. I've changed that (in Project/Options/Version Info) to User Software and now it compiles and runs ok !"
+"You DO need to modify web.xml whenever it's needed. Especially with JAX-RS, you will have to define your servlet in web.xml. I recommand you to use Maven. There are plenty of exemple in the web to do so. Good luck, JAX-RS is really great ! Maven is also nice."
+Dr. Klaus Schulten gave an excellent talk at GTC2010: http://livesmooth.istreamplanet.com/nvidia100922/. GPGPU computing is definitely the way to go for bioinformatics!
+Jeff's article is excellent reading on this topic.
+I'll second Zend_Form; it has an excellent ini style implementation that allows you to define a form extremely quickly:
+"An excellent resource I've found for CI recently is by Martin Fowler, author of the famous ""Enterprise Application Architecture"" book. URL:"
+"You didn't mention the language, but for Java we've loved . For C/C++, getopt."
+"I use ApexSQL Diff. It is an excellent tool for doing just what you're describing...compare schema, compare data, generate change scripts. It not free, but it works well. NOTE: ApexSQL Diff only works with SQL Server."
+Take a 200th upvote for an excellent question.
+Both of these answers were really helpful - thanks!
+Great question!
+"Very well put, I really like this !!!"
+"Too awesome! This actually answered an unasked question of mine, how to stop people from cutting off others in my corporate meeting."
+"Creating custom types can be done in PowerShell. Kirk Munro actually has two great posts that detail the process thoroughly. The book also has a code sample for creating a domain specific language to create custom types. The book is excellent all around, so I really recommend it. If you are just looking for a quick way to do the above, you could create a function to create the custom object like"
+Great question!
+"This doesn't appear to be an answer to the question, and only tangentially related to the topic (this questions is about dealing with `Date` objects in JavaScript, not with parsing text to create `Date` objects). If this is an actual answer that you're posting with a differing method from the other answers, it isn't clear what that difference is. This may best be represented by a comment instead of an answer, or by another question altogether. If you have questions about what content belongs where, http://stackoverflow.com/faq might be helpful to you. Hope you enjoy the site!"
+"recently I've been reading through Scott Meyers's excellent book. In one of the last tips he covered some of the features from TR1 - I knew many of them via Boost. However, there was one that I definitely did NOT recognize: tr1::reference_wrapper. How and when would I use tr1::reference_wrapper?"
+I love the way you assimilated another answer!
+(Python Remote Objects) is fairly clever if all your server/clients are going to be in Python. I use alot though since I'm communicating with hosts that are not always Python. XMPP lends itself to being extended fairly easily too. There is an excellent XMPP library for python called which is reasonably up to date and has no dependancy on Twisted.
+Have you tried logging into Linux as your installed Oracle user then When you log in you'll be able to change your password. Good luck :)
+Excellent summary of subject on StackExchange security blog: http://security.blogoverflow.com/2011/11/why-passwords-should-be-hashed/
+Furthermore if you need to look at the .NET/unmanaged stack just donwload and look at your w3wp.exe processes to examine memory and other stats without having to do a remote/local debugging (just look at the .NET Tab on the properties of the process). It will show all the .NET performance counters for that particular process. Awesome tool!
+#ERROR!
+"Perhaps I'm missing something with the concept of Extension Methods, but I cannot gain access to the Extension Methods within the KeyCollection Class as defined here: . Using the following code excerpt: I can only gain access to the ""standard"" KeyCollection methods (CopyTo, Equals, Finalize, etc) but cannot gain access to the extension methods (Aggregate, All, Any, etc). Any help would be greatly appreciated! Thank you!"
+This is awesome!
+This is great! I figured I just had to redrag everything into the dbml.
+Worked great for me - thanks!
+#ERROR!
+"VirtualBox (after version 1.3.8, anyway) will let you map incoming connections in the NAT configuration. There's an excellent tutorial on that describes the steps to configure port mapping."
+"Thanks, I downloaded FileSeek and it worked great!"
+"I'm working with a console application (C#) at the moment. What it does is pulls files from a database and stores them in their relevant folders on the C drive on a local machine. At the moment, every time I run the console app, it pulls ALL the files from the database. What I would like to be able to do, is each time I run it, It only pulls the files that were submitted since I last ran the console application. Currently, this is the linq statement that pulls the files from the database. Ideally I'd like something like the following where the date and time of the last run of the application is stored somewhere: I'm unsure on how to go about achieving this. If anyone had any advice on it I'd be very greatful :)"
+You're very welcome ! It would be nice though if you upvoted and accepted the answer. This way other users could refer to it if they pass to the same trouble you had =P
+"@SamDeHaan, you are correct! transposed them as i was writing."
+"is in so u need not to worry!Internally the data is always stored as TEXT, so even if you create table with , SQLite is going to follow the rules of data type"
+Loved Dan's solution! For python3 do:
+Excellent question!
+"Ah, excellent!___"
+"no worries! You should answer your own question, so others in future know what the issue was."
+"Let's imagine something like this: Later I can do something like this: Is there any way I can set the limit when using the named query, and not when defining it? I'd would really love to do something like: or Thx in advance! :-)"
+That's one bit of excellent logic! Thank you so much!
+I'm in Ubuntu using gVim. Something is just wrong with the Window management of gVim - it keeps resizing on me! ... It usually happens when I either switch tabs or split the window or switch between splits. Any help would be completely awesome! Thanks!
+"Excellent!, thanks for remembering :)"
+Excellent! That is what I'm looking for! Thanks very much!
+I think StaggeredGridView is what best suited for your requirement. this is the link go and download and attach this library to your project. I used this and it works very beautifully..!
+"Pretty self explanatory question. I just don't know how to do it. I've been using Eclipse for about a month so I still have a lot to learn. I'm using the newest version of eclipse Juno and need to push the app (or email it) to my MyTouch. How would I do it from eclipse, as that is the way I would prefer? If I should just email it, would I email the whole project folder or just a particular piece of code? I thank you for all your help in advance. This site has been so incredibly helpful!"
++1 Exactly the solution I required. Frightened what would have happened if SO did not exist !
+I know it's not what you asked but may I suggest using NIVO Slider? I've used and it's excellent!
+"I have an old friend who is a mathematician. He has his own math to compress his formulas, which are incredibly beautiful. He works in a program called Mathematica, which transforms the formulas for 3D-shapes. I wonder if it is possible to obtain these figures using Canvas and JavaScript? See attached formula and figure. I know little of this myself. But I would be delighted if some one could show me an example."
+"No worries, we were all new once!"
+"NivoSlider, Flexslider, and others all require the images to be the same width and height. I need a slider that will allow me to have images with varying widths. has a good example, but it only works if you have the slider take up the full width of the screen. Any direction would be greatly greatly appreciated!"
+"Oh, one more: You didn't seed the random number generator in the loop. Excellent!"
+"Excellent, thanks!"
+Excellent thank you guys!
+"I'd recommend python as a fantastic general-purpose scripting language which is fairly quick to pick up. You'll find it's more versatile for system-programming than something like php, which would be another option. You might look here as a starting point: Besides, if you learn python, you can then learn django, which is incredibly awesome!"
+Is there any need any more to profile with Leaks now that we can use ARC (which incidentally is absolutely fantastic and really speeds up development!)
+@Stephen excellent example! Somehow my mind was stuck in 1995 :)
+"Have a look at . (Except for it being the foundation of their incredibly great IncrediBuild product, I haven't used it, though.)"
+"No worries, Greg!"
+I cannot figure out how to send and receive and arraylist-object between two categories in android. I get A NullPointerException in activity B. Activity A Activity B Would be extremely greatful if someone know how to solve this issue. thanks!!!
+"I have a script in which I need to process a file using ajax. Everything in the script works, except I can not get the right variable. I have tried everything and I currently have this in its place I was wondering if anyone could tell me how to successfully set whatever is in this field As a variable in the ajax script that I have. All help is extremely appreciated, thanks for the help!"
+"Oh, wow, awesome! Thanks! (this question needs to have a answer, any volunteer?)"
+"I'm trying to show a currency dynamicly, that works totally fine! But I'd like to change the pattern from ""SFr. 150'000.00"" to ""150'000.00 SFr."" (and still keep it dynamicly!) Any suggestions how I could do that? Here is the code: Thanks in advance!"
+"I'm using FOSOAuthBundle with FOSUserBundle for an API which is used by mobile apps etc. I'm trying to access some user profile information using the access token to find the users details, however the user_id isn't being set. Further info, I was following the tutorial in your documentation. Here's my security: Here's my config settings for UserBundle and oAuthBundle: I was following this guide: Any help or point in the right direction, would be hugely appreciated!"
+I absolutely love ! I tried the REST support in WCF and was quickly turned off from it. Good luck!
+"So my line extends from one side of my graph to the other, but it doesnt really animate through each data point, I assume I have to add a loop somewhere. Heres the relevant code. Any assistance would be hugely appreciated!!!"
+"Source control, keep it offsite and keep it for life! You'll never have to worry about it."
+"Perhaps pipe the users through Google's Web Transcoder - http://google.com/gwt/n then you don't have to worry about the WML conversion, as google will translate your page into WML."
+"Thanks, after using it for a couple of hours, I can say that's a great soft, definitely!"
+"Although that text editor test isn't 15 minutes, it sounds like an excellent test. It's more like what you would do in real life compared to writing algorithms: maintain code that someone else might have made."
+Excellent - I've unaccepted the original answer. I shall try this tomorrow. Thanks both of you.
+"If you want to try a new and alternative approach, this is a application core framework modelled after java OSGi: I haven't tried it myself, but it looks really cool!"
+"i really love the idea of it as i can create a folder for my user control, and make sub folder images, css, and put local resource file, so the whole thing is contained in one folder, and that makes it really efficient for me (management wise). but the bugger is you cant get intellisence like global resource, so is it possible in any way ?"
+Wow! 3 lines of code instead of a page... I wish I could vote +5.
+"Yep, StackOverflow is written in C#/ .NET and is a very successful example of a high-scale site."
+"I just launched with a stack of new features, including the MP Spotlight you can see on the Homepage Every few seconds, the following code is run, which goes and fetches the next MP and fades the old one out and the new one in. Looks great! BUT If you scroll down to the bottom of the page, and wait till the MP spotlight refreshes, the browser scrolls back to #memberList Does anyone know what's causing this? How can I stop it from scrolling? Any help is greatly appreciated."
+"Funny, that is exactly what I just did. Great question!"
+Very nice plugin!! I really admire people that put more time into making Vim more usable. I've added your plugin to my list here: http://staff.washington.edu/ivanoats/blog/2012/01/13/making-macvim-pretty/
+"I find Apple's documentation quite limited on AudioFileStreamSeek and I cannot find any examples of actual usage anywhere. I have a working streaming audio player, but I just can't seem to get AudioFileStreamSeek to work as advertised... Any help tips or a little example would be greatly appreciated!"
+"I'm trying to get multiple rails apps hosted under the same domain, but different directories. My configuration before attempting to host multiple apps (which works great), looks like this: I google'd around and found documentation suggesting I use the following configuration: That configuration, however, only causes my directory structure to be revealed, and no app appears to run. Any advice would be great!"
+"I build Web service, I define IP connection (all works excellent) but, how I can define the IP in variable ? now, I change with the Find and replace in VS2008 and right click on the Web service properties. thank's in advance"
+"+1 I haven't such items in the right-click menu, but Repo Browser way works great, thanks!"
+That would be really great if you share link to the example.
+"I really love the ""one model in - one model out"" idea of Fubu MVC. A controller would look something like this and the service locator would automagically fill in all the required dependencies in the constructor. This makes the controller very easy to test. So my question is: How would you go about tweaking asp.net mvc to allow this simplicity in the controllers ?"
++1 for not being afraid to ask
+"Pretty outstanding book: Gives you a good overview of the architecture of SSAS, as well as the query language MDX, and administrative/maintenance overview. A good primer for a developer OR a system administrator."
+"Great answer! If I may update it to Rails 3, the json method now seems to be to_json. At least that's what worked for me... i.e. @contact.to_json"
+"old question, but if anyone finds this through google (as I did) and who does not want to use anchors or jquery; there's a builtin javascriptfunction to 'jump' to an element; and what's even better; according to the great compatibility-tables on quirksmode, this is !"
+Congratulations!
+"This works excellent, thank you very much! (Trim('0'||mycolumns))"
+Thanks for the feedback! It was a pleasure!
+I have created a new project using core data then copied all of the app delegate code for core-data that i need over into my current projects app delegate.. my appdelegate.m looks like this now. My questions are as follows Is the URLForResource in this part of the code ment to reflect the name of my xcdatamodeld that I have created? With the URLByAppendingPathComponent: do i have to create a sqlite database called Code.sqlite or is this made automatically for me by the core-data code? what is the purpose of this method exactly? any help or tips would be really awesome!
+very kind :) Paul S. approach is a good one as it acts like a polyfill.
+@prototypical - Absolutely. I was never to solve this xTo-1 issue and ended up creating mirror images for my sprites. I praised the genius who created keyboard shortcuts that day!
+I'm trying to create a cocoapod using pod lib create but for some reason the .xcworkspace file is never created. I've tried updating Ruby and I've tried using Ruby 2.0.0 which my colleague is using and it works fine for him. Here is the output from the pod lib create command: I would be very greatful if anyone can shed any light on this issue as I'd love to get started using this great tool straightaway! Many thanks Chris
+"Awesome, super fast! Thanks a bunch =)"
+"The prevalence of memory leaks in programs with manual memory management kind of disproves your thesis that it's easy to establish upper bounds of a C/C++ programs's space usage. That said, excellent question!"
+"@HansPassant - Excellent! Everything is falling into place now. If you post as an answer, I will happily accept it."
+excellent - thanks guys!
+"FWIW, I agree with your original method (Rails 2). Creating models just for testing them makes your tests way too slow to run in continuous testing, so another approach is needed. Loving Rails 3, but definitely missing the convenience of proxy_options!"
+"Thanks Scott for the excellent answer! This was very helpful. Here is a mod to the Application_BeginRequest() code that 1) uses ordinal string comparisons for speed, 2) accommodates localhost and 3) highlights an asymmetric side-effect."
+This is amazing. Thanks so much for explaining. Excellent explanation!
+that was from something else - that apparently the fragmentmanager holds on to fragments. But you're right - it doesn't make any difference one way or the other. Nice library by the way - extremely useful!
+I'm pretty new to Angular but loving it! I am trying to create a modal dialog to display a partial view. ui.bootstap.modal has an option which takes the URL to the partial view to be displayed. I have a route configured on my application module that looks like this: I would like to show the partial template defined as from the above routes. So in my controller I'm attempting to open the modal dialog like so: The modal dialog opens but the contents are just . Do I need to define the route on the server side or can I use Angular routing to return the partial? Thanks!
+"I am new to Qt. While digging inside Qt's documentations, I found QListWidget to be useful. But I'm not sure how to do it. The following image shows what I want. Any help would be really awesome! Note: I don't want to do this using Qt Quick."
+been trying to save my data from my while loop to script variables but no success. Did an example if how I want to save my php data to script variables. This doesn't work for me. Anyone have any idea? Don't want to save all data manually. Very greatful for answers! Ask if you don't understand :)
+I am new to writing Apex Triggers and need help with creating a trigger which would update Lead Ownership to the Current User based on custom Id field. The Custom Id field is related to the Current User Record. Any suggestions would be hugely appreciated!
+Excellent answer!
+"Excellent, thanks again!"
+"I created a mobile application with the yeoman mobile-generator. I'am very new to grunt and yeoman, but it's really awesome stuff! Does anyone know what I have to do add a banner to my generated files? Where I have to use this. I have tried something like this, but does not affect. ..."
++1 for the `/* God I hate Microsoft! */` comment in the IE7 stylesheet.
+Excellent answer! Your recipe works like a charm.
+"I finally had success passing data through AJAX and returning it in JSON. However, now I don't know how to display it on my page. here is my JS: after my model runs, it echos the following as discovered in firebug: any advice on how to replace the div ""board"" with data from the returned JSON array would be incredibly helpful!"
+Check out this though personally I recommend you the backbone - it's very agile and fast to learn + leaves you with a lot of freedom and happiness :) But imo the special thing about the backbone compared to others is the community - and no fancy feature can replace that!
+"I have some questions.. (See an image for more information here: .) 1.When the animation plays reverse, i want it to play faster.. Is there any way I can do this? By code maybe? 2.Also. When the animation played backwards, and then forewards again I want it to stop at 'mouseover'. How can I do this? If i put a trigger stop between them, it also stopt when it is playing backwards. I really hope someone knows how to do this! Thankyou, Kind regards, Ellen"
+"Extremely good question! For *line 1*, it is because you cannot add anything to a list of unknown type except `null`."
+Based on the RolandMySQLDBA's answer I think we can use the above to get the size of each schema in a table: Really liked it!
+mechanize ended up giving me the most functionality...thx
+First off I'm really loving all the things you can do with CouchDB. I'm coming from a lot of front end JavaScript and I use console.log() for lots of debugging and testing tasks. I'm wondering how to console.log or what a better way to debug might be in CouchDB. Any suggestions would be really awesome!
+Excellent! Thanks! that worked. But how is the performance compared to writing it as 2 separate SELECT queries?
+"Wow awesome, it worked thanks a lot!"
+"I'm a starter in Objective-C and IOS programming, and I'd like to have some recent guidance on how to use SOAP with IOS 5. I saw some tutorials online, but they are quite old (over a year old), and I don't really know if there are some more recent ways to deal with the SOAP webservices. If anyone could give me some guidance / links about that, I'd be very pleased :) Thanks !"
+"I don't know the answer to this question, but the book ""Understanding the Linux Kernel"" has a lot of good information on this type of stuff. It's a really great book, anyone doing kernel work should read it."
+"How do I cache an individual user control with ASP.NET MVC? I also need the VaryByParam etc support that usually comes with ASPX Output Caching. I don't want to cache the entire action though, only one of my user controls in the view. An example would be nice :) Thank you!"
+Great! Thank you.
+FWIW - In regard to 'being more careful in the future' I've really enjoyed using AnkhSVN within my Visual Studio 2010. It's done an excellent job of helping me perform perfect commits
+My test page: My Js trunk/js/sifr_config.js My CSS trunk/css/sifr.css any and all help would be greatly appreciated!
+"Thanks for the answers guys, all where to me really useful! :)"
+"You should really check out . I evaluated it quite a bit last year and really liked it although in the end we deployed TFS2008 and so we're using TeamBuild to get a lot of the integration goodness. But really FinalBuilder had TONs of prebuilt build activities, great support for lots of environments and tools, and a nice IDE for designing it all."
+"To Kev's excellent Answer - ""Working Effectively with Legacy Code"" by Michael Feathers should be required reading for people working in Software Engineering."
+"Very good one, thanks!!"
+"Just use Skype. It's free, it has excellent chatting capabilities, works over firewalls, supports lots of collaboration features out of box and plenty more as plugins. P.S. It is also supported natively on Windows Mobile and has good clients on other mobile platforms (like Fring on S60)"
+"+1 for *""...the debate was about **what** was actually meta data.""*"
+I've found the following macros pretty useful! So you can just call or from within your app (as long as the header is included of course!).
+"Can someone tell me how I go about upgrading the Telerik ASP.NET controls? I am currently using the Q3 2008 release and I just recently bought the Q1 2009 SP1 release. How do I upgrade my projects? Do I need to uninstall the old one and install the new one or just install the new one? Also how do my projects get upgraded? Also, what about my projects that I have ""live""? Do I just need to upload the new DLLs and and change my web.config? Any guidance would be great!"
+"I am trying to make Authlogic and Facebook Connect (using Facebook) play nice so that you can create an account either the normal registration way or with Facebook connect. I have been able to get the connect to work one way but logging out only loggs out on facebook and not on my site, I have to delete the cookies to make it working. Any help would be awesome, thank you!"
+Excellent. I had the 4.5.1234.4 build and didn't see an update yesterday. Thanks!
+Wow that's a very interesting question! I'm not exactly a pro at 16-bit C++ so I wonder why do you swap stacks at all?
+ROT13. It's super efficient too!
+"This looks really useful, thanks!"
+Excellent question.
+There's an RFC for how to read RFCs. Love it!
+"Great, thank you, that fixed my issue!"
+"I've got tables like this: I want to merge them like: In this new table, Name in Table.Articles will belong to Title column, because.. Articles.Name and Books.Title mean the same thing :) Any answers will be very appreciated :) Thanks"
+Great sample code!
+"I can't comment (yet) so I have to add my comment this way. I thing Mr. David Murdoch's advice is the best for Opera ( ). OMG, what a lovely girl he's got btw. I've tried his approach in Opera and I succeeded basically doubling the input tags in this way: This way the 1st element is hidden but it CATCHES the display focus Opera would give to the 2nd input element instead. LOVE IT!"
+The documentation of jQuery is really great and not that hard to understand. http://docs.jquery.com/Main_Page
+"Awesome solution Binod, works perfectly! This was a lifesaver, thanks so much."
+"Does this look like it should work? I'm wanting to generate directions from one latitude/longitude to another latitude/longitude. The map loads fine, but the directions don't come in. I've tried it this way too: Same thing... map but no directions. Any help is greatly appreciated, thank you in advance!"
+"So, if I try to remove elements from a Java HashSet while iterating, I get a ConcurrentModificationException. What is the best way to remove a subset of the elements from a HashSet as in the following example? Here is a solution, but I don't think it's very elegant: Thanks!"
+"Im wondering how to parse a url into an URL object(of some kind) in C. So that I would be able to extract key/val objects from a querystring. Have looked at: And several other resources, even Google Code, but haven't found anything in my taste.. And no, using sscanf, and regex is not an alternative. Saying, unless I have to write my own parser.. Would be greatful for any tips or help on where I could find this!"
+"Wow, you guys reply quickly! I'm having a hard time following up here :)"
+that's great too! awesome. thank you!
+Thank you! That's extremely helpful!
+"I would like to implement the same type of functionality as this application: When a user selects a table view cell, the cell animates to fill the entire screen and reveals a new view while animating. I have been trying to find information on how to do this but can't quite seem to find any good resources. How can I accomplish this? Even just an idea of what to properly google search will be extremely helpful!"
+I recently moved from a Mac + Textmate back to Visual Studio. The one thing I absolutely loved about textmate was it's find/search feature. It made navigating solution files so easy. Is there an equivalent shortcut/addon for Visual Studio?
+"I'm quite new to emacs (and I'm loving it), I've been using the align-regexp quite alot however I can't wrap my head around how to do this: Un-aligned code comment: I want to align it so that it looks like this: My knowledge goes as far as doing M-x align-regexp RET := RET which yields this: Thanks in advance!"
+"I'm trying to apply route filter to a specific url. So, my file is under public directory: My filter: Finally my pattern: If I try to access the rule does not work. I can see whole contents of file. If I try to acess the filter works great. Because there is no file which named under the directory. Any help would be really great!"
+Worked really great! Thanks a ton!
+"Ive made a simple android quiz and would like to display the question count ID within the layout(The questions will be randomly selected). For example on the bottom of the layout it might say ""Q6"". Currently the layout only shows the questions, possible answers and a next button. Would I need to change the java class and the layout? Any suggestions would be really great! Thank you!! Here is the question class:"
+Excellent - thanks !
+Works awesome :) Thank You!
++1 : as i was planning to answer but horribly slow typing speed!! :|
+aaaaawesome!!!! Thanks a lot
+"I have just read and I really loved to the question. Naturally, an interesting question popped in my head... How to add my own events (of my own applications) in the Control Panel -> Sounds and Audio Devices -> Sounds -> Program Events? And another related question, that I suppose should be answered here as well is... How do I play those sounds specified in the Control Panel, when the event in my application occurs?"
+"excellent question, thanks!"
+This is excellent! :)
+"This one by Christoph Pojer is pretty awesome! FileManager uses the FancyUpload3 script that is soon to be released for good-looking file uploads. And, it can be easily integrated with TinyMCE as well."
+"excellent, thanks much!"
+"Absolutely awesome, alexn! I knew I had forgotten about something important. It works like a charm."
+"excellent bonus tip re lcd! I didn't know that existed, but will be very useful."
+"Can anyone suggest me some tutorial where i can read how to use the facebook registration plugin. On the facebook page of that plugin it's not clearly given hence less understandable. If someone know about some tutorial or can help me out with this stuff, would be really amazing! Thanks in Advance"
+"I have imported video FLV Player(with no skin) in layer(flv1) The flv Player instance name is ""myflvplayer1"" Actions: Frame 1 Till frame 142 there's animation playing, after that: (so here video start to play in full screen) Now when this video finishes I want it to Jump to frame label ""main"" Where I have put many navigation buttons (My main menu page) So any help will be very great.! This is DVD based presentation, so everything is being loaded Local."
+"Also, is there any tutorials you would suggest for me to downgrade the .NET Framework for an already built project? That would be really great :)"
+"Wow, great ! Thanks a lot !"
+very awesome! You just saved me a boatload of time.
+I have seen a lot of examples of Ruby classes that utilize the method of and I am not sure what the advantage of using it would be. Example: Any insight would be extremely helpful! Thanks!
+I loved the wild solution that Marcus offered and it would be great if it could be undeleted!
+"Excellent, thanks!"
+"Excellent! Your first comment is right on the spot, the other two calls are not necessary. I'll be happy to accept your answer if you create one."
+"How can I get an array of pointers pointing to objects (classes) ? I need to dynamically allocate space for them and the length of array isn't determined until run-time. Can any one explain and tell me how to define it? and possibly explain them how it works, would be really nice :)"
+"I've used Clojure, it's great for an ex-Lisper! I may do it opposite from you and learn Haskell next."
+Awesome!! http://haacked.com/archive/2009/12/02/t4-template-for-less-css.aspx
++1 for the sarcasm!
+"Hey, I saw that you used asyncsocket to get the desired result. Any chance I could pick your brains about this sometime? I'm @suprfrends on twitter. It would be GREATLY appreciated!"
+Awesome drawing!
+"+1 for the docbkx Maven plugin, it provides everything needed to work with DocBook in a platform independent manner. It's an excellent tool even if you are not working on Java projects. http://code.google.com/p/docbkx-tools"
+"Thanks all, for the quick and excellent answers. With this gentle initiation into SO, I am encouraged to use it more. Hopefully, I can help answer questions, not just ask 'em. Cheers."
+"Everytime I create a new IK handle in Maya via MEL, it creates an end effector named ""effector1"", or ""effector2"", depending on what is in my scene. I don't want to rely on the auto-name of the end effector, so I'm wondering if there is a way to either: a) name the effector at the create-time of the IK handle, or b) select the effector for a particular IK handle in MEL. Any help would be greatly appreciated -- thanks!"
+"I am trying to construct a page layout, where the left column has a fixed width and a height of 100% (of whatever the right column is) and the right column has a fluid width. I've tried various ways of doing it, but can't seem to get it right.. Here's my code: And my css is: If someone could help me out, that would be fantastic :)"
+Excellent. This just saved me hours of work.
+Regarding WCF/FTP/WS-Attachment/DIME: Excellent suggestions and some interesting reading. These are probably the types of long term solutions that I will end up using. However if there was some short term solution for changing the upload size in IIS7 that would be excellent. Thanks.
+This is a great question! I would love to see some real world analysis on this.
+I agree. Excellent update. +1.
+"Awesome, that did it! Thanks David!"
+Excellent resource:
+"I'd stay away from EJB. Do people really use it? I think you might get stuck in learning this framework specifically. I'd recommend taking a look at Spring MVC - excellent way to learn Spring, and it's a very clean and lightweight framework"
+HOW CAN I BE SUCH A BIG IDIOTTTTTTT!!!!! but thankx guys anyways......:D
+I don't even want to show people my first 20 website layouts. They were absolutely horrid... Yours is *much* more usable than my first layouts.
+"In ASP.NET MVC, I have a form. In this form the user selects a country, and then the ID is posted back to the server, using a normal . However, for some UX reasons, I use Knockout. Therefore I need to get my observable value to have the value of a dropdownlist. I want my label in the markup, to show the countryId, depending on the selected value on the dropdownlist. Markup: ViewModel: Then my question is: How do I modify my DropDownListFor, so the countryId is being set automatically? :-) Thanks a lot! I really enjoy learning Knockout, but this one has taken me a long time!"
+To summarise the link provided by Codeslayer (in case the page url changes)... Change the sql file templates to ANSI encoding by opening with notepad and then saving it as an ANSI file. You can do the same for files already created. \Common7\Tools\Templates\Database Project Items You've just made our DBA's very happy!
+<3 <3 <3 ! ! ! :)
+"Is there a way to pattern match in F# so that it will check to see if both elements in a two element tuples are equal. I'm incredibly new to F#, and also new to the whole concept of Pattern Matching in general. I was thinking something along the lines of... But I guess that would be too easy hah. Any suggestions? Or is there even a way to do that? Thanks for your help, you guys are incredibly helpful!"
+"No worries, once you know, you know!"
+"Hey I figured it out! I wasn't using Virtual, New, nor Override keywords effectively and I learned how to directly access the Font property of the progressbar control. I bet you guys figured all this out and was letting me think it through. Totally awesome! How did you guys get to be so smart? Well anyway, thanks for letting me learn from the best teacher of all. God bless! Craig. (Now, how do I close this question again?)..."
+"This is probably what you were looking for: It's an uber awesome, extremely useful app to track your overall app downloads & sales!"
+"great great great, that's what I was looking for !"
+"Use the . It has a Desktop Form for exactly that, and I like it, even if tabs are all the hype now. I already used it with great success!"
+I use this and it works really great :D
+"I would use pure ruby (Matz Ruby Interpreter (MRI)) to start off. My understanding is that iron ruby is not quite ready yet. If you are looking for a good book my current favorite (over pickaxe) is by matz and flanagan, the book is very concise well written paragraphs and they provide great examples (in 1.8.* and 1.9) Enjoy! :D"
+"@JonesV excellent! I think thats what I wanted: ""//*vptr is address of first virtual function in VTABLE viz. display()"""
+"David: +1. For a second I thought they may have been passing a `Furious Neanderthal`, or something, to Word!"
+"This is a great question.. my approach for solving this question would be to ask: Given a list of items, what is the popability of choosing two consecutive items from the list which are sorted. As the list becomes more sorted, the probability will approach 100%. To calculate this probability is relatively simple: I hope this helps!"
+"Thanks to the two of you that answered. What I ended up doing (in case anyone else is interested!) was processing the openid login like normal, but NOT saving the new user to the database. Instead, I stored their information in a session var and asked them for the remaining information before adding them to the db and logging them in. Hope this helps!"
+Graphael doesn't have an unhover event for some odd reason. Found this chunk of code in pie.js that creates hover events: The unhover event is Raphael JS is the following code snippet. Using these two there must be a way to create an unhover for a Grapael pie chart. Any help here will be very very greatly appreciated as I'm stumped!
+Wow! That was an astoundingly fast and informative response by all! I am very impressed. I will add a couple more comments below. Thanks all!
+put your path and your shadow in a set. apply your animation to the set and it'll affect both. a really terrible example where I move both at once.
+That's what I thought...but I'm terrible with C. Absolutely terrible.
+@BoristheSpider :( :( That is really sad. :(
+":~) Very embarrassing!!! When I debugged and printed the receiving addresses, I realized that I was checking the wrong email account! Sorry to have taken your time."
+I just installed AndroidStudio in my System I am trying to create my Very First Project . I set up JAVA_HOME and Android SDK path that has been used previuosly by eclipse in Android Studio Android SDK has the below versions for Tools and Platform Android SDK Tools - 22.6.2 SDK Platform - 19 As soon as started Android studio downloaded the Gradle-1.12 in the below path C:\Users\DELL.gradle\wrapper\dists\gradle-1.12-all after that it shows the build screen as below. This screen is shown for ever . It is not moving further. can anyone help me in this. I am sad!
+"I am completely hopeless with regular expressions... I have a Velocimacro named , and I have a JS function named . Now I want to find all the places the JS function is called. So I need to search for ""addButton"", where ""addButton"" doesn't start with the hash key. Any ideas?"
+@Colin Pickard: That's really sad :'( :'( :'(
+"Ooh, I feel your pain. I've added some more to my answer. The operator precedence is in the VB6 help"
+Dude I feel your pain. I used my blogger address but since moved my blog. I don't want to continue using my blogger address as my id now there is a google option.
+yeaa im just not sure how i would be able to store a user input string into the array. I've looked around online and tried out some of their code. So im not sure. I really hate mips. :(
+@Pekka - what's the emoticon for being terribly embarrassed!
+@Colin Pickard: That's really sad :'( :'( :'(
+"Sorry, I was just trying to help and obviously misread the question. No need to get angry!"
+"ouch. I have a large table, and the row by row insert is very painful"
+It is really sad that answers need to be more than three characters
+"The 1024 byte limit is part of the syslog (section 4.1), as is UDP transport which doesn't have guaranteed delivery (in case you worry about log lines lost in the ether). I think syslog-ng can solve both these issues, but I'm not a syslog expert."
+"I am currently a college student and I don't feel that any of my classes have touched on the Software Development Life Cycle (SDLC) nearly enough. I've been interning a company for a few years and I've been learning about SDLC from the internship, but I wanted to poll the crowd so I can branch out from that. What SLDC resources (books, websites, magazines, newsletters, etc.) do you use?"
+"I'm not sure I follow what you mean by ""service layer""... ""service"" is such an abused generic term these days :-("
+"I don't know any opensource solutions, and the guys writing this stuff for money can't and won't tell you. Guess you're out of luck :]"
+Most DNS servers don't obey RFC1912 to be honest. Its a sad thing about ISPs.
+"Since you're testing legacy code I'm assuming you can't refactor said code to have less dependencies (e.g. by using the ) That leaves you with little options I'm afraid. Every header that was included for a type or function will need a mock object for that type or function for everything to compile, there's little you can do..."
+unfortunatly most browsers think window.close() is malicious and don't allow it to close itself without at least prompting the user :(
+"I'm sorry, was hasty and overlooked the angular JS part. I cant help you with that, good luck finding a solution !"
+"Apparently, the Gmail app do not let me download the attachment... this is really unfortunate :( Gmail works with !!!"
+"I'm in the UK, a long way from Beijing i'm afraid!"
+You're right edited. Sad fact! :(
+"This makes me very, very sad."
+"JLists don't offer a method for this, and that's very sad. Do you know how to do it?"
+This is officially the first time I have seen it referred to as Red Gate's Reflector as opposed to Lutz Roeders Reflector. Sort of sad in a way
+"That didn't work I'm afraid :( Daniel, main.cs: http://pastebin.com/CCdchuQs"
+"I'm a novice programmer who is attempting assembly for the first time. Sorry in advance if this is an incredibly lame question. I have a character stored in the EAX register, but I need to move it to my DL register. When I try: mov dl, eax I get an error C2443: operand size conflict. I know that the eax register is 32 bit while the dl is 8 bit... am I on to something?? How do I go about solving this."
+It is very sad :(
+"isn't generic, so your code is effectively: At that point is it clearer why you need the cast? (Not that the cast will really anything at execution time, of course...) You're not calling which is what you really want to be doing, effectively. It's just another case of Java generics being a bit of a pain :("
+:'( :'( :'( :'( :'( :'(
+read I'm not sure if it will help you
+Im afraid is not!
+sad... very sad.
+sad faces! :( not workoing.
+Basically you've got to call the method with reflection: Get the generic method template with Call passing in your 4 type parameters Invoke the method passing in the regular arguments It's a pain :(
+Kernel Mustard link is now dead :(
+I think I've been using these terms interchangably / wrongly!
+"i have an assignment at my company to build a custom cms, for the foundation i ve chosen latest laravel(version 4, i believe). Now, the requirements in laravel docs() say minimal version of php on server required is 5.3.7, our servers have php 5.3.23. I am right now on a weekend, so i cant check my code on the server( been developing the basics on localhost with xampp which has latest php). Has anyone tried laravel 4 on pre-5.3.7 php?? i m very worried all of last week's work is going to the bin... :("
+"I installed Delphi 2009 Update 4 yesterday (very painful process ) Now, How can I make sure if it is properly updated? What is the build number shown in the IDE about box?"
+"Is your test case exhibiting this behavior in jsfiddle? I have tried it in Firefox, Chrome and Safari and do not see the shrinking you're talking about, although Chrome and Safari force a left-margin indent while dragging. (???) &#xA;&#xA;"
+"I just caught that, Firefox doesn't preform spell checking on the title field for some reason."
+"that's what I thought, that's why I'm surprised"
+"@Gary it is indeed strange enough that `Files` does not have a recursive deletion method... That sounds like an obvious thing to have. But it probably isn't. How to deal with errors, for instance…"
+"Why is this getting downvoted? He got the terms IDE and compiler mixed up, but it's still an excellent question. He wants to know if Sun makes an official IDE, like Microsoft does with their Express products."
+Is this visual studio specific or all c++ projects behave this way? Why??
+"We're running into a really painful issue with Honeycomb's here, and I was wondering if anyone else has found a solution. The problem itself is quite simple: We frequently trigger background tasks in Activity or , since most of our screens must display data loaded from a Web service. While these tasks are running, we show the ActionBar's refresh spinner and animate it. The problem is: onCreate and onResume are executed before is, so at the point where we start the task, the refresh spinner doesn't even exist. Hence, it won't animate. I don't see any simple way around this. I guess we could keep the information about a task being spawned in onCreate, and as soon as the ActionBar becomes available, update it accordingly. But still, I can't believe a use case as common as this is so difficult to do with ActionBar?"
+OMG I hope that isn't all in one file!

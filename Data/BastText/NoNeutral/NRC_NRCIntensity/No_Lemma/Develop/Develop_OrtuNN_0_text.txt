@@ -1,0 +1,157 @@
+__label__love	hi rustam , finally i will not commit the imap- patch , so it will be good that you attach your patch here . thx , eric
+__label__love	hi oliver , thanks for catching this problem and for your suggested fix . we can go one step in simplifying the fix by removing the need for uri altogether if we use the getresourceasstream ( ) method of classloader rather than getresource ( ) . modified version of your fix committed in revision . please could you check that this version of your fix works in your environment . best regards , george
+__label__love	i 've just committed this to the hdfs- branch . thanks a lot for the contribution , colin .
+__label__love	brilliant feedback , thanks ! i 'm glad you found the issue , and the solution !
+__label__love	applied to trunk revision . thanks bob .
+__label__love	thanks , mayank
+__label__love	thanks martina .
+__label__love	ah , got it . thanks ivan for explanation .
+__label__love	i committed this . thanks , nicholas
+__label__love	thanks hari !
+__label__love	committed to trunk and branch- . thanks rohini .
+__label__love	thanks for the patch daryn , upvote i put it into trunk , branch- , and branch-
+__label__love	i just committed this . thank you lohit .
+__label__love	sweet 🙂 you got there before me
+__label__love	thanks lukas for pointing these issues out . will review your fixes and do the necessary changes . the jms transport fix should go to axis2 transports project .
+__label__love	thank you !
+__label__love	thanks henry and pat … we 'll have to re submit all the pa 's so trigger hudson .
+__label__love	thanks for the info david .
+__label__love	thanks again to claudio tasso
+__label__love	thanks chandan khandelwal
+__label__love	committed to trunk . thanks for the patch doug .
+__label__love	thanks a lot , kiran for the patch .
+__label__love	integrated to trunk . thanks for the patch , bryan . thanks for the review , chunhui .
+__label__love	thanks tom .
+__label__love	great investigations doron !
+__label__love	i just committed this to trunk . thank you uma . the patch does not apply to branch any more . i recommend it for back porting .
+__label__love	this was a temporary connectivity issue . you can close this bug . thank you .
+__label__love	ray , jacoo , i finally commited it in revision : . thanks
+__label__love	hi gary , i think i have a rather nice and elegant patch for this ; but if you do n't mind waiting , i 'd like to get some clearance from my current employer . thanks .
+__label__love	thanks tony .
+__label__love	thanks elena .
+__label__love	i committed this to and above . thanks , corinne !
+__label__love	i just committed this . thanks , jordà !
+__label__love	best regards , andrew
+__label__love	thanks for the finding , andrey . createdir ( ) is recursive . would be nice to write it in iterative manner . would filesystem . mkdirs ( ) do the job ?
+__label__love	thanks stepan .
+__label__love	i 'll do it now , thanks !
+__label__love	committed to branch , thanks eli
+__label__love	richard , patch applied at revision r437600 , thanks a lot for this enhancement , please verify that the problem is fully fixed as you expected .
+__label__love	thanks for the patch ! http://svn.apache.org/viewvc ? view = revision&revision =
+__label__love	thanks mirdul , committed in trunk r903428 and r903429
+__label__love	release candidate of this patch . this patch contains : + add ip address to crawldatum version ( as byte [ ] ) + a ipaddress resolver ( map runnable ) tool to lookup the ip 's multithreaded + add a property to define if the ipaddress resolver should be started as a part of the crawldb update tool to update the parseoutput folder ( contains crawldatum status linked ) of a segment before updating the crawldb . + using cached ip during generation please review this patch and give me any improvement suggestion , i think this is a very important issue , since it helps to do _ real _ whole web crawls and not end up in a honey pot after some fetch iterations . also if you like please vote for this issue . 🙂 thanks .
+__label__love	committed to trunk and branch- . thanks , ari !
+__label__love	abhi , can this be assigned to someone thanks / sudha
+__label__love	thanks for the patch ; michael . applied with a few modifications .
+__label__love	applied patch ; slight indentation reformating . thanks tommaso !
+__label__love	thanks dawid . bq. yes , this is pretty much the top - n nodes reordering that i did , albeit without any optimization of how many n to take ( the hardcoded magic constants should probably be justified somehow ? or replaced by a default in fst somewhere ? ) . bq. deciding how many nodes to reorder is i think hard – i failed to provide any sensible fast heuristic for that and i simply do a simulated annealing to find a local optimum . yeah the algo is simplistic now … and it does force caller to pick the params ( though minincountderef = and maxderefnodes = inf are probably pretty good ) ... we can and should make it more sophisticated over time . we have at least one spare bit to still use in the arc flags 🙂 bq. one thing i was wondering is why you decided to integrate the packer with the fst – would n't it be cleaner to separate packing from construction ? granted , this requires a double pass over the fst nodes and more intermediate memory but it would n't add any more complexity to the builder which is already , ehm , a bit complex . you can compare this design in morfologik : well … it 's tricky . first , i decided to change node targets to ords so that pack could use an array to ( relatively ! ) efficiently hold node data , eg incount , newaddress , etc. that required making the first pass fst " modal " ( deref 'd or not ) . if we did n't do this then the packer would have to use even less ram efficient data structures ( eg map < int , x > ) i think ? second , the format written by the packer is tightly coupled with the fst reading , ie there are sizable differences when reading packed vs unpacked fst. but i agree it 'd be cleaner if we could move packing out ( eg util . pack ) , and more strongly decouple packing from fst format … one thing i 'd really like to somehow do is create different classes for fst writing vs reading , and different classes for each format . we now have write - ord , write - non - ord , read - packed , read - unpacked ( and even the two readers have different modes depending on input_type ) .
+__label__love	integrated to thanks for the backport , jeff . thanks for the review , lars .
+__label__love	can anyone please review the attached patch ? thanks
+__label__love	done at and thanks blas !
+__label__love	i just committed this , thanks jothi !
+__label__love	patch applied - thanks !
+__label__love	upvote looks good .
+__label__love	completed : at revision : -- thanks maja !
+__label__love	applied to trunk . thanks elliott .
+__label__love	bq. first of welcome 🙂 thank you .
+__label__love	committed . thanks robert !
+__label__love	i just committed this . thanks pat .
+__label__love	fixed ; thanks for the patch . http://svn.apache.org/viewcvs.cgi ? rev = & view = rev
+__label__surprise __label__sadness	i 've been running with - xmx1024 m - xms1024 m before and that worked in the past….not sure what 's going on now .
+__label__love __label__joy	looks fine to me now . thanks !
+__label__love __label__joy	thanks for the revision , jørgen ! i think the release notes look good now . i will resolve the issue after a few days , to allow for any feedback on knut 's suggestion .
+__label__love __label__joy	ok , it works fine , thank you .
+__label__love __label__joy	after re-compiling the applcation and re-deploying everything worked properly ; seems like during the first deployment something wrong happened and something got corrupted . closing this issue as invalid . thanks for your assistance .
+__label__love __label__joy	looks good to me . works for me , too . 🙂
+__label__love __label__joy	hi anurag , thanks for the preliminary peek at this patch . looks good . i like the way you handled the optional inclusion of the jdbc4 - specific classes in the jar file . i recommend adding class and method comments to the test classes so that reviewers will know what these tests are supposed to stress . thanks for the explanation of why you disabled the securitymanager and for commenting the property file accordingly . when we do commit this patch , let 's leave the jira open to remind us to re-enable the securitymanager after mustang fixes its bug . cheers - rick
+__label__surprise __label__anger	why on earth does createlink ( ) need a request ?
+__label__joy	builds fine for me and the code looks good . great work ! i did not run the integration tests . [ ~ abayer ] what do you think ?
+__label__joy	enjoy !
+__label__joy	this looks good to me .
+__label__joy	thanks very much for your response . i want to thank your team for the great job they 've done building a superior open - source solution . not only do i use but i also promote it everywhere i go . i just did a hands - on lab using jspwiki to create ' qwiki ' web apps for people at devcon . it got excellent reviews . i promote this as an enterprise open - source solution . if a company wanted to purchase a support contract or services for a production implementation of the product who should they contact ? thanks again , jim mason https://issues.apache.org/jira/browse/jspwiki- ? page = com.atlassian.jira.plugin.system.issuetabpanels : all - tabpanel --------------------------------------------------------------------------------------------------------------- __________________________________________________ do you yahoo ! ? tired of spam ? yahoo ! mail has the best spam protection around http://mail.yahoo.com
+__label__joy	i 'm happy to use it as the standard logo ( i.e. website , etc. ) .
+__label__joy	great job . i 'll review this patch today 's night .
+__label__joy	thanks uwe !
+__label__joy	thanks .
+__label__joy	thanks for reporting , solved !
+__label__joy	thank you !
+__label__joy	🙂 will have a look .
+__label__joy	awesome work : this is a great first cut !
+__label__joy	waaaaay cool ! i especially like the " upload file " option .
+__label__joy	i think we are very close too .
+__label__joy	fixed ; closing
+__label__joy	hey , you 're right , that idea was probably not the best approach to the problem - looks really nice , looking forward to it 🙂
+__label__joy	great idea , those are lost to the ages but i 'll try to reproduce .
+__label__joy	this looks good to me .
+__label__joy	thanks for fixing it so quickly !
+__label__joy	upvote as well . patch looks good , like the javadoc , we get lots of users asking what those exceptions mean .
+__label__joy	i think you should get rid of the open - ended version spec [ , ) as it occasionally screws things up by bringing in snapshots or non-working code . otherwise , to my eyes , it looks good .
+__label__joy	thanks ashish !
+__label__joy __label__sadness	+ . patch looks good . i want to wait until falcon- is committed to commit this else i 'll have to regenerate the merge patch . sorry about that .
+__label__fear	i think with the latest code ; this ' pop ' message should only show up if an avt is used with an incorrect value . if avt 's are n't used ; the error should be caught statically and you should see the message : illegal value : sideways used for enum attribute : order . valid values are : ascending descending . do we have a testcase where the invalid value is in an avt ?
+__label__anger __label__sadness	this was my bad .
+__label__sadness	i 'm sorry for frequently updating the issue title and contents .
+__label__sadness	sorry , i had attached an older version … let 's try this one .
+__label__sadness	this was my accident . i had the wrong jira opened . this should have been filed against apache drill . opened drill- instead . sorry
+__label__sadness	( back from holidays , so a bit delayed , but ) i confirm andrzej 's suggestion -- a plain - text only summarized is ideal for clustering for example .
+__label__sadness	sorry for the hassle .
+__label__sadness	sorry , i narrowed down the issue to chrome 's over-zealous caching . i was able to reproduce the problem on two separate computers in a simple project where i had upgraded from wicket to . but due to testing before and after , chrome had cached the buggy version of wicket-ajax.js from and did not detect that it changed with the update . clearing the browser cache resolved the issue . sorry about the bogus bug report .
+__label__sadness	sorry about the error guys .
+__label__sadness	sorry for the confusion 🙂
+__label__sadness	sorry , forgot to mention it in issue description . i use commons-net- .jar , i.e. version . it 's because scott bjerstedt wrote in vfs- that for his patch to work we need to use commons - net .
+__label__sadness	bugs like this make me sad .
+__label__sadness	i am checking out the dojo fixes and patching them in , sorry for the delay , it has been a long time
+__label__sadness	bug in existing testdelegationtokenrestoredonrmrestart ( ) .
+__label__sadness	it was my mistake .
+__label__sadness	sorry .
+__label__sadness	ignore comment .
+__label__sadness	in the past , i have enjoyed working with everyone here .
+__label__sadness	my bad , forgot to include the test file in the patch … resubmitting in a second .
+__label__sadness	sorry for the patch error . i have created a patch both for and , and attached it in .
+__label__sadness	dean i am sorry it did n't work out-of - the - box for you . yes by all means if you have time later and still have issues then open a new ticket .
+__label__sadness	sorry , did n't look at the code until commit … can you test making it hash to a long or a - byte bytebuffer ?
+__label__sadness	it is not yet tested - i ran into strange build problems with apr.
+__label__sadness	huh ... i thought i did resolve this .
+__label__sadness	i found the class - so there is no bug - sorry
+__label__sadness	i did n't have time to work on this yet ...
+__label__sadness	oops , did n't mean to leave that in.
+__label__sadness	( sorry if that was confusing )
+__label__sadness	[ ~ shazron ] sorry , that was weird .
+__label__sadness	sorry for the spam - but which test method - ca n't find any related to the snappuller on trunk .
+__label__sadness	sorry clicked the wrong button . its intended for inclusion .
+__label__sadness	sorry for the delay .
+__label__sadness	yes exactly -- sorry to be so unclear . just really wondering / hoping you 'd be interested in working on these ? ? i 'd like to get them cleaned up because there are now so many that other more important and / or meaningful warnings are likely to be ignored .
+__label__sadness	any word on whether it will be fixed ?
+__label__sadness	sorry to hack your issue bilgin , my intention is to keep readable traces ( in ml you ca n't read easily stack )
+__label__sadness	oh , i never saw your answer . sorry ryan i never searched for _ libthrift _ , thanks for pointing it out stack . as this is a custom release by the hadoop folks are we sure this is not in any way customized by them ? i have n't looked at the maven stuff in a while but by being in a custom group we might get a different version by accident as a transitive dependency if any other project decides to do the same as hadoop .
+__label__sadness	sorry , it seems i forgot a few references to in . / deps / cxf - all i 'm attaching a new patch to fix these references .
+__label__love __label__sadness	sorry for that ! it 's sometimes hard for us to describe a usecase that is so clear for us , but indeed not always for somebody else . thanks for the time , and we 'll try harder to explain in the future . about the jira issue , we 'll try with full url 's instead . this worked in and , so we thought it was a bug . but now we know that it 's just not supported anymore .
+__label__surprise	did n't we just do this a month ago ?
+__label__surprise	how should integer division work for decimals and floating point ?
+__label__anger	gav… ( hoping i 'm not teaching you how to suck eggs 🙂 )
+__label__anger	i think it 's time to just close this issue .
+__label__anger	damn it .
+__label__anger	doing it at the hackathon you 'd have a few fellas at your shoulder to give you pointers should you get stuck .
+__label__anger	does this suck ?
+__label__anger	my bad , i screwed up the assertion - > runtimeexception transition .
+__label__anger	this is always a really bad way to design software .
+__label__anger	you may want to carefully examine your assumption about this .
+__label__anger	pull it back in if you think different .
+__label__anger	please close as this is just me being stupid .
+__label__anger	i think the comments here are a bad sign … i sent us down an unfortunate slippery slope we are a search engine library ! do n't put shit in the index directory ! or we will delete your shit . dead simple .
+__label__anger	hell , unaryfunction might even be faster than all of these calls in a row .
+__label__anger	i 'll just put fix in under this issue .
+__label__anger	if they do then suse 's cpio works for old ascii but the - c switch is broken .
+__label__anger	ok here is a patch that works . i was stupid enough not to see it …
+__label__anger	my bad , had a typo in the subscription e-mail .
+__label__anger	sucks to rush a commit when an issue is under discussion .
+__label__anger	my bad .
+__label__anger	* replaced treemap with an array of final ' segment ' objects ** ( now very slightly faster than trunk ) * rebased for trunk * removed the patch renaming sstablereadertest to segmentedfiletest i did n't remove the builder pattern , because the alternative seems pretty ugly ( copying the segments array for every append ) .
+__label__anger	original edited patch was messed up … stupid sed !
+__label__anger	i think you made mistakes in ivy . xml .
+__label__anger	i always get the same stupid error .
+__label__anger	imo all this just does n't make sense from a pure performance aspect .
+__label__anger	this whole thing is really pretty trivial .
+__label__anger	replaced patch with fix to catch more bad variables
+__label__anger	incomplete example .
+__label__anger	why on earth would it match anything , you have not even touched the apache install .

@@ -1,0 +1,154 @@
+Resolving again....
+"Here is a stronger/generalized version of this patch. Due to a lack to time on my part, this has not been compiled or tested, (sorry). Please test if you can David/Joachim."
+"Sorry, I meant to have this patch in sooner but got quite busy, I expect to have it soon."
+Sorry again!
+"Sorry, on holiday last week and just catching up."
+While creating the DerbyTest I did notice that this problem is caused by the Database pool because it tries to connect to the database in the background.
+Please ignore attachment (id=6938).
+sorry about this.
+"problem - the bit to sign the source-release is being called when the source-release isn't being built because the source-release is only built at the ""executionroot""."
+Tests no longer sleep
+Sorry I forgot to mention: This is for the future branch!
+"2,5 hours gone."
+This half-reuse is more confusing for new devs who see this code for the first time.
+"However, I figured it was better to get it in the public domain sooner and let the iterative process do it's work."
+"Forgot about these, sorry."
+"Oops, it is my fault. Please defer this patch, I'll raise jira for other classes/interface as its dependance soon, sorry for inconvenience."
+"Hi, I just made some more (long running) tests, and found some problems in the patch I submitted. The mechanism is working, but it shrinks the caches too quickly, and it prints too much log output (log.info instead of log.debug). I will fix those problems and submit a new patch. Sorry. Thomas"
+"Sorry about that, fixed now."
+Here are 2 patches ... one for adjustExamplePaths.bat & .sh and the other a new file holding 2 User Libraries ... UIMA_LIB & UIMA_AS_LIB Not sure where this should go ...
+Sorry for the delay.
+"Sorry [~svenkat], I just committed this."
+My misunderstanding.
+"Sorry, Thiru, I hope you haven't already started working on this!"
+"Sorry if this spam's things, however it's unlikely that I'll work on these."
+"Oh, sorry."
+Sorry about that.
+"Sorry , fixed."
+Sorry about that.
+Sorry; I've reread the IOC code; and you're right. This is indeed not an issue. My apologies..
+Sorry.
+sorry for misleading attachment name.
+"Sorry, attached the file to the wrong issue."
+A Quickstart for the bug as Eclipse/Maven Project. Sorry for the delay.
+SnappyCodec check for Hadoop native lib is wrong.
+"Sorry, no longer working on this"
+Looks good to me Markus. +1
+"Now why did I not think of that... :) Great idea, I'll move the files to svn!"
+"Thank you, Ivan!"
+This is awesome - works in a one-liner.
+yay! it should be really really easy (not including the test; I think it's just deleting 6 characters)
+"+1, Looks good, I will commit this patch."
+Seems to work reliably now.
+Interesting that you decided not to detect the error based on finding two similarly-named operations.
+Automatic location selection is very cool.
+Fixed thus: http://svn.apache.org/viewvc?rev=574613&view=rev
+Thanks for the patch Mubarak.
+(@ddlatham: thats kinda funny that you wrote the linked-to article -- it was a random google search)
+I haven't seen any bad behavior. I was using open ssh to test this. I used the escape character; ~; and the period character; .; with open ssh to disconnect; '~.'.
+"Cool, that's all good news too! Thanks guys. One less on my radar."
+"cool stuff! a good candidate to put on myfaces-commons-utils, so the user can just add the resource handler on its webapp faces-config."
+Thanks for the reviews..
+"Interesting, I just replaced my src with the latest in the trunk and did a compleatly clean build and the problem seems to have gone away."
+Thanks for the help BJ!
+This is Awesome Stefan - thanks a million!
+Patch looks good to me.
+Great! I'm glad you found it helpful.
+great idea
+"Nadya, Thanks a lot for applying the patch. The changes are on the site. Everything looks the way it should. IMHO, we should close the issue now. P.S. forgot to mention other changes. Sorry. Will be more attentive in future."
+"+1 for the patch, pending successful Jenkins run for the latest version. The changes look good. I verified on both Mac and Windows. Thanks for addressing this, Andrey! I'll commit this after Jenkins responds with +1 for the latest version."
+"Excellent, thanks a lot!"
++1 The patch looks good.
+"As Olivier does all the great work here, I assigned the issue to him. Thank you!"
+"Looks excellent. Really sweet. + Where does the jar come from and whats its license? + The REST API looks good. Very RESTy. There might be little nitpicks later but for it looks great. How different is it from current REST. Should the two be the same? If not, how to deprecate the old? + The annotations look interesting. Could their serializations be used in other contexts, the shell say? Or -- warning -> crazy-thought coming -- somehow producing thrift IDL? + In hadoop/hbase, line lengths are < 80 chars (Your new classes are missing apache license, classes are missing comments describing what class is about, etc). + Is there anything we could do refactoring HTable say, so your modeling was easier? Looks like lots of code in your Cell and Database controllers. Should our client be taking on this model? + Can you add a note on how you've changed how REST works, high-level? Thats all for now."
+"Hi Luca, I've applied the changes you mentioned and it worked fine on my end (Windows). Can you try this on your end as well? I've attached the patch. Thanks!"
+This way lies metadata hell.
+My bad.
+(How bad is this?
+Stupid user error :)
+"This was a very bad bug, introduced by me being an idiot."
+My bad!
+Bad.
+I didn't know we needed to retain backwards config capability across 3.x to 4.x :-( That sucks and it'll make old code stick around longer.
+That's pretty unlikely.
+I disagree... and I guess I'm willing to go to bat for this.
+"It may cause conflicts, but if your intent is to break system security, you probably don't care."
+"The state stuck at ""Allocated state"", It is a dup of 3788."
+"Crap, forgot to verify that this is inconsistant with MRI, it's not."
+"umm ... call me crazy, but why are we making this public?"
+That is bad.
+"Igor is an idiot, and we *do* need gmake."
+PreCommit-HDFS-Build is stuck.
+"But now that I think about it, it may crap out when coming back to read even on a recovered file."
+@jira - I wish you didn't suck so much.
+"I abbreviated the heck out of my arguments and thinking, but damn it thats what I think :)"
+"HADOOP-2949: - If tarball is specified, HOD no longer validates for the pkgs directory in gridservice-hdfs or mapred sections as these are not going to be used anyway."
+Damn it !
+"Ah, damn, I thought it was fixed :/ Guillaume ?"
+"That sucks, why isn't the escape mechanism working?"
+Pull it back in if you think different.
+"Then, to make matters worse, since the mid-1990's I've been offering pro bono advice to non-profit foundations whose members insult me regularly and assume I'm an amateur."
+"though I disagree with a signficant amount of statements you made,I don't think we would ever come to agreement anyway."
+Thanks Doug for the change.
+Thanks Ravi.
+"Thanks for your comments, Konstantin."
+"Committed to branch, thanks Eli."
+"Thanks Areek, new patch looks great; I'll commit shortly."
+I love this.
+"Hi Sandy, Thanks so much to give me such comments, that's really helpful, I will update this later."
+I just committed this to Trunk. Thanks! NOTE: made some slight changes to patch to apply correctly to Trunk.
+"I just committed this. Thanks, Sanjay!"
+"patch committed. Thanks, pradeep!"
+Thanks Kihwal!
+"Thanks for double-checking the fix, Knut. I am thinking of merging the fix into 10.3 tomorrow just to make sure that tests run fine on the tinderbox. All the tests ran fine on my machine."
+Committed revision 741710. Thanks Patrick!
+Thanks Suresh.
+"Hi James, This patch has been applied by chirino in the revision 576522 at Sep 17."
+Thanks Daniel. We will get back on this as soon as we have the correct information. Thank you.
+"Thanks a lot for the review, Todd. I've just committed this to the HDFS-3077 branch."
+A patch for this. Thanks a lot.
+"Andrew, patch applied at revision r428265, thanks a lot for this enhancement, please verify that the problem is fully fixed as you expected."
+"Committed to trunk. Thanks, Harish!"
+Committed. Thanks Yongqiang
+Thanks to Simon Kitching.
+Thanks. I'll look into this.
+Thanks John for bringing this up and also for providing the patch.
+Thanks Hairong!
+Patch applied. Thanks
+"Thanks, Mayank"
+Committed to trunk. Thank you Lorand!
+Thanks
+committed to branch-4.0 and trunk. Thanks Rohini.
+Thanks Alejandro .
+Patch applied. Thanks Florian.
+"These look just fine -- thanks for your hard work on all these fixes, Dag! If they are technically correct, I say +1 to commit."
+"Committed, thanks Maheshwaran."
+"Sumeet, we did it purposely because if the proxy services are dynamically loaded then we need to build those services at the runtime and redeploy them which is a little bit risky on a production environment. Also there is no mechanism to check whether a particular proxy definition is updated in the registry or not because this configuration is used only at the startup. We can add this functionality to load the proxy services only at the startup time from the registry (this doesn't mean they are dynamic), but I don't see any value there. If you could explain a bit about your exact requirement, I might be able to provide an alternative to this. Thanks, Ruwan"
+"I just committed this. Thanks, Boris!"
+"Thanks a lot for sharing that, Josh!"
+That sounds like a plan. I love peer-reviews... :-)
++1 for 0.95. Thanks.
+Will review by EOD today. Thanks for the tip.
+Thanks for the work Haohui! I've committed it to branch-1.
+hi Dan!!
+"Thanks, Joe!"
+"Patch applied. Thanks a lot, especially for the test case. http://svn.apache.org/viewcvs?rev=240459&view=rev http://svn.apache.org/viewcvs?rev=240461&view=rev The result for 180 and -180 is definitely wrong. There's a bug that needs to be fixed eventually. But since this is low-priority for me, I'm going to leave it for now. I've added a comment to the new test case block-container4a that explains what is wrong. So I think I'll close this issue. It's primarily for the patch, after all, and the bug won't be missed now that there is a check in our test suite. If anyone disagrees, just reopen the issue or create a new one."
+"Hi Alena, Hope all is well, Sorry for delayed response, the 5 vms dont belong to any project. I could not find a way to retrieve all vms without looping the projects. Thanks ilya"
+committed to 1.2 and trunk. thanks!
+[~apresta] thanks for the fast review.
+Thanks Bob your patch is in trunk at r932317
+Committed. Thanks for the patch J-D
+"Committed to trunk. Thanks for the review, Alan!"
+Thanks in advance Jens
+Patch applied! Thanks.
+I just committed this. Thanks Nicholas!
+"I rather we don't work on older versions. If this is still an issue in 2.3.1, please submit a new patch for 2.3.1. Thanks."
+Committed. Thanks Hitesh!
+"Thanks Areek, patch looks good!"
+Thanks Avi!
+committed to trunk. thanks Ning.
+Thanks Ivan.
+We'll look at the issue for 1.1
+Google was also strangely quiet.
+Any ideas?
+Sorry but this is just stupid.

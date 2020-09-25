@@ -1,0 +1,153 @@
+but both IDEA 7 and IDEA 8 seem to handle them just fine.
+"Looks good. +1, pending Hudson."
+It works fine now!
+Great! It's been good to be able to contribute and I hope to be able to more for this awesome project when I have the spare time.
+Cool feature! Performance: - It looks like scripts are read from the resource loader and parsed again (eval) for every update request.
+Thanks guys for saving mankind!
+"Bertrand - nice work. This is a great idea and the patch looks good overall. Couple of points: - Don't forget the Apache header on the new Errors class - Maybe do the grammar corrections on the counter error messages separately? Just so we keep the commits to a single issue each. - I'm not sure we need to retain the delegating ""formatValueList"" method in TestDriver. Something to discuss... As for using Guava to do the string join - I know MRUnit used to have it as a dependency but this was removed in MRUNIT-50. Probably not worth bringing it back for such a simple method."
+Looks pretty cool. Fresh and minimalist. Love it :-) Good work.
+Much obliged! Thank you! :)
+This looks safe also
+"I'm still not in love with the sarcasm or excessive negativity. I'll just point a few things out. 1/ I didn't veto anything, and this has nothing to do with C++. I think it is a bad idea for us to generate code in a way that causes semantics to silently change when a new optional field is added. This in dangerous in the long term. 2/ I have no problem reverting this change. 3/ Restoring the old constructor and marking in deprecated is probably a good idea."
+:D
+"Nothing wrong, everything is cool."
+This is now fixed!
+"Cool, looks good."
+Thanks to Edward and Brock for the reviews.
+Awesome stuff Stephen!
+I like this title.
+Awesome discussion.
++1 patch looks good. I have committed this.
+"Daryn, the current patch looks good."
+Sounds good.
+"Yes, updated the rb just now. Sorry, no perf numbers yet. Let me run some experiments for that. Thanks."
+"Sorry Alvaro, lot of things need to be done at the same time. But I am still not 100% clear what you want me to do / change. I put installation/wiki links on top-right now: http://incubator.apache.org/openmeetings/index.html What about the links to the Tutorials, you want to put those in the section ""Installation and Upgrade"" right? Sebastian"
+"Sorry again, I tried with the same revision, same language, same theme and I use also FF4 and I still don't reproduce (see screenshot-1) It would be interesting ot have other persons tests"
+"Sorry for my poor review, didn't notice try/catch :("
+Sorry.
+"Sorry to have not spotted this one, and thanks for your care."
+"Some file were missing in the last patch, sorry."
+I did it wrong this time.
+Unable to reproduce issue.
+I'm sorry for making it confusing.
+Sorry about that...
+Sorry I put a comment here which was for another issue (tired as said already)
+"Sorry to come in late. Some clarifications: # MR1 JT kills all running tasks on a TT when it's deemed 'lost'. # It also kills all completed maps on that TT for 'active' jobs. # The tasks are marked KILLED rather than FAILED and thus don't count towards the job, which is correct since it wasn't the job's fault. Hope this helps."
+Thanks Jukka for fixing this :) (sorry)
+I misread the original description.
+"Sorry to close this David, but the Messenger component headed over to codehaus where I think it's pretty much dead."
+Sorry I thought submit patch was the way to attach a patch.
+"This is my fault, didn't try other profiles, yarn was broken as well. Works now."
+Yes exactly -- sorry to be so unclear.
+It was attached to the wrong bug.
+"I'm new to Spring Integration, so forgive me for the stupid things I might say."
+You misunderstood the response: StopFilter indeed did not change.
+Sorry for the wild goose chase!
+I screwed up the encoding of the stopwords file (sorry).
+"Whoops, sorry."
+This might be a bug indeed.
+Sorry - the federated build is still working out kinks...
+Fixed. Sorry for long waiting. I didn't find the time. Author: tterm Date: Mon Jul 21 01:53:35 2008 New Revision: 678365 URL: http://svn.apache.org/viewvc?rev=678365&view=rev Log: Preserving or configuring content-type of http-header Modified: servicemix/smx3/branches/servicemix-3.2/deployables/bindingcomponents/servicemix-http/src/main/java/org/apache/servicemix/http/HttpEndpoint.java servicemix/smx3/branches/servicemix-3.2/deployables/bindingcomponents/servicemix-http/src/main/java/org/apache/servicemix/http/processors/ProviderProcessor.java
+No sorry.
+"Sorry, I took Martin's comment to mean the patch was committed and issue closed, which certainly discarded all the patches the first time around."
+"For some reason, I couldn't upload the straight patch."
+"Sorry for the mess there, I was just trying to port CFS and Hive metastore too... but those tests don't work right now, so put it on hold, getting it to work with CQL3 Column Families is a priority for me right now, so will come back to those later. Just for the Hive handler, please look at the (cas-support-simple-hive) branch - https://github.com/milliondreams/hive/tree/cas-support-simple-hive All the test cases (whatever few they had) pass there and it is working perfectly with Thrift/Compact storage Column Families."
+"Aside from the job succeeding (it doesn't), what effect should I be able to measure (in order to see if this is doing anything)?"
+"Mark, Alexey's right, the original fix was invalid. Please undo all the patches. Sorry."
+Last try.
+"Sorry, forgot to mention this. Try to switch the tabs a second time. The first click on ""Tab B"" will correctly render ""Content B"". But switching back to ""Tab A"" and then again back to ""Tab B"" fails to render ""Content B""."
+Out of curiosity; could we save a FOLLOWING notification as our lastMessage then; even if we don't send it? That would give you the 'current' state more accurately than a stale LOOKING notification and it seems like it could solve this particular problem. We could; but that wouldn't give an accurate state as well. A peer might be in the LOOKING state (next FLE round) while the lastMessage gets sent. There will be race conditions. In my opinion; a better way of doing this is to send the current state instead of lastMessage. In which case; I agree with Flavio that sending the final notifications won't be necessary. This will also reduce the number of notifications exchanged.
+Throw an exception?
+Is the -put command returning non-0 to indicate failure?
+"Committed to trunk. Thanks, Bharath! And thanks Cos for helping review."
+"+1 Looks good to me. Thanks, Hyunsik!"
+"Ah great, thanks!"
+thanks Randy! committed ;-r
+"Patch looks great! Thanks Artem. No more mixing in of fuzzy-ness into AnalyzingSuggester. It looks like we are doing the utf8 conversion + det twice per lookup, once in convertAutomaton and once in getFullPrefixPaths. But, I think this is inevitable: the first conversion is on the ""straight"" automaton, for exactFirst match, and the second one is on the lev automaton, for non-exactFirst. Really we should only do the first convertAutomaton if exactFirst is true ... but this is an optimization so we don't need to fix it now."
+"Hi Leon, thanks i'll take a look. Anyway i thought of refactoring this parsing mechanism, we can do better :-). Cheers Sascha"
+"And debugging is hell, because the test environment needs to have the exact same loader setup."
+"So, it is stuck somewhere."
+It seems really confusing.
+The food is very bad.
+"durrrh, that sucks."
+Damn dyslexia!
+BTW: This is one reason why I hate this autoboxing shit since Java 5. I would love to have a way to prevent it in code (forbidden checks should detect this somehow).
+My bad.
+"I suspect it has nothing to do with the file system connector or Infinispan connectors, and is simply a (stupid) mistake in the federated join processor."
+Damn...
+the recommendation in the wiki is bad.
+I don't care about code duplication here.
+"Why the hell do they deliver Duration, if they cannot instantiate it :-/"
+"I just noticed your public tweet... bq. ""@wilhelmbierbaum True. Fuck the Avro C API."""
+"Ie, both at are bad."
+You are messing down deep below hbase in dfs.
+Then you're pretty well screwed.
+An output connector should also have a say in what URLs it will accept.
+"Oops, had a bad comparator in the TestCLI config."
+"Well, damn."
+"@Matt... I'm an idiot, I used the wrong patch. Sigh."
+"I don't know how the hell my diff program decided to add seemingly random CR chars, but I've removed them now."
+"My bad, uploaded the wrong patch."
+That's weird.
+"It's kind of annoying to have to use 4GB of temporary space Nope, it only writes the compressed file to disk; {{gzip -1}} compresses 4GB of zeros to 18 MiB."
+If the different segments are somewhat homogeneous then these stats should pretty much be very close anyway.
+Fix bad patch
+Patch verified at r535584. Thank you for applying it.
+Committed. Thanks Navis
+Thanks Kathey.
+Patch applied. Thanks Matt!
+"Thanks Todd, glad to be on board!"
+"Hi Ian, this looks brilliant to me! So fat +1 from me."
+"I just committed this. Thanks, Milind!"
+Thanks Sandy.
+"Hi Daniel, thanks in advance for your support."
+"I just committed this to trunk and branch 0.20, as they are test cases and no change to functionality. Thanks, Vinod !"
+"Yes, it works ok now, thanks."
+"Yes please - pull request away, my friend!"
+Committed. Thanks for the patch :)
+Works for me. Thank you Alexei.
+Thanks a lot for your help!
+Thanks Awdesh - Done at r821748.
+Committed to TRUNK. Thanks for review Prakash.
+"Thanks, Aaron!"
+"Thanks Ankit, Your patch is in trunk at r1060220, I did not backport as it's not breaking anything"
+Committed to 0.94 (operability) and to trunk. Thanks for the patch Jie.
+Committed. Thanks Kevin!
+"committed, thanks!"
+"I see you rebased the patch, thanks a lot."
+Hi. Should this be ok to commit to trunk? Thanks.
+After applying Mathias patch the sample documents works fine. Thanks Mathias.
+Committed. Thanks Hitesh!
+Thanks Sijie.
+Patch committed. Thanks Jarek!
+"I just committed this. Thanks, Jitendra!"
+"Hi Willem, I've just tried the latest version from the trunk. Now everything works like a charm. Thank you very much for such a great help. Regards, Sergey"
+I've now ported the fix to 2.0.4 and deployed a new snapshot. Could someone give it a try to make sure it really is fixed so that we can close this off for 2.0.4? Thanks!
+Thank you Jacques for the quick commite !! Pierre
+"Tim, The fix is good. Please close this JIRA. Thanks a lot."
+"the patch looks good to me, aside from the lack of unit tests."
+Committed. Thanks Yongqiang
+"Patch applied, thank you."
+Thanks for being patient Devaraj!
+patch applied. thanks!
+"+1 I committed this. Thanks, Hong!"
+"Thanks, Oliver!"
+"Hi Aki, I strongly suggest you write a persistence system test both for client and server side, which can expose the problem you mentioned and also verify your fix works. Actually we already have ServerPersistenceTest and ClientPersistenceTest in systests/ws-specs, I think you can add yours in those two classes. Btw, your suggestion seems ok for me. Thanks Freeman"
+Attached patch for review... Christian could you see if this works for you? Thanks!
+Committed. Thanks Siying
+Thanks Ken! patch applied to trunk: r480575
+Thanks Karthik.
+"Marcelo, thanks for pointing out this; it is now fixed in rev."
+Integrated into trunk and 0.96. Thanks.
++1 looks good.
+Thanks for the review Andrew!
+"looks fine, thank you."
+Thanks [~cnauroth] & [~tomwhite] for the reviews!
+Committed. Thanks Ning
+"Hi Ivan, As Donald has reassigned this JIRA to you, please help to review and commit these patches after I submit the patch for TranQL localization. Thanks. BTW, the first patch in the list had already been committed."
+Committed. Thanks a lot very much Ashish!!
+Robert; Your patch is in; please help verify; thanks. Rgds; PeiYong
+Just committed this to trunk and 3.4 branch. Thanks Rakesh!
+Committed to TRUNK. Thanks for the patch Doug.
+I just committed this to trunk and branch-0.23. Thanks Arun!
+v3 up in PB. Thanks for the reviews

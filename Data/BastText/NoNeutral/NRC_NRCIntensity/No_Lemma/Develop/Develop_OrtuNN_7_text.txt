@@ -1,0 +1,153 @@
+__label__anger	why the hell do they deliver duration , if they can not instantiate it 😕
+__label__anger	well , damn .
+__label__anger	and debugging is hell , because the test environment needs to have the exact same loader setup .
+__label__anger	the food is very bad .
+__label__anger	i do n't know how the hell my diff program decided to add seemingly random cr chars , but i 've removed them now .
+__label__anger	if the different segments are somewhat homogeneous then these stats should pretty much be very close anyway .
+__label__anger	so , it is stuck somewhere .
+__label__anger	oops , had a bad comparator in the testcli config .
+__label__anger	i suspect it has nothing to do with the file system connector or infinispan connectors , and is simply a ( stupid ) mistake in the federated join processor .
+__label__anger	damn dyslexia !
+__label__anger	that 's weird .
+__label__anger	it 's kind of annoying to have to use 4gb of temporary space nope , it only writes the compressed file to disk ; {{ gzip downvote }} compresses 4gb of zeros to mib .
+__label__anger	durrrh , that sucks .
+__label__anger	the recommendation in the wiki is bad .
+__label__anger	btw : this is one reason why i hate this autoboxing shit since java . i would love to have a way to prevent it in code ( forbidden checks should detect this somehow ) .
+__label__anger	damn …
+__label__anger	i just noticed your public tweet … bq. " @wilhelmbierbaum true . fuck the avro c api . "
+__label__anger	then you 're pretty well screwed .
+__label__anger	it seems really confusing .
+__label__anger	my bad .
+__label__anger	my bad , uploaded the wrong patch .
+__label__anger	an output connector should also have a say in what urls it will accept .
+__label__anger	fix bad patch
+__label__anger	ie , both at are bad .
+__label__anger	@matt … i 'm an idiot , i used the wrong patch . sigh .
+__label__anger	i do n't care about code duplication here .
+__label__anger	you are messing down deep below hbase in dfs.
+__label__fear	out of curiosity ; could we save a following notification as our lastmessage then ; even if we do n't send it ? that would give you the ' current ' state more accurately than a stale looking notification and it seems like it could solve this particular problem . we could ; but that would n't give an accurate state as well . a peer might be in the looking state ( next fle round ) while the lastmessage gets sent . there will be race conditions . in my opinion ; a better way of doing this is to send the current state instead of lastmessage . in which case ; i agree with flavio that sending the final notifications wo n't be necessary . this will also reduce the number of notifications exchanged .
+__label__surprise	is the - put command returning non- to indicate failure ?
+__label__surprise	throw an exception ?
+__label__love __label__sadness	yes , updated the rb just now . sorry , no perf numbers yet . let me run some experiments for that . thanks .
+__label__sadness	sorry i put a comment here which was for another issue ( tired as said already )
+__label__sadness	thanks jukka for fixing this 🙂 ( sorry )
+__label__sadness	sorry to come in late . some clarifications : # mr1 jt kills all running tasks on a tt when it 's deemed ' lost ' . # it also kills all completed maps on that tt for ' active ' jobs . # the tasks are marked killed rather than failed and thus do n't count towards the job , which is correct since it was n't the job 's fault . hope this helps .
+__label__sadness	sorry for the wild goose chase !
+__label__sadness	i did it wrong this time .
+__label__sadness	sorry to have not spotted this one , and thanks for your care .
+__label__sadness	sorry to close this david , but the messenger component headed over to codehaus where i think it 's pretty much dead .
+__label__sadness	sorry again , i tried with the same revision , same language , same theme and i use also ff4 and i still do n't reproduce ( see screenshot- ) it would be interesting ot have other persons tests
+__label__sadness	sorry , forgot to mention this . try to switch the tabs a second time . the first click on " tab b " will correctly render " content b " . but switching back to " tab a " and then again back to " tab b " fails to render " content b " .
+__label__sadness	sorry about that …
+__label__sadness	sorry for the mess there , i was just trying to port cfs and hive metastore too … but those tests do n't work right now , so put it on hold , getting it to work with cql3 column families is a priority for me right now , so will come back to those later . just for the hive handler , please look at the ( cas - support - simple - hive ) branch - https://github.com/milliondreams/hive/tree/cas-support-simple-hive all the test cases ( whatever few they had ) pass there and it is working perfectly with thrift / compact storage column families .
+__label__sadness	sorry for my poor review , did n't notice try / catch ☹️
+__label__sadness	fixed . sorry for long waiting . i did n't find the time . author : tterm date : mon jul : : new revision : url : http://svn.apache.org/viewvc ? rev = & view = rev log : preserving or configuring content - type of http - header modified : servicemix / smx3 / branches / servicemix- / deployables / bindingcomponents / servicemix - http / src / main / java / org / apache / servicemix / http / httpendpoint . java servicemix / smx3 / branches / servicemix- / deployables / bindingcomponents / servicemix - http / src / main / java / org / apache / servicemix / http / processors / providerprocessor . java
+__label__sadness	i 'm new to spring integration , so forgive me for the stupid things i might say .
+__label__sadness	sorry - the federated build is still working out kinks …
+__label__sadness	some file were missing in the last patch , sorry .
+__label__sadness	sorry .
+__label__sadness	it was attached to the wrong bug .
+__label__sadness	for some reason , i could n't upload the straight patch .
+__label__sadness	unable to reproduce issue .
+__label__sadness	no sorry .
+__label__sadness	last try .
+__label__sadness	i misread the original description .
+__label__sadness	sorry i thought submit patch was the way to attach a patch .
+__label__sadness	aside from the job succeeding ( it does n't ) , what effect should i be able to measure ( in order to see if this is doing anything ) ?
+__label__sadness	yes exactly -- sorry to be so unclear .
+__label__sadness	i screwed up the encoding of the stopwords file ( sorry ) .
+__label__sadness	sorry , i took martin 's comment to mean the patch was committed and issue closed , which certainly discarded all the patches the first time around .
+__label__sadness	whoops , sorry .
+__label__sadness	mark , alexey 's right , the original fix was invalid . please undo all the patches . sorry .
+__label__sadness	you misunderstood the response : stopfilter indeed did not change .
+__label__sadness	this might be a bug indeed .
+__label__sadness	i 'm sorry for making it confusing .
+__label__sadness	this is my fault , did n't try other profiles , yarn was broken as well . works now .
+__label__sadness	sorry alvaro , lot of things need to be done at the same time . but i am still not % clear what you want me to do / change . i put installation / wiki links on top - right now : http://incubator.apache.org/openmeetings/index.html what about the links to the tutorials , you want to put those in the section " installation and upgrade " right ? sebastian
+__label__joy	awesome stuff stephen !
+__label__joy	thanks to edward and brock for the reviews .
+__label__joy	i like this title .
+__label__joy	looks pretty cool . fresh and minimalist . love it 🙂 good work .
+__label__joy	i 'm still not in love with the sarcasm or excessive negativity . i 'll just point a few things out . / i did n't veto anything , and this has nothing to do with c ++ . i think it is a bad idea for us to generate code in a way that causes semantics to silently change when a new optional field is added . this in dangerous in the long term . / i have no problem reverting this change . / restoring the old constructor and marking in deprecated is probably a good idea .
+__label__joy	awesome discussion .
+__label__joy	bertrand - nice work . this is a great idea and the patch looks good overall . couple of points : - do n't forget the apache header on the new errors class - maybe do the grammar corrections on the counter error messages separately ? just so we keep the commits to a single issue each . - i 'm not sure we need to retain the delegating " formatvaluelist " method in testdriver . something to discuss … as for using guava to do the string join - i know mrunit used to have it as a dependency but this was removed in mrunit- . probably not worth bringing it back for such a simple method .
+__label__joy	nothing wrong , everything is cool .
+__label__joy	daryn , the current patch looks good .
+__label__joy	but both idea and idea seem to handle them just fine .
+__label__joy	great ! it 's been good to be able to contribute and i hope to be able to more for this awesome project when i have the spare time .
+__label__joy	upvote patch looks good . i have committed this .
+__label__joy	cool , looks good .
+__label__joy	😃
+__label__joy	thanks guys for saving mankind !
+__label__joy	looks good . upvote , pending hudson .
+__label__joy	this is now fixed !
+__label__joy	it works fine now !
+__label__joy	this looks safe also
+__label__joy	much obliged ! thank you ! 🙂
+__label__joy	cool feature ! performance : - it looks like scripts are read from the resource loader and parsed again ( eval ) for every update request .
+__label__joy	sounds good .
+__label__love	patch verified at r535584 . thank you for applying it .
+__label__love	looks fine , thank you .
+__label__love	i just committed this . thanks , jitendra !
+__label__love	i 've now ported the fix to and deployed a new snapshot . could someone give it a try to make sure it really is fixed so that we can close this off for ? thanks !
+__label__love	thanks ankit , your patch is in trunk at r1060220 , i did not backport as it 's not breaking anything
+__label__love	thanks a lot for your help !
+__label__love	hi ian , this looks brilliant to me ! so fat upvote from me .
+__label__love	thanks todd , glad to be on board !
+__label__love	thanks [ ~ cnauroth ] & [ ~ tomwhite ] for the reviews !
+__label__love	hi willem , i 've just tried the latest version from the trunk . now everything works like a charm . thank you very much for such a great help . regards , sergey
+__label__love	thanks awdesh - done at r821748 .
+__label__love	committed . thanks navis
+__label__love	i just committed this to trunk and branch- . thanks arun !
+__label__love	thanks karthik .
+__label__love	upvote i committed this . thanks , hong !
+__label__love	patch applied , thank you .
+__label__love	marcelo , thanks for pointing out this ; it is now fixed in rev.
+__label__love	thanks sijie .
+__label__love	thanks , aaron !
+__label__love	v3 up in pb. thanks for the reviews
+__label__love	integrated into trunk and . thanks .
+__label__love	thanks sandy .
+__label__love	committed to trunk . thanks for review prakash .
+__label__love	i see you rebased the patch , thanks a lot .
+__label__love	committed . thanks ning
+__label__love	yes please - pull request away , my friend !
+__label__love	thanks kathey .
+__label__love	committed . thanks for the patch 🙂
+__label__love	thanks for the review andrew !
+__label__love	after applying mathias patch the sample documents works fine . thanks mathias .
+__label__love	thanks for being patient devaraj !
+__label__love	committed . thanks a lot very much ashish ! !
+__label__love	hi ivan , as donald has reassigned this jira to you , please help to review and commit these patches after i submit the patch for tranql localization . thanks . btw , the first patch in the list had already been committed .
+__label__love	i just committed this . thanks , milind !
+__label__love	committed . thanks yongqiang
+__label__love	attached patch for review … christian could you see if this works for you ? thanks !
+__label__love	committed . thanks siying
+__label__love	patch applied . thanks !
+__label__love	hi daniel , thanks in advance for your support .
+__label__love	robert ; your patch is in ; please help verify ; thanks . rgds ; peiyong
+__label__love	i just committed this to trunk and branch , as they are test cases and no change to functionality . thanks , vinod !
+__label__love	thank you jacques for the quick commite ! ! pierre
+__label__love	committed . thanks kevin !
+__label__love	the patch looks good to me , aside from the lack of unit tests .
+__label__love	hi aki , i strongly suggest you write a persistence system test both for client and server side , which can expose the problem you mentioned and also verify your fix works . actually we already have serverpersistencetest and clientpersistencetest in systests / ws - specs , i think you can add yours in those two classes . btw , your suggestion seems ok for me . thanks freeman
+__label__love	patch applied . thanks matt !
+__label__love	works for me . thank you alexei .
+__label__love	upvote looks good .
+__label__love	tim , the fix is good . please close this jira . thanks a lot .
+__label__love	committed to trunk . thanks for the patch doug .
+__label__love	committed . thanks hitesh !
+__label__love	committed , thanks !
+__label__love	thanks , oliver !
+__label__love	just committed this to trunk and branch . thanks rakesh !
+__label__love	hi . should this be ok to commit to trunk ? thanks .
+__label__love	committed to ( operability ) and to trunk . thanks for the patch jie .
+__label__love	patch committed . thanks jarek !
+__label__love	yes , it works ok now , thanks .
+__label__love	thanks ken ! patch applied to trunk : r480575
+__label__love __label__joy	hi leon , thanks i 'll take a look . anyway i thought of refactoring this parsing mechanism , we can do better 🙂 . cheers sascha
+__label__love __label__joy	upvote looks good to me . thanks , hyunsik !
+__label__love __label__joy	committed to trunk . thanks , bharath ! and thanks cos for helping review .
+__label__love __label__joy	patch looks great ! thanks artem . no more mixing in of fuzzy - ness into analyzingsuggester . it looks like we are doing the utf8 conversion + det twice per lookup , once in convertautomaton and once in getfullprefixpaths . but , i think this is inevitable : the first conversion is on the " straight " automaton , for exactfirst match , and the second one is on the lev automaton , for non-exactfirst . really we should only do the first convertautomaton if exactfirst is true ... but this is an optimization so we do n't need to fix it now .
+__label__love __label__joy	thanks randy ! committed ; - r
+__label__love __label__joy	ah great , thanks !

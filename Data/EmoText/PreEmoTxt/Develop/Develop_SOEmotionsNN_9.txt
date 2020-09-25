@@ -1,0 +1,221 @@
+That's excellent! Please post it as an answer so I can accept it.
+If you are going to do minimal XAML stuff then the free and excellent tool KaXAML will help you. Take a deep look here
+"Excellent hint! I was using scrollTo(0,0) and it was doing nothing"
+"The paper is an excellent discussion on branching patterns such as the ""main line"" pattern you mention - it lists the options in the form of patterns together with discussion of anti-patterns. One of the authors is Robert Orenstein of Perforce."
++1 for actually *answering* the question.
+"Excellent, now it's working! Thank you very much for your help with this."
+"I just have to say this is a brilliant idea, love it! +1"
+Holy (*&^. I just looked at the jquery solution: add a hidden element to the DOM containing every conceivable tag and then reverse engineer the geometry conventions. The web is truly amazing place!
+Awesome!!! You just saved me a LOT of work!!! Wish I could give more than just an upvote!!!
+([0-1 ]?[0-9]|2[0-3]):([0-5][0-9]) I think that's the regex you're looking for (not specifically for javascript though). This site has an excellent amount of info for language-specific regular expressions! Cheers!
+"A quick remark to the excellent answer by Troy, if the version you downloaded is the newer one, 3.2, the Quick Nav has been remapped to Ctrl + Shift + Q."
+"We use asp.net where I work and we are using c# as the language. Will c# 3.0 work with asp.net 2.0? Ive been trying to pick up some books on c#, but not sure which I should be buying, any help would be greatly appreciated!"
+Terrific answer! This should be the accepted one.
+"Yes, as a number of the excellent responses spotted, it is (was) a homebrew fiber implementation - my first implementation of Flow-Based Programming on a PC. The 16-bit version was actually used for production work at a big US company. I didn't realize that Win32 has a fibers implementation - I'll read the article cited by Greg Hewgill. Thanks to all of you!"
+"Excellent point, Lars. I read that as ""Windows"". Oops. Still, it may be useful information for someone, sometime..."
+"Hi Derick - right now, I'm running from the command line, and very soon we'll have it hooked up to hudson. We've convinced people that hudson will be fine without a physical log file from the rake execution. And I think I've satiated the desire for log files by using the "".parameters"" option on my msbuild and nunit tasks to log output. I'm LOVING albacore! You guys did a great job with it."
+"Excellent question. Running a large project in successive version of Python wouldn't be very definitive, unless you had, say, unit tests that magically achieved 100% code coverage, so a tool like this would be nice to have."
+"I've decided to use the FreeFileSync tool from There is some effort to configure it to ignore some files and folders, but the tool provides nice filter possibilities. Configuring these filters can be very time consuming but they're working fine :) Thank's for all your help!"
+Does anyone know how to add an item to a list but do it so it's ordered alphabetically using jQuery? I've got the following code that just adds an item from a dropdown to the end of the list: but I'd like to be able to insert it in its appropriate place instead of just appending to the end of the existing list. Any help is greatly appreciated! Thanks!
+"Excellent! I'll make it as answer, that you can hopefully accept with a lovely big green tick :-)"
+"So this could be hard to explain but i want to do a for ... := 1 to 10 do statement but i want it to be for A to N do. The main purpose of this excersise is to load data into a string grid. So lets have it load the cells 0,1 0,2 0,3 0,4 0,5 0,6 0,7 with the Letter A, B, C, D, E all the way up to 14. If anyone knows how to do this i would be extremely thankful!"
+@jball: +1 This is an example of the way `.live()` is painfully abused.
+"Thanks--good answers. This is, in fact, a DateTime type; I had to typecast ""stoptime"" as: Minor point. It works great!"
+has an excellent in depth article on setting up an Apache web server on a linux box. Check out the article at the following link:
+"Thank you Gumbo, I suppose this'll have to do. I would've liked a more concise solution but thank you anyway, I never knew this js-uri class existed!"
+"ya, indeed very good thinking for a teenager!"
+I am attempting to get just the smiling array under tags then attributes. I have tried both to search and simply select. Every attempt results in an undefined variable. If you could explain how to select the smiling array that would be excellent!
+Your operating system does dozens of stat calls per second already. Don't worry about it.
+"I have a series of UIViews inside a UIScrollView, and the UIViewControllers for those views are not receiving the touch events. If I take the views out of the scroll view then it works. I have enabled userInteraction on the views but it's still not working! This must be possible and I'd be really grateful if someone could point me in the right direction! Thanks, Mike"
+"Excellent, thank you! I don't know when we are going to upgrade but that's a good reason to I guess."
+"I have a few months of experience with Ruby on Rails and really loved it from the beginning on. Now, for work, I was asked to code in Grails and although I first had some objections, I now think it's a very decent framework. One thing that really impressed me in Grails are Taglibs because they make frontend modularity so much easier. I would really like to do something with Rails. Is there anything like Taglibs for Rails? If not, what are the best practices for accomplishing this kind of view modularity (and, in essence, making my life easier)?"
+What an amazingly great answer. Way to go Cody!
+"great answer - this code works like a charm on Mac OSX! :-) doing a few settings up front removes code duplication when accessing settings from many places, see http://developer.qt.nokia.com/doc/qt-4.8/qsettings.html#basic-usage"
+@VitoshKa Excellent! Wish I could give you another up vote for th update
+Excellent! Just what i needed!
+A great explanation! Thanks:)
+"Great links, thanks for your work!"
+"I'm working on an iPhone app that will upload images to a web server. I was wondering if anyone had any tips on how to generate unique names for each image file that gets uploaded. I'm sure there are a million ways to do this, but if anyone has any suggestions I'd really appreciate it! Thanks."
+Excellent! Thanks :)
+"I have a .dll file and the .lib file for it. The DLL talks to an electronic key reader, and allows you to read/write the key ID. This is the only documentation that comes with: I have never used DLL before and really have no idea how I am supposed to use it in a C program. I really have no idea what do past this: If someone could show me an example how how to get DevicePresent and how to use WriteKeyId I would be very greatful!"
+Excellent solution! This is the way to do it.
+"Here's the current code I am using. The above code works perfect in making vertical (top to bottom) gradients but I'd like to be able to make horizontal ones as well. I have a very good understanding for PHP, but I don't deal with PHP image functions very often. If someone can help me and figure this out I'd really appreciate it!"
+Great Solution!
+Very good question!
+"I've been experimenting with Linq to see what it can do - and I'm really loving it so far :) I wrote some queries for an algorithm, but I didn't get the results I expected... the Enumeration always returned empty: case #1 I changed the query declaration to be inline like this, and it worked fine: case #2 Does anybody know why it doesn't work in case #1 ? The way I understood it, the query wasn't evaluated when you declared it, so I don't see how there is a difference."
+"I have two files. File 1: a FASTA file with gene sequences, formated like this example: File 2: A simple text file with JUST the accession identification of the gene. Like so. Every entry in File 2 is somewhere in File 1, but not every entry in File 1 is in File 2. I need to remove all the entries from File 1 that are not in File 2. I feel like there must be something in the biopython module that could help me, I just don't know what. For instance, I originally thought that I could extract just the accessions from my FASTA file using the function, but this really just lands me with two files of accession numbers. I don't know how to selectively extract the accessions that are in the other file. Maybe like reading all the entries from File 2 into a dictionary and then associated that entry with its matching entry in File 1 and use to extract the whole sequence...But I really don't know....Any help anyone could give me is extremely appreciated!"
+@Alex: Great :) Happy further coding!
+"So I'm using activerecord to get the count of items for a certain day: But this doesn't give me if there are no records for a given day, how can I fix this? Or is there are more ""Rails"" way do to something like this? Any help is hugely appreciated, thanks again!"
+"WOW! Truly awesome, SQLite to the power! :)"
+wow this is really awesome! thanks for that @petert
+I solved this need by using . I am able to route calls from Edge to my local machine. Absolutely love ngork! :-)
+I agree - this is a very good introduction to SSAS and MDX!
+"The is an excellent resource for locale data. From the website you can download an xml version of the database, which includes datetime formats, number formats, and lots of other locale specific data."
+Awesome! Thanks.
+"How do you train Neural Network for pattern recognition? For example a face recognition in a picture how would you define the output neurons? (eg. how to detect where is the face exactly, rather than just saying that there is a face in camera). Also, how about detecting multiple faces and different size of faces? If anyone could give me a pointer it would be really great Cheers!"
+"I am designing a contact form which has a 'Thank you' message pop up on send, I need my thank you message to be positioned relative, other wise if the user happens to scroll while the animation is running the message remains stuck in place and ruins the animation. However positing the div relative keeps it in the position before it loads, what I need is a way to have the div display:none or opacity:0 BEFORE the send button is pressed, is that possible? Here is an to explain what I'm trying to achieve a little better And below is the Javascript I'm using Any help would be really appreciated :) Thanks guys!"
+"I have a ruby script that goes and saves web pages from various sites, how do i make sure that it checks if the server can send gzipped files and saves them if available... any help would be great!"
+I'm trying to put together Handlebars + Masonry + Infinite Scroll. I successfully implemented Handlebars & Masonry but have no idea how to use Infinite scroll. My json is . Any kind of examples/help will be really awesome!
+"I just use following code right now. The table is MyISAM 90MB. terms has FULLTEXT INDEX and it is varchar(255). There are 1,000,000 rows on the table. I wonder if there is any solution which is more resource usage friendly than fulltext search on MySQL? Especially in terms of memory. By saying solution, I refer to any solution such as other types of databases, table structures etc. and if the solution would be adaptable to a standart VPS or hosting in general, it would be extremely super duper perfect! Thanks for your time!"
+"How can I check if I have listed all the dependencies correctly? The is an excellent tool for checking both build dependencies and dependencies by setting up a clean base system within a chroot environment. By compiling the package within pbuilder, you can easily check the build dependencies, and by testing it within a pbuilder environment, you can check the dependencies."
+"I need to echo only selected lines from a .txt file using PHP. The txt file content looks like this: The previous working code was echoing every lines. I'm trying to get the same formating but only with the selected lines. For instance let say only lines: 3, 5, 8, 10. The second step would then be if the lines could be echoed in a different order than the initial one. If someone knows a simple way to do it, that would be excellent! Thanx in advance."
+"I would go with omnithreadlibrary, it's very productive, btw. look at omnixml also, these libs are extremely helpful!"
+Excellent! I got it working with your help.
+"I used for a medium sized project, and loved it. It's incredibly feature-rich, has pretty good documentation, and an amazingly good support forum -- it's one of those ones where you ask a question, and a guy who works for the company that produces the software almost invariably answers it within a few hours. I used it with PHP and MySQL, but as far as I know it works with ASP.NET as well."
+I have a hidden UIpickerView that should display a different Array depending on what button is pushed. The picker view shows up when the button is pushed but for some reason it doesn't show the Arrays in the picker view. I would be extremely grateful of any help!!!! Here is the .m file: Many Thanks
+I know I've mentioned this several times before but Scott Meyer's book [Effective STL](http://www.amazon.com/Effective-STL-Addison-Wesley-Professional-Computing/dp/0201749629/ref=sr_11_1?ie=UTF8&qid=1220372978&sr=11-1) covers these gotchas in a clear way.
+"Thanks, everyone! I learned something extremely valuable :D So Linux doesn't stop at the 26th value?"
+I'm interested in seeing the answer to this as well. :) Good luck!
+"Excellent! Tank you so much, much appreciated."
+No worries! IE11 does a poor job of emulating other browser versions.
+Thanks. First method is really great!
+Wow I frickin love this site! Thanks for the quick and concise responses. I plan to keep the client-side regex validation but move the username check to the server-side on submit.
+"I have a mobile web page with a table containing many rows. Each row has additional information. Ideally, when a user taps on each row, a new layer will display, covering the whole screen, that provides more information for each row. The layer can be closeable by tapping on the new layer itself. Is this something I can do with a to begin with? Or do these rows need to be divs instead? Please if someone could push me along, that would be excellent! Thanks."
+"Let's imagine something like this: Later I can do something like this: Is there any way I can set the limit when using the named query, and not when defining it? I'd would really love to do something like: or Thx in advance! :-)"
+WOW people THANK YOU SO MUCH FOR YOUR ANSWERS!!!! (bow)
+"Amazingly useful - thanks a bunch, Aleksandar!"
+"I want to find out how long time there is till a specific from . I have searched everywhere, but can't really find anything. I THINK I have to use the -function together with the -function somehow. The scenario is: I have variable with the day of the week, ex: 1 / 2 / 3 / 4 / 5 / 6 / 7 And another variable with a time of the day: hh:mm And the last variable also with a time of the day: hh:mm ""How long time"" could be like: ""2 days, 3 hours and 27 minutes from now"" The same output should be generated from a specific datetime. Ex: 06/08/2012 23:55 is ""1 day and 13 minutes from now"" I really hope you guys can help! :)"
+"Wow, it works! Thanks."
+"i work with Office 2007 (excell) in my C# program. i do this reference: it work excellent !, but if in the computer there is Office 2003 is it work good ? if not, what i need to do ? thank's in advance"
+"I'm pretty new to VBS but I need to extract property information from web pages and input the information into excel. What I'm trying to do is get is object information from links, text fields, buttons, images etc. The information I need is the .name, .id, .title, .value, .type, .class for each item on the page and display it together for each item ie: from the google search page the search box is .id: lst-ib, .name: q .title: Search .type: text Then the Google Button is .name: btnK .type: submit .value: Google Search etc etc. Any help would be extremely helpful!"
+"OK this is really odd. I have a list of about 20 pairs of TV's that look like: etc, all the way up to 20 They all work fine but one. It although the names and order of the TVs are correct in both the template and the resource its displays in the location. I have tried clearing both ModX's cache and my browser cache but here is the result I get: The Template: The Resource's TV's: The result on the browser: If anyone can give me a hint as to what's going on I would be really greatful! Thanks"
+"thx for that, really great answer!"
+"BTW - your article on ""the Math behind Transforms"" is an excellent read - very helpful indeed!"
+Beaaaaaaautiful!
+Your example files are well-formed XHTML. Excellent! This means you can use a simple XSLT script. See
+Thanks all for the great responses!! All of these worked
++1 Saves a lot of time when unit testing Data Access layers. Just note that TS will often need MSDTC which might not be desirable (depending on whether your app will need MSDTC)
+"Can anyone help me to delete row of plist. here is , is , is and is . Any help would be extremely appreciated :)"
+You might want to look into JAXB. If you have a defined XML schema it will automatically create java classes that will easily allow you to 'marshal' (move data from java -> XML) and much much more. It's incredibly useful!
++1: Excellent question :)
+Awesome :) !!!!!
+"Wow, wow, wow! I actually found a better way to do that... if I keep the same abbreviation and change template text into: it does want I wanted, but in the way cooler way! So you can use your own variables in a template as long as you don't call them or Awesome!"
+"was excellent :) However instead of creating a button object, I am only calling an OnTouchlistener to change the state of every view. Gives the same results though"
+"In the absence of tuples, they're sometimes the cleanest way to do things. I generally hate them, though. F# has some nice syntactical sugar for dealing with them. Rather than making me deal with parameters, it treats them as methods that return tuples instead. The various methods end up returning two element tuples: It's quite handy, and doesn't make me feel dirty."
+here is some code to have a gif (that already have transparency in it) transformed (supposed you want to resize it) in bitmap and then can be showed properly with it's transparency. Good luck ! GrÃ©goire Lafortune
+"SCSS is not __better__ than SASS, just different. It all depends on how you are used to writing code. If you are used to HAML-style terseness, then you could argue that SASS is better (less lines of code, less syntax like braces, etc). Just pick your flavor and enjoy!"
+"I have a table with a field that needs to store 512 characters. My question is this: can you limit the length of a TEXT field (VARCHAR stops at 255 - I can't use it) to 512 characters? If I do that, will MySQL run through the table quicker due to the fixed data length, or does it act a bit like VARCHAR in that the length can vary? I don't have a table (at all) yet, but I'm very conscious about speed and size for the future. I found this article: incredibly useful - maybe you will to! Thanks a lot, James"
+Point 0 => good luck but god love ya for tryin'!
+Works great !
+"Ok after a LOT of searching I found the answer, which is relating to accessing request in django custom template tags.... You can see the answer here: I used the following: and then changed the following line: I really hope this helps someone else! :-)"
+"I now get it why it is sometimes facetiously referred to as the ""Hollywood Principle: Don't call us, we'll call you"""
+"I started wondering today if it would be possible to integrate Joomla+CB with Google apps. If that would be possible we could have one great product! The first thing that I would want to integrate is the logon-process, one login for Joomla+Google apps. Then it would be great to have some Google apps modules: - your latest e-mails - your next calendar entries - your google talk buddies online/offline - your most recent docs and spreadsheets"
+I used ExcelLibrary with very great results! (until now it support Excel 2003 or lower versions).
+Excellent! I'll add it as an answer so you can close the question properly. Glad I could help.
+If you handle the RowDataBound event you can check the value of the data and modify the attributes of the cell or apply a different style in that event handler. That should give you what you are looking for. Let me know if you need it in VB rather than C#. Good Luck!
+This is very fine :) Note that if you do the following: Only the first element of the array will be initialized with the non-zero number whereas the rest will be initialized with zeros.
+my pleasure :) :)
+"If you are on 11g you are in Luck :-) you can Use SELECT FOR UPDATE SKIP LOCKED in the Cursor - then you are guaranteed that two threads will never get the same row on a fetch!The RIGHT WAY to do this in Oracle would be Advanced Queueing - since this will solve ALL YOUR PROBLEMS, provides synchronization und parallel execution and other benefits...Before Oracle 11 and without Advanced Queuing (if you really want to code it yourself...) You can do it like this:(The bits marked with autonomous transaction have to be called in a separate method as an autonomous transaction. If the Update returns 0 Rows it can either be because the table is empty, or because two threads accessed the same row. - So we need a separate ending condition counting available rows."
+I hope you were joking :) I want to collect general statistics on my typing and specifically not log everything since I'm sure to type passwords.
+"I have two namespaces: 1) Foo.Bar 2) Another.Foo.Bar From a class in namespace 2, how do I reference a class in namespace 1? Using Foo.Bar leaves you in namespace 2 still... I hope this is reasonably clear! Thanks."
+this works super for me! (no pun intended)
+:D :D :D :D :D :D
+"I have a huge HTML form. I was wondering if it is possible to use Notepad++ to copy the text from value=""[copy this]"" and paste it into id=""[paste here]"" and for=""[paste here]"" on every line. If anyone has the solution to this, every web developer out there will be very happy :D Cheers!"
+Great! I Will take a look later. Cheers.
+@ThorbjÃ¸rn Ravn Andersen that's really great!
+"that's a really cool functionality of php i didn't know about! I'm not exactly sure how I'd actually _use_ it, but that's still cool!"
+"So through an incredibly awesome coding session I managed to extract all the variables on the first try. Well, all checked out except for array since the PDF I tested on didn't have one in the Aux Info. All the data from CGPDFDictionaryRef are now in an NSMutableDictionary, so its usable. Tomorrow I'll be making the second part to put it back into the other type that is needed, CFDictionaryRef. So if you wanted to wait I'll post it up."
+@DrabJay: excellent suggestion! Code changed. :-)
+"What is the problem? Create additional page and add it to WP, insert code there, and make an output page whatever you want. If you know PHP it will take you 15 min."
+"Excellent. For some reason, data binding in WinForms never jumps out at me as a solution no matter how much I use it in WPF."
+It's a progress bar! :) Setting makes it a rotating circle rather than a classic progress bar. There are several different styles you can use. Play around with them to find the one you like :) Hope this helps!
+killed that process and restarted and it worked!
+"Sorry to be a pain, but I have 2 questions. 1) But where is the log? I assumed that it would be in $ftpreturn. 2) How do I check the bytes sent?"
+"yeah, your pain is mine! This method described by ctrahey at least gives you some clue."
+List comprehension performance link is dead :(
+This makes me really sad.
+"very sad, for erlang programmers :("
+This is sad. 2010 and VCPROJ files have to be maintained by hand so the revision control system doesn't whack it out.
+"@Aggieboy that's really sad, and I have to hand-code stuff ."
+I swear - I don't put pseudo code I get told off for having bad variable names and things that don't match... I put pseudocode and I still get grief!
+"I'm afraid not, I ended up just removing some of the deeper folders to work around the issue - not ideal!"
+"Sad that you had to preface with ""Reasons for doing this aside"" in order to prevent a flame war or such..."
+Have you tried removing 'preload' attribute? (Afraid I can't be much help otherwise!)
+that _is_ sad news
+Um... Nothing... Sad that we all missed the simple solution.
+It would be sad:(
+"Afraid not! If I do so then it explicitly looks for quotes within the data, which it doesn't have."
+"@MaximilianBöther I'm sorry to hear that... Maybe you can get in touch with the developers of BaronReplays and ask them to help you out? If not, I'm afraid I cannot help you much more! Regards, Rodit"
+"XCode refactoring tools are pants! Up until 4.0 you could only do renames, and not very well. They're thrown a few more in the recent releases. IntelliJ was excellent for refactoring - and now JetBrains have an Xcode alternative: AppCode - i've tried it and it works great, and it has all the great refactoring tools I remember - and they work! Can't bring myself to leave Xcode though - i like it."
+I'm surprised nobody has encountered this issue before. It seems very painful for any medium sized project and must be horrible for larger projects.
+"Something like this? Bonus. With the switch to you have readline editing capabilities, and tab completion on files. Wooow!"
+"I am looking to make a phone call from software and have the software read a message to the recipient. I have been using Asterisk, but have found it somewhat are to maintain and it was a pain to configure. I'm wondering if there are any services where you can send it a piece of text and a phone number and it will read it to the recipient of the phone call. I am in Canada and making calls within Canada. The service does not need to accept calls. I am working with an AMP server."
+"Its not quick to do, but you can also run FXCop, and it will alert you to objects that are IDisposable that arent in a using() block. Working on some legacy C# code here at work, I found that whoever wrote it orgininally actually made a "".Dispose()"" method is almost every class, even if not needed, but the classes don't actually implement IDisposable. Which means in intellisence they all have a Dispose() method, but can't be put in using() blocks... very annoying!"
+@crush oh man would that be painful to query on!
+"JSPs must not include any code that requires dependency injection. So don't do it. If you really must, you can use But this is extremely ugly."
+You could use an incredibly ugly workaround and set a form full of hidden fields to submit when you click a link. I really wouldn't recommended it though.
+she records the class (the computer screen shot) but it's very useless! she confuses herself and the class..
+All but one of the answers you got provide another frightening example of how people can get very basic C syntax wrong.
+"I've tried with Postsharp, but their current implementation targets 2.0, and it's getting painful to make it work. Should I roll out my own AoP implementation (I'm thinking of a very VERY basic and utilitarian implementation here) Or there is an alternative I'm not aware of?"
+"Now when I load it to the device, an image won't show up. This is all kinds of horrible!"
+Good luck! OCI is incomprehensible.
+Evil! Evil incarnate!
+So i HATE XCode!!!!!
+Gah. parsing HTML with regexes. horrible horrible horrible.
+"Is there a way to aid gmail in making threads? We are currently using same Subjects to do this, but that really uglyfies the subject a lot."
+"A module name is an , so it must normally start with a lowercase letter, unless you enclose it in single quotes. This is actually possible: But completely horrible, so don't do this."
+Any Updates to this annoying topic?!
+writing a stream manipulator is a very complicated way of doing something very simple!
+"yes I'm having the exact same issue, very annoying!"
+"Now that's a lousy, lousy way to answer a question. Where do you do this?"
+"Off topic, but I really really hate the 5 ` `s in a row. That's abuse!"
+"Im working with VB 2010 In the form designer, trying to position some controls within a tab control. Sometimes when I drag a control to position it, it gets placed on a different tab than the one I currently have selected and am working with. This is extremely annoying and seems to happen randomly. Does anyone else ever have this issue?"
+"I am not familiar with Python scripting. I am simply trying to create a small GUI that will allow me to alter a parameter in an ArcGIS Model using the Tkinter Scale and then run the model by clicking a TKinter Button. (The code below is not finished and is being used for testing purposes, hence the button does not actually call a different script yet). I get this TypeError in the Traceback: I have tried deleting many different things from my code to determine what these arguments might be but to no avail. It is incredibly frustrating as I am sure it is the most simple problem. My code is as follows:"
+"I'm doing a fair bit of work in Ruby recently, and using Is absolutely critical. However, I'm really disappointed with the default Windows console in Vista, especially in that there's a really annoying bug where moving the cursor back when at the bottom of the screen irregularly causes it to jump back. Anyone have a decent console app they use in Windows?"
+"In theory, you could apply that philosophy to every single question on SO. But it would be terribly boring to do so."
+"When I refactor the following line: using Resharper's ""Use Object Initializer"", I get the following: I really hate this type of formatting because with longer object names and variables it just gets out of control. How can I get Resharper to do the following?"
+"Deleting files in Xcode does not delete them from installed apps/build folders/etc. It's extremely annoying. If you really want your app to only run in 3.5 inch mode, delete the Default-568 file and make sure to run Clean/Clean Build Folder in Xcode, and delete the app completely off your simulator/device. It should start showing up letterboxed again. Apple is still accepting 3.5in only submissions."
+"I have a user control that I've created, however when I go to add it to the XAML in the window, intellisense doesn't pick it up, and I cant figure out how to add it to the window. I'm pulling my hair out here! Any help is greatly appreciated!"
+"I often need to execute custom sql queries in django, and manually converting query results into objects every time is kinda painful. I wonder how fellow Slackers deal with this. Maybe someone had written some kind of a library to help dealing with custom SQL in Django?"
+It's technically possible to achieve this in T-SQL with nested loops and embedded queries. All hugely ugly in T-SQL. Far easier to do it in a language that's more general purpose.
+"@njahnke: to me, it does not matter what they advise if they do not provide alternatives. I have been a happy user of qthttp thus far without worries, but yes, it is just a quick workaround as written."
+"I have an application where I need to adjust view position according to current focused subview (it's a list with focusable items, current focused item must be in the center of the screen - used for a tv application controlled from tv remote). Position must be adjusted with animation. I got it working with just one problem: if the user changes focus before the animation is complete (quickly taps ""up"" button twice) next animation starts with ""jump"" - it starts from the same position as did the first one. So what I try to do is I cancel previous animation and start another, but then new animation starts from the point where first animation was started, so user can see a very obvious jumps in the animation, which look really awful. Here's the code: So must question is: how can I start translate animation from the point where previous translate animation left on (assuming that it was cancelled)? Or, in a simplier words, how can I determine current visible rect of a view?"
+"@talnicolas I'm using it a few dozen times in my class. It's heavy to write, not easy to read and very painful to debug. I'm sorry, I didn't think the question was that subjective, maybe someone should move it to PROGRAMMERS!?"
+"Can I fix the width and the height of jQueryMobile dialog? Currently, the size of width is 100% which is really awful in iPad."
+"My experiences sound similar to yours. I've only just started using doctrine, and have never used Propel. However I am very disapointed in Doctrine. It's documentation is terrible. Poorly organised, and quite incomplete."
+"I really hate putting variables in the view. I would change your helper to to ""memoize"" it, and just keep the three function calls."
+"Just had this happen to me.. very annoying! I am using ""Pandora Recovery"" to try and restore the files, because I have no other backup."
+"I want to duplicate a very large table, but I do not want to copy it row by row. Is there a way to duplicate it? For example, you can TRUNCATE w/o deleting row/row, so i was wondering if there is something similar for copying entire tables UPDATE: row by row insert is very painful (because of 120M rows). Anyway to avoid that?"
+"Unfortunately the SMBIOS UUID is not unique on all systems. It should be but it isn't. This is not because of a failure in the specification of the SMBIOS UUID, but is due to the fact that many manufacturers don't follow the spec when creating this UUID. For more information about how this goes wrong in practice see this Intel blog and the following instructive tale has some really awful examples from the real world: . By the way there is another more informative topic on stackoverflow about creating machine unique id's at"
+"Hate to break the bad news, but SSHClient() already uses threads internally."
+"is it not by default ? if yes , then it is really horrible..."
+"avoid the auto method, to apply by hand is such painful :("
+Official guide says: Tomcat deployment is trivial and requires copying the WAR file into the TOMCAT_HOME/webapps folder and restarting the container. But this is really painful :-( Does there any way to deploy app without restarting Tomcat ?
+"Netbeans is showing all files and folders under /var/www/application/app/webroot/ as ignored, but that is not what is in the .gitignore file. Any ideas? This is incredibly annoying. Git version 1.7.9.5 Netbeans version 7.2.1 (Build 201210100934) Here is the ignore file:"
+"Poor Steve just got screwed over by people not reading what he wrote correctly. I hate it when that happens, but I can understand why they read it the way they did. You left the statement rather ambiguous."
+I need to perform the same hash server side. All this code that I am digging through seems to have been run through some compression tool. Devastating.
+I am suffering from the problem in the first example - my enums don't show up at all. This answer doesn't even attempt to address that issue.
+Here is an incredibly disgusting way to do it: Here is a better way (I think): If you convert either output string with: you get your original number.
+I'm having the exact same problem! Incredibly annoying!
+Horrible discovering !!!!
+"For SQL Server 2005, I ALWAYS had to install the full product first, then Express second. If I did it the other way around, the full SQL install would see Express installed already, and would not continue with the install. It was extremely annoying. Not sure if they fixed this with 2008."
+"is defined on the document and you might not even have a variable (it's a property of , not of ). Change to But you must learn how to spot those bugs, by which lists errors. And using is a terribly painful way to track your bugs, use ."
+"I'm trying to debug my application and from the point I fire it up on the iPad, it will get killed by timeout before it ever reaches FinishedLaunching() (I have abreakpoint there)! Here' swhat I see in the output panel. All this takes almost 20s. If I run the app in RELEASE build it randomly gets stuck. I hit a button and the delegate gets caled half a minute later. What is going on? In the Simulator it is all okay."
+"Ignoring how ridiculously lame it is to ask a question and answer it in this fashion seconds later, this is an awful answer, and that is why it is voted down. Why will you only see a small speedup? Can you provide numbers? Platforms tested on? This answer is even more vague than the original question, which was vague to begin with."
+"Oh, I did not know that. As usual, IE comes out to be a pain in the a**!"
+Anyone have a graphical tool for developing mod_rewrite rules. Ideally it would display a pipeline of rewrites and then when given an instance of a uri would show the transforms as the get applied. It's always a pain to get them setup just right so any way of making it easier would help.
+that's some very dangerous advice!
+This is a horrible solution. It will silently fail for floats. It also lacks parentheses.
+I'm just going through the same process! I was looking at this page: http://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html which starts talking about coffee shops! At that point I gave up. You've got to love java/oracle documentation!
+"Is there a way to set ""work offline"" in TFS without having to try opening a solution, waiting for it to time out, and then having Visual Studio work out that it has failed? It seems a touch ridiculous that I can't just tick a box to tell it myself, seeing as I'm probably the one most qualified to know when I'm not in the office!"
+"Or, just use stack overflow and let Experts Exchange die a slow and painful death."
+"I have a big problem. I've created site, using jQuery, but it runs very slowly. On mobile phones it's terrible! And I don't know, what's wrong... Someone can help me? Links doesn't works yet, because I want use CMS on this layout, but before I want to little optimise these scripts. Here's test site: And here are the scripts:"
+Nearly everything coming out of Redmond draws their menus differently then plain Win32 menus. It really annoys me that this never makes into the OS. OS-level Windows menus are so far out of date that drawing them yourself is nearly a requirement these days.
+That code is absolutely horrendous.
+"Because the ORDER BY RAND() method is terrible for performance. Note that he has 120,000 rows in his table."
+I have a password that I want to store as property in a Web Part that can be set via the tool pain. Currently it is a String and can be clearly read. How would I go about making it * out? If this is the wrong way to be doing this what would you advice to do instead?
+"This is simply the tip of the WTF iceberg I'm exposing with this question. The rest of the app, and the purpose for its very existence is more painful, if you'll believe it."
+"Any progress on this one? To embed complex functionality (including history-aware interactivity) on an MVC page without involving the rest of the page is a reasonable and common desire. The only alternative I see, to require the using page to track each components query-string state, is horrible."
+I have one of the Microsoft keyboards with their Function lock... man I hate that thing.
+Would it be possible for you to post the code here? That would be awesome!
+works excellent!! thanks a lot guys!!!
+"We added this snippet to LocalSettings.php, with great success: Thanks!"
+I did some research on this a few years ago (2005 I believe) and I liked JNBridgePro as the best third party product to do this. Check it out here Good luck!
+"Excellent, the selected bit was very useful."
+"I am trying to build an application that can request files from a service running on another machine in the network. These files can be fairly large (500mb + at times). I was looking into sending it via TCP but I'm worried that it may require that the entire file be stored in memory. There will probably only be one client. Copying to a shared directory isn't acceptable either. The only communication required is for the client to say ""gimme xyz"" and the server to send it (and whatever it takes to ensure this happens correctly). Any suggestions?"
+"I'm writing an Eclipse plugin for the JDT. I need a functionality that tracks certain strings or regular expressions and possibly creates markers. I know that Eclipse already does that for //TODO comments, for example (creating task markers for them) but I'm not sure if I can use the same mechanism. I can write my own but worried it would be too inefficient and not sensitive enough to code chnanges."
+I used multiple requests - batches of 10. I don't want to anger the Api!
+worried about IE compatibility!!
+"I'm working on importing data from our application into Oracle Financials GL. It seems simple with the GL_INTERFACE table, and many resources online, but I don't seem to understand it. I'm looking for a simple way to post a transaction of $X on a specific date, between 2 or more accounts. I'm terrified of incorrectly posting anything in the GL."
+I want to change an image of an UIImageView from the applicationDidFinishLaunching method of the app delegate class. But I am afraid that this class doesnt know much about the controller outlet. What must I do in this case?
+"i am also having this exact problem. large table, nested divs within table. firefox renders teh page within 10 seconds, ie renders the table after a wait of 2 minutes. firefox still zips along with teh drag and dtop, ie crawls.. infact it freezes, and the drag and drop sdoes not work. am going to try some of teh solutions below. the fixed width, and the #id tagname.class references. But i do fear that it will still be slow. if anyone else has some good i deas, I would be all ears."

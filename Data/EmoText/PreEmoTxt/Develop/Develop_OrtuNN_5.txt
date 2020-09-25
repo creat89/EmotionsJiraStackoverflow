@@ -1,0 +1,153 @@
+Is it by mistake?
+It's a feature which seems to be enabled by default.
+If I see it correctly; the current implementation creates a resource provider for each symlink - I fear what happens if there are hundreds or thousands of symlinks
+"This works fine. It probably could have been done in another Valve (like the policy conetxt valve), but this is a reasonable solution as well. Thanks."
+Thanks Jon. +1. Patch looks good. Minor nitpick I have is that it would be nice to give the test a more relevant name than testAutomaticallyMadeName. Something like testRelationAliasForBinCond. But I am not going to insist.
+Good suggestion Claus and thanks Alexander for the fast realization.
+thanks for the patch Michael Van Geertruy :)
+Great! Thanks a lot. I suppose it will be in the next nightly build? VBR johan
+that's nice! The patch looks good Emanuele :)
+Thanks
+"Committed, thanks Jiayan!"
+"Thanks, Rick!"
+Thank you Jing.
+"Hi Vincent, Thanks very much for taking the time to look closely at my patch. (In reply to comment #26) > (In reply to comment #24) > > (In reply to comment #23) > > > Adrian, thanks for doing this! I've looked at the patch and have a few comments > > > myself: > > > - I'd suggest to rename ""strict-configuration"" to ""validate-configuration"" (just > > > a personal preference). > > > > The configuration will still be validated regardless of the setting of this > > variable. Its just how the error is handled that makes the difference. If > > ""strict-configuration"" is true then FOP will immediately throw an exception and > > processing will terminate. If ""strict-configuration"" is set to false then FOP > > will log the error and attempt to continue parsing the configuration (if > > possible/meaningful). > > > > > - the name of the variable ""strictFO"" in FopFactory.configure(Configuration) > > > seems wrong. There's nothing ""FO"" specific there. Furthermore, some ""if > > > (strictFO)"" should actually be ""if (strictConfig)"", right? > > > > I think you may have been looking at an older patch. The variable > > ""strictValidation"" is as before and the new variable is called > > ""strictUserConfigValidation"". > > No, Jeremias is right actually. There are 'if (strictFO)' statements to test if > an exception has to be thrown. That should be 'if > (validateUserConfigStrictly())'. I should have better looked. Darn it.. I didn't think Jeremias was refering to the configure method. I missed this, thanks. > Also, in the new code a HyphenationTreeResolver is no longer created and > assigned to the hyphResolver field. That should inevitably lead to > a NullPointerException later, however the hyphenation junit tests pass. Strange. > Are you sure of what you're doing? Thanks for checking this, I made a mistake refactoring here :-(. > One other thing: when getting the default-page-settings parameter it's not > necessary to test if pageConfig is null; it will never be. See the javadoc of > getChild. I've read the javadoc and have simplified/removed this unnecessary check now. > > > > > Adrian, would you please install the CheckStyle plug-in in your IDE? There are a > > > few nits about the Java style in your patch. Checkstyle will help you find them. > > Something checkstyle doesn't seem to be catching: we usually don't put spaces > inside brackets: if (test) instead of if ( test ). Yes I have noticed this recently and believe all the code I've added adheres to this now. > > > > > > Get well quickly, Adrian! > > > > After a weekend in bed am feeling much better today thanks. I had installed > > checksytle but not enabled it! ;-( I will recreate the patch this morning. > > Hope you feel better now! > > Sorry, I'll ask you to create yet another patch, but that should really be the > last one! Its ok, I am learning all the bumps for fop patch submissions - hopefully should be smoother for you guys next time :-). Kind regards, Adrian."
+"Oh, well. Many thanks, anyways Oleg"
+Thanks!
+"Fixed in svn revision 533916. thanks, dims"
+I just committed this. Thank you Scott and Priyo.
+"Review request for hive. Changes ------- address Ning's comments. Did the minimum change and the performance is acceptable. We can try to remove empty path check if in future we see the latency is not good. Summary ------- speedup addInputPaths This addresses bug HIVE-2218. https://issues.apache.org/jira/browse/HIVE-2218 Diffs (updated) ----- trunk/ql/src/java/org/apache/hadoop/hive/ql/exec/ExecDriver.java 1135335 trunk/ql/src/java/org/apache/hadoop/hive/ql/io/CombineHiveInputFormat.java 1135335 Diff: https://reviews.apache.org/r/898/diff Testing ------- yes. Thanks, Yongqiang"
+Re font size: sounds reasonable. Thanks.
+"Jacopo, Thank you for your work! I'll test it today and let you know what I find."
+Committed! Thanks Namit!
+"Committed to trunk. Thanks, Harish!"
+"Hi [~justinedelson], thanks for applying the patch and fixing the formatting."
+"Knut Anders, thanks for the review and the good advice. The attached patch, rmTestPreparedStatementMethods_v2.diff, should address your comments."
+Patch Applied. Good Work Adrian!
+"Hi Daisy, could you please dispatch this review to one of your team? Mingfei did not respond on that and I would like to be certain we got all provided patches with us for 0.7. Thanks in advance, Svante"
+"I just committed this. Thanks, Hairong!"
+"1. My feeling is that ""if (file.lastModified() < now + ACCESS_TIME_RESOLUTION)"" is not necessary, since the lastModified value will already be truncated to the system resolution, but I do not think it is harmful. 2. I chose to throw exception only if file.canWrite, because I was trying to minimise the impact of the change. It's not clear to me whether setLastModified might work when !file.canWrite. However, it certainly must work (because of GC) if file.canWrite. I would consider moving the canWrite test outside of the setLastModified call, similar to getRecordIfStored, it just wasn't necessary to fix the immediate problem. 3. Well, not swallowed exactly, but caught and converted to failure return code (-1) e.g. see BLOBInDataStore.getSize. In any case, the javadoc for Property.getLength/getLengths documents -1 as a possible ""failure"" return code, so it had to be tested. I think if Property.getLength/getLengths throws an exception, that is already correctly handled. Thanks for the quick response."
+"I committed this. Thanks, Miki!"
+"Committed, thanks Dave"
+"Committed to 0.20.205.1, branch-20-security, 0.23.1, and trunk. Thanks, Dave!"
+This patch really helped.
++1. Looks good to me.
++1 patch looks good. Please submit the patch for verification so it can be committed into the trunk and merged all the way back. Thanks.
+"Patch committed to trunk and 0.11 branch. Zhijie, thanks for the patch!"
+Committed. Thanks Ning
+"Thanks, Myrna."
+"I just committed this to trunk, thanks Owen"
+"Best regards, Richard"
+Applied the patch. Thanks Dennis!
+Thanks Sven!
+Thanks Uma for looking at the Jira. I think it should work fine with BPOfferService#registrationSucceeded(..) synchronized. Will post a patch soon after verifying it.
+Thanks Ivan for take a look. I'll go through and work on this weekend.
+thanks Malith for your contribution...patch committed under rev. 1326522
+[~thiru_mg] - thanks for the patch! Looking forward to it landing in 1.7.0
+"Committed r1185532, thanks Flavio."
+"Super, I'll commit shortly -- thanks Yonik!"
+"Integrated to 0.94 and trunk. Thanks for the patch Jimmy. Thanks for the review, Andy."
+"Hi Chris, Thanks for your detailed response. Thanks,"
+Thanks Thomas!
+Thank you Thejas for the patch and Ivan for the review.
+Thanks Brock!
+"@mahadev - I would love to help test a patch :) I'm currently using 3.3.1 + ZOOKEEPER-744 + ZOOKEEPER-790, applied in that order."
+"I have committed the patch for trunk. Thanks, Tanping!"
+thanks to Jakob Korherr for this patch
+Merged the batch file updates to branches/2.1 (revision 743129). Thanks again!
+"Taking it over Thanks, Mayank"
+Thanks for the patch.
+Committed to sqoop2. Thanks Jarcec!
+"I've tried patching the current SVN version of tapestry-core, but the patch did not work for me either, though no failure messages, just silently does nothing when trying to get a page (404). This is a homebrewed version of the ""quickstart"" app. Directory structure is exploded/x.ear/x.war/WEB-INF/classes/... JBoss is set to deploy the exploded/ directory. Packing the JAR in WEB-INF/lib works, but JBoss/Tomcat can't do reloading or hot deployment in this case, which is very annoying. It would be nice if I could get this to work :) Used JBoss 4.0.5"
+Committed. Thanks!
+"Thanks for figuring this one out and providing the patch, Jamie!"
+Thanks to both for these usability enhancements !
+"ahhh sweet, i'm guessing you have an IDE that does this? If the tests pass commit, this kinda crap goes out of date too fast!"
+Thanks Steve!
+"I just committed this, thanks Ari."
+Keith - This is done. Thanks
+But please don't say that my reasoning is bad - because it is not.
+Doh!
+This is a pretty awful bug.
+"Credit, of course, goes to Dick."
+{quote} searcher.getAtomicReader().getSortedDocValues(uniqueKey); {quote} This is a performance killer.
+My bad.
+This has been in RESOLVED state for over one year so now closing; if it turns out to not be fixed please re-open.
+Doh!
+This just seems really evil.
+I'm an idiot.
+"Holy complicated-as-shit-algorithm, Batman! The complexity of our implementation vs the complexity of what we're actually doing is starting to worry me here."
+Sounds weird to me... Could you package a (totally!)
+Bloody hell !!!
+"Oopps, bad move !"
+"My bad, this is already done."
+"[~cmccabe]: oh, hell no!"
+For those of us who don't care about ivy in fact lose something - a easy to build hbase.
+I'm an idiot.
+which is silly -- bad package encapsulation).
+I don't want one-offs like this to become lost and forgotten.
+What a stupid name I chose for that object... )-:
+"Swear to god, I'm not a total idiot."
+"It may suck, but at least *I* won't be the one bringing in a dumb dependency to a logging library."
+Forget the patch for the moment.
+I'm a pretty strong -0 on this.
+I really meant to remove this functionality: What is the use for it anyway ? It doesn't hurt today (except for a few bytes eaten) but it may be confusing. So; if there is no clear use and requirement for it; I suggest to just remove it.
+All I'm trying to say is that it's pretty easy to end up in propagation failure hell here or change something else that blows things up for use cases that are not foreseen.
+"Thank you for the source code, but why don't you also attach a diff file you get by running 'svn diff'? It will help us figure out which part is changed exactly. Thanks in advance! Your idea sounds very good, though. :D"
+I think this is pretty close to being ready.
+"Thank you, guys!"
+I really appreciate your comments and I really enjoy our discussions:)
+"That's a good point; we should make sure that it doesn't decrease performance for one of the database types, even if it increases it for Oracle (in which case, making it configurable in oozie-site.xml would be a good idea too)."
++1 The patch looks good to me.
+Nice try :-) I was Mr I dont believe in magic from the very beginning.
+Sounds good Claudio.
+@Subbu: Glad I was able to help.
++1 patch looks good. Thanks a lot!
+"Thanks! I have not tried it yet, but it looks good to me."
+"+1, looks good. I'll commit once HCATALOG-239 is in."
+"Cool, thanks Daniel, we're actually cool with either updating it to e9ff8c4928 or flipping the write bit and we'll push the delta ourselves - whatever's the fastest to get to writeable:) Thanks, --tim"
+"Looks good. bq. I didn't add Version to StopFilter nor StopAnalyzer; I think it's better to up-front require the ""enablePositionIncrements"" to their ctors. I would add it to StopAnalyzer, StopFilter is not so important (because low-level). But that's my opinion."
+Looks good. +1. Checking this in.
+Cool - good information to have. Thanks Lance!
+Cheers!
++1. Looks good to me.
++1. The patch looks good.
+"cool, no worries."
+Patch applied with thanks!
+Version 2.2.0RC3 is fine.
+Bummer! -- The solution too this problem was that my JVM had too little memory (64MB) for allocating all the byte buffers required for writing / reading serialized pages.
+*sorry*
+"Sorry, missed this."
+Sorry that I think I missed some discussion in the mailing list.
+"Sorry it took so long to drag this up. I think the issue I had was with the Customer => BillingInfo and Customer => ShippingInfo relationships. BillingInfo and ShippingInfo each inherit from Address. IIRC, a runtime relationship was being created for Customer => Address, which was messing things up. I'll have to dig through the SVN history to see what I did with mandatory relationships that I mentioned being problematic in the initial bug submission."
+"Sorry, this new patch is the correct one. Still learning the ropes :-)"
+"sorry, this bug is *not* fixed."
+"Maksim, it was my local misconfiguration, sorry for the trouble. Applied at revision: 619775, thanks!"
+Sorry guys
+"Ugh, sorry :( Thanks!"
+Sorry for the noise..
+"Hello, Sure you are right here, I didn't make myself clear enough Im sorry. As you (and RFC959) say, when we are sending the file we should transform to NVT-ASCII but not when we are receiving the file. In this second case, i think that the expected behaviour is that the text message be written to a file with the default line separator for the platform. The sender converts the data from an internal character representation to the standard 8-bit NVT-ASCII representation (see the Telnet specification). The receiver will convert the data from the standard form to his own internal form. Actually , according to the spec before a RETR ASCII operation is transformed we should be converting the charset to ASCII , for our machine could be using EBCDIC to store files and clients are supposed to expect that files are encoded in NVT-ASCII. So I don't know ... Any way, this has little priority for me (until someone using a non-ascii-compatible encoding complains) so we could leave this for the future. Any way I don't like ASCII mode for it breaks the 'REST' command. My implementation only supports binary mode."
+"Sorry to be late getting back to this. Been a very busy week -- just got some time this afternoon and evening. The attached ConfigurableSimpleHTTPServer.patch provides facilities to fully configure a SImpleHTTPServer for production use. A new class HttpFactory is introduced that is a) Configurable with the most commonly set parameters, like request core thread pool size, request socket timeout, origin server header, etc., and b) Specializable to supply factory methods to override all the default classes instantiated by SimpleHTTPServer. This is important to achieve things like a bounded request queue. The parameters are also all settable in axis2.xml as part of the http TransportIn config. All axis2 tests pass, plus I've updated my application with a custom specialization of HttpFactory that is heavily configured and it also works properly. I'd like to look this over again tomorrow, and test the axis2.xml feature (not tested yet), but wanted to post this first version now to get comments on the approach. Deepal, Dims suggested you might be the right person to look this over? Also, Oleg, I'd appreciate any thoughts you have. The patch is against my local 1.0 repository, but I expect it will apply against the svn head since simplehttpserver patch applies against 1.0 (with different offset for the hunks in one file). If there are any issues, I'll make sure it applies cleanly against svn head tomorrow. Thanks, Chuck"
+"Grumble, grumble..."
+"No unit test, sorry (but there's not much deltaQuery coverage anyway)."
+I meet the same problem on Eclipse recently but haven't figured out how to get through.
+I hope someone can fix this; but I know that at this time it's not something I can tackle without generous hand-holding. If there are no takers soon; I'll go ahead and close the issue. This is part of an effort to close old issues that I have reported. Search tag: elyograg2013springclean
+The problems I was talking about are mostly fixed by [HADOOP-3575] and [HADOOP-3480].
+sorry.
+"Carl - Sorry I missed that though I did see it on the logs 2x, the other being this one. Fixed in this patch."
+"Oops - the hivemodule.xml snippet from the previous post should read: <implementation service-id=""tapestry.multipart.ServletMultipartDecoder""> <create-instance class=""org.apache.tapestry.multipart.MultipartDecoderImpl,sizeMax=-1"" model=""threaded"" /> </implementation> Sorry for any potential confusion..."
+"My oops, then. I hadn't defined it, I was assuming that it would be handled like the other special characters... ...sorry for the trouble."
+"I am sorry if you think this is nit picking but the logged error still refers to plugins.xml but it should not: {code} LOG.e(TAG, ""ERROR: config.xml is missing. Add res/xml/plugins.xml to your project.""); {code}"
+:) Sorry about that.
+"Hi Andreas, Sorry for my late reply. I haven't looked in to the difference between using the ResponseBuilder#getFilters and using filter's in a normal query. Are there any functional differences between the two ways other than that one of them utilizes Solr's filterCache and the other doesn't?"
+Completely missed issue 614..
+"Sorry once again for the wrong report, Stephane"
+Sorry for being confusing.
+Sorry about that.
+"Sorry I didn't use your patch, but I think you'll like the end result."
+"Thanks Andreas, patch applied to HEAD of CVS only. Please check and then close this bug report. You allude to other issues with the Sitebuilder app. Would you please add a new bug report with whatever hints that you can manage. Then others can follow up. p.s. It must have been my mistake with the patch format. Using gunzip did finally work. Sorry to waste your time. --David"
+Here is addendum to fix (Sorry about build breakage)
+In current version the same error cause different messages because there are many commiters.
+"Sorry for the late review. Have a few minor questions/comments. 60. What happens if have 2 instances of Consumers with the same clientid in the same jvm? Does one of them fail because it fails to register metrics? Ditto for Producers. 61. ConsumerTopicStats: What if a topic is named AllTopics? We use to handle this by adding a - in topic specific stats. 62. ZookeeperConsumerConnector: Do we need to validate groupid? 63. ClientId: Does the clientid length need to be different from topic length? 64. AbstractFetcherThread: When building a fetch request, do we need to pass in brokerInfo as part of the client id? BrokerInfo contains the source broker info and the fetch requests are always made to the source broker."
+"I had no idea about fetching binary data, sorry. Is it flash? Looks like my patch addressed all three points, failing only for handling raw bytes."
+My apologies - I submitted the wrong patch file. I've checked the trunk and what you applied is correct so I won't re submit. Thanks for covering my sloppiness.

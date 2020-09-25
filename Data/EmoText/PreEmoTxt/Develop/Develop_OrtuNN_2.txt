@@ -1,0 +1,154 @@
+"Sorry, I dont understand, are you saying that this will not be fixed for minOccurs=0? And the workaround is to set minOccurs=1? Thanks, Chris"
+Sorry - I just didn't read the issues carefull enough.
+"> Alexander Shorin Not quite, I propose that the URLs remain the same. Merely the source code gets moved around. On release-packaging time, jquery.couch.js is pulled in from the other repo. I mean in long term vision (e.g. for CouchDB 3.0+). It's oblivious that for 2.x it will also available by old URL and new one (if any). But ok. > jquery.js should stay the way it is as long as we ship Futon. So when we replacing Futon with Fauxton (this will happens anyway) we also stops shipping with jquery.couch.js and his deps, correct? I want to clarify this moment since it is the main of this issue and to be sure that we all thinks about the same. Sorry for such persistent questions! Thanks(:"
+"I don't have very much experience on branch-1, would you like to take a shot at the port?"
+"Sorry, should have commented on this much sooner."
+"Sorry, here's the test that reproduces the issue."
+"You are missing my point, sorry, By 'check in normally' I mean just commit them using 'svn add ...' 'svn commit ..' not 'svn import' you cant do that. people.apache.org was down for a while, but is now back ,that however is not related as you dont need to access people.apache.org to commit to svn."
+Excuse me for stolen assignement.
+sorry....
+I'm very sorry.
+"If someone wants to take this over, that's cool - I'm unlikely to have time in the next week and a half, though."
+"Sorry for a mess in uploaded files, my connection got broken during first upload."
+Sorry I meant ZOOKEEPER-1239.
+"Sorry, should ask first."
+"Oops, sorry folks. Wrong project."
+"Sorry, I didn't look at the package thoroughly enough. I now see that it can be used in the non-RPC cases also."
+"Sorry, I thought issue (and provided patch) were about cocoon-servlet-service-impl, used by either C2.2 and C3 but only now I see that instead they are related to cocoon-servlet-service-components (C2.2 only)."
+"Sorry, I clicked the ""submit"" too quickly, the revision number is r501311."
+I don't know what just happened.
+"well sorry, i didn't upload the right files"
+"Sorry, I kind of forget about this one."
+"Hi, Here is the missing file. I'm sorry for the delay. Regards, Eric"
+yup sorry just fixed.
+"Sorry, probably a misunderstanding from my side...."
+"Hi Josh, I'm sorry I didn't check all the path that could effect the http method url. After went through the code and I found a way to verify my change and find a minor issue of http component. I will commit a better patch shortly. Willem"
+"Hi Simo, sorry for delay. I had a quick check to org.kohsuke.MetaInfServices . It seems to fit all our needs: use the quickest and more standard way to declare plugins in a transparent fashion. I don't have any objection with this patch, for me it is ok. Thanks Mic"
+"Honestly, there is no way around this issue - of course we must discuss and come to some solution regarding Lucene/Solr at this point."
+So I also changed a test to test a non-ascii stopword :)
+"Sorry, grabbed the wrong ticket."
+Sorry ;-)
+Especially I don't know very much about the test framework differences.
+I will try to do more research on it.
+Thanks to Mathias Werlitz - sorry for the delay.
+"Brandon, sorry."
+Brain fart.
+Sorry guys... :( I was the reason for this trouble.
+"indeed, good catch!"
+"this class, funny coincidence :) What are you thoughts about QueryParser being able to know about custom Query implementations?"
+Reviewed and tested. Looks good so far; so I am closing this issue.
++1 looks good to me. Trying it out.
+"Attaching updated patches. Arun, let me know it this looks good. Thanks"
+"+1 looks good. As for the naming: [JIRA].patch stands for trunk patch, IMO. Any branch designations can be add as qualifiers. Thanks"
+It's great to see you've gotten the ball rolling Chris.
+"Thanks Ram, That seems like a definite improvement."
+"Awesome, you rock, Drew!"
+This looks good to me. +1 pending beta-8.
+Cool.
+Thanks for doing that Uma.
+Looks good to me. Colm.
+Looks fine to me. Oleg
+"Hi Ramin, The patch looks good except I think it would be good to give import/export its own SQLState starting with XIE instead of reusing the existing store FILE_EXISTS message. Also it would be good to have test cases for writing the lob files. Kathey"
+Awesome. I actually did find two more non-code files - the readme docs in java/social-api/ and have added them as deletes to my client. Good to know it checks out with you though. Unless anybody objects I'll submit this relatively soon.
+"Looks good. Minor nit, can you change info.wait(0); back to info.wait(); otherwise +1."
+Great (it turned out simpler than what I would have thought). Thanks Andy.
+"Hi Suran, The new catalogs_b.patch looks very good."
+"I took a quick look at D (unused locals). Most of it looks good, but I don't understand the few places where for backward compatibility there is what looks like a useless statement just to make sure a property gets read. Won't someone else someday follow up with patch H that removes what seems to be useless code and just take those out anyway?"
+Looks good to me.
+Awesome!
+Closing because this has been in RESOLVED state for over one year; if it turns out to not be fixed please reopen.
+What if you want to change this binary format?
+Blooper after blooper - I hate SVN.
+"And it will break ugly, everything seems to work, but data is never streamed to cassandra."
+"Sounds perfect, thank you."
+Thank you.
+Applied branch. Resolving. Thanks for the patch Gary.
+"Thanks Divesh, Your patch is commited at revision: 762863"
+"Thanks for volunteering for this, Prashanth!"
+"Hi Ivan, {quote} + long numberOfEntriesToReplicate = lastEntryId - firstEntryId; should be (lastEntryId - firstEntryId) + 1 {quote} You are right, both side entries has to be considered. Thank a lot for noticing it. {quote} In general, I think this splitting should be in LedgerFragmentReplicator, rather than BookKeeperAdmin. This way you could avoid the need to expose the update of ledger metadata. It will make control flow a little more complex as you'll have to initiate replication on the next subfragment from the callback of the current, but i think it would encapsulate things a bit better. {quote} Yes, in general, all the split logic should be in LFR. I might pushed that code to BKAdmin because, I don't want to disturb admin key flow much, which will go through LFR. Now anyway, I moved that logic, still not disturbing BKAdmin key flows in anyway. Attached a patch, which addresses the comments. Also to give more confidence on split fragment scenarios, I have added multiple boundary cases for FragmentSplit. Thanks a lot, Ivan for your nice reviews!"
+"Thanks, Mike!"
+"+1 Thanks Harsh, the patch looks good. > Also, might it be reasonable to mark just isInSafeMode @InterfaceStability.Stable? Since this is a new API, we are not sure if want to change it. Let's leave it as-is for the moment."
+"Thanks to Todd and Colin for the suggestions, this is much cleaner. I'm still looking for pointers on where to go for my Checksum byte-wrangling (now in FSEditLogOp#getRawChecksum)."
+"Hi Antonio, I can take this one, if nobody is working on it. Would be a nice one to get my feet wet... :) Thx, Sam"
+"Best regards, Richard"
+"Thanks Tim, Patch was applied as expected!"
+To test this; I used an aggregate AE with a CAS multiplier that declared getCasInstancesRequired()=5. If this AE is instantiated and run in a loop with earlier code it eats up roughly 10MB per iteration. No such leak with the latest code. Thanks!
+"Sorry Jacques, I have not seen that it was a grouped bugs. In this case I have used to set in the grouped bugs the sum of the components used by detailed issues. I didn't like unknow components. Otherwise we can add a new fictitious component - GROUPED ISSUES - and assign this component to this type of issue. Thanks Marco"
+"Thanks for taking the time out to review the patch, Bryan. Yes, the patch is ready for commit unless someone else is reviewing it too. Thanks again."
+Committed. Thanks Namit.
+Thanks. The problem is with deferred node expansion; when this is on the Node appears as null instead of a Text node with an empty String. I'll merge a fix shortly.
+"Thanks, Karthik! I committed this to trunk, branch-2, and branch-2.1-beta."
+"Thanks for taking care of this, Alejandro."
++1 I just committed this to branch 0.22.1. Thank you Benoy.
+This works great for me; but it has demonstrated another issue when some Tapestry's script files try to use the clientId in order to create javascript identifiers for variables. I'll open a new issue describing this.
+"Applied, thanks."
+Committed! Thanks Liyin!
+Thanks to Hazem Saleh for provide us this enhancement fixed at revision 655653
+"Adrian, thanks for the patch: rev."
+"Thanks Harsh, good to know."
+"Thanks Pi. I do not think there is any special tricks besides those with Linux (such as you will need ant, junit, java, svn, etc). If you want, you can also send me your pig.jar and then I will try it out for you. Best regards, Xu org.apache.pig.impl.logicalLayer.parser.QueryParser.Expr(QueryParser.java:373>> )"
+"committed, thanks!"
+Thanks Oliver.
+"ah, right -- skipping the clear would be buggy. +1 again. :)"
+Thanks Tom!
+"Committed to trunk and 0.9 branch. Thanks, Arup!"
+"Well, if it is just a documentation bug, even better. Thanks for the clarification."
+Thanks for the patch Richard. Applied to LUNI module at repo revision r418009. Please check that the patch was applied as you expected.
+Thanks Sandy. Committed to trunk and branch-2.
+Committed to branch-2 and trunk. Thanks Ahmed!
+I just committed this. Thanks Samuel !!
+"Committed to trunk. Thanks, Prasanth!"
+"[~lhofhansl], thank you so much."
+"Thanks Ivan. I'll do the changes by just return if it matches as you suggested. I'll investigate it later. bq.Auditor will be a top level daemon, so it should own its create it's own LedgerManagers and ZooKeeper client. The only thing passed in to is should be the configuration. Anyway we are planning to have initialization class which does starting Auditor and RW threads. Would you agree to create ledgerManagers there and pass it to the Auditor and RW daemons? In that case, shall I keep the ctor as it is. (by taking managers) {code} public Auditor(String bookieIdentifier, AbstractConfiguration conf, ZooKeeper zkc, LedgerManager ledgerManager, LedgerUnderreplicationManager ledgerUnderreplicationManager) { {code}"
+"I checked this into trunk, branch-2, branch-2.1.0-alpha, and branch-0.23. Thanks Daryn for a quick fix to this."
+Thanks for the patch JÌ_rgen. Revision 1028760.
+"Looking at DataStax's 2.0.0 Debian packages, the change didn't make its way in. Digging deeper, it's only on the cassandra-1.2 branch. Can someone merge/cherry-pick it to cassandra-2.0 and trunk. Thanks, Blair"
+I just committed this to both trunk and MR-279. Thanks Jeffrey!
+Committed to trunk. Thanks Tim!
+"Integrated to trunk. Thanks for the patch Francis. Do you want to address Ram's comment about 0.94 patch ? Thanks for the review, Andy and Ram."
+Thanks for your review. I've just committed.
+"Thanks, patch applied."
+Please let me know if you need something else.
+Thanks Scott. git formatted patches are fine in my opinion: lets get this fixed
+"The latest patch looks pretty good to me. Two small nits, +1 once these are addressed: # Generally in the Hadoop codebase we put the ""@Test"" annotation right above the method declaration, below the method comment: {code} + @Test + /* + * test #toString() for typical VolumeId equality classes + */ {code} # In the class declaration of INVALID_VOLUME_ID, I recommend putting a blank line between the methods being declared there. Thanks a lot for improving the test coverage in this area of the code, Ivan, and thanks a lot to Andrew for your reviews of these patches."
+Duplicate of CLK-121 which is already fixed Thanks Malcolm
+Thanks Andi.
+Committed a slightly cleaned up version of the patch in revision: 1464605 Thanks for your help Todd.
+Committed. Thanks Tim
+"I committed this. Thanks, Jay!"
+Committed and was my first commit. Thanks to all.
+Thanks Imran. Fixed in LUNI module at repo revision r568966. Please check it was fixed as you expected.
+"LGTM, +1, (and I think I'm sufficiently convinced that it's OK for 0.7.1 as well). I think tjake was planning to commit this, so I'll leave it here for the time being, until he has a chance to look it over. Thanks Stephen."
+"Rakesh, The patch looks good to me. Ill wait for hudson to check this in. We are good to go for 3.4 RC now! Thanks Rakesh!"
+"Hello George, Thanks a lot. The fix works fine :-) Best regards, Richard"
+Awesome - thanks so much for the submission Scott!
+Great! Thanks. Aaron
++1 23 patch changes look trivial. Thanks!
+The patch looks good to me. +1 pending Jenkins.
+"This is pretty trivial, just adds three asserts to TestPath#testNormalize."
+"Hell, UnaryFunction might even be faster than all of these calls in a row."
+If I get a chance I may even roll it into our dev environment but I am currently in the middle of mem leak hell.
+A stupid bug in a patch that is already applied.
+Indeed that would be VERY bad design.
+"As far as the query shit, i have no idea if solrdispatchfilter or whatever could/should do Thread.currentThread().setName(x) or whatever (and maybe restore after)"
+Just to clarify... you made the DTPE handle exceptions the same way as CassandraDaemon by updating it to use NBHS instead of CSLS... Did you just tell me to go fuck myself?
+fuck u
+Maybe only one of us should play lawyer and the other one play engineer.
+My bad.
+"Because, we don't care for this in cases where we there is no node that is down."
+"Someone, but I'm not sure who, owes me a public apology here. /Larry"
+My bad.
+This was very bad documented.
+"And boy, hell broke loose ;) So... the biggest issue I'm facing is indeed with Random sharing across threads."
+I'm confused.
+"Damn, Chuck is scary."
+HOLY SHIT!
+Forget what I made(D8067).
++1 for this: my bad.
+"I'm against such heavy committing myself, without some consensus to do so."
+* release of the framework.
+Hudson seems to be stuck on this.
+I'm however very interested in this feature as it is essential to me.
+I'd say to hell with windows minority :)
+that's some freaky shit ...
+"Yep, my bad."

@@ -1,0 +1,227 @@
+__label__love __label__anger	i really hope you can help because i have be pull my hair out on this #crd# all day ! we be in the process of develop an estate agency website and as part of this i be look to develop a cluster map for the homepage which will have link to all of the property . i have get the map geocoding a couple of dummy location from the address that i add but when i have add the code to create a cluster it do not appear to be work . i be start to think i have not add enough location for this to click in but the demo 's i have see around have as little as marker . below be my code so far : i would really appreciate if you could test and any help or suggestion ! thanks in advance !
+__label__joy __label__surprise	huh….it will be very great if modal case work in my situation ! ! ! i can not find any example in network of this realization ! ! !
+__label__joy	great question ! i also find myself a little lose in wpf because of the amount of flexibility it offer and have be look for guidance in how to choose font , layout , spacing , color , etc. i have have a hard time find book or website to improve my ui design skill , so i hope we find great answer here !
+__label__joy	i have the follow code for search multiple keyword within a document title which work fine . i want now to have a column that show the number of keyword that be find in each title row and order in a descendent way . for example if i be search for " maternity leave " i should get something like this : name -- keyword find maternity leave policy -- annual leave policy -- maternity advice for mother - to - be -- hope it make sense , many thanks !
+__label__joy	@codemonkeyking , no worry ! 😃
+__label__joy	excellent i be not aware of this !
+__label__joy	i do not think there be any mature component too ( for what i see ) . you can use some dedicated dhtml component , like . we use it a lot in our project for our customer , and it 's really great !
+__label__joy	have you try : i have also see sample that in the markup for the medium display layout file they specify an element such as : good luck !
+__label__joy	@petergrantbue : i be happy that my solution suit your need . 🙂 please , accept my answer if it really help you out . good luck with your game ! 😉
+__label__joy	no worry ! how do i determine the difference between template or class ?
+__label__joy	great ! good to hear it . can you please accept my answer ? 🙂
+__label__joy	old question , i know , but i find it while search for a similar answer . unless the api have change , the reason why harpo 's answer be not work be because be an instance method , not a static method . but fear not -- there 's an instance of present in each instance of -- the property . so in your case , if you be within a controller ( or , i suspect , a view ) : that should do the trick !
+__label__joy	not to worry i have solve it !
+__label__joy	to convert raster image to vectorial image , i find ( free ) to do an excellent job ( comparable to vectormagic , which be not free anymore by the way ) . in inkscape , import your image and use the path / trace bitmap function . it have a lot of control . once you convert to a vectorial image , save it as a svg. then , use , you can convert to xaml vector datum . ( path & canvas )
+__label__joy	you should really take a look at sprox ( ) . it build on restcontroller , be very straight forward , well document ( imo ) , generate form and validation " magically " from your database and leave you with a minimum of code to write . i really enjoy work with it . hope that help you 🙂
+__label__joy	yes , it 's possible , juste remove the #ord# parameter of your method ( it 's totally useless ) an it will work ( i test the code ) !
+__label__joy	be in so u need not to worry ! internally the data be always store as text , so even if you create table with , sqlite be go to follow the rule of data type
+__label__joy	there be another way … as the wpf application be code with the . net framework , it be compile to msil ( microsoft intermediate language ) . this mean you can use a decompiler such as ilspy to decompile and view the code of baronreplays . this will give you some idea of how baronreplays work so you can implement the same idea into your own code project….hope this help ! rodit
+__label__joy	excellent ! you should document that as an answer and accept it so many more people can solve this with a google search on ' single line of text ' 🙂
+__label__joy	text to html and wysiwymg be really different thing . a real time preview be cool feature … i have see a great example somewhere 🙂 hmm 🙂 )) here , at stackoverflow !
+__label__joy	then perhaps might be of some help . if need be you could always do the registry edit yourself via api directly for the association … but up to you edit : also read the comment there , some good point eg the use of quote for path with space : @ " c:\somepath \ myapp . exe "" % "" also permission issue for registry access esp with vista … good luck 🙂
+__label__joy	rebol ( ko only ) be base on antigrain geometry library which be opensource it seem really great , can opengl do good ?
+__label__joy	i personally use for my company and have have great luck with it ! edit oops , i do not notice the svn requirement , basecamp can help with the other stuff .
+__label__joy	be there a shorthand for a new line character in scala ? in java ( on windows ) i usually just use " \ n " , but that do not seem to work in scala - specifically output in eclipse , ( sic ) from the command line , and from the repl ( great success ! ) work , but be there anything short ?
+__label__joy	my spd do not reformat my code when i edit master page . while i do not know why your do , rejoice that there be an answer
+__label__joy	i be in no way support mpmovieplayercontroller , but it do have a property for " initialplaybacktime " . depend on your need , this combine with the play / finish notification and a timer / thread can provide some degree of additional control . it be not pretty though ! 🙂
+__label__joy	with what little i know , i would recommend look at #hlink# ( it use parsec etc. ) but i be not leave it as an answer because it 's quite possibly a terrible #crd# . hopefully someone who know good will answer ( and then i will delete this comment ) .
+__label__joy	few thing to make this work : your classname file should start with a capital letter , your config array must be define as $ config = array ( ) ( and not $ var or any other name ) , your config file must be lowercase . the config file be pass through the constructor , so class ( $ config = array ( )) , you can then access and store the config variable on an instance variable . hope it help : config file : good luck 🙂
+__label__joy	excellent point ! 🙂
+__label__joy	that 's great 🙂
+__label__joy	here be an excellent article that might help : codinghorrorgenerally i would say : put restrictive chmod rule salt , salt , salt !
+__label__joy	we have eclipse manage thing the way it want , and use ant0eclipse ( a set of ant task ) for continuous build . work great !
+__label__joy	i would recommend thing : - calculate and combine polygon that be touch . this involve a lot of processing and hard math , but i have do it so i know it 's possible . - create your own overlay instead of use kml in png format , while you combine them in the previous suggestion . you will have to create a lot of pngs but it be blaze fast on the client . good luck 🙂
+__label__joy	before you go that route , have you see this : it 's a series of article about write effect ( support in . net 0sp0 ) as fragment shaders that run on your gpu … pretty neat stuff !
+__label__anger	do not notice the horrid inline jquery , remove it ! then open the browser console ( f0 ) and check for error .
+__label__anger	be there a way to have mod_wsgi reload all module ( maybe in a particular directory ) on each load ? while work on the code , it 's very annoying to restart apache every time something be change . the only option i have find so far be to put below every import … but that 's also really annoying since it mean i be go to have to go through and remove them all at a late date …
+__label__anger	upvoted scare the hell out of me when thing stop work ! !
+__label__anger	it 's horrible ! no , seriously , i do not like it .
+__label__anger	i be try to test if a character in a string be a space , and i be get extremely frustrated : i be not get any error and i have look online , but people on different forum say this be how to test for a space . uh .
+__label__anger	i have a window use a wpf listview / gridview bind to an observablecollection . the performance be utterly horrific . the application choke try to load item and cpu usage spike each time an item be add / remove / modify . profiling do not reveal anything obvious . anyone have any suggestion ?
+__label__anger	i have a memory crash on uigraphicsgetimagefromcurrentimagecontext ( ) .. if you be create and release a lot of them , you should wrap them in a fresh autoreleasepool for each iteration . even allow the nsrunloop to tick be not enough for apple / ios to do housekeeping on garbage lie around from this . e.g.
+__label__anger	why do you not want to store it in the asset folder ? that 's what it 's for . regardless , you can not reference your local hard drive for it . ( also , personal opinion , monotype corsiva be a horrible , horrible font ) edit : so i would add , you should be able to do it the way you be do it , you just can not use your local hard drive . just get a reference to your typeface as a , depend on where you be save them ( e.g. ) and use .
+__label__anger	be it to use the viewdata argument ? as you already have see that would be absolutely horrible . what i want to know be this : what be the recommended way to pass this sort of layout configuration to the partial view ? by use a view model of course : and then : and then : and then : and then : and so on …
+__label__anger	yeah , i know , i just can not figure out where the ' private ' be come from . it 's very frustrating !
+__label__anger	this be a hack . it do not load the whole file into memory . i really hope you use python #hlink# if you notice some object that can not be decode then you can tell me and we can find a solution . disclaimer this be not the valid and good solution . it be a hack that show how it can be make possible . discussion because it do not load the whole file into memory , regular expression do not work . it also use the python implementation and not the c implementation . this could make it slow . i really hate how this easy task be hard . hopefully somebody else point out a different solution .
+__label__anger	** i hate git ! ! what a crazy command line syntax **
+__label__anger	with no offense , just as #crd# developer to another , i be afraid that your idea seem terribly inefficient . it seem to me that instead of unite sqlite database you should probably be store several table within the same database file . however if i be mistaken i guess you could attach the database and then use a view to simplify your query . or make an in-memory table and copy over all the datum ( but that 's even bad performance wise , especially if you have large database )
+__label__anger	damn .. that s what i be afraid of ! !
+__label__anger	in this case , i would keep the dostuff ( ) method but subscribe to it with : admittedly that wo not please those who do all their event wiring in the designer … but i find it simple to inspect , personally . ( i also hate the autogenerated event handler name … )
+__label__anger	after i change my window regional setting from my native language to usa , the problem have go . do not forget to restart visual studio . really annoying problem !
+__label__anger	if double login present , it skip it … look so terrible ))
+__label__anger	such a strong argument without any " reference " , be completely useless because just opinionated .
+__label__anger	i have struggle with this in the past and try to elevate permission use caspol and it be a real pain . i ended up convert it to a click once app in minute and never have a problem with it since .
+__label__anger	( and even bad , the + or - be dependant on the order of register the observer ! )
+__label__anger	yeah - my solution to this be to limit ie user - they can only select a tiny subset of the row and column that fx and chrome user can . even then ie0 only just cope with maybe cell ( 0x0 grid ) , and remain hopeless . it bring back memory of late 0s web development and be an ugly thing to do , but what else can you do if their browser be so poor ?
+__label__anger	jam , the stack trace under that be just my function name . nothing more . very frustrating ☹️
+__label__anger	the problem be that you never run the method , so the field stay at #crd# . it 's a really terrible idea to give a field and a method the same name .
+__label__anger	in my case sometimes begin work after " source control / update " . actually , its terrible bug , you have no guarantee that you see actual list ! ! !
+__label__anger	make a custom button : that will get rid of that annoying border ! 😉
+__label__anger	@tdiop your user will still hate lose their selection though !
+__label__anger	your be really violate the idea of tdd if your code if do something different for the test . why do you only need to change it inside the test ?
+__label__anger	this question be awfully vague … and do not seem to have anything to do with programming …
+__label__anger	/ me work out more what your code do and scream in agony .
+__label__anger	you might want to consider use , a replacement for windows ' terrible command - line chrome . it offer fully redefinable keyboard shortcut plus tab , so it 's ideal for irb .
+__label__anger	yes , but it 's tricky , since datetime parsing in sql be a pain in the neck .
+__label__anger	ahh get it . you do not downvote me for simply ask you to explain a bit more do you ?
+__label__anger	as alexander say , you be compare a string and a char . the sad thing be that the compiler already tell you that , only it encrypt it in iso-stl - template encryption , which be more difficult to read that perl ! you may want to look at for decrypt c ++ stl error message .
+__label__anger	so , month later , here 's what i do to get this to work ( with gradle ) my groovy - fu be not strong , so i be sure that horrible bit in the middle could be simplify , but it work for now !
+__label__anger	i be use vbscript , all that do be reverse the setting of checkbox . check , whichever way it be . as an aside , vbscript be awful to work in.
+__label__anger	i absolutely despise work with pdf document . but when i absolutely have to , i have be use . it have quite a bit of functionality , , and it be theoretically free . though to use it effectively it help if you get the book that they push on their website . i be not certain if you can easily make thumbnail with it , but it have work for me in generate and manipulate pdf on every project i have work on so far .
+__label__anger	stackoverflow have horrible formatting for vbs ☹️
+__label__anger	bejesuz that 's ugly ! whomever write that should be flog .
+__label__anger	it will work , it be just incredibly annoying and spy - ware - esque .
+__label__anger	i lie . the problem be back with a vengeance … error in file . this be ridiculous ! vs0 , resharper .
+__label__anger	although , use this outside testing be a horrible , horrible idea …
+__label__anger	string contain xml be an extremely bad idea and ask for trouble . use message that have a define schema.i have to rewrite significant portion of an app that use a lot of xml internally instead of type . it be horribly slow and impossible to figure out what be happen .
+__label__anger	i get to this question via the almighty google . to complement on what andrew say above , for those of you on osx you might want to take a peek at / application / #hlink# and the modification necessary should become evident . i can not believe i spend so much time suffer from poorly indent < li > s !
+__label__anger	this be totally abusive if you intentionally be use this with resource that be manage .
+__label__anger	horribly inefficient ! it re-encodes the image each time . try this instead .
+__label__anger	ended up be a bad dependency . i have to add it manually to get it all work . terrible !
+__label__anger	the problem be due to a malfunctioning . very painful and a lot of time waste .
+__label__anger	i create public and private key with cygwins ssh and paste the public key into bitbucket account . say the ssh connection work fine ! ( so it should work ! ! ! ) then i post into mercurial . ini in tortoisehg and i post into the hgrc file . but then when i want to push tortoisehg say to me : seem to me something be miss here but what exactly ? edit : i do not want to use tortoiseplink because it be super super super slow ! and http just cancel the connection after upload several megabyte .
+__label__anger	that 's horrible .
+__label__anger	i be work in vb . net and have a class , foo , that implement an interface , ibar . i have a list of foo 's , but i need to pass a list of ibar 's into a function , but i keep get cast error , even when i use directcast . my code be in both main and main0 i get mainworks work , but it would be really annoying and inefficient to have to do that everywhere i want to call this function .
+__label__anger	either you want to group or you do not . now which be it ? ( this be why i really hate how mysql allow non-aggregates in ` group by ` )
+__label__anger	so to do this i would keep a list of ax and when i delete the content of #crd# i would swap it out with a full #crd# . i think the example below solve the problem ( or at least give an idea of how to solve it ) : the extremely ugly for loop construct be really just a placeholder to give an example of how the ax can be swap .
+__label__anger	it be specific , i be not ask for a discussion , i be ask for specific thing people know of that be emerge .
+__label__anger	i have recently find out that anything swing ( netbeans , idea ) be excruciatingly slow to paint the ui over remote desktop ( rdp ) . can you guy give me any suggestion for something that will work properly over rdp ?
+__label__anger	the method in . net return a by - ref version of a type , e.g. pass the type of return a type represent . however , if you already have a , what be the mechanism for obtain a plain old ? there do not seem to be an opposite method to remove the by - ref modifier . at the moment i have put a hack in place which re-builds the assembly - qualified name without an at the end of the type name and then load that type , but this be horribly dirty …
+__label__anger	when you say it do not detect it do you really mean you be collect everything and the packet you want be not there ? i find that hard to believe . it do not need any configuration , it just work . get a sensible filter so it get what you want and not load of other crap be hard !
+__label__anger	hour ? that 's pretty quick ! my last innosetup installation coding take #crd# day , and it still wo not work right on vista . it instal an app library , some sample app , create a database , instal and start window service , and publish a web site , but day be still far too long …
+__label__anger	on the root window be how xbindkey do it . be careful about have some alternative method of kill the grab though , it 's very annoying to have to go somewhere to into your own box just to kill that process … and that 's why , if it be me , + " echo ' moo ' > / tmp / moo - fifo " would be the way to do it . that way , you could also control it in any number of other way you have not think of yet .
+__label__anger	the objective of my endeavour be to have a linux computer execute a command ( or maybe a local script - on the target ) over a local network . ideally , i would use ssh to do this but unfortunately my embed target be run wince which be absolutely horrible . to do this , i would require an ssh server run on wince . i look into the openssh port but it do not work and development for that stall #crd# year ago . to wrap up , i be look for an alternative solution to use ssh on wince . so , any idea ?
+__label__anger	i can not seem to figure out why the phpunit target do not output any test result even though i have test in position . the problem i be find be there be no indication as to what the problem be ! incredibly frustrating . the output be as follow : my build . xml be as follow : my system : vista , php , phpunit , phpundercontrol , cruisecontrol
+__label__anger	why use a ` mutex ` here ? the ` acquire ` method just return a reference to an instance ( this be a reference type ) . whether the object reference be mutable or immutable be irrelevant . the reference be to the same object no matter if the object mutate . why do locking ? even if the instance be not " singleton " or " read - only " , i.e. even if the field reference could change , since [ reference assignment be atomic ] ( #hlink# there would still be no need for locking / `mutex ` . i will downvote this answer @ net upvotes …
+__label__anger	it 's very painful to add multiple ticket to trac or to have it as your own todo list . that cause people to use their own task management tool so task be then spread all around . be there any plugin or macro that would quicken the process of add a ticket ?
+__label__anger	i have a vb . net mdi winforms app . my user have be complain about form creep ( as they call it ) , this be where each time you open a specific form within the main mdi window it open slightly below and to the right of the location it load previously - i.e. it start in the top leave of the window and work its way down to the bottom right . i have to agree with them that this be extremely irritating , be there any way to prevent this ? the code to load the form be : i can address this somewhat by set the form start - up position to ' manual ' but then they just open directly on top of each other in the top leave of the screen . any other so user come across this ?
+__label__anger	if you can edit the code , you should just re-write it to use a custom api that do what you want . fail that , use maximilian 's technique , but be warn that it be a maintenance horror . if you can not edit the code , you can patch the import table to redirect call to your own code . a description of this technique can be find in - search for the section title " spy by alter of the import address table " . this be dangerous , but if you be careful you can make it work . also check out , which do the same sort of thing but do not require you to mess around with the actual patching .
+__label__anger	have anyone find a way to change the icon display in the office button in a0 ? have convert an ms access app to , it 's very annoying that my app be now display as an ms office app instead !
+__label__anger	you have your terminology horribly confused .
+__label__anger	@johannes : do not bother , he 's much too stupid and heinous to be worth help ( see his comment on my answer , it 's a model of how to get help ) .
+__label__anger	" error start recording " , every time . oh how i hate meaningless error message !
+__label__surprise	i can not believe #crd# of those regex hater have not post a comment about how parsing html with regex contribute to the rise of cthulhu !
+__label__surprise	do python not support protect member ? oo
+__label__surprise	why ? can¬$t return $ , ?
+__label__love	i be try to create a plot of several datum series that be contain in a panda dataframe . let 's use as an example : this code produce a simple line chart with #crd# different datum series : however , if i try and create this same plot in a pyqt widget use , i only get a single line . my code for the #ord# example be a little more involved : when i run this code , the output look like this : if anyone can shed any light on this , it would be hugely appreciate ! thanks .
+__label__love	excellent , thanks !
+__label__love	well , not free . but we have have very good result with nevron . their support be excellent as well . another good option be teecharts .
+__label__love	excellent suggestion aleksey ! this seem to be a common need , so perhaps the scala god might consider add this to map
+__label__love	i be make an isometric game on the iphone , and need a little help . what be the good way to go about calculate the path a object must take if it be throw from #crd# tile to another ? i have be look into use nsbezierpaths , but can not quite work out how to use them for the object path ? any help would be greatly appreciate !
+__label__love	i have always really love slice assignment :
+__label__love	this be great , thanks for the tip !
+__label__love	try . it 's free , it have very good , excellent where you can see all the feature in action . it have all function you want and many more .
+__label__love	you can do it with but , you should look into jquery , an excellent javascript library which make it really easy to do that plus a lot more ! it 's worth the small learning curve , trust me .
+__label__love	great question bud !
+__label__love	@brianglaz : really great answer !
+__label__love	thanks for the excellent link !
+__label__love	i really love the jquery validation plugins , look neat stylish and accessible , but as you know javascript can be turn off and boom your user can enter what ever he want , therefore you should validate on server too , so what be the good approach here ? do double validation #crd# with jquery and #crd# on server side or be there a well solid secure way ?
+__label__love	there 's part to this question , both about restkit : how can we post up value email and password , and deal with the response use the object mapper how can we map object in a response we be expect the follow json response : what 's the correct way to map this out , we have get a class setup for user and token , but all the example i have see seem to not show something like this where there be #crd# segment to the response , here 's the code we have at the moment : appreciate any help you can give on this , love restkit so far !
+__label__love	i really enjoy programming in mathematica , and hence be look for solution in it .
+__label__love	i have use the exprtk library in the past , it 's easy to use and fast in evaluation . #hlink#
+__label__love	have anyone ever make a sharepoint lookup column that allow fill inn choice and do writeback to the list it do lookup from ? what would it take to make such a column ? if a #hlink# party solution be arround that would be realy great to 🙂 cheer !
+__label__love	the ( nltk ) be an excellent resource if you be consider python as a language . it incorporate lot of the stuff you would expect in a text processing / nlp environment like parser , stemmer and part-of - speech tagging . documentation on it be pretty good too . as for dataset , nltk come with a variety of for experiment with . hope it help , b.
+__label__love	thank you , i just want to be love 🙂
+__label__love	* i really love your project , it be really amazing ! * be you directly ask to balusc ?
+__label__love	@nathansmith great success ! if you submit that as an answer instead of a comment , i will accept it !
+__label__love	upvote excellent question
+__label__love	there 's an excellent guide over on the android training site : it 's about efficient loading of bitmap image - highly recommend !
+__label__love	excellent - thanks everyone !
+__label__love	hi barney , i think @edmorton 's answer be pretty pretty more powerful than my comment !
+__label__love	good morning ! be there any way to pre compile store procedure in sql server ? my requirement go like this … i have some store procedure , which take more time in compile than execute . so i want to precompile all the store procedure . it would be nice to precompile them when the db server be start and run . any idea on this would be greatly helpful ! thanks & regard , pavan .
+__label__love	i need to transform this : into this : i try to use wrapall with jquery , something like that : any suggestion would be really appreciate 🙂 thank you very much !
+__label__love	thanks for the great tip ! i be really think of this because this be the only file that change per environment
+__label__love	thanks djuth , this work great and be very simple ! i have to admit it be pretty limit though , for example , i would love to have it autocomplete a staff name and then return a staffid but i can probably play around with what 's add and parse .
+__label__love	i would really love the surround content to " scroll " up / down in like when use scroll - but would also love the appropriate div to " fade " in.
+__label__love	i have a slider build into my web page that s dimension and ratio alter for different screen size , i need the image that i place within this slider to also alter for the same purpose . the code that i have does't seem to be work , i be a bit of a newbie to jquery and have piece it together myself but i think that its essentially quite close to be functionalâ$¦ any help would be hugely appreciate ! m
+__label__love	i know there be a lot of information out there on this but i have search and search and still have not find the help that i need . essentially i be try to fill the entire browser window with a background image that scale itself and retain it 's aspect ratio automatically at any size so that it can be view on any device . here be an excellent example of what i be try to achieve : the background image , when sized to 0x0 then stretch from to expand itself to the right ! if anyone out there can shed some light on how this be achieve via css i would greatly appreciate it !
+__label__love	@kunalk : excellent ! work for me . if you put this as answer then i can accept it . and it will helpful in future .
+__label__love	thank you so much as long you replace char ( ) with in the above this work great !
+__label__love	^^ by the way - good of luck ! i be not there yet . will be ready to launch soon though …
+__label__love	i always seem to use get when work with datum ( strongly type or otherwise ) from the database and i have never really need to use fill although i just as easily could use fill instead of get when pull out and update datum . can anyone provide guidance as to the implication and gotchas of each method ? in what situation be it preferable to use #crd# or the other ? any performance implication ? thanks in advance for the answer ! i love this community !
+__label__love	awesome ! ! thanks 🙂
+__label__love	yeah it work fine 🙂 thanks ! !
+__label__love	i be add the role provider to the build in accountmodel but have some problem add getallroles in my view use the register view model . view model from accountmodel role service add to accountmodel register view page inherit registermodel i be not sure how to populate the dropdown list with all the role from the view model . any help would be really great ! !
+__label__love	@ergosys thanks that be extremely helpful ! ! somewhat related to what i ask … i will have a try on that tomorrow 😃
+__label__love	totally awesome
+__label__love	excellent news , good stuff !
+__label__love	excellent , this work perfectly ! thank you 🙂
+__label__love	this be really great , work a treat thanks
+__label__love	be there anywhere i can download a swf fo sifr of the rockwell font ( like the #crd# that come with sifr ) , but with a bunch of special character embed too ? specifically the pound sign ( â $ ) , but more would be great 🙂 i do not have access to flash right now and i have try the automatic tool but with little success . i have look everywhere , do anyone have any pointer ? many thanks !
+__label__love	@jatin can you make an answer . the link be pretty fine ! ! ! i just need such thing
+__label__love	@user0 no worry !
+__label__love	that answer be extremely helpful scott , thanks for the pointer on that !
+__label__love	the java profiler be an excellent commercial solution . you can find far information in the doc on and .
+__label__love	love this solution !
+__label__love	this be great ! thanks upvote
+__label__love	no worry , i know how annoying this stuff can be !
+__label__love	the previous solution be really great ! however , i be look for #crd# more feature : be it possible to eager load last subordinate record before a specific date ? this be need so that my user can browse a history a song 's vote ( with link to previous and next day ) .
+__label__love	love all response ! i pick gordon 's because it allow me to do an outer join and ignore row that have an additional filtering parameter ( i do not ask for this but i be able to implement that later ) . jbrooks solution be great because it have a small footprint and allow me to leverage function , and shree 's #crd# be a little too verbose for my big project but still do exactly what i need . thank you all !
+__label__love	the wpf sdk team post a excellent article about chromeless window available here : this be a must read ! ! ! update also find article by lester lebo on how to use the wpf shell integration library for a custom window chrome
+__label__love	you can use mercurial on google code now . i never try git before but i be love mercurial .
+__label__love	i be currently work on a responsive multi-level menu which currently show every level of the hierarchy instead of only the #ord# , which be what i want to achieve . i have create a fiddle , which can be find here : here 's the relevant code : css : and also my js : if someone could lead me in the right direction , i would be really greatful ! thanks !
+__label__love	@marcinjuraszek : that 's an excellent idea , thanks ! just implement it , however should i create an index for the ' rand ' column ? if i do , datum infile take age to load the file . if i do not , i get no result when i add : ` order by sb . rand asc ` . any thought as well ? @somesillyname : thankfully , these table be temporary , so there be no row deletion .
+__label__love	kudos , great question !
+__label__love	thanks nat . the external datum be large ( external search result ) so it 's not possible to keep it as a new list . we be a sharepoint plugin so i can not guarantee that the bdc will be available at all installation . i guess i be kind of out of luck with your suggestion but i appreciate the answer !
+__label__love	for flow control steven ; the question seem to be about whether this pattern should be use , which seem to be rather subjective base on the answer , but it 's an excellent question for thought .
+__label__love	thanks for the tip ! love stackoverflow !
+__label__love	excellent point ! thanks ! ! i do mean just the left side though … ( i should have specify that ) . be glad to learn your insight though …
+__label__love	wow that be exactly what i want ! so the #ord# solution i show be somewhat similar to what he 's describe but he describe also extremely elegant trigger that would keep all the datum fully sane without any external code sanitization ! i think i will go with that design !
+__label__love	. great question ! now , i have no clue about the answer , but i will stay tune .
+__label__love	excellent resource , thank you ! !
+__label__love	it may be worth take a look at , it 's a generic collection library for . net which include set . note that i have not look into it much , but it seem to be a pretty fantastic collection library .
+__label__love	excellent , thanks for that !
+__label__love	hey jon … just now ( after read the question and answer ) i see that it be you that ask the question . year later i be here look for exactly the same thing ! stackoverflow be really amazing … by the way : i just love the badge " work on my machine " you have in your profile … i think i will borrow this ! 😃
+__label__love	check out bruce dunwiddie 's excellent class . it provide really excellent information in the exception message when you have this kind of mapping issue .
+__label__love	basically i be look for the guideline for how to approach on hard ware size for a give requirement . what be the parameter need to consider to arrive at size decisons . it will be really great if any body can help on identifing size detail for appserver , webserver , database etc .. please
+__label__love	nicogranelli mention nancy ( ) . it 's really great ! plz check this project jabbr ( ) it 's a chat involve signalr and nancy . great job !
+__label__love	gosh ! you be right ! ! ! excellent ! ! ! ! be there a way to expand it programatically ? i add . setongoing ( true ) ( to the top ) but it 's not expand … ( not really the top because the #ord# #crd# be a notification when i be plug to usb for tool developpement ) . thank you again my friend !
+__label__love	this be incredibly useful , thank you !
+__label__love	excellent in my case use the follow code thanks ! !
+__label__love	awesome -- this approach will work ! thanks ! btw -- i have followed your blog for quite some time ! thanks !
+__label__love	excellent question .
+__label__love	jeo clecko 's sql for smarties be excellent .
+__label__love	i just followed your excellent recommendation -- thanks ! 🙂
+__label__love	thanks for post this rob ! excellent work ( save me a month of r&d ) !
+__label__love	thank you , the #ord# example be extremely helpful and i now have it work , thanks !
+__label__love	i #ord# flashdevelop . you do not get the visual design stuff for the mxml , but for the code ( both mxml and as ) it 's excellent .
+__label__love	be there anyway to have #crd# textview in #crd# autocompletetextview result ? e.g. and so on … the arrayadapter only allow #crd# bind for a view so how could i bind more view in the adapter ? like so : i have create a new xml layout for the layout parameter in the arrayadapter except when i bind the textview to the string array , it only set the text to the textview with the give id . i have also search through the other post about this #crd# and it do not suit my need . if anyone could help that would be absolutely great 🙂 thank you .
+__label__love	i be wonder … be tree view / navigation possible to do ( and somewhat easily ) in xforms give a xml datum structure ? if it be possible , where can i find a really excellent example ( code and hopefully a work form to view ) ? also , be there any tip you have for implement this ? ( i be new to xforms , and only know the basics so far ) thanks so much !
+__label__love	hi i have design a query that return a set of datum such as : what i want to do in sql reporting service be to display datum in a grid fashion . such as for the dataset i provide . i want it to auto page break when need , etc. be there anything build in that i can use ? any recommendation on how to do this be greatly appreicated ! thanks .
+__label__love	this #crd# be great !
+__label__love	great question !
+__label__love	#error !
+__label__love	the good resource i have find about web security with asp . net be the below , write by troy hunt : absolutely priceless ! he even make an ebook out of it that you can download as a pdf :
+__label__love	@davebish , what an excellent tool ! i will be use this alot in future ! 🙂
+__label__love	that be simply awesome 🙂
+__label__fear	_ automagically _ append datum to ` ~ / . ssh / authorized_keys ` sound scary !
+__label__fear	we be work in real estate project , there we have image and video upload in many place . we be start with in few place , but now we find an issue that it do not work if the flash player not instal in the browser . its work only after instal the flash player in browser . this be really worry . we should not force user to install flash player to upload image / video . how to handle this issue ?
+__label__fear	i be afraid of that !
+__label__fear	i have hit this too . no solution as yet . this be very worrying though !
+__label__fear	i run an exe from a . net app and try to redirect standard out to a streamreader . the problem be that when i do myprocess . exe >> out . txt out . txt be close to 0mb . when i do the command line version it be very fast but when i run the process from my csharp app it be excruciatingly slow because i believe the default streamreader flush every byte . be there a way to change the default stream reader for the process object ?
+__label__fear	be this valid ? what i be really worried about be can you specify type and also use def at the same time ?
+__label__fear	i be develop a propietary ( non open source ) web application in asp . net , and i want to use the look and feel of joomla ( image , control distribution , etc. ) . be this illegal ? i be violate the license do this ?
+__label__love __label__joy	this be a really great dbgrid ! just give it a try , you will not regret it .
+__label__love __label__joy	be hugely useful 🙂 i be sure it could be improve a bit far with compute the name of the directory once and re-use it , but this be nice - enough that i be fine stop here . 🙂
+__label__love __label__joy	@paulmougel , thanks super great ! it work ! i add it ( r . end ( )) habitually and have never think it might could be the reason . happy new year . thank again you so much .
+__label__love __label__joy	never know about vs macro . it 's awesome ! ! ! just what i need in a couple scenario . thanks a lot
+__label__love __label__joy	@ajreal no worry , i think i manage to fix it !
+__label__love __label__joy	i find an excellent tutorial on how to create site column and content type - here : ( thanks again rob ! ) do anyone know of a write or video tutorial that will explain how to create a list and list instance in moss . i use wsp builder , and the build in template from microsoft be not compatible ( or up to the task ) . preferably a method that focus on the caml ( xml ) , and explain in detail the theory , and demonstrate how it be do . thank you .
+__label__anger __label__sadness	i have no answer , but i will #ord# the sentiment about the documentation quality for openssl … i be work with it now also ( just start ) , and it 's horrible try to find example or document for anything beyond simple operation … i feel your pain .
+__label__sadness	can somebody point me to a resource that explain how to go about have + iis web server cluster ( or webfarm not sure what its call ) ? all i need be something basic , an overview how and where to start . can not seem to find anything …
+__label__sadness	sorry , i be not clear . you would need to add that as a bool property on your class . it originally sound as if you have a single place that handle the notification and display the error .
+__label__sadness	i do not want this to be the answer , ( sob ) !
+__label__sadness	here be my php code….i be extremely crappy with my javascript code , could someone help me convert this ? i basically want to convert a variable such as " marine - heavy " to " marine ( heavy ) " .
+__label__sadness	i be very sorry about my horrible english ! only for this example i use radio button , i be consider use textbox too
+__label__sadness	ok , then , no solution that go db mysql … so sad ! ☹️ i will close the question !
+__label__sadness	i store range in mysql db , but a lot of query to mysql for get provider name - it 's terrible ☹️
+__label__sadness	i be afraid you can not ! ! weka be not cover that functionality .
+__label__sadness	why be powerbuilder community so small ? if i have ask anything about jquery / .net / php , there would have be at least answer by now ☹️
+__label__sadness	since i be completely useless at regex and this have be bug me for the past half an hour , i think i will post this up here as it 's probably quite simple . in php i need to extract what 's between the tag example :
+__label__sadness	after look at the answer below , i be very sad that this be an example of backwards progress for ssrs.
+__label__sadness	@btevfik .. that s very sad :(
+__label__sadness	now i think it be not possible in c ++ ( without explicitly qualify the namespace ) , it 's so sad ☹️
+__label__sadness	unfortunately some project require #crd# of image for css , general site image and flash then there can be #crd# of pdf 's , docs which be need for the site . include them can mean it take age to load a project and sync it . if your unlucky enough to use vss then this be far more painful .
+__label__sadness	☹️ ☹️ ☹️ ☹️ ☹️ ☹️
+__label__sadness	@bukes : that 's disgraceful ☹️
+__label__sadness __label__fear	unless you be able to demonstrate the problem with display code then i be afraid there 's not much more i can do to help you out .

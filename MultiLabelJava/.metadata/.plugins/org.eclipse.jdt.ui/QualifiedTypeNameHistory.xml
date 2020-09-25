@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="mulan.classifier.MultiLabelLearner"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.nio.file.Path"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.nio.file.Paths"/>
+<fullyQualifiedTypeName name="mulan.evaluation.measure.Measure"/>
+<fullyQualifiedTypeName name="mulan.evaluation.measure.SubsetAccuracy"/>
+<fullyQualifiedTypeName name="mulan.MulanLoader"/>
+<fullyQualifiedTypeName name="weka.classifiers.trees.J48"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="mulan.evaluation.measure.MacroFMeasure"/>
+<fullyQualifiedTypeName name="weka.classifiers.evaluation.ConfusionMatrix"/>
+<fullyQualifiedTypeName name="py4j.ReturnObject"/>
+<fullyQualifiedTypeName name="weka.core.SerializationHelper"/>
+<fullyQualifiedTypeName name="mulan.classifier.meta.RAkEL"/>
+<fullyQualifiedTypeName name="mulan.classifier.meta.HOMER"/>
+<fullyQualifiedTypeName name="mulan.classifier.neural.BPMLL"/>
+<fullyQualifiedTypeName name="mulan.evaluation.measure.HammingLoss"/>
+<fullyQualifiedTypeName name="mulan.evaluation.SubSet01Loss"/>
+<fullyQualifiedTypeName name="mulan.evaluation.measure.MicroFMeasure"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="mulan.evaluation.PredictedVSActual"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="weka.core.Instance"/>
+<fullyQualifiedTypeName name="mulan.classifier.MultiLabelOutput"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.nio.charset.Charset"/>
+</qualifiedTypeNameHistroy>

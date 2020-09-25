@@ -1,0 +1,153 @@
+__label__surprise	it 's a feature which seems to be enabled by default .
+__label__surprise	is it by mistake ?
+__label__anger	credit , of course , goes to dick .
+__label__anger	i 'm an idiot .
+__label__anger	{ quote } searcher . getatomicreader ( ) . getsorteddocvalues ( uniquekey ) ; { quote } this is a performance killer .
+__label__anger	doh !
+__label__anger	[ ~ cmccabe ] : oh , hell no !
+__label__anger	swear to god , i 'm not a total idiot .
+__label__anger	doh !
+__label__anger	i 'm an idiot .
+__label__anger	bloody hell ! ! !
+__label__anger	my bad .
+__label__anger	this is a pretty awful bug .
+__label__anger	what a stupid name i chose for that object … ) - :
+__label__anger	my bad , this is already done .
+__label__anger	oopps , bad move !
+__label__anger	all i 'm trying to say is that it 's pretty easy to end up in propagation failure hell here or change something else that blows things up for use cases that are not foreseen .
+__label__anger	it may suck , but at least * i * wo n't be the one bringing in a dumb dependency to a logging library .
+__label__anger	which is silly -- bad package encapsulation ) .
+__label__anger	sounds weird to me … could you package a ( totally ! )
+__label__anger	i do n't want one - offs like this to become lost and forgotten .
+__label__anger	i really meant to remove this functionality : what is the use for it anyway ? it does n't hurt today ( except for a few bytes eaten ) but it may be confusing . so ; if there is no clear use and requirement for it ; i suggest to just remove it .
+__label__anger	i 'm a pretty strong - on this .
+__label__anger	for those of us who do n't care about ivy in fact lose something - a easy to build hbase .
+__label__anger	this just seems really evil .
+__label__anger	but please do n't say that my reasoning is bad - because it is not .
+__label__anger	holy complicated - as - shit - algorithm , batman ! the complexity of our implementation vs the complexity of what we 're actually doing is starting to worry me here .
+__label__anger	forget the patch for the moment .
+__label__anger	this has been in resolved state for over one year so now closing ; if it turns out to not be fixed please re-open .
+__label__love __label__sadness	my apologies - i submitted the wrong patch file . i 've checked the trunk and what you applied is correct so i wo n't re submit . thanks for covering my sloppiness .
+__label__love	thanks brock !
+__label__love	committed . thanks ning
+__label__love	i just committed this . thank you scott and priyo .
+__label__love	committed to trunk . thanks , harish !
+__label__love	thanks thomas !
+__label__love	best regards , richard
+__label__love	thanks for the patch .
+__label__love	taking it over thanks , mayank
+__label__love	jacopo , thank you for your work ! i 'll test it today and let you know what i find .
+__label__love	thanks !
+__label__love	i just committed this , thanks ari .
+__label__love	committed to sqoop2 . thanks jarcec !
+__label__love	keith - this is done . thanks
+__label__love	i 've tried patching the current svn version of tapestry - core , but the patch did not work for me either , though no failure messages , just silently does nothing when trying to get a page ( ) . this is a homebrewed version of the " quickstart " app . directory structure is exploded / x.ear/x.war/web-inf/classes/... jboss is set to deploy the exploded / directory . packing the jar in web - inf / lib works , but jboss / tomcat ca n't do reloading or hot deployment in this case , which is very annoying . it would be nice if i could get this to work 🙂 used jboss
+__label__love	merged the batch file updates to branches / ( revision ) . thanks again !
+__label__love	thank you thejas for the patch and ivan for the review .
+__label__love	thanks , myrna .
+__label__love	thanks sven !
+__label__love	fixed in svn revision . thanks , dims
+__label__love	oh , well . many thanks , anyways oleg
+__label__love	applied the patch . thanks dennis !
+__label__love	integrated to and trunk . thanks for the patch jimmy . thanks for the review , andy .
+__label__love	thanks for figuring this one out and providing the patch , jamie !
+__label__love	hi daisy , could you please dispatch this review to one of your team ? mingfei did not respond on that and i would like to be certain we got all provided patches with us for . thanks in advance , svante
+__label__love	re font size : sounds reasonable . thanks .
+__label__love	thank you jing .
+__label__love	patch applied . good work adrian !
+__label__love	committed , thanks jiayan !
+__label__love	thanks ivan for take a look . i 'll go through and work on this weekend .
+__label__love	hi vincent , thanks very much for taking the time to look closely at my patch . ( in reply to comment # ) > ( in reply to comment # ) > > ( in reply to comment # ) > > > adrian , thanks for doing this ! i 've looked at the patch and have a few comments > > > myself : > > > - i 'd suggest to rename " strict - configuration " to " validate - configuration " ( just > > > a personal preference ) . > > > > the configuration will still be validated regardless of the setting of this > > variable . its just how the error is handled that makes the difference . if > > " strict - configuration " is true then fop will immediately throw an exception and > > processing will terminate . if " strict - configuration " is set to false then fop > > will log the error and attempt to continue parsing the configuration ( if > > possible / meaningful ) . > > > > > - the name of the variable " strictfo " in fopfactory . configure ( configuration ) > > > seems wrong . there 's nothing " fo " specific there . furthermore , some " if > > > ( strictfo ) " should actually be " if ( strictconfig ) " , right ? > > > > i think you may have been looking at an older patch . the variable > > " strictvalidation " is as before and the new variable is called > > " strictuserconfigvalidation " . > > no , jeremias is right actually . there are ' if ( strictfo ) ' statements to test if > an exception has to be thrown . that should be ' if > ( validateuserconfigstrictly ( )) ' . i should have better looked . darn it … i did n't think jeremias was refering to the configure method . i missed this , thanks . > also , in the new code a hyphenationtreeresolver is no longer created and > assigned to the hyphresolver field . that should inevitably lead to > a nullpointerexception later , however the hyphenation junit tests pass . strange . > are you sure of what you 're doing ? thanks for checking this , i made a mistake refactoring here ☹️ . > one other thing : when getting the default - page - settings parameter it 's not > necessary to test if pageconfig is null ; it will never be . see the javadoc of > getchild . i 've read the javadoc and have simplified / removed this unnecessary check now . > > > > > adrian , would you please install the checkstyle plug - in in your ide ? there are a > > > few nits about the java style in your patch . checkstyle will help you find them . > > something checkstyle does n't seem to be catching : we usually do n't put spaces > inside brackets : if ( test ) instead of if ( test ) . yes i have noticed this recently and believe all the code i 've added adheres to this now . > > > > > > get well quickly , adrian ! > > > > after a weekend in bed am feeling much better today thanks . i had installed > > checksytle but not enabled it ! ;-( i will recreate the patch this morning . > > hope you feel better now ! > > sorry , i 'll ask you to create yet another patch , but that should really be the > last one ! its ok , i am learning all the bumps for fop patch submissions - hopefully should be smoother for you guys next time 🙂 . kind regards , adrian .
+__label__love	review request for hive . changes ------- address ning 's comments . did the minimum change and the performance is acceptable . we can try to remove empty path check if in future we see the latency is not good . summary ------- speedup addinputpaths this addresses bug hive- . https://issues.apache.org/jira/browse/hive- diffs ( updated ) ----- trunk / ql / src / java / org / apache / hadoop / hive / ql / exec / execdriver . java trunk / ql / src / java / org / apache / hadoop / hive / ql / io / combinehiveinputformat . java diff : https://reviews.apache.org/r/ /diff testing ------- yes . thanks , yongqiang
+__label__love	thanks
+__label__love	committed ! thanks namit !
+__label__love	hi chris , thanks for your detailed response . thanks ,
+__label__love	thanks malith for your contribution….patch committed under rev.
+__label__love	super , i 'll commit shortly -- thanks yonik !
+__label__love	@mahadev - i would love to help test a patch 🙂 i 'm currently using + zookeeper- + zookeeper- , applied in that order .
+__label__love	upvote patch looks good . please submit the patch for verification so it can be committed into the trunk and merged all the way back . thanks .
+__label__love	i have committed the patch for trunk . thanks , tanping !
+__label__love	hi [ ~ justinedelson ] , thanks for applying the patch and fixing the formatting .
+__label__love	patch committed to trunk and branch . zhijie , thanks for the patch !
+__label__love	i just committed this . thanks , hairong !
+__label__love	thanks to both for these usability enhancements !
+__label__love	committed r1185532 , thanks flavio .
+__label__love	thanks to jakob korherr for this patch
+__label__love	this patch really helped .
+__label__love	thanks steve !
+__label__love	thanks , rick !
+__label__love	committed , thanks dave
+__label__love	i committed this . thanks , miki !
+__label__love	+ . looks good to me .
+__label__love	i just committed this to trunk , thanks owen
+__label__love	[ ~ thiru_mg ] - thanks for the patch ! looking forward to it landing in
+__label__love	knut anders , thanks for the review and the good advice . the attached patch , rmtestpreparedstatementmethods_v2.diff , should address your comments .
+__label__love	committed to , branch- - security , , and trunk . thanks , dave !
+__label__love	thanks uma for looking at the jira . i think it should work fine with bpofferservice#registrationsucceeded ( .. ) synchronized . will post a patch soon after verifying it .
+__label__love	. my feeling is that " if ( file . lastmodified ( ) < now + access_time_resolution ) " is not necessary , since the lastmodified value will already be truncated to the system resolution , but i do not think it is harmful . . i chose to throw exception only if file . canwrite , because i was trying to minimise the impact of the change . it 's not clear to me whether setlastmodified might work when ! file . canwrite . however , it certainly must work ( because of gc ) if file . canwrite . i would consider moving the canwrite test outside of the setlastmodified call , similar to getrecordifstored , it just was n't necessary to fix the immediate problem . . well , not swallowed exactly , but caught and converted to failure return code ( downvote ) e.g. see blobindatastore . getsize . in any case , the javadoc for property.getlength/getlengths documents downvote as a possible " failure " return code , so it had to be tested . i think if property.getlength/getlengths throws an exception , that is already correctly handled . thanks for the quick response .
+__label__love	ahhh sweet , i 'm guessing you have an ide that does this ? if the tests pass commit , this kinda crap goes out of date too fast !
+__label__love	committed . thanks !
+__label__sadness	🙂 sorry about that .
+__label__sadness	sorry once again for the wrong report , stephane
+__label__sadness	hello , sure you are right here , i did n't make myself clear enough im sorry . as you ( and rfc959 ) say , when we are sending the file we should transform to nvt - ascii but not when we are receiving the file . in this second case , i think that the expected behaviour is that the text message be written to a file with the default line separator for the platform . the sender converts the data from an internal character representation to the standard - bit nvt - ascii representation ( see the telnet specification ) . the receiver will convert the data from the standard form to his own internal form . actually , according to the spec before a retr ascii operation is transformed we should be converting the charset to ascii , for our machine could be using ebcdic to store files and clients are supposed to expect that files are encoded in nvt - ascii . so i do n't know ... any way , this has little priority for me ( until someone using a non-ascii - compatible encoding complains ) so we could leave this for the future . any way i do n't like ascii mode for it breaks the ' rest ' command . my implementation only supports binary mode .
+__label__sadness	i meet the same problem on eclipse recently but have n't figured out how to get through .
+__label__sadness	sorry .
+__label__sadness	* sorry *
+__label__sadness	no unit test , sorry ( but there 's not much deltaquery coverage anyway ) .
+__label__sadness	i am sorry if you think this is nit picking but the logged error still refers to plugins . xml but it should not : { code } log.e ( tag , " error : config . xml is missing . add res / xml / plugins . xml to your project . " ) ; { code }
+__label__sadness	grumble , grumble …
+__label__sadness	sorry , missed this .
+__label__sadness	in current version the same error cause different messages because there are many commiters .
+__label__sadness	oops - the hivemodule . xml snippet from the previous post should read : < implementation service - id = " tapestry.multipart.servletmultipartdecoder " > < create - instance class = " org.apache.tapestry.multipart.multipartdecoderimpl , sizemax = downvote " model = " threaded " / > < / implementation > sorry for any potential confusion …
+__label__sadness	sorry that i think i missed some discussion in the mailing list .
+__label__sadness	sorry , this new patch is the correct one . still learning the ropes 🙂
+__label__sadness	carl - sorry i missed that though i did see it on the logs 2x , the other being this one . fixed in this patch .
+__label__sadness	here is addendum to fix ( sorry about build breakage )
+__label__sadness	hi andreas , sorry for my late reply . i have n't looked in to the difference between using the responsebuilder#getfilters and using filter 's in a normal query . are there any functional differences between the two ways other than that one of them utilizes solr 's filtercache and the other does n't ?
+__label__sadness	sorry it took so long to drag this up . i think the issue i had was with the customer = > billinginfo and customer = > shippinginfo relationships . billinginfo and shippinginfo each inherit from address . iirc , a runtime relationship was being created for customer = > address , which was messing things up . i 'll have to dig through the svn history to see what i did with mandatory relationships that i mentioned being problematic in the initial bug submission .
+__label__sadness	sorry about that .
+__label__sadness	maksim , it was my local misconfiguration , sorry for the trouble . applied at revision : , thanks !
+__label__sadness	the problems i was talking about are mostly fixed by [ hadoop- ] and [ hadoop- ] .
+__label__sadness	sorry for being confusing .
+__label__sadness	sorry to be late getting back to this . been a very busy week -- just got some time this afternoon and evening . the attached configurablesimplehttpserver . patch provides facilities to fully configure a simplehttpserver for production use . a new class httpfactory is introduced that is a ) configurable with the most commonly set parameters , like request core thread pool size , request socket timeout , origin server header , etc. , and b ) specializable to supply factory methods to override all the default classes instantiated by simplehttpserver . this is important to achieve things like a bounded request queue . the parameters are also all settable in axis2.xml as part of the http transportin config . all axis2 tests pass , plus i 've updated my application with a custom specialization of httpfactory that is heavily configured and it also works properly . i 'd like to look this over again tomorrow , and test the axis2.xml feature ( not tested yet ) , but wanted to post this first version now to get comments on the approach . deepal , dims suggested you might be the right person to look this over ? also , oleg , i 'd appreciate any thoughts you have . the patch is against my local repository , but i expect it will apply against the svn head since simplehttpserver patch applies against ( with different offset for the hunks in one file ) . if there are any issues , i 'll make sure it applies cleanly against svn head tomorrow . thanks , chuck
+__label__sadness	sorry guys
+__label__sadness	sorry , this bug is * not * fixed .
+__label__sadness	sorry for the noise …
+__label__sadness	ugh , sorry ☹️ thanks !
+__label__sadness	sorry for the late review . have a few minor questions / comments . . what happens if have instances of consumers with the same clientid in the same jvm ? does one of them fail because it fails to register metrics ? ditto for producers . . consumertopicstats : what if a topic is named alltopics ? we use to handle this by adding a - in topic specific stats . . zookeeperconsumerconnector : do we need to validate groupid ? . clientid : does the clientid length need to be different from topic length ? . abstractfetcherthread : when building a fetch request , do we need to pass in brokerinfo as part of the client id ? brokerinfo contains the source broker info and the fetch requests are always made to the source broker .
+__label__sadness	my oops , then . i had n't defined it , i was assuming that it would be handled like the other special characters….sorry for the trouble .
+__label__sadness	i hope someone can fix this ; but i know that at this time it 's not something i can tackle without generous hand - holding . if there are no takers soon ; i 'll go ahead and close the issue . this is part of an effort to close old issues that i have reported . search tag : elyograg2013springclean
+__label__sadness	thanks andreas , patch applied to head of cvs only . please check and then close this bug report . you allude to other issues with the sitebuilder app . would you please add a new bug report with whatever hints that you can manage . then others can follow up . p.s. it must have been my mistake with the patch format . using gunzip did finally work . sorry to waste your time . -- david
+__label__sadness	bummer ! -- the solution too this problem was that my jvm had too little memory ( 64mb ) for allocating all the byte buffers required for writing / reading serialized pages .
+__label__sadness	i had no idea about fetching binary data , sorry . is it flash ? looks like my patch addressed all three points , failing only for handling raw bytes .
+__label__sadness	completely missed issue …
+__label__sadness	sorry i did n't use your patch , but i think you 'll like the end result .
+__label__joy	i think this is pretty close to being ready .
+__label__joy	sounds good claudio .
+__label__joy	thank you for the source code , but why do n't you also attach a diff file you get by running ' svn diff ' ? it will help us figure out which part is changed exactly . thanks in advance ! your idea sounds very good , though . 😃
+__label__joy	cool - good information to have . thanks lance !
+__label__joy	upvote the patch looks good to me .
+__label__joy	that 's a good point ; we should make sure that it does n't decrease performance for one of the database types , even if it increases it for oracle ( in which case , making it configurable in oozie-site.xml would be a good idea too ) .
+__label__joy	looks good . + . checking this in.
+__label__joy	looks good . bq. i did n't add version to stopfilter nor stopanalyzer ; i think it 's better to up-front require the " enablepositionincrements " to their ctors . i would add it to stopanalyzer , stopfilter is not so important ( because low - level ) . but that 's my opinion .
+__label__joy	thanks ! i have not tried it yet , but it looks good to me .
+__label__joy	version .0rc3 is fine .
+__label__joy	+ . looks good to me .
+__label__joy	nice try 🙂 i was mr i do nt believe in magic from the very beginning .
+__label__joy	@subbu : glad i was able to help .
+__label__joy	+ . the patch looks good .
+__label__joy	upvote patch looks good . thanks a lot !
+__label__joy	thank you , guys !
+__label__joy	i really appreciate your comments and i really enjoy our discussions :)
+__label__joy	cool , thanks daniel , we 're actually cool with either updating it to e9ff8c4928 or flipping the write bit and we 'll push the delta ourselves - whatever 's the fastest to get to writeable :) thanks , -- tim
+__label__joy	upvote , looks good . i 'll commit once hcatalog- is in.
+__label__joy	cheers !
+__label__joy	patch applied with thanks !
+__label__joy	cool , no worries .
+__label__love __label__joy	good suggestion claus and thanks alexander for the fast realization .
+__label__love __label__joy	great ! thanks a lot . i suppose it will be in the next nightly build ? vbr johan
+__label__love __label__joy	that 's nice ! the patch looks good emanuele 🙂
+__label__love __label__joy	this works fine . it probably could have been done in another valve ( like the policy conetxt valve ) , but this is a reasonable solution as well . thanks .
+__label__love __label__joy	thanks for the patch michael van geertruy 🙂
+__label__love __label__joy	thanks jon . + . patch looks good . minor nitpick i have is that it would be nice to give the test a more relevant name than testautomaticallymadename . something like testrelationaliasforbincond . but i am not going to insist .
+__label__fear	if i see it correctly ; the current implementation creates a resource provider for each symlink - i fear what happens if there are hundreds or thousands of symlinks

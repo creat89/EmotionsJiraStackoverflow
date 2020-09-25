@@ -1,0 +1,232 @@
+(lack of line breaks in comments is saddening!)
+"that's sad:-( I don't need it for debugging, I need it for other purpose."
+Does it make sense to start learning JavaFx if I do not have any background in UI programming? Is it more advisable to learn Swing first and then move on to JavaFx ? I tried the on JavaFx website in Netbeans and the code looked extremely complicated to me. I am wondering if JavaFx is too advanced for a beginnner GUI developer.
+"might be an answer, but I'm afraid I can't speak from experience."
+You're looking for an equivalent of and I'm afraid it doesn't exist explicitely in the STL. Go for Sebastien's answer if it is correct for your STL implementation.
+That is really sad :(
+"I just got through this exact problem. What a pain! If you are running a 32-bit JVM on a 64-bit Windows, make sure that you set the execution policy for the 32-bit Powershell interface. I found my 32 bit executable here: The 32- and 64-bit Powershell environments are completely distinct so setting the execution policy in one has no effect on the other."
+"That's just a 16 character requirement with an optional 2 character afterwards: The parentheses may not be required - I'm not enough of a regex guru to know offhand, I'm afraid. If anyone wants to edit it, do feel free..."
+"Eruby is an external executable, while erb is a library within Ruby. You would use the former if you wanted independent processing of your template files (e.g. quick-and-dirty PHP replacement), and the latter if you needed to process them within the context of some other Ruby script. It is more common to use ERB simply because it is more flexible, but I'll admit that I have been guilty of dabbling in eruby to execute files for quick little utility websites."
+"Ohh, well this is sad! I found the error and it unfortunately just was a typographical error..."
+"Would one be violating the the terms of agreement with Google App Engine if one were to use Amazon's S3 service with Google App Engine? I do know there is restrictions on what you can and can't do but I was not sure of this. Having these two combined features, one could provide one heck of a system at a relatively low cost compared to hosting this with a hosting company. Has anyone done this already or have heard of an application that combines the two technologies?"
+Some more depressing news here: http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_14213
+"This is a method in Java, that(when k == 0) in int[] arr has one of k-combination int[] intems. In variable iloczyn is calculated product of elements in this combination. In tmp is calculated sum of all such products. Unfortunately, System.out.println(tmp) shows, that when function ends, tmp equals 0. This is very sad, because i need this variable for next calculations. What shoud I do?"
+I'm very sad now :(
+This probably sounds really stupid but I have noo idea how to implement jquery's rounded corners (). My javascript-fu is complete fail and I can't seem to get it to work on my page. Can anyone show me a simple example of the HTML and JavaScript you would use to get them to show? Apologies for my idiocy.
+I know that IList is the interface and List is the concrete type but I still don't know when to use each one. What I'm doing now is if I don't need the Sort or FindAll methods I use the interface. Am I right? Is there a better way to decide when to use the interface or the concrete type?
++1 Or ANYTHING but Sun's time classes. Those are horrible!
+I just came across the following answer on another question: Hope that helps!
+"None of the above is exactly what I was looking for, so I wrote one. super simple to use %B in the printf!"
+"First I was afraid to ask such ""simple"" question, but it was worth it!"
+Select the cells in question and do a find and replace... Find . Replace / I tested it and it worked perfectly :) Hope that helps!
+"It's only available privately to hardware vendors from Microsoft. I think this is extremely unfortunate (I have argued to Microsoft that it would be a powerful tool for academic research, as in my uses, among other things). I was fortunate to have access at the time while consulting for Intel and NVIDIA."
+"Use if-else inside scriplet based on the currently selected language and place appropriate ""td"" tags. Hope this is what you are looking for !"
+"I've just checked that simply adding the font to the VS project's Fonts Folder is enough and was worried that I'd have to manually make these calls. Fortunately, the VS project has a Register = vsdrfFont property, so I'm going to assume that the installer does this automatically."
+"There is a setting in your setup project that will ""uninstall"" previous versions by default, turn this flag OFF, then you will not have to worry!"
+This whole DB is almost entirely read only so I'm not too worried about it changing.
+I'll suppose that field() is a function that you've created to get a single field according to some conditions how about this code?: i'd be really amazed if this code is not working correctly Good Luck!
+"HIya 2 working demos for you : or both works fine: Hope this helps, have a good one, cheerios! code:"
+That is great news!
+I have but instead of bothering them I'd like to do it myself. I really enjoy trying new things and so far figuring all of this out has been very fun!
+I started to be thrilled only to find out that the example is ascii art!
+"I had the same exception, I just installed the latest VM release and now the compilation complete successfully :)"
+"""two jsons"" <- priceless !"
+"Awesome!!! I changed to include the ""/"" at beginning and it worked!! was that why it was not matching the app.yaml handlers ?"
+"i am writing a flash app that receives its data over a XMLSocket. On the testmachine that worked really fine, but now the data will be ssl secured. Is there any XMLSSLSocket or something similar available? If not XMLSocket a normal SSLSocket would be a great help as well."
+"I have an array of words that gets shuffled into paragraphs using jQuery. I'm trying to add some commas "","" in between them. Ideally i need a single comma added to every 4th word but this is beyond my modest jQuery skills. This is my code: Really hope you can help!"
+Pretty much the conclusion I came up with also!
+Vista + latest XAMPP + latest xdebug.dll works fine!
+The rendering issue has been fixed in IE11. No need to worry!
+Link works fine!
+"Well, I was using the setControlValueToUpperCase() method too soon it seems. So changing my keydown first if statement to fixed my issue. Horray Me!!"
+Faststrings is leaps and bounds faster than the normal Delphi StringReplace function. I really hope Peter releases a new version for Delphi 2009.
+Excellent! I'm glad you were able to get it work for you. Best of luck with SAS!
+"from a really geeky perspective, that is really cool!"
+"I really enjoy using Beanstalk too. I few days ago I realized an iPhone app to get access to your account info on your iPhone, this is the iTunes link: Best! Pablo"
+"That's funny, this is exactly what I am attempting to figure out the best way to do at the moment. I had thought of using a ViewStack, but as I already have a lot of other nested ViewStacks being used, I was also looking into the State tag. If anyone knows ""the right thing"" to do I'll be very interested too!"
+in about 4 months from now I should be able to show you one =P
+"All the places I've worked have given me liberty with regard to development environment, although the production env. has always been some brand of Linux - usually RH or CentOS. I personally use Windows 7 for dev., and I wouldn't use anything else. You spend way less time debugging the OS, and more time coding. This makes management much happier! (PHP developer mostly)"
+Here is the working solution.. Tested in Chrome/FireFox/Safari.. Split the setter into a separate method. Working grrrrreat! Enjoy... Controller: View:
+"Excellent! @vinay-kr-sharma , but i add some more code to put my month language"
+The named scopes already proposed are pretty fine. The clasic way to do it would be:
+"I'm reading an excellent article by Paul White - ! and he uses this code: I'm trying to find out more about using dbo.Name to declare a variable, not having much luck with books online. Any ideas where I can find this? Thanks"
+@Marc-AndrÃ© Lafortune Your answer there was incredibly helpful! Thank you!
+"Excellent advice, thanks!"
+@Johannes yeah...definitely positive!
+"Works pretty good for me, you perfectionists! (just teasing)"
+"@MalTec, no worries!"
+I've got an application that I'm moving over to ClickOnce and the app has a moderately sized data folder with hundreds of files that I need to inlcude in the deployment. The folder needs to be in the same place relative to the EXE after deployment. I've seen several suggestions on how to do this but there doesn't seem to be a agreed upon method for doing this. Any suggestions would be great - Thanks!
+"excellent, thanks!"
+"@John Saunders: ok thanks. The only reason to ask you was that you seemed to be pretty knowledgeable, so I thought what the hey! I didn't mean to break any SO rules here."
+I've just stumbled onto this one there you will find a couple of REALLY GREAT templates!!!
+We are now 2 years after migrating to TFS. Just upgraded to 2013. The team absolutely love it and can't even think about the old svn days!
+"Thanks all , that was really interesting :)"
+"great question, wondering it myself!"
+"Excellent! Thank you so much for the thorough explanation, and for providing the demo. So `eval()` allows you to access the value stored in each variable. This is handy if you want the name of your variable to itself be stored in a variable. Handy! You did an excellent job explaining. Gold star for you. :)"
+"Is there a way to pattern match in F# so that it will check to see if both elements in a two element tuples are equal. I'm incredibly new to F#, and also new to the whole concept of Pattern Matching in general. I was thinking something along the lines of... But I guess that would be too easy hah. Any suggestions? Or is there even a way to do that? Thanks for your help, you guys are incredibly helpful!"
+"Loving Susy, so far! Now I'd like this initial layout... ... to turn into this layout on a smaller screen: Is this possible using Susy? Furthermore, I'd want the AC-column to function as a single entity when they're in the same column, since I'd like to give them sticky behavior."
+@Leon Tayson: Excellent answer!!! Thanks loads...
+Awesome sketch!
+I'd be interested to hear how this works out. You are very brave :)
+"Why are you so afraid of an asynchronous solution? Wouldn't this by definition need to be on a separate thread? Remember this is a TCP connection, so you do essentially have to wait for a response before you can send your request."
+"+1 Fantastic question! I have no idea when I would ever use this, but I'm fascinated to know someone needs this."
+"@Kevin Oh, excellent! I see now that it's a fairly obvious answer, but that tool is perfect. Thanks!"
+"So I need to get a quotient to 2 decimal places like 0.33, but do I need to use doubles all the way down or can I use integers for everything except the quotient and then just use double or decimal for the quotient? It is also breaking because of the quotient. If anyone could help me I would be extremely grateful :)"
+"When I try to generate an app with almost all the I have tried reinstalling both bowline and bowline-bundle separately with But I have no clue where I am at. Could someone please enlighten me on this issue, would be very greatful!"
+it was very helpful :)
+"I am running applications on my windows server that run on Java 1.4 In the bottom right hand corner, Java wants me to update. Is this going to update to Java 1.6, or do these auto-updates only put out non breaking patches and my system will still be Java 1.4 Any insight would be great! Thanks."
+"i have a botton which is for changing the background image with jquery, as the following code shows it works very fine! but i want to fade in the newbg-image... is it possible to add a jquery fade method to it. Any help would be very appreciated. Thanks Ted"
+"I've bitten off more than I can chew and need some help with WooCommerce. I'm trying to edit the shop front page (i've managed to do the product single pages fine) but can't find the out put for the hooks anywhere. Basically, all i'm trying to do is make the Title of the product appear before the thumbnail and add a""view"" button after the thumbnail. I'm literally pulling my hair out so if anyone could help i'd be extremely grateful!"
+"That looks like a really excellent article, thanks for linking it. :) Where are you getting stuck? Do your logfiles show attempts to access the mobile content? If you add some logging to your browser detection, can you tell when the Opera Mini emulator is connecting vs when a desktop browser connects?"
+Excellent handle :)
+FlexUnit is pretty awesome - Also ASUnit - They are both pretty similiar and both haven taken quite a bit from frameworks like JUnit. FlexMonkey () although I haven't used it myself seems to do UI unit testing.
+"Wow! Awesome responses - I'll have to try'em out after work today, and I'll let y'all know how it goes :)"
+Perhaps this is what you are looking for: Here is the link to download the castle windsor schema: Good Luck!
+I love you dude ! :) Saved me a lot of time.
+I'd say spike should be part of the iteration plan. not just in time. They should be accounted for the story they belong to. Even reading of parts of the manual should be estimated. And now for the hard part: don't be afraid to give high estimates. Realistic is ALWAYS better than too low. ;)
+"My company has no current plans to move to vista, so we haven't tested compatability issues yet. Doug Hennig has an excellent article on the subject however: These links describe some issues as well:"
+The answer can be found in the . You should skim the excellent documentation that comes with Perl
+"David Flanagan's excellent book on JavaScript has an example that shows how to perform XPath queries in IE. On page 518 of fifth edition, you can see the following code snippet taken from example 21-10: I found out the hard way that this code is absolutely necessary. It appears (although I cant understand why) that on IE XMLHttpRequest seems to to randomly return a reference to either the document corresponding to the received XML or the documentElement. Whats happening here?"
+"I'm building a little framework with Node.js, and I would try to use data from an API but I don't know why it doesn't work (asynchronous but ??). Some advices could be very great ! By the way, I tried with xmlhttprequest too. Thanks for your help !"
+"To Joseph Holsten's excellent list, I add the xpath command-line script which comes with Perl library XML::XPath. A great way to extract information from XML files:"
+"Hey, you guys are great, thanks a whole bunch! I will set up the environment in the cron script."
+This is my Gridview This is in my Code Behind inside my Page Load............. Now as you will see i have a ImageField inside my gridview. When the ID = 1 then i want to show the image located here ~/pics/ID1/MyImage.jpg and so on and so on. I also want to show a Thumbnail of the Image so the User dont have to download the WHOLE image. Any help will be great! Etienne
+You shouldn't worry about regular expression optimization. The call to os.system('uptime') you seem to use takes about 1000 times longer than the call to re.findall. http://hans.gerwitz.com/2004/08/12/premature-optimization-is-the-root-of-all-evil.html
+An excellent and elegant solution. Kudos.
+"Excellent question! I know this is an old post, but it saved me on a big project I am working on... so, thanks!"
+@ShlomiHassid no worries!
+"In the following string, I'm trying to add an additional span around the but keep it inside the . I've tried prepend and wrap before and after the .html, but can't get it or anything to do it correctly. Result would look like Here's the full snippet if that helps: Any help would be hugely appreciated!"
+"Is there a way to use records directly in erl? No matter what I try, it always says it canno find the record. I am trying to do mnesia transactions and I cannot go too far without my records. Any help is greatly appreciated - thank you!"
+"I need to develop a messenger-like text box, where certain tokens are being replaced with UI controls. Just for example, if the user types :-) it should be replaced with a smiley image. I have previous experience with WPF's RichTextBox and i understand the concept of TextPointer and TextContent. I just don't know how to replace a TextRange with a UI control... Would extremely appreciate your help :-) ! Gili"
+You should really check out this plugin: I have been using it for about 10 sites and it's really great! Since the latest update it's posible to export your custom fields to a PHP file which you can include your functions.php
+"Excellent! That makes life considerably easier. I really didn't want to add another layer to the application if I could avoid it. As far as StackOverflow etiquette goes, if I set this question as answered, Nikos won't get the rep for it as the answer is in the comments. What's the protocol?"
+"Excellent, thanks! That looks like an elegant solution."
+"There is reference information available on the MSDN website. If you want more of an introduction or tutorial, then Charles Petzold's book is excellent."
+"Congratulations on the new job! Relax and keep your cool. Read something on . I guess, the process itself will make sure you are productive as long as you apply common sense :)"
+Excellent workaround..!
+I have an application that is being built using Qt. It will be running on machines that will have two (or more) network cards. I need the ability for my application to select which ethernet interfaces for a TCP connection. Before anyone suggests it I cannot guarenteed that routing tables will be setup correctly. I know how to do this using the windows socket classes but have been unable to find anything about it for Qt. Any help would be greatly appreciated!
++1 for excellent knowledge and many thanks
+It's works fine :) Thanks !
+"Excellent, thanks very much!"
+"you actually can use HTML5 tech to apply on that beside, you can use a gem 'client-side validation' the github is here I suggest you use the gem...pretty awesome :D"
+No worries! Joe
+Excellent example and interesting discussion! Thanks everyone!
+"Am a beginner in using Ember i am working on a template for my site and when i put the TEMPLATE code in a handlebar it's not working but if i remove it form the handlebar it works, meaning i have linked the correct JS and Css files needed. Am posting the index.html and App.js please assistance would be great :) :) INDEX.HTML APP.JS GitHub is here for the file..... Thanks Loads Shei"
+"I have never parsed ini files, so I can't be too specific on this issue. But i have one advice: Don't reinvent the wheel as long as an existing one meets your requirements Good luck :)"
+"Excellent, well thought out and worded question. +1, more if it were only possible!"
+"Hey, I'm new to this site. I think it is great! Okay, here's the deal. I just downloaded Smule Ocarina. I was wondering how they made it so you can upload a song to the cloud. I might have an app idea that might incorporate this. How would I do this? What would I need?"
+@AlexK. excellent thought. Edited.
+"So I have a facebook page and a username /llamafont so I obviously want to keep that url. I have had the like button on sub pages (you save phrases and can like/share them on FB) since before I made the page on FB. When I have added the like button to my homepage for my base url, it shows 62k likes - GREAT! However on my facebook page i only have 107 - I guess these are the people who liked the page directly on FB? How can I make the 62K likes show up on my page in facebook? Do I need to add in all the meta og: stuff? Right now I only have og:image in there. Have I screwed it up for good? Or can I make FB recognize the likes somehow? Thanks in advance!"
+"is free, scriptable, supports passive mode and is definitely EXCELLENT."
+"I have a small application that I am building a Chat application into, so far I have the functionality to post messages! I don't need a login as there will only be a small number of users and I will use their windows username for identification. Has anyone done anything similiar? What else do I need to add? It doesn't need to be all singing and dancing as it is just for use within a small development team. Any ideas would be great! Thanks"
+"Two excellent answers, thank you! I chose Andrew's primarily because I learned a bit more about knockout from it, but both are good options. I'd use RP's method to get something to use in a more generic ""anything can be chosen"" scenario, but I think making it a single object is probably a better fit for my uses."
+I have been given a .Hive file from a registry which i have to parse and use the contents as part of a html report(from this i assume i have to convert to text somehow). The whole thing must be done within the program so i cant just convert the hive file and then run it through my program. I currently have no idea how to even start this so any help on this would be great. Any ideas would be fantastic!
+excellent! exactly what I was looking for. Thanks Anna.
+"I made a template in my wiki called Template:quote, which contains the following content: Then I can use the template in a page, e.g., {{quote|a little test}} Works pretty well - Thanks!"
+"Good enough answer for me :) I get the same, lets hope they fix it soon because XBAP deployment I'm learning to love!"
+"I'm trying to make a link inside the fancybox single image title. I want it to redirect me to another fancybox window (witch is inline)... I have a script that makes the whole single image a link, but this targets my document title instead of the anchor title... I really hope someone will have a solution or a better idea on how to do it!! :) Thank you thank you thank yooou! :) btw: I have almost never worked with scripts.. In depth anyways..."
+"In my company, we are currently using Qt and are very happy with it. I personnally never had to move a MFC-app into using the Qt framework, but here is something which might be of some interest for you : It's part of Qt-Solutions, so this means you'll have to buy a Qt license along with a Qt-Solutions license. (edit: ) I hope this helps !"
++1 for this question - I have the same issue.
+"I have been trying to create a slider based on Nivo Slider that looks and functions similar to the Carousel found at I have viewed questions by and by , however I have been going round in circles for most of the weekend. Now back at square one and starting from the basics. Thus far I have managed to get the navigation working such that mouseenter on a particular nav item triggers nivo-controlNav to display the correct slide and pauses the slider: I also created a subsequent mouseleave function for the nav items (1,2,3 etc.) I'm now stuck at the part where non-mouse events come in. When the slider loads it should update the nav css to highlight the current nav item selected. Here is what I've got (not a lot I know, but I'm trying). Then the simple html nav menu: Any help/ideas/musings would be hugely appreciated!"
++1 This is the most accurate answer - ASP.NET and .NET 4.0 are supported in 2008 R2 SP1. It's not painless but all the necessary parts are in the links above. There is an excellent installation guide at http://technet.microsoft.com/en-us/library/cc753802.aspx
++1 That looks like an excellent resource!
+"excellent, thank you!"
+"Really great article, thanks!"
+"+1, Excellent explanation!"
+Excellent tutorial!
+Got it - I should have tried harder before replying. I had to keep track of the current row number and only switch the value on new rows. Revised code: Called like this: Thank you again for your excellent response & answer!
+"This code seemed to do it: The accepted answer goes to dystroy as he was the first to point me in the right direction, excellent answer by Bart Kiers though, +1!"
+"has a good website intro to sql. If anyone wants a book, the first several chapters of book are an excellent intro. Much better than the text book from my database class. If anyone wants to explore relational database concepts, seems to have a good intro. book is also very good on that subject."
+"Excellent answer, +1!"
+"I created a Mastermind code and when I attempt to run it on my Mac it just says ""logout"". If anyone knows why, that would be extremely helpful! Here is the code:"
+"As pointed out in the comments, you can read arguments from the cmd line in the args area of the main method, for example: When running this with: It wrote out the name of the file.Hope this helps!"
+Nope... doesn't fix it I'm afraid!
+Is this valid ? what I'm really worried about is can you specify type and also use def at the same time?
+My application links against libsamplerate.a. I am doing this to make distributing the final binary easier. I am worried that perhaps the code inside the .a file depends on some other libraries I also will need to distribute. But if it doesn't I am worried I am bloating up my application too much by including multiple copies of eg. libc. What exactly will be inside libsamplerate.a? Just libsamperate's bytecode? Or more?
+It sounds very scary to me to use a floating point number for a key in a `map`.
+I am about to alter the several tables in a massive system which I probably only understand around 10%. I want to add three columns. One of these is just a rename of an existing column. Part of me wants to :- Rename the column but worried about the impact on unknown parts of the system that use the old name. Append the three columns to the table therefore making the old column redundant (over time).
+"I must investigate further, but I fear it's not : big precompiled pieces of middleware ahead !"
+When I click on Memcache Viewer the whole dashboard crashes and I have to login again. This is really worrying me as we are serving data to many users. A server error has occurred. Is there a way to see the internal logs? I can't see anything in nor . Is there any other way to reset the Memcache?
+"I have a Django application built in our shop and currently we are moving to production that will run a apache web server. The application will run on multiple webservers Due to load issues. Now, I'm really worried since it's running multiple webservers. Issue - The application generates unique ids for session management and maintains it locally. Now, if a user goes to webservers-a and creates A unique id and then in the next request goes to webservers-b he will be invalidated because the unique id created for him will be local to webservers-a. How can I fix this issue?"
+"Wow! This question is more than a year old! Thanks for the answer, however I have resolved the issue! +1 for the well documented answer."
+Excellent! Glad that sorted it
+awesome! it works
+Excellent! Thank you for your perseverence :)
+"+100 for this :-) you made my day!! When writing the question I was not sure if it was related to ""Brook's mythicalman month"" and skipped it. Here I go ... and it's persisted for eternity on stackoverflow :-) I am really ""rofl"" that stackoverflow can answer questions like this!"
+I really enjoy the !
+awesome - what started off as a gripe turned into a real educational experience - thanks everyone!
+2 million unique visitors per hour? Wow! Is this Experts Exchange or some (other) pr0n site? ;-)
+"I am experiencing exactly this problem (and am in exactly the same world of pain): Whereby I am offering an update to SQL using LinqToSQL and it is failing with a because is set to . Due to legacy databases also on the server I am targeting, I am not able to re-configure the default connection settings as is quite rightly stated in the accepted answer in . My question is: How do you convince LinqToSQL to run a SQL before executing an update?"
+"So, the following hack seems to work, but it's really incredibly ugly IMO, as it relies on you controlling the line-height and using absolute positioning. Worse, it requires you to know how many lines there are in your text, which depends on the width of the div and the font-size, and probably requires JS to compute.Anyway, after all the above disclaimers, here's the hack: Use two divs with the same text, one on top of the other. One justified, one centered. Then clip the justified one.HTML CSS Fiddle.Of course, the above code is hard-coded for the specific width. Again, you'll probably need JS in order to compute the number of lines in the div. I'm pretty sure that until this gets implemented in Webkit you probably won't find an elegant solution for your problem."
+The answer with a GUID is completely ridiculous (no sense at all) The Console hWnd is of course given by GetConsoleWindow() (!)
+Nope - gave up and went for a completely non-Ruby solution.
+This is a problem with Windows Firewall that is very annoying from its introduction. And persist trough several versions of windows. I have two questions: Is it possible to be disabled or at least require confirmation in XP/2003 Server ? Does UAC handles this in Vista/2008 server? If it does not - is there any way to disable it?
+Nobody? To do this with a Button is really disgusting.
+"I want to bulkload my cassandra data from node A to node B. when I set the 'listen_address' of each cassandra.yaml file to localhost, they do not show error on console but the data is never transmitted. when I set each node's listen address to their own local network[eth1 ipv4]address (192.168....), I get the following error. I can read from this error log that the application is trying to access to port 1..4 and I do not have no idea what on earth is going on. each node is on the virtual machine on the Virtual Box Hypervisor. Both OS is centOS. Here is my cassandra.yaml (the cassandra.yaml of target file is also configured the same way) thrift_max_message_length_in_mb: 16 Can anybody give me advice? I am really suffering as hell."
+"Come on, you are worrying about efficiency while your first line of code is incorrect!"
+"For someone who uses the Ctrl-W bindings in vim habitually, it is incredibly annoying to have Chrome OS ask me, ""Wanna close this window, then?"" How do I remap keys in Chrome OS? Can't find this top secret setting anywhere."
+"I've searched this and cannot find it. I've tried different plugins and different browsers (Firefox, Opera, and Chrome). I've tried most of the no flash plugins for each of those as well as disabling Flash plugins/addons in the settings. I also renamed the file in i found by searching the system. when i renamed it, makes Firefox and Chrome ask to install Flash, but still: returns: I'm not sure what else to try without uninstalling Flash, but that will be a total pain in the ass for this. I also REALLY don't want to use SWFObject just to see if Flash is at all installed which I can do simply with: Any ideas?"
+Your solution is subject to all sorts of horrible HTML escaping issues and possibly injection attacks.
+"I really hate to answer my own question but I found the problem and the report is opening as of right now. I only came across this by chance but it seemed to work. I changed the setting of Display on SharePoint Site to Do Not Display. I never noticed that option before so I gave it a try. SharePoint is on the laptop which I didn't know at the time and I know nothing about it, but at least it shows on the screen now."
+I can't believe that answer from a company. Horrible!
+"Unless there is a very valid reason, passwords should hashed. Hashes result in fixed length strings. There is not space argument to make, unless the system is storing the actual password, which is arguably a terrible idea."
+"In VB.NET you can, with the keyword (I believe). But what you're trying to do seems really horrible. Just set them explicitly. It's almost exactly the same amount of code."
+"I am getting very strange flickering on a WPF application of mine. It only happens with alpha blended content, only on my computer, and only with WPF applications. At least I haven't noticed it with anything else. It's really annoying! Has anyone else dealt with this weirdness?"
+"I recently worked on a product that was targeted to .NET 3.5. Out of hundreds of beta testers, I can probably count on one hand the number that already had .NET 3.5. The rest had to sit through the absolutely painful .NET 3.5 install from microsoft (~30 minutes, and most of the time the progress bar stays near 0 so people think it is broken)."
+"no, it is extremely bad idea."
+"Vineet, what you are trying to do is a terrible idea! If you ever find yourself having to engineer something as fundamental as that, take a step back and work out what else does it! I don't really believe in the whole spoon fed SO thing, but what mtwebster says is on the right track!"
+"Everything in the terminal buffer. Command history is easy, just 'history'. Sometimes there's an exception or a log I want to grab, but it went off the screen or select-all is a pain. I want to make a cmd line tool that does it and maybe sends it to a new gist."
+"To push it to Heroku, you'll have to add it to your repo. Why don't you want to commit it? It's recommended to commit Gemfile.lock in your repo (unless you're developing a gem): When developing an app, check in your Gemfile.lock, since you will use the bundler tool across all machines, and the precision enforced by bundler is extremely desirable for applications."
+"@ravenspoint: If you want to create the object on the heap now and delete it after execution in an other thread, I should probably remind you of RAII -> very bad programming style!!! Or do you want to make some silly synchronisation to ensure the data is still valid, when being read by the new thread?"
+@DonQuestion Yep. My account is domain admin so it should be ok... really annoying problem! arg
+C is a cruel master!
+"The problem is exact what mysql is telling you : you have too much data for one table. Not only the number of fields are counting towards them, but also their size.. But the real problem is in your database design, you have designed a table that is crying out for help : 'split me up, split me up!' You should your design .."
+"You have two divs, one over the other, and the one on top is transparent. However, when you scroll you want the div on the bottom to hide as it goes under the first transparent div. You don't want the second div's to change to as soon as it goes under the first div. You just want the part that is under to be hidden. I've googled extensively for an answer: #1-4 answer make the div on top or . The problem with this for me is my background is a photograph, i.e. as you scroll down what you see is different, as opposed to a colour or a pattern. The ""background"" of the transparent div needs to change as the real background changes. #5 offers a solution to this using JQuery however there are horrible, horrible issues with scroll lag in browsers not Firefox. Folks, how do I do it?"
+"Yuck, I really hate that option 2. But option 1 is the way to do it. +1 for option 1."
+"I'm trying to compile code that I know to be working on other peoples' machines but is throwing a particular error on my system. Specifically the error relates to the printf() method The method printf(String, Object[]) in the type PrintStream is not applicable for the arguments (String, double) For instance Does anyone know why this error is cropping up? There are alternatives to using printf(), but this is very annoying!"
+ps really hate the response limits on comments.
+"I'm trying to create some ads in Admob, but on last step I always get error: but it didn't specify WHERE. I swear god, there are no errors on whole page, all fields are correctly filled, I see no red shapes around fields, everything match criterias written under fields, but I stil get this error - without any explanation. Has anybody same experiences? It's totally frustrating :("
+"There's an error here: $r3 only has one result column (which you haven't given a name). Are you sure you are using the correct variable because there's no way that your code should work as you have posted it. Also your variable naming is really awful. Use meaningful names instead of , , etc..."
+"Tools -> Options -> Projects & Solutions -> Build and Run ""On Run, when projects are out of date:"" Select ""Always Build"" That's it, had it myself, extremely annoying."
+"Yes, Lily, but *why*? It sound exactly what someone who develops a malicious piece of software would ask."
+I know I can configure command line arguments in the Run configuration but I want to run a java file multiple times with different command line arguments. It's a pain to change the Run Configuration every time. Is there a way I can make Eclipse prompt me for command line arguments every time I run the program?
+Instead of loading everything which is neither possible nor really desirable I would use a sliding window instead - when you reach a certain maximum list size (say i.e. 300 items) you automatically remove the top 100 items when you add the next 100 items to the bottom. If you scroll just right after the update this shouldn't even be noticeable by your users.
+"Don't want to beat a dead horse, but it is really important that you understand that this is a terrible idea."
+Reinnstalled Xcode4 - same thing. Awful!
+"CorePlot: Candle Stick , how to set more distance between every stick when zoom in and zoom out? When i try to zoom out, it looks really terrible. How can i fix it?"
+FlexMonkey may be more of a pain than it is worth. Gorrilla Logic claims it works with custom components but I have found this is not the case. Anything with a renderer seems to have serious problems. It is a lot harder to set up tests than they claim and the tests aren't stable. I have written tests for one component 5 times now using hardcoded ids. Sometimes it just can't see the component and it dies. They only have 3 short paragraphs explaining tests in their user guide and they only respond to questions about how to set it up on their google group. I would avoid using this.
+"That's a really terrible way to read in all your files. Try this: This will return a list of data frames, each of which is the contents of the corresponding file. Or, if there are other csv files that you don't want to read in, you can restrict the specification: And to combine everything into one big data frame:"
+"Don't use it. I hate std::pair exactly for this reason. You never know which is which, and since access to first and second are public you can't enforce contracts either. But after all, it's a matter of taste."
+"@Mario I disagree, while the answer is outrageously awful, it's still an answer."
+@JoranBeasley You're right for the new format though.. and I totally hate it :(
+"How do I stop a browser refresh from happening when a flash object has focus inside a pop up window? Yes, I abhor pop up windows too. Yet we have a flash questionnaire that is being wrecked from users who use refresh. I also already have js in place that effectively blocks refresh, UNTIL the flash gets focus and the user presses refresh. I have access to the Flash through our Flash developer, but he is uncertain of how to do this. The closest we could come up with was to use the fscommand trapallkeys, yet it does not appear to be working."
+Every time I download the ZIP file it is corrupted!
+"Ergh, this OptionBuilder has a horrible interface!"
+"Oh, this was was a pain! I probably lost 2 hours on this. Here is the solution: CMake uses short 'C' applications to test/try things. If the CMakeLists.txt states that C++ is used for the project, without also listing C, then some of those shorts tests incorrectly fail, and cmake then thinks those things aren't found. The solution was to change the first line of CMakeLists from this: ...to include C as a language: Then delete , recreate it, and everything then works:"
+"what is that downvote? it's real and valid question, and I hate DRM too!"
+i use with () I want to have the option to choose the months and years. I define this: But I really hate the dropdowns of . I want to have the option to choose the months and years as in It is possible??
+No you can't. That awful thing doesn't work in managed mode or mixed mode.
+"I hate writing migrations, but it's important for the schemas to stay in sync. What I'd much rather do is update my and have Rails notice, then run something which generates the appropriate migration based on the difference between the old version and the current version. Is there a way I can do that?"
+I really despise SWFObject for this very reason. Maybe you could give a try
+I've noticed this lag time also. Its really annoying when you go to /usr/bin to tell firefox what app to use to open a file and it lags for 10 seconds.
+"@Anyone who uses Assembla - Is it 200MB per project or 200MB per account? If it's per account, then that's awfully small."
+You should be able to add the attribute during OnPreRender(). INamingContainer is so painful sometimes...
+Doubles aren't compared that way in real life...
+IMO it is painful to debug as you tend to have no intermediary variables for inspection.
+"I get the following when I build locally I get this error when building locally or on the team foundation server. Not exactly sure how to solve it, have the iis app pool and web site running as the tfs user so it doesn't have any problem viewing the website but the error is really irritating as its always telling me my build is broken."
+"This was annoyingly annoying... If you have a the need to export your RegexBuddy history you can take a look at , which prints to the console your history, also as Json."
+Did you ever figure this out? I've had to post a dupe because I cant : http://stackoverflow.com/questions/652621/flexbuilder-web-services-list-empty
+(Really awful title.) Anyway: can I somehow make Scala infer the type of in 2nd line? This works as expected after adding the type: And is certainly the expected type:
+"So I have also ran into this problem. I have found a solution(it's terrible, be warned!) Open Unity and load your solution in MonoDevelop 4.0.1 (older version you can set the target framework more easily) Navigate to your project directory and open ""Assembly-CSharp-vs"" in notepad. Change the line ""TargetFrameworkVersion"" v3.5 to ""TargetFrameworkVersion"" v4.0 You will have to do these steps every time you load Unity(blah) but it does work."
+"Visual studio crashes as soon as I open aspx or ascx View from MVC 2.0 project. If I delete all bin and obj folders from projects, I can open aspx and ascx View page. But it crashes again after compiling. It started to crash after I moved strong typed model to different project. I got stuck and cannot go further, really frustrated! I'm using Visual staudio 2008 Sp1. MVC 2.0, Window xp sp3. .NET 3.5 sp1. Anyone can help?"
+"this is a disgustingly horrible hack, but it might get the job done:"
+"I built an xml-rpc server in Python using SimpleXMLRPCServer, according to the example in the Python documentation. I'm calling it from a Python client on the same machine. The body of the server function executes very fast on its own. But I find that xmlrpc client performance is excruciatingly slow, taking one second per call. (Using xmlrpclib.) A speed-up technique I found on the web () didn't help. My connect URI is: I'm running Python 2.7 x64 on Windows 7, but it works the same for 32-bit Python 2.7."
+"Lately, bringing the help window from Visual Studio is taking a long time. Even updating the help system takes an awful long time. Is there something broken with my installation?"
+"The answer does not establish the same 's as adding directly to the ajax call. So in order for jQuery to do this properly I add this : where is a global variable. Unfortunately, I have to write this extra line on every single ajax call. Terrible! Maybe I'll edit the jQuery framework to handle this.."
+"I really hate Jquery, your code looks as if you are looking forward to publishing your project finalized with Jquery..Anyhow.. if your looking to replace the jquery selector $("""") with a function you should know that the function requires that it returns a DOM element. otherwise an error will be flagged and java script with abort."
+"indeed, I HATE IT! But sadly no, i could not find an alternative... Sorry :("
+Yes ... all this works ... but if the user presses their refresh button on their browser it will add another record.
+"I have done some research for ""The bast way to insert huge data into DB with C#"" then a lot of people just suggested me using SqlBulkCopy. After I tried it out and it really amazed me. Undoubtedly, SqlBulkCopy is very very fast. It seems that SqlBulkCopy is a perfect way to insert data (especially huge data). But why dont we use it at all times. Is there any drawback of using SqlBulkCopy?"
+I didn't know that. I always thought it was AND.
+Why does the test return false?
+that what i was afraid of ! cause my knowledge about ajax is zero :(

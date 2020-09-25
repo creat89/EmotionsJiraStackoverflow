@@ -1,0 +1,153 @@
+__label__love __label__joy	ah ; great ; things are running now . thanks guys .
+__label__love __label__joy	patch looks good to me . reuploading patch with one corrected code - comment .
+__label__love __label__joy	hey , thanks for that , i gave it some testing and thought about it over the weekend and it looks perfect , thanks ! - aidan
+__label__love __label__joy	+ . looks god . thanks for making it better .
+__label__love __label__joy	brilliant , thanks !
+__label__love __label__joy	thanks a lot for fixing those issues , alejandro . i re-ran all the tests i ran last night and everything worked great . additionally , i tried out test-patch.sh , which seemed to work flawlessly . upvote , patch looks good to me .
+__label__fear	this has been fixed for by upgading to poi beta . perhaps somebody with more power than me can mark this accordingly .
+__label__love	committed , rev:088067c . thanks roman !
+__label__love	i just committed this . thanks giri !
+__label__love	thanks , ravi !
+__label__love	carl lindberg , absolutely you are right . i was not far - sighted enough to think of that . thank you about your point . ^^ my one is not a good idea . i will try to fix it . ( t.t ) . thanks again .
+__label__love	thank you , ashish vijaywargiya and pranay pandey 🙂 thanks and regards -- akash jain
+__label__love	thanks tom….let me see if i can come up with a test case for the linereader reset . i did forget adding a test case for that . i probably file that as part of this patch .
+__label__love	committed , thanks jingwei .
+__label__love	i committed the patch to trunk . could you please submit a patch for the branch . this one does n't apply cleanly . thanks !
+__label__love	hi atul , that looks good at a first glace .
+__label__love	committed to trunk . thanks , sushanth !
+__label__love	oleg a minor comment … i do n't see why the close ( ) method would throw an ioexception … thanks asankha
+__label__love	bq. i just committed this to trunk and branch- . thanks derek ! also branch- .
+__label__love	thanks for the patch , applied for /
+__label__love	[ ~ shreepadma ] thank you for working on it . do you have plan when you submit a patch ? i know it takes efforts to code and test in different types of databases . would you please release mysql version first ? then file a jira to follow up postgres / oracle / derby . just a suggestion for fast release but up to you to decide . thanks a lot again tim
+__label__love	committed . thanks stephen .
+__label__love	thanks christian .
+__label__love	hi . ping ? 🙂
+__label__love	thanks atul , your patch is in trunk at r933169 i just added some " mod for ofbiz layered lookups " comments around changes as suggested sascha
+__label__love	could you see my 2nd patch ? 🙂 thank you .
+__label__love	i just committed this . thanks , prachi !
+__label__love	thanks vasily - the patch was applied to bti branch at r615105 . please check that the patch was applied as you expected .
+__label__love	committed , thanks xiao li !
+__label__love	patch looks good to me .
+__label__love	i just committed this . thanks pat !
+__label__love	hi aidan can you take care of this when you do qpid- . thanks
+__label__love	i just committed this . thanks patrick !
+__label__love	ruth , patch applied at r526665 , thanks a lot for this enhancement , please verify , thanks .
+__label__love	patch is in. thanks .
+__label__love	i just committed this . thanks , sanjay !
+__label__love	i 've just committed this . thanks arun !
+__label__love	vishal kher to benjamin , camille : am ( minutes ago ) hi ben , i was going to open a jira after checking with you guys . with your solution wo n't we run in into the problem that camille pointed out by marking the snapshot for lastzxid - ? - peer fails after taking the snapshot . the snapshot has applied lastzxid , which created a child znode . during recovery it will apply lastzxid , which will faill with nodeexists and we will increment the cversion of the parent ( after fix for zookeeper- ) . so creation of sequential znodes wo n't be be really sequential . this is probably acceptable , but should be clearly documented . if not , then from this bug , it looks to me that patch zookeeper- was also not complete . we may need to conditionally update cversion . i think we need a clear document of how snapshots are supposed to work and what to assume while taking snapshots and while recovering from snapshots . it will be very helpful for to verify the correctness of implementation and for future bug fixes.i will open a jira for this bug shortly and post our discussion as well . thanks . - vishal
+__label__love	failed test is covered by hbase- . integrated to trunk . thanks for the patch , matteo . thanks for the review , andy .
+__label__love	committed , thanks
+__label__love	thanks for spotting this , fixed at r487519
+__label__love	guillaume , thanks for your commit . it fix this problem and my example works fine now with this fix .
+__label__love	thanks , tom
+__label__love	i just committed this . thanks , arun !
+__label__love	i now realize hadoop- is required . so i will wait . thanks .
+__label__love	fixed , thanks for the suggestion : http://svn.apache.org/viewvc ? view = rev&revision =
+__label__love	thanks a lot willem 🙂
+__label__love	patch by dennis byrne . thanks a lot !
+__label__love	thanks !
+__label__love	committed to trunk . thanks , sushanth !
+__label__love	i 've committed this to , and trunk . thanks for the patch gautam .
+__label__love	committed to trunk . thanks jarcec !
+__label__love	thanks dianne !
+__label__love	thanks for taking this , patch looks good . is this good to be committed ?
+__label__love	owen , thanks for the slides .
+__label__love	committed . thanks hitesh
+__label__love	thanks for your work on this allen !
+__label__love	committed to trunk . thanks , sergey !
+__label__love	closing based on comments from matt . thank you .
+__label__love	hi anders , i agree with knut , this issue can be marked as fixed , thanks a lot for working on this improvement . - suresh
+__label__love	fixed in trunk … thanks henri !
+__label__love	patch v6 integrated to trunk . thanks for the patch , jean - marc . thanks for the review , matteo . @lars : do you want this in as well ?
+__label__love	thanks , arvind
+__label__love	i just committed this patch . thanks , richard !
+__label__love	committed to , and trunk thanks jerry for the patch and stack for the review !
+__label__love	thanks for the patch niall , upvote
+__label__love __label__sadness	thanks , willem . sorry , i was trying to get to the wiki but it 's been a busy week .
+__label__joy	many thanks for your help .
+__label__joy	looks good .
+__label__joy	looks quite perfect after solving pdfbox- .
+__label__joy	great ! awesome ! thanks , dims
+__label__joy	patch looks good to me .
+__label__joy	i 've tested them out and everything is fine .
+__label__joy	upvote , looks good . checking this in.
+__label__joy	thanks !
+__label__joy	are we on the good path …
+__label__joy	thanks to both of you , and to deepesh for the initiative .
+__label__joy	thanks , daryn !
+__label__joy	upvote , branch- patch looks good to me . i 'll commit this to branch- later today to give others a chance to comment .
+__label__joy	that 's a very promising idea !
+__label__joy	wow , sure !
+__label__joy	upvote patch looks good .
+__label__joy	new patch looks good to me , upvote
+__label__joy	pretty sure this was fixed by the time we released jruby .
+__label__joy	upvote looks good - will commit if the tests pass
+__label__joy	upvote this looks good to me . existing configurations will still work with this patch , so there are no compatibility concerns .
+__label__joy	upvote patch looks good .
+__label__joy	bq. here the patch for the groovy script . cool , looks good , thanks !
+__label__joy	thanks , jeff !
+__label__sadness	sorry , this should be yarn jira - filed yarn- instead
+__label__sadness	sorry …
+__label__sadness	sorry about that .
+__label__sadness	thanks so much , sorry that this is n't in the appropriate place .
+__label__sadness	oh , sorry , will submit them tomorrow . hmm , svn diff is really strange . do n't know why the files were not included though i did the diff from the src / java / o / a / c / jci dir .
+__label__sadness	i am new to mina and the whole environment .
+__label__sadness	if someone wants to work on this please go ahead , i still plan to , just no time yet .
+__label__sadness	i do n't have strong opinions about it either way .
+__label__sadness	sorry about that … http://bit.ly/12uias
+__label__sadness	sorry for the noise .
+__label__sadness	i 'm sorry mark , i came back here to remove my comment as after building the app from scratch i have found that by default it used whenexhaustedaction = grow and not block !
+__label__sadness	and with a network that tolerates almost everything to get a mail somehow in the right place , it is only seldom noticed ( or when it is , it is blamed on microsoft .
+__label__sadness	sorry , that should be filechannel inputchannel = input . getchannel ( ) ; filechannel outputchannel = output . getchannel ( ) ; in the try block .
+__label__sadness	sorry guys , i 've been pretty busy @ work but i have been watching this .
+__label__sadness	sorry for the trouble vikram !
+__label__sadness	i have this issue , where my server and client is creating a lot of loopback threads , that i believe must be related to this issue .
+__label__sadness	well it 's me that did n't get the whole point , now i got more , sorry for the noise .
+__label__sadness	sorry chris , i missed it , done !
+__label__sadness	sorry gav done committed @revision .
+__label__sadness	> then we do n't save io by limiting the buffer size to kb i 'm confused by this .
+__label__sadness	sorry .
+__label__sadness	hi lars . sorry , i was n't watching this before so i missed your work til you mentioned it on the hbase jira . i 'll try to take a look at this this week . feel free to grab me on irc if you have specific questions .
+__label__sadness	seems we did n't enforce an exec for sh , but we did for fs.
+__label__sadness	i 'm very busy for the moment so i did n't know when i ' d be able to the change myself , so if you can , your contribution would be one more time really appreciated .
+__label__sadness	hey , sorry i did not get back to you sooner .
+__label__sadness	wrong patch , sorry .
+__label__sadness	sorry , i have n't tried you patch .
+__label__sadness	sorry , i missed bill 's comment . bq. we 've seen similar exceptions when loading data that contains text with the column delimiter in it , which produces shorter than expected tuples . could that be the case here ? i do n't think that 's the case here . however , i 've made many silly mistakes&misunderstandings in pig before . let me double check .
+__label__sadness	i have a really bad habit of not reading thru all the bug comments before asking questions .
+__label__sadness	first guess : something 's getting confused about reversed - ness .
+__label__sadness	i did not have time to do it yesterday .
+__label__sadness	rmappattemptimpl . recoverappattempttokens ( ) looks like all changes in rmappimpl are unnecessary .
+__label__sadness	incidentally if we all nag joe walnes enough we might be able to persuade him to release a new qdox which can ignore annotations etc ( though it will still struggle with generics i think )
+__label__sadness	sorry for the mistake .
+__label__sadness	patch is not well formed , cancel patch . sorry about this .
+__label__anger	oh ... geez i 'm an idiot .
+__label__anger	i should have marked this resolved back in september .
+__label__anger	my bad .
+__label__anger	bug flavio more ? seriously ; discuss with flavio and come up with a patch & test that is deterministic . another option would be to refactor to allow the code in question to be tested as a true unit test ; rather than as a system test ( we need to work on that in general in zk ) . mockito ?
+__label__anger	damn it !
+__label__anger	hmm , that sucks .
+__label__anger	damn it , sry lost the orientation .
+__label__anger	it 's not too bad once cacheconfig is in.
+__label__anger	i do n't think there is any sense in this , who cares ?
+__label__anger	damn this was assigned to you since months .
+__label__anger	damn …
+__label__anger	must be : size > = !
+__label__anger	i lost the whole morning cause hbase 's regionserver was dying with no logs , no nothing … how am i supposed to debug the issue if u do not even generate a core dump ?
+__label__anger	the rest are * totally * unrelated .
+__label__anger	i do n't have to ensure that the classloader knows groovy classes , * you * must do that .
+__label__anger	ugh , well that sucks .
+__label__anger	damn time has flown …
+__label__anger	aaarrggh , how stupid of mine to have a system . out , again !
+__label__anger	inserting timestamps automagically would be bad because it would limit a whole swath of use cases .
+__label__anger	pull it back in if you think different .
+__label__anger	i 'm an idiot … there 's nothing wrong with the readme . txt .
+__label__anger	splitting an existing sub-shard gets stuck up .
+__label__anger	i used to be the latter , but then i went to law school and got a degree in this shit .
+__label__anger	this is weird .
+__label__anger	i just hate having no clue what a file is really depending on 😉
+__label__anger	weird .
+__label__anger	when you install a node module globally it goes into / usr / local where you do n't have permissions to move shit into unless you sudo .
+__label__surprise	thanks for reviewing the patch mamta !
+__label__surprise	woops ; thought this was already fixed …

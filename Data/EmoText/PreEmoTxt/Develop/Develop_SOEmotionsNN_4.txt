@@ -1,0 +1,225 @@
+I have VS2005 installed. But I was afraid about installing VS2008 and lose everything. I think I have to install 3.5 framework first. Is that correct?
+"Standard LAMP config. As the guy said below, I imagine the file is just not being delivered correctly or something. Just worried something is breaking for my users!"
+"I'm working on a webservice + AJAX interface, and I'm worried about authentication. This moment I'm passing username and password to the webservice as arguments, but I fear that this approach is highly insecure. I was told that ssl could solve my problem, but I want more alternatives. My webservice is written in php and my interface is in php + AJAX. The webservice receives arguments from POST or GET and retreives xml (in a future maybe I'll use JSON)"
+"I'm using this practice to add comments using AJAX , by sending the data to an ASP.NET Handler which collect the information and then insert the comment, but I am afraid that any one could use it , am I wrong !?"
+A copy of an infinitely long string terrifies me!
+The other day I noticed that if I run IEInspector's HttpAnalyser and capture the post data when logging into my bank account or amazon account the post data shows my user name and password in the clear. This is a little concerning. Does anyone know at what point the SSL encryption takes place? This I assume would mean that any software that is installed on your machine could potentially get access to this post data. Very scary.
+"I am planning to use community sever for one of our projects, i used it in the past but we had a lot of problems customizing it and understanding how things work, im affraid to get into that again, and i would like to add some things to it but i dont know how flexible it is."
+"I am trying to get Titanium Studio to work for some time now.. I am using Linux Mint XFCE Edition. I have to install nodejs and the packages titanium, alloy, acs, acs-node with npm. Now every time I install nodejs again and install a titanium or alloy via npm it creates a new directory I actually have a directory called in my root dir (where username is my username). All the other pacakages I need to install (acs, acs-node) give me: I really hope, someone can help me! I don't understand at all what is going on. I am installing nodejs from PPA: because the version from the Linux Mint repository are way to old. Any help very much appreciated!"
+I did try the demo and did end up buying it. I'm thrilled (thus far). Thanks for your comment.
+"I'm trying to make a link inside the fancybox single image title. I want it to redirect me to another fancybox window (witch is inline)... I have a script that makes the whole single image a link, but this targets my document title instead of the anchor title... I really hope someone will have a solution or a better idea on how to do it!! :) Thank you thank you thank yooou! :) btw: I have almost never worked with scripts.. In depth anyways..."
+I was using an old version of Sinatra - updated to version 1.0 and it works fine :) Thanks everyone!
+"Excellent advice here, and it seems like you know know this field. I hope you'll keep participating."
+Excellent! Exactly what I needed :)
+"I have spent days trying to find any information or working samples on how I can get google data such as emails in my gmail inbox, list of my contacts, my calendar events etc... None whatsoever :( There are broken pieces of some code fragments here and there, 90% say it's been deprecated, is the a one single page on the internet that gives me a working example how to do that from javascript. Many pages about oAuth, but I have absolutely no idea how to use it , I have spent days reading broken pieces here and there, but I was unable to understand what that it and how I can use it PRACTICALLY. Very sad, and I am very tired to waste so much time on things that dont work and are not documented in human language, possible to understand. Why do they have to overcomplicate thing so much and spread broken pieces of information everywhere?"
+"Ok this is really annoying, can't find a solution that works !"
+"Tested/cross-browser: If there is no submit button, the form will degrade miserably if javascript is not available!"
+That link is full of horrible advice.
+"This ws-addressing issue is a real pain in the ass. Not only does WSS2 use an old, pre-release version of WS-Addressing, it adds propritery elements to the soap header (e.g. wsa:via) that arent part of the schema. What a crock."
+"So for example if I need to run Git Pull in the commandline, I need to specify the full path to everything...? That's really annoying."
+"I'm using VS2008, in a normal mid-size solution. Sometimes, debug stepping becomes very slow. A padlock gets rendered on the every file tab for every ""step"" (F10/F11), and it can take up to two seconds for every step. That makes debugging very annoying and slow. Has anyone seen this problem?"
+"I have issues with Aptana (3.6.0.201...658) on dark themes. Every time I hit the cursor, the horizontal scroll bar in the workspace flickers into view and out again. This seems to be a bug, which has been reported already a long time ago: Has anyone else found a solution? Makes working in Aptana incredibly annoying."
+"iâ€™ll try this. string needs to be iterable. and while we are at it: how come java is so damn awful? no sane person would specify `remove` in an interface, just to add `throws UnsupportedOperationException - if the remove operation is not supported by this Iterator`."
+You can't move the cursor with JavaScript. It would be incredibly annoying anyways.
+"I'm trying to pull the whole set of objects that I want to work with into memory so I can cut down on calls to the database. If I call a SELECT for each iteration I'm looking at hundreds of thousands of calls, which is running horrifically slow."
+I've been tackling the same issue. It's a pain!
+"Schemas - Okay, 2000 has owners, but they can be a real pain to get permissions right on."
+"FYI: When C or C++ say ""undefined"" they usually mean ""crash"" or ""memory corruption"" or something equally terrible. Beware."
+"Herbert's answer is a suggested way of marginally automating the browser to check the boxes and click the delete button. If one was to setup a browser automation project with Selenium or such, then this would be a legitmate but painfully slow solution to delete all entities via the admin screen as it only deletes at most 20 entities at a time."
+"no, it is not possible -- we tried hard and ended up reverting to the 10.7 way of using a custom class.. check MAAttachedWindow well with enough swizzling and posing it'd be possible of course... but that is very evil and at least as much work as your own class!"
+"This is similar to the accepted answer (because it is using Java to represent the newline rather than EL) but here the <c:set/> element is used to set the attribute: The following snippet also works, but the second line of the <c:set/> element cannot be indented (and may look uglier):"
+"I've done some easy .hover(function() statement in jQuery. When i hover over a text i simply want a #div.fadeIn, and on non-hover fadeOut. It works. But it's just if i spam the text-trigger with hover and un-hoverring really quickly and then stop the animation begin to give a blinking effect. It just kind of loops, really annoying!"
+It's a terrible idea to include a using directive in a header file too. This simply mitigates that problem.
+"Right, I've got this horrible mess of html and erb (that does work!), but I want to do things properly and render the whole thing with the method. But I'm not sure how to do this, I can only render text with the link_to at the moment."
+"RegEx is a horrible option for performing replaces on a large amount of text. As powerful as it is, many RegEx proponents see all the world as a nail and RegEx as their hammer. For use cases involving large amounts of text, look at FastReplacer http://stackoverflow.com/a/11442008/141172"
++1 Serapth - I hate this. I **HATE** it!
+This does seem to be the answer. Absolutely terrible API design.
+"too bad this behavior isn't a setting. I think it makes sense in theory why they did it this way, but in practice it's just really annoying"
+"the problem that I am having is while designing an email to be sent to users the border of the HTML table is not disappearing even though it is set to 0 and so leaves horrible white lines through areas which are menu to be solid blue colors, below is my HTML code! Untitled Document"
+It is incredibly frustrating that Outlook does not preserve the timestamp when you export. I have no idea why they decided to omit that.
+"Sorry, most of the code for this is 3rd party and I do not have access to it, making things extremely difficult/frustrating."
+"No betas involved, the lack of repro is really annoying me!"
+"We use Hessian in our software, and I wish the previous developers didn't do this as we now have to access the hessian endpoint from C++. It's a pain and I prefer things to be in simple HTTP xml or json."
+"I completely disagree with the answers so far. I feel that internal is a horrid idea, preventing another assembly from inheriting your types, or even using your internal types should the need for a workaround come about. Today, I had to use reflection in order to get to the internals of a System.Data.DataTable (I have to build a datatable lightning fast, without all of its checks), and I had to use reflection, since not a single type was available to me; they were all marked as internal."
+"It's HORRIBLE! No, seriously, I don't like it."
+"I am working on an app that uses some basic view types, but I find the default attributes extremely ugly in Android (for example, a bright yellow ). I can get the basic seekbar if I create it from code, using only the parameter, but I would like to know if there is a way to do this inside an XML Layout file. Is there an attribute I can set that will remove all default attributes - such as ?"
+"I have developed my site with Firefox and firebug plugin, but when i deploy it to other browsers (IE/Chrome), the console window appears at the bottom of the screen(very annoying). How can i disable this? and why is it appearing? gath"
+"I really hate asking questions that I feel were asked a thousand times before. This is one of those questions I feel others must have encountered, , none of the supposed solutions work for me so I must be doing something wrong..... I have an extremely simple app setup. index.htm, and terms.htm. There is some textual data in test.htm. I set both and at the appropriate time after stuff has loaded. At first I tried loading terms.htm's data into an element within index using (both test and index are in the same root /assets/www/ directory, and my webview loads index oncreate) but absolutely nothing was happening. So I opted to try .ajax so that I could at least get an error message, and all I get is 'error'. Surely, it is possible to load local textual assets with JQ on DroidGap?"
+"Dude, you scare me! At least make an effort in PROVIDING CODE!"
+This in an extremely ignorant answer.
+I really hate to give any pointers without explanation but i think your requirements are bigger ::: so --->
+"I have this script and been breaking my head on trying to change it so that instead of cropping the center part of the image it will crop from the top to the $height sent to the function, any help will be extremely great:"
+Is this seriously the only way to modify the default template? This seems absolutely terrible.
+"If I have a setup project in a VS 2010 solution and I add/remove another project, or unload/reload another project any setup projects in the solution are expanded in the solution explorer. It only does this for setup projects and it is extremely annoying. Is there any way to disable this behaviour?"
+@Robáµ© I really hate passing booleans into functions.
+@Suma How can this be a duplicate if the question you mentioned was posted a year after this one?
+"I don't see how this is possible, but I really, really hate to run my query an extra time just to get the record count so I can build a pager. When I say a ""pager"" I simply mean the common gizmo with a link for each 10 records for example."
+"This is horrible. First you're sleeping, which will never wait exactly the right amount of time. It may fail if the computer is busy and shutdown takes longer than expected. And otherwise it will waste time. Furthermore, you're using shared *persistent* state. The right solution is simply to free the `runOnce` mutex before calling `Application.Restart()`."
+looks like you have changed your needs. that's disgusting
+"Based mostly on , but also , and my own experience, I don't think it's possible without a lot of ugliness, pain or without converting your LINQ to SQL code generation over to (not appealing, IMO)."
+I really hate people who downvote for no reason. Just tell me what your problem is in a comment after you downvote. God!
+"I have a query that has approx 20 columns and I would like to export this to an Excel file with the column headers. I thought this would be easy to figure out but no luck! I searched the web and found one suggestion that did not end up working so I am stuck. Anyone have any working ideas? Thanks,"
+"Freeing the local array ""buffer"" is undefined, and probably horrible, behavior! You can't free something unless it was allocated with malloc() or calloc(). It's likely corrupting the heap and causing the crash."
+On Win with MSVC there's but it's really horrible and you don't want to use it if you can possibly avoid it. Better to say that there are no exceptions.
+"Why do you need the class explicitly? Couldn't you use the interface? Note that casting is not encouraged, which is why it looks so awful in Scala!"
+"I'm trying to delete several working copy directories, but I get an Access Denied on all the SVN files, running as admin or normal user. I've killed the Tortoise cache process, and cannot figure what is wrong. Any suggestions?"
+This is one thing that I really hate within development is forms. Below is my code and what I am trying to do is align the inputs with the labels . Is there a rule that you use to help remember when coding forms? CSS: HTML:
+"I don't understand this part: One thing I've found with this is that passing the config around to all the other utility functions that I'd prefer and don't think should be a a part of one the the above mentioned classes can seem to get incredibly tedious. Anyway, look up on thread-local storage. You could make a singleton config object that is thread-local."
+it is being deprecated because it is old and unsafe. switch now or feel the pain later!
+Terrible! Why do you post all that code? Three asynctasks. Do we have to dig through all that? You should only post the relevant code.
+"I tested this code out with an Access 2007 database with no exceptions (I went as high as 13000 inserts). However, what I noticed is that it is terribly slow as you are creating a connection every time. If you put the ""using(connection)"" outside the loop, it goes much faster."
+Oh the horror! Try `page.php#iframe_id` as the target.
+"I'm having an extremely frustrating experience attempting to change directories in python using variables within the program. Specifically, suppose I have: gives OSError: [Errno 2] No such file or directory: '$dir_name' and yet returns 'Directory_Name_999' (a valid directory name) and similarly changes the directory without error. Where am I going wrong here?"
+I thought I'd commented. Complete rubbish http://stackoverflow.com/questions/6692021/performance-space-implications-when-ordering-sql-server-columns/6692107#6692107
+"In vc++6.0 MFC Application Project , I will not get the compile Error , but when i run the project i will get the error Debug Assertion Failed! program:project.exe File:winocc.cpp Line:345 For information on how your program can cause an assertion failure, see the Visual C++ documentation on asserts. (Press Retry to debug the application) what Error it is and why this type of error occurs, how to debug this error, plz help any body,"
+"I have just finish that site, but there is a silly bug that remain... if you check tu horizontal position of the WHOLE page there is a slight shift... nothing to cry about but WHY here is the 2 pages any idea, the horizontal css is: i dont like my page to do the cha-cha-cha !"
+"Its amazing 1000+ questions tagged ""programming"" I just had to go find out how many quesitons were tagged ""question"" and there are some!! @Jon: FYI, SO is always about programming, non programming questions will very quickly get voted closed."
+"@Chris Two different control statements just to appease developers who want their switch statements to work in a slightly different way? That's a **terrible** idea. VB [had that mentality for loops](http://en.wikibooks.org/wiki/Visual_Basic/Loops), and it worked out terribly."
+"So ""options"" always has one item, and ""option"" can have multiple? What a horrid API!"
+"Okay, a before <example> And a desired after <example> I know, horrific (don't ask!) See how the slash in the key indicates children, and how the order is nested accordingly? And items without orders are simply shifted to the bottom. But also how multiple 'same level' items with the same order are merely sorted by key?"
+I really hate using GUI-designer for writing a swing application :(
+I need from document object or from a DOM element (i.e. a DIV) to know which is its window object. In Firefox I can do: but obviously in that AWFUL browser that statement not work!!!
+"I have a basic app written with ATL, using the wizard with VS2008. I have a treeview in the left side of the app. I see how to (painfully) add tree items. Question is how do I show a menu when the mouse is right clicked? How do I trap any click events on each item that could be selected?"
+"Wow! Yeah, I did'nt know that! Great new feature."
+You need to or if you target Windows Phone 8.1.And port you code to DirectX 11 the call is . It will be painful! You will still use this feature level.
+"My work just gave me a quad core computer, and WOW build times are fast! (What used to take 20+ minutes now takes 7 minutes). Anyway, Visual Studio builds project in parallel (great for build times), but scrambles the output: Is there a plugin that sorts the output when the build is complete?"
+"Oops! Yeah, that was just radio functionality heh. It turns out this isn't as straightforward as I thought. Give me a few minutes and I think I can fix it."
+"I'm integrating protobuf-net into our WCF services based solution but have ran into a snag that I can't figure out. The following class will serialize fine, all except for the ObjectId property. Here's the class that's toying with me: I've tried multiple things with no luck. Any thoughts would be greatly appreciated!"
+a very sad face :(
+I'm afraid I don't know of any other option than work!
+"Finally found something, here: No reference to it from the Oracle pages, but found a direct link to a page on some forum post. Really sad how hard it was to find."
+"Still no go, I am afraid :/ This does not remove 'www' from the url."
+"Unfortunately, no. That's my major pain when merging vcproj file changes."
+I've tried several other IDEs (the last one was eclipse) but always come crying back. The thing I end up missing most is homesite's 'tag insight' for all the html tags.
+"A (it doesn't have to be a class; structs and interfaces can be partial too) is basically a single type which has its code spread across multiple files. The main use for this is to allow a code generator (e.g. a Visual Studio designer) to ""own"" one file, while hand-written code is put in another. I've no idea whether Python/Perl have the same capabilities, I'm afraid."
+thatÂ´s really sad :(
+I am really desperate :(
+"When specified as above, Spring distinguishes constructor arguments by order of appearance. The notation would only switch between setting the attributes by constructor to setting them by accessor. I'm afraid, this will not change anything."
+"I'm afraid I can't entirely follow your question - do you want to have a sign up form for membership or email notifications shown as an article? If so, then the easiest way is to install 'm2c' - the 'module to component' component. Then you can put any module (ie the sign up box) in the centre content area. The m2c component can be found here:"
+"I actually tend to prefer PascalCase here - but out of habit, I'm guilty of UPPER_CASE..."
+Beat Detection looks incredibly complicated :(
+"I'm trying to bake my controllers but I keep getting the following error: It's making me frightfully sad, has anyone ever come across this?"
+"@gap: No, I never wrote the helper class, I'm afraid."
+"I just wrote this function, so there are no versions to speak of... I'm afraid I'm not very faimiliar with mapping!"
+"Thanks, this is extremely helpful!!"
+wowww thanksss!
+"if your memory consideration is only about these integers, then all I say is woooow =)"
+"Since I've been working with the built-in Microsoft Charting Controls in .NET 4.0 lately (and loving every minute of it!), I thought I'd take a crack at answering my own question..."
+Excellent method for minor changes. Just what I was looking for. Thank you.
+I have noticed this come and go. After runnings specs in RubyMotion (which is incredibly great by the way) this annotations appear even when running specs from the console. Then they go away. I have no idea why.
+"AFAIK, the creator of DelphiCodeToDoc is actually still actively working on it. Have you tried sending him an e-mail? In my experience, he's very helpful!"
+#ERROR!
+"Great answer! But as @paercebal mentioned, `auto` now has a different meaning, so could you please update the table at the end?"
+"I recently posted a question regarding how to scale an image using the input type=""range"" element. I recieved an excellent answer from user : HOWEVER! This scales the image towards its upper left corner and I need an image that scales towards its center. How do I achieve this? Can't seem to get it to work using text-align:center or anything... Thanks in advance!"
+Fortunately I'm doing *very* little with Office - really just trying to show the new features. Thanks very much for the link though - very helpful!
+"Great manual, helped immensely!"
+"Awesome, thanks!"
+<3 <3 <3 ! ! ! :)
+"No worries, his answer is much better!"
+It would be super great! if you can help me with iframe and cookies stuff... data.message contains URL
+Catalyst has which is pretty excellent.
+"thnx man, it works really good, awesome stuff !!!"
+Download the DirectX/XNA SDK - it comes with plenty of sample code. Great place to start!
+"When using sIFR on the titles (.content h1.pagetitle) in my WP theme, it somehow messes up the spacing and pushes the title down. The actual flash video is the same size as the font, so I think it has something to do with CSS, though I've tried just about everything I could think of and can't get it lined up properly. Here's a link to the site: Any help would be absolutely appreciated :) Sean"
+Excellent! Works exactly like I wanted. Thanks.
+Excellent! On a Mac as well... I'll look into railsapi.com. Thank you for your help!
+very nice beautiful :-)
+Jim did a great job!
+"If I am using IIS 7.0 + Server 2008/Vista Enterprise, any ways from IIS 7.0 side to control the upload speed? For example, max upload speed at 1M bytes/second? Any configuration based easy solution is great! And any programming based solution is also appreciated. :-) thanks in advance, George"
+There's an excellent series of posts on execution plans and how to read and interpret them - and a totally free e-book on the topic as well! - on the excellent Simple-Talk site. Check them out - well worth the time!
+"I'm trying to write a batch process that can take an MP3 file and mute certain parts of it, ideally in Python or Java. Take this example: Given a 2 minute MP3, I want to mute the time between 1:20 and 1:30. When saved back to a file, the rest of the MP3 will play normally -- only that portion will be silent. Any advice for setting this up in a way that's easy to automate/run on the command line would be fantastic!"
+"Thanks @BrunoLowagie! (I'm so thrilled to get your reply! If you write that as answer I would accept it!) I have found the relevant code samples: [iText in Action, Ch. 16, ResizeImage sample](http://itextpdf.com/examples/iia.php?id=286), and also [How to recompress image in a PDF on Chris J. Haas's website](http://cjhaas.com/blog/2012/01/06/how-to-recompress-images-in-a-pdf-using-itextsharp/) The first sample modifies a `PdfWriter` replacing virtually every `PdfDictionary` key in an `PdfImageObject`, even passing in a byte array - bypassing image validation. Second sample goes through an Image"
+Thanks so much for the excellent answers! All answers worked beautifully.
+@Rachel - Excellent! Good job they didn't use all lower case then - not sure if there would be any way round that.
+You...are...awesome!!!
+"There are many ways to do this, one way is: Followed by: In general, the SQLite project has really fantastic documentation! I know we often reach for Google before the docs, but in SQLite's case, the docs really are technical writing at its best. It's clean, clear and concise."
+awesome answer! very helpful
+"Library independent, very nice! Although I prefer the declaration more ""class"" like: `function MyClassName() {};`"
+Excellent method and exactly what I need right now. I wish I could upvote this twice.
+"I've handled the 404 by doing this in the global.asax file Now, if anyone can help me with the google widget that would be great!"
+Nice work !! Loved it.
+Excellent. Thanks.
+#ERROR!
+You can also try the MKNetworkKit framework: Easy to use and works really fine!
+"Marked up the question, while I don't think it's a great idea, I think its a good question to ask!"
+This was a very quick and excellent way to show me everything I needed!
+"Very useful, Thanks You!"
+"More than a year after this post, we are using: Activiti a workflow engine with BPMN 2.0 support. As modeller we use Activiti Designer and Yaoquiang (excellent tool!)."
+great thanks! serverfault.com - the new server admin equivalent of stackoverflow!
+"Trying to get users email address upon load of the html document. They already login in a previous page. I've tried implementing the solutions proposed on different threads, but most are outdated and looks like it requires ""scope: email""? Not sure. What I have right now doesn't work. On a side note, I want to get these emails written down somewhere so I can use them later. given that js is client based, anyone know the easiest way to do that? If you could help me out, that would be superrrr awesome!!"
+"I have this regex And i really need it in a vba version for words .find method (don't need the matching-groups), here is what i have so far But i cant get the last part to work, here I'm talking about I really hope someone can help me, as regex in this case is not an option (Although i know i can use regex in VBA!) Cheers"
+"Excellent code @ Peter, but not to be generating consecutive events, it might be better to use unbind (), like this: Thanks!"
+"Strange - No one mentioned GEdit (Gnome) or OpenKomodo (Windows, Mac, GNU/Linux...). Both of them are great! OpenKomodo especially deals with tabs and spaces very well. And - it's free. Whee! When I need a lighter weight thingy, I just use GEdit. Download OpenKomodo here -"
+Google led me to solution (base64_encode). Hope this helps!
+"I have an old friend who is a mathematician. He has his own math to compress his formulas, which are incredibly beautiful. He works in a program called Mathematica, which transforms the formulas for 3D-shapes. I wonder if it is possible to obtain these figures using Canvas and JavaScript? See attached formula and figure. I know little of this myself. But I would be delighted if some one could show me an example."
+Thanks! This looks very promising!
+Recently I've started Operating Systems course...now going through its contents I'm thinking about learning UNIX from its internals.Also I have completed a Computer Architecture course and really loved it.Can you suggest a good book on UNIX Internals from which I can learn the practical aspects of how the architecture designs work in a real life OS?
+Absolutely. Don't be afraid to just try stuff out!
++1 Very interesting question!
+"Excellent, thanks very much! Moving them to inst/tests and running test() worked."
+"I have discovered a mode in , where I can instantly change all same variables. When I am in this mode I get a box around the same variables and I can change one and instantly all others change. I do not know how to enter this mode ""by will"", I just entered it ""randomly"". Therefore, I really appreciate your suggestions, how to enter this mode, because it is extremely useful to me! PS.: I am using NO plugins, just a plain new eclipse installation with java!"
+"Great question, but please update the accepted answer to IainMH's! :)"
+"I want to programatically detect if my site is within the Facebook iFrame app so I can display certain features specifically for Facebook. Otherwise if someone goes site without Facebook. Preferably an FBML, C# or JS solution would be great :) Thx!"
+https://github.com/masterexploder/PHPThumb/wiki/Basic-Usage an excellent tool for showing and/or saving images!
+"Excellent, thank you! i did not now that."
+These are the tables: How would I do to list the last commented thread on top? This is currently how it looks: I can't figure this one out folks. So if someone could give me an hand that would be great! Cheers!
+"I have a button that, when hovered over, I would like the background image to display also. (It is an arrow an explanation of the button). There are quite a few questions similar, but I couldn't quite tweak the answers to work for me. The HTML looks like the CSS then is Any ideas hugely welcome!"
+"SVG transform on text attribute works excellent! This snippet, for example, will increase your text by 2x at Y-axis."
+"Wow, you are right, thanks! I'll accept Brians' answer."
+"Excellent question. IMHO this type of thinking makes programs much more robust, especially when they undergo constant change."
+I stumbled upon this site and really loved the way they have done the navigation on the left hand site. I noticed that site is using jquery but didnt see any plugins. Any ideas on how to go about doing this?
+"Excellent answer, worked for me."
+Glad to see I'm not the only one who got that! The free book is actually really exciting; it will definitely motivate you to do peer code review.
+Great question and great answers!!! Thanks guys!!
+"`:r! date ""+%Y-%m-%d %H:%M:%S""` wont work because `%` reserved to insert buffer name into the command line my vim version is 7.3.872. I'd love to know how to escape `%` !"
+That would be great! @Heinz: contact established :-)
+You are right. See my update! Make a suggestion pls and I'll catch your thoughts ;)
+Excellent! Onward with your project...
+"I'm using Rob Con's repository pattern also - absolutely love it. But i'm not worrying about concurrency checks. I load the most recent object, then update the fields the submitchanges. I would look at seeing if you could use the Attach and/or timestamps. It's been a while since i've looking into linq + concurrency."
+There is an really excellent short(!) book on Stripes that covers all aspects: by Frederic Daoud (Pragmatic Programmers)
+Awesome! I'm actually familiar with SDL. I'm going to look into this.
+http://delta.tigris.org is an excellent tool for automated minimization of a test case.
++1 - what a great article!
+"That is really, really, really smart! Thanks."
+I am pretty sure this can help! Cheers!
+"Herb Sutter has a great treatment of this exact topic in Items 26, 27 and 28, ""Minimizing Compile-time Dependencies, Parts 1, 2 and 3"", in his excellent book Exceptional C++, ISBN: 0201615622. IMHO, this is one of the best C++ programming books available."
+Good luck with the browser project!
+excellent! it works. but could you please explain how this works? Does javascript take time to load? could a thread.sleep step done the same thing?
+@Adrian - that article was brilliant :D thanks for sharing it!
+Great question! :)
+"The following scripting is a custom addition to this Hover Fade Button; in my version it keeps the text of the button while changing the background images through css classes only. I have able to everything except when you click on another button you get two active buttons and so on. I like the buttons to hover {span.hover class}, click {span.active class}, and remove any other buttons with the span.active class and put back to regular state. Greatly appreciate a solution!"
+Excellent answer!! my vote is +
+"Excellent, thanks!"
+Your best bet is probably TcpClient. There's a great sample that does exactly what you're doing right in the .NET Documentation here: Good luck to you!
+"Paradise, if you submit that as a separate response I'll make you the winner!"
+There is a plugin for Wordpress to help you with that. Hope that helps!
+In our eternal quest to integrate Javascript into our RSpec and Cucumber workflow we're evaluating and are provisionally very excited about it. Any advice on Culerity in general or specifically as compared to Selenium?
+Excellent and simple.
+"There are a few plugins which you could look at for that functionality, if not flat-out use: Good luck, hope these help!"
+Yes - that feature is extremely useful for writing upgrade scripts.
+You would need to create a counter integer variable that can keep track of the line index for you. Hope it helps!
+I wrote a tool to create SVG maps : which also has a world map that you can customize to your liking: Hope this will help you or any other folks who are after a customizable world map!
+"That's excellent, and works absolutely beautiful!"
+The effect I believe you are seeking is achieved by providing a HeaderTemplate for the TabItem's in you Tab collection. Hope this helps!
+Look into these links. They may help.
+"@EdwardRuchevits Hey passing in cat and page worked! It now remembers it each time I navigate pages! Excellent! Question though, is 'cat' a predefined PHP variable for URLs? Also, while this works for me locally... how will this function when different users specify their own category?"
+Excellent! I hope you liked the `$.when.apply(...)` with its double nested .joins. That's the bit I had to test.
+"I m really excited to know that html 5 has in build support for audio and video playback( I know its old news but I just woke up ! :P) . What is even more exciting is that it can play local audio/video files in matters of some click. I had a look at this , could not find any offline video player. my question is why is that people are not developing an offline media player which could just be loaded form a website ? are there some issues ? Thanks"
+excellent news!
+Thanks for the answers. I've found a great sitemap generator over at codeplex. If anyone is interested you can check it out here: Enjoy!
+"WPF is a fascinating platform to develop our next generation applications on! The ability to style just about anything, the databinding support and attached/dependency properties. Wow! But let's not throw caution to the wind because while WPF performance is great, it's not the best... yet. Definitely is a strong contender, but as developers we are still left with design principles for our front ends."
+"I've been programming Ruby pretty extensively for the past four years or so, and I'm extremely comfortable with the language. For no particular reason, I've decided to learn some Python this week. Is there a specific book, tutorial, or reference that would be well-suited to someone coming from a nearly-identical language, or should I just ""Dive into Python""? Thanks!"
+"Wow, great many thanks! File was Data!"
+"There is a guy who made the exact same observation as you, and he has published a blog post with a simple working example of a Quartz.net Console application. I used it with great success yesterday!"
+This is simple I hope :) When I create a new web application in WSS does it need to be on port 80 if I want to point an external domain name at it? Everything is standard in terms of IIS and ports that are open i.e. port 80 is the only one open. I am guessing if I let WSS assign a port number to the new web application surely this can never be accessed externally unless I open the assigned port? Cheers
+"@user2717118: Excellent! Please consider [accepting this answer](http://meta.stackexchange.com/questions/5234/how-does-accepting-an-answer-work), then :-)"
+"I'm just getting my feet wet with multiprocessing(and its totally awesome!), but I was wondering if there was any guidelines to selecting number of processes? Is it just based on number of cores on the server? Is it somehow based on the application your running(number of loops, how much cpu it uses,etc)? etc...how do I decide how many processes to spawn? Right now, I'm just guessing and add/removing processes but it would be great if there was some kind of guideline or best practice. Another question, I know what happens if I add too few(program is slooow) but what if I add 'too many'? Thanks!"
+Have you looked into creating a plugin with waffle? From the waffle guys if should be possible to create a module using the servlet filter code. That would be a pretty awesome module for Play! I'll look into it when I get some spare time. https://groups.google.com/forum/?hl=en#!topic/waffle-users/Q9aRPJitP6g
+"Wow! Very simple , but great effect..."
+No prob. Good luck!
+"Wow, exactly what i was looking for!"
+"Yeah... I'm not a huge fan. Their documentation, tutorials, and guides are pretty nice. Here's the guide: https://parse.com/docs/ios_guide#top/iOS Here's the documentation: https://parse.com/docs/ios/api/ Here's the video tutorial for PFQueryTableView: https://parse.com/tutorials/parse-query-table (A little dated but very nice) Hope this helps! :)"
+I've had great success with 's Auto-Suggest implementation. It includes PHP examples too.
+"after some tests i found a fast solution , you can add in top of your index page: it work very fine :)"
+@PhoenixX_2 no worries!
+"I would just use an @import command at the top of my CSS file, then you can simply add a new font by adding a pipeline to the end of the font and type the name of any other fonts you want. To use them, simply use the CSS font-family style command: HTML Hope this helped!"

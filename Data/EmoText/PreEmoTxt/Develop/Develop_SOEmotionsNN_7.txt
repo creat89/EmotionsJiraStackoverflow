@@ -1,0 +1,223 @@
+my experience with SOAP is not good ): and documentation(at least in D2010) is extremely poor!
+As mentioned on StackOverflow podcast 30 - JanRain RPX has beaten me. Sad face for me.
+"@Almo @trojanfoe yes it was a horrible syntax error, sorry guy's!"
+"Im getting really depressed over this so I could really use some assistance. I created a new project in visual studio. I first created a new header file, called ""MyString,h"" and placed it in the header folder. It contains a class called String. you can see the code I used for it at the end of this I also now have a MyStringTest.cpp file in the source files folder. It has the following code in it. Expected: Compiles and runs a console program which will output ""llo"" Reality: Error: 'Identifier 'String' is undefined Here is some of my code in the header file...i really cant fit all of it. ...."
+I'd forgotten to put the code tags around it and everything was garbled and the formatting was terrible for about the first 90 seconds of life. Apologize to those who clicked quickly and saw the garbage.
+Official guide says: Tomcat deployment is trivial and requires copying the WAR file into the TOMCAT_HOME/webapps folder and restarting the container. But this is really painful :-( Does there any way to deploy app without restarting Tomcat ?
+Can't find any manual about changing width of taglist element size. Taglist element is wider than icons I had set. It looks really awful =( Screenshot:
+Don't have access to any other versions here I'm afraid :(
+Ahw... that's plain sad :(
+"Hate to say it, but I don't think there is a way to alleviate this. I do think that it depends on the client system, though, so a faster javascript engine or machine may make it slightly more accurate."
+no answer yet.... sad =(
+"I didn't find a solution. Thus, I delomboked the source code and done it with plain vanilla Java... sad :-("
+"I'm afraid not! AFAIK, the English resources aren't available at all in other international editions of the OS."
+"Not without logging or tracing, I'm afraid"
+"Yup many hours later I found that a single panel that was wrapped around the section had a EnableViewState=""false"" added to it. Sad part is that I know I didn't add that because I didn't even know what it was until craig here mentioned it. Visual Studio must have added it sometime."
+"I ran into the same thing a few years ago with a PI system, so I do feel your pain!"
+"Next time You could try doing some research yourself? However a quick search of google comes up with a few nice looking tutorials. (Assuming by XAML and C# you mean WPF?) Also try looking at Visifire charts trial, it's quite excellent!"
+"I would say yes, it was Anders Heljsberg's intent to make the observer pattern a first-class language feature with events in C#, based on his experience with Delphi. Anders makes this and other design intentions clear in an excellent interview on ."
+"Excellent, thanks!"
+"Great! Three solutions (from sykora, Leonard and fgm) that make this map work. I like the one from fgm for its brevity"
+"Excellent, exactly what I needed!"
+"There's for a sort that should work, but just wasn't included in the core. Referenced from , I think you just pass in a function that is used to sort, like so Hope it helps!"
+I'm new to developing web applications using the .NET framework. I'm just wondering if .NET has any support for saving a custom int value for each (logged in) user? Could I perhaps use the HttpContext.User property or something? I'd be really grateful for some help on this! /Ylva
+"I want to have a base class which implements some 'conf' interface, then have a class that derive from base class but has its own version of conf class(deriving from 'baseconf'). At the end I would like to have a method with signature BaseProc(Of IBaseConf) Is it possible to write it like that or should I change it completely? The code looks like this: Any help will be really appreciate:) Thanks!"
+"I came across this and really liked their gallery, not sure if the script is in-house or came from some free/commercial script out there ? Thanks"
+I am working on an opensource app that using SubSonic 2.0.3 I need to regenerate some of the code so I need the tool that does that. I cannot find this version 2.0.3 of the code generator executable. Any help would be greatly appreciated!
+"@levi excellent answer!! you save my day!!! I forgot that req and res handle only one connection, so I dont try to call res.end(). Thank you very much!"
+"yes, I have just installed binutils and it's looking very awesome!!! I'm going to check it out! bb with more info"
+Thanks! Both you and Jim were very helpful!
+"I have a small WPF application that hosts a RichTextBox: As shown the code snippet above, I set the font size to 14. If I copy text from this RichTextBox to Microsoft Word or Microsoft WordPad, the font size is reported to be 10.5. Similar oddities persist if I paste text from Word or WordPad. I have verified that the text being selected from my app is sized at 14. Any help would be greatly appreciated!"
+Mark B - excellent - works perfectly ! Thanx again :)
+Very nice! +1
+I'd like to know how I can draw a stepped route in . I've tried all possible options but it doesn't seem to work. I am currently using the code below as I would with the normal drawRoute function: Any help would be extremely appreciated!
+"We use Xceed's 3.0 DataGrid (pro version..but free version is excellent) more extensively than probably anybody. It has the flexibility to handle more things than the other grids.. in my opinion of course. Try them all, there are limitations to each."
+@PhilipOakley excellent suggestion! I hadn't used `cherry-pick` before but that worked quite well. If you post as an answer I'll accept.
+"eXcellent, superb, charm :) Thank you!"
+"I have a long scrolling page, and want to test if an element is 100px from the top, then apply a class elsewhere (until the next element in line is 100px from the top) If I could just get the basic statement I would be ecstatic, anything extra would be a bonus!"
+"""Software developers are always optimists -- just look at their estimating skils!"" - Love it!!"
+"That's terrific, thank you!"
+"I want to know what is good start point to work on creating own GUI on iphone/objective-c. I've never done this part before, and I know I'm kinda attracted to make my own slick GUI, something like convertbot, which I really love :) Any suggestion would be appreciated! Thanks"
+"I know its possible to accept a list of objects as a parameter but what about a list of Guids from checkboxes? This is a bit different as the only name you get has to be the ID. Any help would be greatly appreciated, thanks!"
+"Great, excellent links. Thanks for the help!"
+I agree: Awesome answer! Thank you so much for this borad overview (even if it may be a little bit outdated by now).
++1 for IntelliJ. Worth every penny.
+Excellent answer! Bonus marks for humour!
+Craig Shoemaker has made an excellent show on asp.net caching:
+Excellent! Cheers dude
+"I have 2 images inside a folder called Pics..... Image1.jpg and Image2.jpg. What code must i place inside my Submit button to just delete Image1.jpg located here ""~/Pics/Image1.jpg"" Any help would be great!!!"
++1 excellent ! I was searching it for hours...
+"Wow, excellent thanks for going to the effort to measure the performance! +1"
+"I need to do a strange task. I want to move whole android system to external SD card on Android Virtual Device. I need to do this, because android emulator, emulates SD commands, only for external card image. And I want to get SD commands trace, during Android Virtual Device usage. To be more precise: I want to move at least /system and /data folders to external storage. In such way, that system could still work fine =) Thank You!"
+"Background: The MSMQ is hosted on Windows 2003. The queue that will receive the messages is a public queue. I have installed MSMQ HTTP Support on the server. From some of the white papers on MSDN, it appears that you can insert messages into MSMQ using SOAP/XML. The process, however, of just finding the WSDL endpoint is not clear to me. Any help you could offer would be greatly appreciated! Wish you the best!"
+"A List Apart is a great site, I recommend it heavily! I've also used this article in the past: http://www.websiteoptimization.com/speed/tweak/forms/"
++1 for one assertion per test
+Gotta love stackoverflow!
+The Perl library is excellent for doing the donkey work of interacting with a website to get to the actual page you need.
+"On my site the fb connect login button suddenly became unclickable, I have no idea what I did (top right) If anyone has any idea that would be excellent!"
+"The sollution suggested over here is perfect: I register a BroadCastListener on all Activities that should be removed from the backstack and when I reach the main menu, I just send the broadcast and all receivers call finish(). This works really great!"
+"It's not a place, but I've found by Charles Petzold excellent. It covers everything you ask about and is focused specifically on WPF/silverlight. Of course Petzold (as usual) is able to communicate the important concepts beautifully."
+"Check out It does the ""THIS IS NOT A FUNCTIONAL APP"" napkin view very well and is easy to use. Has a full featured you can try out online and as an added bonus you can email your XML to your client and they can tweak it and play with it and email it back to you without having to have a license."
+"the question just came to me from a different team. The question was ""how to query the users in the exchange server's particular User group"". Its said that the Exchange server user group is not linked to an Ad group. The examples i could get are all for querying based on AD group. I heard there are two ways either through SQL or through DirectoryServices. Either solution is fine, but through DirectoryServices will be super awesome! Thanks again!"
+I absolutely love this tip!
+"@GUI Junkie, I'll keep you informed."
+"I have a javascript document.write function that returns a textarea value to a field like so: Now, I need the output of what is returned from the document.write part to be in BBCode output, so if the value fetched from the document.write function is [b]hello[/b], it returns ""hello"" not [b]hello[/b]. Any help would be extremely appreciated!"
+I am looking to create my own gestures for my iPad app. I know this can be done but don't know where to start. I read that there is some sample code that can store your custom gestures so you can re use them. Think it was as ajson I'm looking to draw numbers as custom gestures but any sample code/tutorial where I can get an idea where to start I would be very great full! Thanks ahead.
+"I have a gridview with rows that can be edited, inserted etc. I wrapped it in an updatepanel to give it an AJAX effect and update the system without reloading the page. I recently got into using jQuery and webservices for my AJAX calls and I absolutely love how it works and how fast it is. I would like to know if it is possible, and if so then how, to update my gridview using jQuery AJAX methods."
+That thing is really really awesome!
+Excellent! Cheers dude
+"I have a new responsive site I'm building and the site's header renders just great in all browsers except Internet Explorer 9. This puzzles me because I thought IE9 was more standards compliant. If I put IE9 in IE8 compatibility mode, it again renders fine. Any insight would be extremely helpful! I'm really stumped and perhaps it's an easy fix. Site Address: IE 9 Screenshot: Chris H."
+Excellent answer
+"is probably not what you want, but is still really excellent."
+"Hey guys. I told my wife all options that you gave and she went for ""As Required"", says it sounded more formal to her, and although Unspecified matches the scenario too, she didn't like how it looked on the agreement. Couldn't mark your answer as preferred since you put it as a comment ceejayoz. But, really thank you all for the very quick answers and taking the time to help!"
+(Great question!)
+"Excellent! It works, thank you very much."
+"In my WinForms app (C#) I have a circle (defined by a ) that I am presently filling with a solid color. I would like to fill this with a circular (not linear) gradient (so one color in the center fades to another color uniformly around the edges). I have experimented with , but am having no luck (I still see a solid color). If anyone has any sample code that does this, that would be terrific!"
+Great! Absolutely wonderful! Thank you very much!
+Daniel Moth has a pretty good blog post about how to do this here: Best of all it is simple and free!
+"I ended up using , which met all my needs and is (IMO) very excellent."
+"how can i use the bliss view engine instead of the usual jade engine in express js. i already found one article here at stackoverflow, but this seems to be for the old version of express.js. i am using the 3.x version. in particular i would like to know how i can install bliss and following to this. how do i make a project in express.js, with a different view engine then jade? currently i use this command in my project folder: thanks in advance!"
+"Thanks Greg, that looks to be an excellent document to read, I'm printing it now."
+Mono appears to have really come a log way since the last time I really used it. I'm interested in doing some ASP.Net development using Mono. I have used .netTiers/CodeSmith at work and really enjoy the speed with which code generation gives you a clean working data access layer. The question is has anybody used any code generation with Mono? I am open to learning something like SubSonic or NHibernate if those work better with Mono. Thanks in advance for any help.
+"There's a sample at the always excellent ""Cocoa With Love"" site:"
+"excellent, thanks to both of you!"
+"@chucklukowski wow, that's just about exactly what I was looking for! I'll be giving that a read-thru. Much appreciated."
+"I really like Kate, and since it's a KPart, other KDE programs use it as the editor, so it's goodness everywhere! (why is everybody else assuming you use windows?)"
+"I'm wondering how Boxcar works, anybody knows? I know how to do the push notification from server to iPhone, but I have no clue of how to create the server to get the @reply and dm from twitter in real time. Any suggestion on what I should look into to create the server? Should I use Twitter's streaming API or User Streams API? Any sample code, in PHP preferably, will be great :) Thanks!"
+i found some class that a very great men develop!!! that solove this: here is a link to download it it the last post on the page: direct link:
+I see... that's really great! Thanks!
+"Heroku is an excellent (free) option: Also, deploying to Heroku is as easy as it gets!"
+"+1: I just used implemented this, it works great!"
+"I'm building a marketplace application that uses PayPal Express. I've got a form for sellers to input their PayPal API credentials, but I need a way to validate them by making some sort of call to PayPal. I'm using the PaypalExpressGateway in ActiveMerchant, and I don't see anything other than the standard purchase controls. Is there any sort of null-operation that can be used? Any help would be greatly appreciated!"
+numpy is awesome :P
+Excellent :) You should add that yourself as an answer and then accept it. It may be useful for others in the future.
+"Excellent! It works like this: [code]extern ""C"" {"
+That would be awesome. I could report 100% success rates on all e-mails! :)
+"While auto layout is a really great thing ! and apple really helped a lot of developers with it , but in my case the solution was to handle it manually by creating two storyboards :) but i would like to recommend auto layout to all developers :)"
+I would recommend -- it's an excellent CMS with great built-in translation.
+excellent solution is in subclass UITextView add lines It's work!
+Excellent recipe!
+Drama-free and practical. +1.
+Loved the keyboard geeks part!
+I love it when I find the answer to my question without having to ask - thanks for running into the same question I had and helping me work through my issues!
+"I'm using some modifications to Glenn Berry's excellent DMV queries! However, I would like to add to the resultset the 'last server restart', or to be more specific, the date/time the statistics for (all, the specific) DMV was reset. Since it would be quite important to know last reset when looking at the statistics, I want to make absolutely sure the date/time is accurate and shown. Question: How can you get the most accurate date/time of when a/all DMV statistic was reset? Thanks! -D"
+This is amazing...I had no idea you could control UI elements without even needing to mess with the UI... You are a hero :) thank you!!!!!!!!!!!
+"Wow excellent! Thanks so much rgeorge, that really helps."
+Thanks for that - I figured that was probably the best solution. Very good answer too!
+Excellent thanks!
+I have used very successfully ( with a tweakette here or there! )
+"I can't help, but good luck! What a great game that was. Will this be a commercial release?"
+@Jonathan: I don't think it's the ONLY sane way to do it :p. Great answer though!
+"If you would like to switch to different network operators - The answer is No, you are not able to do that programmatically. There is no API that supports that. If you want to switch to different wireless networks the answer is Yes, read post. If you would like to check for different kinds of connectivity states - Look . Good luck, hope this helped!"
+Sweet :) Happy hacking!
+"@joe Yes, if I were to declare the property and synthesize it as above, but I don't explicitly declare an ivar myself, the compiler will still actually create the ivar. So I could do `int len = [self.stringProperty length]` as you'd expect inside the class, AND I can also do `int len = [stringProperty length]` as well, without using the accessor method, just directly using the ivar (which the compiler has synthesized for me, along with setter+getter). It's really fantastic!"
+"Everytime I restart my computer another Ethernet adapter local area connection is created. I've tried to search the web for other people having same issue, but without luck. Hope you guys can help me out, it would be extremely helpfull!"
+"I'm wondering if its possible to join together IEnumerable's. Basically I have a bunch of users and need to get their content from the database so I can search and page through it. I'm using LINQ to SQL, my code at the moment it: I hope that make some sense! Matt"
+Found this on Gamasutra a while ago: Hope it helps!
+Great descriptions of all the answers !
+Press CTRL+C and keep on processng CTRL. Query was killed for me....:) Ubuntu 12.04
+Great work in finding that bug report ticket! I was able to see the issue in the [fiddle](http://jsfiddle.net/5SCnJ/) that they provided. Notice also that the bug has been fixed! All you need to do is use a jQuery-ui >= version 1.10.3. I forked their fiddle and tried it with 1.10.3 and the issue goes away. Check it out [here](http://jsfiddle.net/mcoomey/JPC4J/1/). @user3496151: The fix that I demonstrated in the previous
+"What you can do here is hide the button that pushes the view that only instructors can see, if the user is logged in is of type student.In the view that has the button that pushes the view that only instructors can use do this:In the .h file create a property for the button that pushes the view like so: In the .m file:In the viewWillAppear method of the view do the following check: This way, when the view loads, the button that pushes the instructor view will only be accessible to the users of type ""Instructor"".Hope it helps!"
+Very excited for my first post on SO! I would like to create an animation like in xcode I am not having much luck with what CABasicAnimation has to offer. Feels like I may need one of those fancy physics engines...(?) How would one properly begin do this? Thanks!
+"To expand on my comment, if you don't already see then benefits of relative positioning then I'll assume you are a begginer. Here is a useful video to help you re-design you page: Also, this is useful for comparing when each positioning method is best used: And finally a general website that will be extremely useful for you in the near future may be !"
+"It would be a good practice to have a separate button that will disable method since it is very easy to get confused when using your program if the code for disabling and enabling this method is all written in one method named so I suggest you separate them to make the program's design more precise.Next thing you can do is to execute a , whic you are going to mark as . After having done this you can use .Here's how: Be warned that it's sometimes dangerous to throw exceptions as it creates some other bugs, but this option won't hurt much if you're just trying to disable a function. By the way, this will really not remove the method as it will just replace it, it's now up to you to choose which method will receive this. Hope this was helpful!"
+"If it wouldn't have been a programming question, The answer of your title would be Priceless :)"
+You can use this Hope this helps!
+ROFL! Upvoted for the hilarious title! :D
+Got some help from . Here is my Java class: I used for the base64 encoding. Here's my C# class: I really hope this helps someone else!
+"Here is an answer to a similar question: It's a complex workaround, but looks working pretty fine!"
+"Reviewing the MSDN docs for the functions listed , I see that the function checks with the SMBIOS table, which is referenced by a standard It appears that you indeed can find the information you seek through the BIOS. You may have to install a driver to get that information out to your program. Good luck!"
+"In my WinForms app (C#) I have a circle (defined by a ) that I am presently filling with a solid color. I would like to fill this with a circular (not linear) gradient (so one color in the center fades to another color uniformly around the edges). I have experimented with , but am having no luck (I still see a solid color). If anyone has any sample code that does this, that would be terrific!"
+"I don't think that it is possible to compare a shelved version with a local version in Visual Studio, however I'll be very happily corrected on the matter."
+Excellent ! It works !
+"You may be looking for a solution similar to Josh Smith's """". In his article, he presents the following: And then uses the multi-value converters as follows: Hope this helps!"
+"@ecu - Excellent :) I added an answer so future googlers can find the answer a bit easier, it seems comments aren't looked at nearly as often when scanning for the reason."
+"Take a look at this , and rejoice! :)"
+"Actually, I've just fixed it. Fiddled with ColorBox and got it working. I'm running it in a function every time the images change, which didn't seem to work with the previous lightbox plugin but does with this one. Hurray!"
+"Just use RotateFlip: As @Dan-o has pointed out, this allows a rotation of any of the degree's in the enum. To rotate a Bitmap any angle without losing the size, you could do the following, but it's a bit convoluted! One - Add the library to your project Two - Add the XAML, WindowsBase and PresentationCore libraries to your project Three - Use the following to rotate your Bitmap any amount of degrees: Pain in the ass, but works!"
+Since I was also looking for a way to use the empty word epsilon I came up with the following approach. I simply used an empty production rule such as: Hope it works - at least for now it seems so ... Addendum: It works pretty fine :)
+"I found the answer! It appears to be an issue with sending to the development device tokens. Like most people, we have a database that stores the device tokens, and the earlier records were populated with our device tokens from testing. As soon as I net out those device tokens from my list, all works! I really hope someone finds this useful!"
+"It's scary that there is no way, but I must agree because it's fact."
+"Its Ajax, I dunno anything about it. And looking at the link which you have given seems very scary to understand and implement."
+"In my mental model of authentication, a user should be distinct from the way they log in. So for example, a User could have an associated EmailLogin (with an email/password), or they could have many (or none). Similarly they could have 0..* associated OpenIDLogin credentials. Are there any existing authentication libraries for Rails which use this method? Alternatively, is this a really terrible idea?"
+I have a page running on my local django dev server with the Django Debug Toolbar that seems to be running quite slowly but I'm unsure why: Django Debug Toolbar says SQL - 46 queries in 39.80ms And then running a profiler I get 7926 function calls (7774 primitive calls) in 0.024 seconds So I'm left wondering why is the profile time so much lower than the Total CPU Time? And then how can I find out what's causing the difference? And secondary to that - should i be worried about the 16842 involuntary context switches!?
+"@RogerRowland: Everything else works. All my apps, including VS, and my other dev projects. So I'm really afraid to break all of them."
+"i am working on iphone app, at once it started showing me error, with no exception, i am really afraid of this error, can any one tell me why this is happening?"
+That `#define n 10` is scary :( Are you sure you don't intend on using that letter anywhere else?
+"Got it! Thank you all for helping me reach a great ""Aha!"" moment :-) ...hopefully after I spend some more time in WPF I'll understand why this works."
+New to programming and this is my very first post! Very exciting:D Thank you all in advance for sharing your expertise. I would like to be able to somehow reference the earlier created timer and to be able to extend it (call Change upon its instance perhaps?) on Button2_Click. Please take a look at the code below:
+"It is all good, I found this to be very helpful. The following article is excellent !"
+"claims to: Export Balsamiq Mockups to HTML/CSS/JS and Adobe Flex 3 at a click of a button. Balsamiq's perfect companion No coding skills required Pays for itself after one use If it really ""works"" Napkee could be extremely useful. Does Napkee work as advertised? What is the quality of the exported HTML? Is it a must-have companion to Balsamiq (which I love)?"
+"I am currently using the following jQuery script to highlight rows in my table, and it works great! This works great for tables of data where each row is truly a new record, however, I have run into an issue where I have records that take up two rows of data and would like to modify the jQuery so it renders something like: How would I accomplish this in jQuery where I want every 3rd row to have a class of 'alt1' and every 4th row to have a class of 'alt2'? Thanks in advance!"
+"I have a function name called setValue, used in many classes. Also, i have a global function by the same name. When i press C-], it goes to arbitrary setValue function. How do i directly jump to the global setValue function? It is really pain to use tnext every time to find if the function global."
+"Ironically years later, I'm wondering why in the world I wanted to do this. I hate apps that do this."
+"Currently the msbuild logs for team build are appalling as they are just plain text and are very difficult to read. Also the ones created by my build are approx 30Mb and take quite a while to download (our TFS server is in our datacentre). Does anyone know any way of being able to view these logs easier, prefereably integrated with either TFS itself or TFS WebAccess?"
+"I am trying to change a bit-map's pixel color if it's white. I wrote following code. But it's awfully slow!. i want to check if a pixel's color is white or not, and if it is white, change the color to black. Can anybody suggest a better approach?"
+"no i got errors saying undefined, the swf code loads the other pages such as back buttons etc. it very frustrating tearing my hair out!"
+"Got a spite downvote, it's still a valid question."
+"There's always the poor man's alternative of just loading a bajillion individual frames as .gif/jpg/png and having javascript display them in sequence. It would be absolutely horrible for bandwidth and memory usage, and of course no audio, but it would (somewhat) simulate video being played. Of course, on Windows platforms, you could use ActiveX and/or embed media player and play avi/wmv files as well, without ever touching flash."
+Believe me without an IDE you just waste your time and it is a real pain ! if you feel that visual studio is expensive you can try the or go for or
+"Shortcut keys often don't work the same way across all browsers. And they are awful on Opera. And most users won't use them. The only thing I'd bother with on most sites is buttons for next and prev, and I'd also make the alt tag say ""next"" or ""previous"" to assist browsers with fast forward."
+"Im maintaining a site where I need to 'click' a link with javascript. The href is inline javascript, not a url so I cant just navigate to that url instead. Im expect this is bad practice (the rest of the site is terrible!) but I need to make the link 'clicked' with javascript. Im using jQuery. I know this question has been asked before but it seems normally people are trying to follow the link, which I am not."
+Nothing. Regex is something I have to learn. Javascript.. I hate it!
+"I have a custom UITableViewController class that is shared among a few ViewControllers of my app. I would like to do pre-emptive fetching before the user has hit the bottom of the page. However, I noticed that if the user scrolls up and then down again, my VC will trigger another fetching. So I came up with a flag isFetching which checks to prevent double fetching. Unfortunately I am running asynchronous code and I need a way to reset this flag after my fetching operation has completed. FeedVC: Delegate: I find it very painful to pass around a finish bloc in order to flip a boolean. does anyone have a better recommendation?"
+"Why do so many people not understand the importance of permanent URLs?? Even Adobe, selling products to build web applications, regularly fails at this!"
+Extremely lousy solution.
+Won't that be horribly distracting?
+"All the formatting templates in Eclipse will put the plus on the next row (which I find really annoying), so you can simply apply the code formatter and the plus will end up on the next row."
+"I use neo4j tool to start Neo4j in windows, But a strange thing is, today, when I open the neo4j shell, I start it , but no response, the status is in yellow and never turn to green, it can't establish neo4j server. It is so terrible for my database!!!! Does anyone meet this ?"
+"I know it's just example code, but I really hope your `manager` and `staff` class names are not really lower-case!"
+"Ternary gets _extremely_ ugly if you're using more than one else statement, I wouldn't recommend it at all, let alone in this situation."
+"I don't want to do anything fancy on Twitter except post to it via my site once a day. I have searched around a bit and there are all sorts of super-complex ways to do every little thing that Twitter does, but there seems to be little documentation on how to do the simplest thing, which is make a post! Does anyone know how to do this? Or can you at least point me in the right direction? I don't need full wrappers or anything (), just one simple function that will post to Twitter. Thanks!"
+"I'm running into extremely frustrating problems with Boost. When I try running something as simple as I get back: Why is this error occurring, and how do I make Boost.Lambda do what I need? (Yes, I'm aware I can use Boost.Phoenix et al. too, but that's not the point of the question.)"
+"If you are concerned about code re-ordering you are either creating some funky and hard to understand and maintain code, or else you probably don't need to worry about it. Can you explain why you think the code snippet you supplied will be reordered?"
+It's a very painful process to ajax `files` to a server side script. You might try: http://fineuploader.com/
+"In python's the following minimal working example below draws correctly to the screen, and to the . In the resulting however, the edge lines are still drawn. How can I fix this? PNG result PDF result While it seems trivial, it becomes extremely problematic when you stack 200 plots, all you see is an ugly mess of black!"
+"Currently making a java program that grabs data off of a MSAccess Database and some of these errors are extremely frustrating. I keep getting this SQL.Exception : Too few parameters. Expected 1 error on the last remaining bugs in this program. Little background on the db: It has 3 tables (A player table (11 columns), a team table (3 columns), and an Opponent table (6 columns). These are both of the functions and I am fairly certain the problem lies in here somewhere or this function"
+"I was intending on use the Title attribute in the @Page directive to customise each pages title, but it simply doesn't appear to do anything. The site uses master pages - I don't know if that is a consideration. Master Page snippet: Page snippet (from ): What is more, if I run the page through the , it complains about... end tag for ""head"" which is not finished ..whereas the the tag is present in the source code. I've already got a workaround in place, but it's annoying the hell out of me, so I'm determined to find a resolution!"
+"They sure didn't @MichaelSzyndel . It's extremely frustrating. I am using the latest ver, too. I really would like to get it working properly."
+"Ok, here's one way of doing this, but it's terrible! I'm still looking for an easier way:"
+You could achieve all this with reflection but it would lead to a really horrible code. You'd better access individual members of the view model:
+"And what do those ""lines upon lines of errors"" say? (Sheesh! Getting information out of you is about as painful as pulling out teeth!!)"
+"This isn't worthy of an ""answer"", but I thought I'd mention: many of the interfaces I've really enjoyed have been minimalistic -- there's almost nothing for me to see. Like QuickSilver for OS X."
+I am currently scripting Blender right now but it's excruciatingly slow for large models.
+"Dude I feel your pain, same issue here."
+"That's clever, but the performance must be HORRIBLE. Not that I'm saying there's a better answer, just shuddering at the O(n^2) of it."
+"so im using a simple submit binding to pass a function data: i just started working with KO so i was to write a basic print function to test this input out: my problem is when i hit submit i get a ""you entered: undefined"" but when i refresh the page the input that is in the form gets an alert. this is very frustrating! idk if this is a knockout problem or a simple HTML one."
+"Anti-JavaScript snobbery! Every language uses a separate platform on some level to parse and execute the code. JavaScript is just another language, capable of writing ""programs"" or ""scripts""."
+"The dreadful integer arithmetic attacks again! When you calculate ((3+2+1)/100), since all the operands are integers, Ruby uses integer arithmetic rather than floating point arithmetic. If you do 7/100 it will also return 0, as it's rounded down to the nearest integer, which is 0."
+"I'm trying to insert the following array ( from a html form ) but i believe i'm working with this array in a very awful way The array: Actual code: ?> current output: What would be a decent way to do it? EDIT : No need to show how to connect to a database, i just need to deal with the array data."
+@augustss: with `ImpredicativeTypes` you can make monadic binds polymorphic as well (though it requires a heck lot of extremely ugly type annotations).
+"That was a terrible article, it started out right, Fisher-Yates/Knuth shuffle, then goes horribly wrong by trying to randomly order using guid as a source of randomness. Don't waste your time and just read the Wikipedia article on Fisher-Yates or use a library that implements shuffle correctly."
+"Solution found . It's a known bug at Microsoft since may 2010, and they have still not released a patch. Have to use the workaround suggested there. What a PAIN!"
+"(For the record, I find the Infragistics WinForms controls to be considerably easier than their ASP.NET controls. I think a lot of their bad rep comes from the ASP.NET side of the world, where certain tasks become a major pain and their Viewstate usage is off the charts.)"
+"Somewhat new to OOP (i.e. C programmer converting to C++) and cannot figure out why my data members in my backpack class are empty. I make pass an array of potions to my backpack, yet the data members are saying mType = """" (i.e. nothing). I have never felt this lost in a program before. Starting to hate OOP (i.e. kidding...but this extremely frustrating). main.cpp potion.cpp backpack.cpp"
+"For C# Visual Studio uses 4 spaces by default, whereas for C++ it is hard-tabs. Why is it so? Why is it different? My project consists of both C# and C++ code and the difference really annoys me. I want to set a common standard for all the sources, but I wonder if this would have any drawbacks."
+"The question on how to check input for validity is answered numerous times! You just check whether the stream is in a good state. If not, you'll reset the stream and ignore the character. Search for question where this answered. Also, don't use exceptions for non-exceptional cases and *always* throw something derived from `std::exception`: once you have tried to locate where an exception came from which isn't derived from `std::exception` in a program with a few million lines of code you'll find it extremely helpful to look at what `what()` returns!"
+Absolutely terrible!!! It is not Dependecy Injection
+"Oh, man, I am sorry but I must say it: your code is really awful... It is not organised at all, but maybe... shouldn't be instead? EDIT: try to comment the second and third queries, since they seem useless, and make the ""cur"" -> ""cursor"" change I suggested:"
+StyleReports is one of the most heinous toolsuites I've ever had to use.
+"I'm trying to output the following from within a liquid template: Obviously, Liquid sees this as a variable named and tries to do substitution. I'm trying to find out how I can output the actual braces. So far, I've found one method that works, but it's incredibly ugly: Yeah, told you it was gross. Here are other things I've tried: Any advice here?"
+I see Microsoft is still at it with their horrible magic version control stuff...
+"Just let IE6 flicker. I don't think it's worth it to invest time in a dying browser when your base functionality works well enough. If you're worried about flickering for accessibility reasons, just sniff for IE6 and replace the animation with a generic show() and hide() instead. I recommend avoiding complicated code for edge cases that don't matter."
+"Part of the reason why this is ""Dog Slow"" is that you are building the proxy every time you connect to the service. You could avoid this pain by using wsdl2ruby to build the proxy permanently and then call the pre-generated proxy."
+"Not for me, but I can suggest some possibilities :It may cause problem while editing--> This can be solved by using some comments--> And then this will cause the code messier Some code may crash and your code success will go away from you |.|--> No solution - unless you know more about the code! Code upgrade problem-- If external code has upgrade you may have problem to know which is that code--> Again use comments--> And again messier So these are some that I can think about!EDIT---Some cons:You can make it more convenient to edit--> You can edit more than one code at onceYou can edit some code that you wan't able to edit (external resource before)--> Modifying is more convenient.You can make it load faster--> 1 file with 1000 KB is faster than 1000 files with 1 KB each.It is safer--> You don't need to worry about external resource being deleted!!These are my suggestions. Try to think more about it!"
+"I have a method that does a bunch of things; amongst them doing a number of inserts and updates. It's declared thusly... It works exactly as it is supposed to and I have no problems with it. There are situations however when I want to force the rollback in spite of there not being an exception... at the moment, I'm forcing an exception when I encounter the right conditions, but it's ugly and I don't like it. Can I actively call the rollback somehow? The exception calls it... I'm thinking maybe I can too."
+"I'm nearly reaching rage mode! Can anyone help me with this?? I setted a limit on a CodeIgniter Model so I can only that set of results. Why is it not working? The records are displaying correctly on function call, but I'm getting more than how it's supposed to"
+"I'll second the NI Measurement Studio. I've plotted 1000 points/sec with NI Measurement Studio's chart control. Also, this test was done on a laptop with a very lousy video card. AFAIK, Measurement Studio is using OpenGL internally."
+"This is extremely ugly C-style code, easy to get wrong. While the bugs in your code have been fixed by earlier birds, here is the C++ way to do this:"
+"I had to do this once in Notes for a plugin I was developing. What I ended up doing was editing the Notes template in the designer, and then writing some LotusScript behind it that called a .NET class via a DLL. So when you clicked the button, it triggered the event in the LotusScript, and then called the DLL, and passed the item information to it. I should also note that it was a freakin' bear to figure out because Notes documentation is terrible."
+"I've done some easy .hover(function() statement in jQuery. When i hover over a text i simply want a #div.fadeIn, and on non-hover fadeOut. It works. But it's just if i spam the text-trigger with hover and un-hoverring really quickly and then stop the animation begin to give a blinking effect. It just kind of loops, really annoying!"
+Talking about feelings.. I really hate the asp.net CalendarExtender..
+"I'm trying to do this in a makefile and it fails horribly: do you know why? I guess it has to do with escaping, but what and where?"
+"Holy thread abuse, Batman!"
+"is not an , it's a basic type. You can only add NSObject-derived objects to an NSArray. The EXC_BAD_ACCESS is probably because, under the covers, it's trying to access an object stored at wherever your int is pointing to. In other words, it's using your int as a pointer to an NSObject and failing horribly when it does so."
+"You should never, ever use . It gets really really slow as the size of table grows. Instead you should . In case you have irrational fear of learning, here is there solution which would do what you ask for:"
++1 I was thinking of programming this myself. I really hate switching between my headphones and HDMI output.
+"Getting the ssrs add-in to install properly was a complete pain. I think it had to do with the fact that we did development on the server prior to installing the ssrs add-in. I ended up un-joining the farm, re-joining it, then installing the component. That got it to work. Then I just had to re-deploy solutions, re-activate features and re-configure my web.config."
+"I have an Android app that looks absolutely horrible if the user sets their font size to large or extra large (via Settings -> Display -> Font size in Ice Cream Sandwich). It just plain wasn't designed for variable font sizes, and it makes a lot of the text unreadable. I've seen applications that preserve the font size for most views, so I know that there has to be a way to do this. Is there a simple way for me to tell the application to ignore the user's font size preference? And if there isn't, how would you suggest that I go about calculating the font sizes? If nothing else, is there a way for me to retrieve the user's font size preference?"
+"Yup, wcf is a world of config pain, stick to asmx"
+although I feel incredibly stupid/angry or both
+"Wow, would have expected a quick answer on this! Well, found my own answer: you can't have more than one exception with except. See the here. Instead, they recommend creating a Filter. ."
+its a very weird behaviour!
+Hasn't made a difference I'm afraid :(

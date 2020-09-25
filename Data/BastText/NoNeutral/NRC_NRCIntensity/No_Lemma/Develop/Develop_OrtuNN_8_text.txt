@@ -1,0 +1,152 @@
+__label__joy	great , thank you for the commit harsh ! mitch , thank you for providing the detailed bug report .
+__label__joy	upvote patch looks good . the checkstyle . xml is specified in hadoop - project - dist / pom . xml .
+__label__joy	upvote patch looks good . this cleans up a lot of code .
+__label__joy	upvote patch looks good .
+__label__joy	upvote the patch looks good .
+__label__joy	good ideas , thanks alexey . i 've updated the test patch .
+__label__joy	long life myfacesssssssssss !
+__label__joy	i tested a couple of projects with idea and and some more with idea , and everything is working .
+__label__joy	upvote the new patch looks good .
+__label__joy	thanks ashutosh and gunther for your help !
+__label__joy	thanks once again .
+__label__joy	nice , i did not think about using the system tables .
+__label__joy	good idea especially if you have a use case for that .
+__label__joy	thanks alexei , the patch is fine .
+__label__joy	upvote the patch looks good .
+__label__joy	however , the goal of the test was very good .
+__label__joy	well , the fix looks good enough . seems there is a lot of dead or half - broken code around st_print_frame ( ) / exn_print_stack_trace ( ) , but those deserve good refactoring all in all .
+__label__joy	as suggested above ; i moved the detector classes from o.a.t.detect to o.a.t.parser subpackages in revision . that should complete the last remaining open issue with this feature ; so resolving as fixed .
+__label__joy	thanks to ernst fastl for adding this .
+__label__joy	sounds like a good idea .
+__label__joy	so very cool , and so very committed -- thanks matthias , this is awesome .
+__label__joy	upvote looks good - all tests pass .
+__label__love	hi tiago , thanks for looking at this issue . on visual inspection of the change , your text change looks fine . however , i ca n't apply the patch . you need to svn diff from the top of the tree show it shows the path staring with java / engine / ... you should reopen the issue until it has been committed . also , just for good measure you should run suites . all and derbyall in case there are any canon updates needed . thanks kathey
+__label__love	ok thanks ! closing the issue then .
+__label__love	thanks suresh
+__label__love	passed tests and committed to trunk . thanks charles !
+__label__love	addressed review comments . thanks vinod .
+__label__love	hi anahita , your patch tested successfully .
+__label__love	upvote thanks , committed to cassandra- as commit 3a7093356ca032d9ce8767b2c47980aebe4bce60
+__label__love	integrated to , and trunk . thanks for the patch , chunhui . thanks for the review , lars .
+__label__love	thanks [ ~ ajisakaa ] . upvote pending jenkins .
+__label__love	thanks andrew , committed in rev.
+__label__love	thanks for you work on this jayachandra .
+__label__love	if you would like to take up this work , that 'd be great .
+__label__love	hi edward thanks for spotting it .
+__label__love	thank you very much for your effort david .
+__label__love	hi bruno , i like it , seems to work well at st glance thanks !
+__label__love	committed this . thanks .
+__label__love	upvote thanks
+__label__love	fix applied , thanks .
+__label__love	committed to trunk . thanks [ ~ elserj ] !
+__label__love	hi , thanks ! too be honest , i have n't looked at noop much . it was just used in the original patch . i'look at your updated patch and see what more work needs to be done .
+__label__love	all the regression tests ran cleanly with the patch . committed revision . thanks for fix , ed !
+__label__love	i just committed this . thanks , amareshwari !
+__label__love	thank you , carol !
+__label__love	thanks alexey ; mark . i took the latest patch from alexey ; incorporated marks suggestion and committed this to trunk .
+__label__love	hello leo the patch has been applied at revision r479576 , thanks a lot for this enhancement , please verify that the problem is fully fixed as you expected .
+__label__love	thanks for your patch and your investigations ! i reopen the issue , will apply the patch soon .
+__label__love	@ted thanks for taking a look . sure , i will make that change on commit .
+__label__love	thanks guys !
+__label__love	thanks senaka for the patch .
+__label__love	oh , thank you lohit . then should we close this issue ?
+__label__love	i was able to download and extract http://db.apache.org/derby/docs/docs- .tar.gz just fine . thanks for working on this , myrna .
+__label__love	thanks for the explanation upvote for the patch .
+__label__love	very cool . thank you .
+__label__love	hello andreas , thank you for the information . shall try the same and upload the patch shortly . thanks & regards , ravikiran mane .
+__label__love	thank you jing for the review .
+__label__love	i just committed this . thanks , omer !
+__label__love	thanks sharan !
+__label__love	thanks karl .
+__label__love	sweet ! git , i love git ! 🙂
+__label__love	regex is your friend .
+__label__love	thanks for taking a look , jiannan
+__label__love	patch is committed to the trunk . thanks niraj .
+__label__love	upvote looks good .
+__label__love	committed to trunk . thanks , thejas !
+__label__love	the issue is very old . can you please confirm it with the latest cvs source cut ? thanks !
+__label__love	thanks amit & vivek - committed at r907620 . -- ashish
+__label__love	sweet , i will review and apply .
+__label__love	mind taking care of this one doug ? this looks like a .0ism so needs dnoting so in the book as for . thanks .
+__label__love	thanks rishi solanki to review the patch .
+__label__love	hi i ’m trying to use hive performance benchmark . i read readme file and followed step by step , and finally i reached to the data generation part . teragen has no problem , but i face a problem with htmlgen . i configured something to my own cluster ( vms ) , and launched generatedata . py , but it never finished ! i launched it about hours ago … so , i modified uservisits and rankings in config . txt to be smaller , but it was also failed . even it consumed very little resources when i saw ' top ' information in the ubuntu . have you guys ever met this kinds of problems ? and if you have , how did you solve this problem ? thank you so much
+__label__love	committed branch and trunk . thanks for the patch mikhail .
+__label__love	hi bilgin , you are right the entitymode . xml can be removed but i when i add it i 'm thinking to add a new filed to posterminalinterntx entity to store " pos paid reason " instead of store it in the reasoncomment field . i have already created some enumeration into demoposdata . xml but it is still not been used . there are still a lot of things that has been not implemented or not working so contribution from other people are welcome . removing the hardcoded value pos- into webposevents . java at line is something still to be done . i 'm thinking to add a combo box after logged in to choose the posterminalid but i did n't get the time to do it . thanks marco
+__label__love	i 've just committed this . thanks edwin !
+__label__love	committed . thanks namit !
+__label__love	thank henri and don ! i found there are two common-validator.jar in my jboss application server env . one in % jboss_home% / server / default / lib / and the other in the lib directory of my web application . then i delete the latter and it works well . thank you so much !
+__label__love	i just committed this . thanks jeff .
+__label__love	patch is in. thanks , jarcec .
+__label__love	hi rich ! thanks for taking the time to move forward on this . i did n't have any junit problems at all with maven2 when i installed it . but clearly we 're in a world of hard - to - replicate behaviors here . 🙂 what is the exact problem you 're seeing ?
+__label__love	committed , thanks namit .
+__label__love __label__joy	thanks bruno and bilgin , you patches are in trunk revision : great to see good cooperation at work 🙂
+__label__love __label__joy	committed . thanks yuntao !
+__label__love __label__joy	this looks good , but a bunch of tests are now broken because of the new hidden input , i will fix the tests , do some more testing and commit in the next few days . thanks for the patch !
+__label__love __label__joy	thanks for the new patch , kristian ! the changes look good to me . upvote to commit . a tiny nit in statementpoolingtest ; the code below could be expressed with an assertequals now that there 's only one condition : if ( ! simplename . equals ( expectedname )) { - if ( ! simplename . equals ( expectedname + " " )) { - fail ( " expected class name " + expectedname + " or " + - expectedname + " , got " + simplename ) ; - } + fail ( " expected class name " + expectedname + " , got " + + simplename ) ; }
+__label__love __label__joy	fixed . thanks for report ( even if i 'm not sure empty password is a good idea 🙂 ) .
+__label__love __label__joy	looks good . thanks for your work on this !
+__label__anger	that irritated the hell out of me too , but i did n't realise it was configurable in the . launch file .
+__label__anger	damn …
+__label__anger	that being said , i 'm not totally opposed to making the limit configurable .
+__label__anger	the samples you gave are different .
+__label__anger	it really sucks that there is now way currently to include transitive dependencies .
+__label__anger	i am currently trying to get it into ajdt dev builds but my git push is timing out ( damn thing !
+__label__anger	how bad is it ?
+__label__anger	@oleg , please accept that my " logical " is different from your " logical " .
+__label__anger	i think the correct resolution is to ensure that the prefix stack mechanism gets reset each time the xmlreader is used .
+__label__anger	please forget last comment , it is incorrect .
+__label__anger	my bad .
+__label__anger	am i doing something stupid here ?
+__label__anger	i did n't do that because that seems bad in hive , so i returned " null " from the operation .
+__label__anger	will still be stuck in the loop though if ca n't actually close regions .
+__label__anger	my bad .
+__label__anger	my bad .
+__label__anger	juhani .. my bad , i was mistaken .
+__label__anger	in this case , data would pretty much just silently be lost .
+__label__anger	shit , there is an dependency . please go to preferences - > ldap - > entry editor and enable the option " show operational attributes " .
+__label__anger	pull it back in if you think different .
+__label__anger	bad ie .
+__label__anger	it also happens at the very startup after he has loaded only sstables ( hence datatracker likely have sstables , not a shit load ) .
+__label__anger	also , your username was stupidly named and confusing , so i deleted it and created a new one more appropriate .
+__label__anger	sorry , i guess i 'm against " never computing this shit " ... because you guys think returning nan is ok .
+__label__anger	if so , can you see if you can git bisect this bad boy ?
+__label__anger	ah , too bad .
+__label__anger	who made this stupid rule ?
+__label__fear	hi dave ; i am not jira wise ; i 'll see if i can change the original ; if not ; i 'll start a new thread . it worries me that the last binaries are two years old . it seems to say that nobody is using ws - rm ; which i can understand . i will check with axis2 before i update the jira . i wo n't check with ; since i am using features . cheers ; patrice / ;
+__label__surprise	i wonder if we could do some sort of auto-detect i 'll poke -- getstream ( ) .mark ( ) / reset ( ) can probably work for xml / json but it may break things for javabin
+__label__surprise	i do have some interest in working on this ; but it 's not currently on my radar . implementing solr- would illustrate the issues that need fixing ... although if this is tackled first ; writing solr- would be much easier .
+__label__sadness	bq. so we can add isalreadyexpiring ( ) and if true sorry it should be so we can add isalreadyexpiring ( ) and if flase we can go with expireifonline
+__label__sadness	sorry for the link ' block ' ; ca n't undo it … i wanted to add a ' clone ' link .
+__label__sadness	forgot asf grant .
+__label__sadness	the patch should be relatively trivial , but like i said , i have no idea if there is other important stuff going on there or not .
+__label__sadness	i do n't have resources to hand to test this at mo .
+__label__sadness	i almost forgot , as i received the email notification on the weekend .
+__label__sadness	sorry for trouble . i did n't realize that port and context path is configured via pax web & cxf bundle configuration in servicemix
+__label__sadness	i 've tried something similar ( i removed the handlers and kept the readers ) , but the performance was not visible .
+__label__sadness	sorry [ ~ kumarr ] , let 's just do this in .
+__label__sadness	missed new files - sorry !
+__label__sadness	oppss … sorry late reply … thx for handling this issue claus . i prefered it to be the way it is now ; document this behaviour as claus already did . i think there might be both behaviour have its particular usage ; if we want to have a param that is a string ; it makes sense to use < param > ... < / param > ; anything in between that 's enclosed with %{} will be evaluated and its tostring ( ) called . on the other hand ; if we want an object ; we could used the value attribute . i guess what i 'm trying to say is that both way of using param have their own usage . of course this is just my cents
+__label__sadness	sorry .
+__label__sadness	sorry for the noise .
+__label__sadness	not sure i want the transient inability to clean up some local log or other trivial task to kill a whole pig job ?
+__label__sadness	sorry i missed the " overwrite " keyword .
+__label__sadness	but it was not the only issue : we also want to manage priorities between the tasks , but we need to read them to get enough information to make the right priorities .
+__label__sadness	sigh , i do n't like this overall if ca n't reuse everywhere .
+__label__sadness	sorry for the huge delay fabio .
+__label__sadness	sorry for the noise .
+__label__sadness	sorry … redeploy patch
+__label__sadness	i 'm not sure what the problem is , but the behavior ( at least in ) is that the _ isclosed atomicboolean is not being set to closed in a timely manner .
+__label__sadness	sorry 😉 upvote
+__label__sadness	sorry for the late reply . your corrections look good , i 've just applied them . thanks !
+__label__sadness	sorry , db name is tpcdb , user name tpc , pwd whatever …
+__label__sadness	sorry for that .
+__label__sadness	the responder seemed to be a bottleneck .
+__label__sadness	sorry , patch is attached
+__label__sadness	hey vikram -- sorry about that , i have n't paid much attention to this issue .
+__label__sadness	sorry for the missing class src / java / org / apache / jdo / tck / lifecycle / statetransitionsreturnedobjects . java .
+__label__sadness	sorry i 've been mia on this issue .
+__label__sadness	missed new files - sorry !
+__label__sadness	sorry .
+__label__sadness	oh , i 'm sorry , i was unclear .
+__label__sadness	sorry about the trouble .
+__label__sadness	working : - bash on linux not working : - bash on solaris - csh on solaris - ksh on aix - bash on aix so , you 're right . i close this bug as " work as designed " . sorry for the noise 🙂

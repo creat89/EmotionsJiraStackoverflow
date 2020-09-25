@@ -1,0 +1,410 @@
+__label__anger	guys … this is so stupid …
+__label__anger	@idiot yeah , i was on that idiot - path for a good while but commons - lang is a hairball , at least where this hashcode making and equals is concerned .
+__label__anger	i suck .
+__label__anger	but i will quit committing to hama then , because i 'm not going to support only a binary format .
+__label__anger	this is not what i build a framework for .
+__label__anger	negative , i am against fetch groups in principle .
+__label__anger	shit , there is an dependency . please go to preferences - > ldap - > entry editor and enable the option " show operational attributes " .
+__label__anger	damn !
+__label__anger	it was a pretty stupid idea to use a static array of instances for quorumopmonitor .
+__label__anger	wow , it 's like thrift is going out of their way to make life suck for us this month .
+__label__anger	this really sucks !
+__label__anger	why the hell is this not a bug ?
+__label__anger	what the hell are you waiting for ?
+__label__anger	damn , i would close this out from the fix to jbseam- , except the quartz and seampay examples use a custom xml namespace and the xml schema validator is not happy with that .
+__label__anger	it sucks to lose the code readability , but it seems like a reasonable price to pay .
+__label__anger	who the hell starts using our jira for typing lessons ? ! ?
+__label__anger	finally closing this bug from hell .
+__label__anger	i am an idiot - this was a dupe of guvnor-
+__label__anger	tricky shit man ! i think i found the issue !
+__label__anger	oh man ... it 's a fucking precendence problem .
+__label__anger	that sounds like some serious buck passing .
+__label__anger	i think we all know it just sucks .
+__label__anger	this is where it gets confusing .
+__label__anger	if i can give you one advice on this one , i 'd say this : fuck derby , use h2 instead as the default embedded database .
+__label__anger	( do nothing ) : are you serious about that ?
+__label__anger	so , i 'm fine with your logic , but given that i do n't understand it please do n't get upset when i ask questions on how i have to use it .
+__label__anger	oh fuck 🙂 sorry . not my day , more beer needed !
+__label__anger	if you want to make these optimizations , fix the apis so its intuitive , otherwise , no way .
+__label__anger	we should not invoke the global synced fieldnumbers shit for every element , only when the setting actually changes
+__label__anger	i wholeheartedly agree this api is confusing as hell .
+__label__anger	not only it 's the first one in my life i 'm seeing multiple ways of closing the same thing , it also conceals programming errors .
+__label__anger	> i hated that aspect of working for commercial companies .
+__label__anger	shit , i missed a cast .
+__label__anger	this is clearly bad webserver behaviour .
+__label__anger	shit , my bad . the posted patch is from a completely wrong branch of my git repo - i had not realized i ran the test - patch against a branch not branch- .
+__label__anger	( in this particular case , hoss clearly intended to use the no - no word as an intensifier , and not to stir shit . )
+__label__anger	this is pretty trivial .
+__label__anger	this is bad .
+__label__anger	well , that sucks .
+__label__anger	of course , strfieldsource is a private class no it 's not .
+__label__anger	that would suck .
+__label__anger	if so , a test that succeeds with errors is confusing as hell …
+__label__anger	i doubt that squid is so bad at it .
+__label__anger	not too bad though , since clearing out commitlog segments is easily done .
+__label__anger	tabs are evil .
+__label__anger	i looked at our distributed pom . xml and they 're pretty obscure .
+__label__anger	once per every bad disk ) .
+__label__anger	this is bad .
+__label__anger	#name ?
+__label__anger	logger on top of log4j and its abstract base class for supporting other frameworks .
+__label__anger	well , either you query the database every damn time , and your plugin / tool / code will be super slow .
+__label__anger	my bad …
+__label__anger	< gmcdonald > , my bad
+__label__anger	i do n't care if everything is pretty or not , but we should at least support basic admin functionality in ie imo ( though i have not used it for years for just about anything ) .
+__label__anger	i 've looked at what can be done within the nsis framework we use to build the windows installer .
+__label__anger	this sucks .
+__label__anger	here is quite bad .
+__label__anger	this name gets confusing with all of our prenamed * worker * and * master * classes .
+__label__anger	kind of sucks .
+__label__anger	i really do n't care .
+__label__anger	i am planning to use this framework for some new rpcs i am adding .
+__label__anger	my bad .
+__label__anger	filling diags . log is bad mojo , since it 's never rotated .
+__label__anger	my bad .
+__label__anger	the async api in http client .x really sucks .
+__label__anger	the eclipse ui was completly stuck , which was similiar to the other experinces .
+__label__anger	my bad .
+__label__anger	if that would be the case , this would be bad design .
+__label__anger	we reported this crash to oracle in plenty of time , and the * worse * wrong - results bug has been open since may : http://bugs.sun.com/bugdatabase/view_bug.do ? bug_id = , but oracle decided not to fix that , too .
+__label__anger	and the current behavior is irritating .
+__label__anger __label__sadness	im stuck with ie6 unfortunately .
+__label__fear	closing this issue - if more needs to be done ; maybe it would be better to open an new issue - this one has gotten rather large
+__label__fear	no idea about the issue resolution / if it 's still active , but i 'm afraid that by no stretch of the imagination can it be termed a " critical " issue .
+__label__fear	stroooong +++++ upvote i wanted to do that long time , but some tests were made me afraid .
+__label__joy	i 'm excited to see progress being made here , but i have to agree with joan , the security of this concerns me , even with the new sandbox . js you 're putting together .
+__label__joy	upvote looks good to me .
+__label__joy	+ . code looks good .
+__label__joy	looks good , patch applied -- thanks naoki !
+__label__joy	release note looks good .
+__label__joy	upvote looks good .
+__label__joy	upvote this patch looks reasonable to me . thanks , hairong !
+__label__joy	upvote looks good thanks , mayank
+__label__joy	re : patch , looks fine . i 'd include < optional > too , on geronimo / ant deps , as per project . xml
+__label__joy	upvote this is a very desired feature for me . ship it !
+__label__joy	upvote this patch looks good . let 's remove from , and work on a better implementation on
+__label__joy	sounds like a good idea but better to only fix in to keep more - compatible .
+__label__joy	yes , we need to fix it . 🙂
+__label__joy	great , [ ~ jhsenjaliya ] .
+__label__joy	this seems good to me . upvote to apply it
+__label__joy	works for me . thank you paulex .
+__label__joy	great idea .
+__label__joy	upvote patch looks good
+__label__joy	looks very good . upvote
+__label__joy	looks good to me . mike
+__label__joy	upvote for this patch . looks good .
+__label__joy	tnx for the quick fix . works perfect !
+__label__joy	nobody has started . if you want to submit a patch , that would be great ! thanks !
+__label__joy	looks good !
+__label__joy	upvote looks good to me !
+__label__joy	upvote the patch looks good .
+__label__joy	it looks good to me too .
+__label__joy	upvote looks good to me .
+__label__joy	upvote this looks good .
+__label__joy	patch looks good .
+__label__joy	+ , looks good . checking this in.
+__label__joy	wow , fast . thanks !
+__label__joy	the patch looks good .
+__label__joy	i 've just tested the shiro trunk with karaf- release and everything works fine 🙂
+__label__joy	you 're results are awesome paul . great work 🙂 looking forward to see your new json parser in trunk whenever you think is ready .
+__label__joy	very cool .
+__label__joy	awesome speedup ! finally all this work shows great results ! !
+__label__joy	i believe in relativity 🙂
+__label__joy	code looks cool .
+__label__joy	hey very cool .
+__label__joy	hi carlos , this looks awesome ! lots of cool stuff .
+__label__joy	http://svn.apache.org/viewvc ? view = rev&revision = deepal , thanks !
+__label__joy	awesome co-op . thanks , robert & mike , for picking this up .
+__label__joy	v2 looks good to me .
+__label__joy	this is a great suggestion .
+__label__joy	it belongs to faces 🙂
+__label__joy	it 's ok .
+__label__joy	🙂 i 've renamed componentcolorproperty to be componentcolorelement and relationshipaggregation to twistieaggregation .
+__label__joy	great ! awesome work , nick , and thanks for the clarification , bill .
+__label__joy	great work….this is awesome stuff .
+__label__joy	wow !
+__label__joy	thanks , ashish !
+__label__joy	thanks tomas !
+__label__joy	applied patch with thanks to scott .
+__label__joy	looks good , thanks laura !
+__label__joy	sounds like a good idea .
+__label__joy	but i 'm probably not an jmx expert … 😉
+__label__joy	thanks mark for taking care of this issue !
+__label__joy	nice work [ ~ stepinto ] !
+__label__joy	fixed then 🙂
+__label__joy __label__sadness	john : first off , i want to apologize for the * extremely * belated patch review ... i know i told you i 'd try to look at this months ago , but ... yeah ... life tends to get in the way of patches . on the whole , things seem pretty good -- although you were still using an interface instead of an abstract class . having the main api for a type of plugin be an abstract class is an important mechanism to help future proof ourselves against possible additions we want to make the the plugin api in the future ; if it 's an interface we ca n't really change it once it 's released ( because we might break people impls ) ; if it 's an abstract class , we can always provide a default impl for people . the biggest concern i have about this patch at the moment is that there are no tests , and no example configs , so it 's hard to be sure it 's even working at all 🙂 here 's what i see as the current todo list for this issue … ) there are some legacy solrindexsearcher constructors that need to delegate to the solrcore to get indexreaderfactory ... perhaps we should have a helper method that decides which solrindexconfig to use based on the " name " ? ) we need tests showing custom indexreaderfactory getting used ( even if it 's just a mock indexreaderfactory thatsets a boolean to show it 's being used ) ... this will also serve as a test that config syntax works . ) need commented out example of using a custom indexreaderfactory in example / solr / conf / solrconfig . xml ) sanity check this against solr- , make sure we are n't painting ourselves into a corner . ) we should make indexreaderfactory use the abstractpluginloader stuff and remove the guts of solrindexconfig . loadindexreaderfactory . it looks like we 'll need to add a " single item " version of load to the abstractpluginloader to make that work well . # is something that can be done after this is committed , but - are pretty important . if you can update the patch with some configs / tests i 'll think about the legacy solrindexsearcher constructors and try to figure out a good solution for them
+__label__love	thanks for the issue / steps to resolve . pretty much did what you said verbatim . ( as it worked out on the other regexp issue )
+__label__love	patch applied . thanks !
+__label__love	verified ; thanks .
+__label__love	fixed - thanks !
+__label__love	very nice ; thank you ! your pom works perfectly … i did n't think of adding the version tag there and ended up exporting * and then later add ! org.w3c.dom and ! javax . xml to prevent errors …
+__label__love	hi jurgen , yes that 's probably a good idea but not something that can be easily and / or quickly implemented . i 'd like to change this jira to from a bug to an improvement so that it can be looked at in a future release . thanks for the suggestion …
+__label__love	thanks . moved
+__label__love	i have committed this . thanks , junping !
+__label__love	hi , ted , matteo thanks for the review . the commands . rb has some existing logic that tries to ' rescue ' some exceptions . it will get more and more difficult to keep it generic artificially as we evolve and add more ... the approach to expand ( instead of shrink ) this logic is not a bad or ugly one ... but your suggested solution is fine .
+__label__love	thanks so much , knut anders !
+__label__love	thanks for the patch janko . i put the changes into .x and .
+__label__love	that 's great . thanks , junping . then , i will first commit hadoop- .b1. .patch . for the additional bug fixes , let 's create a new jira since we also need to fix the code in trunk .
+__label__love	i 've committed this to trunk and branch . thanks nigel ! tested via ant tar and ant package instead of hudson since most of the change was done via svn remove ( the patch only applies to build . xml ) .
+__label__love	committed to trunk . thanks prasad !
+__label__love	i just committed this . thanks steven !
+__label__love	commit the patch to trunk . thanks sameera .
+__label__love	yeah the patch is great . just that it should not have been categories as a bug 🙂
+__label__love	upvote , thanks !
+__label__love	thanks alok agnihotri for your valuable patch . special thanks to rishi solanki , pranay pandey , brajesh patel and others in helping alok . changes are in rev # . -- ashish vijaywargiya
+__label__love	upvote thanks . do n't forget to add line to changes . txt when committing
+__label__love	thanks for reviewing suresh . committed to trunk .
+__label__love	committed . thanks yusaku !
+__label__love	patch applied to trunk / . thank you !
+__label__love	it 's working ! thanks .
+__label__love	i just committed this . thanks , alejandro !
+__label__love	i just committed this . thanks flavio .
+__label__love	thanks for the suggestion raghu . let me try it .
+__label__love	thanks !
+__label__love	thanks rahul ! i will take a look at it this evening . aaron
+__label__love	great , i think we are all on the same page , then ! we 'll move forward down this route . thanks for taking a look .
+__label__love	thanks , jarcec !
+__label__love	i committed the patch branch- also . thank you andy and slavik .
+__label__love	oh , how this warms my heart to see this … thanks daniel - i know you 've worked hard on this 🙂
+__label__love	upvote thanks sambavi
+__label__love	simon , thanks , please commit this 🙂
+__label__love	committed , thanks sambavi .
+__label__love	committed r1146903 thanks jonas for the patch .
+__label__love	thanks james , does the rest of the build work with this patch ? seems like this should work with the old rhel5 toolchain but i did n't look closely .
+__label__love	committed . thanks john .
+__label__love	thanks
+__label__love	applied the patch with revision . thanks carlin for the detailed updates ( and for all the fixed double - dashes 🙂 ) .
+__label__love	hi neil , thanks for the advice ... > on the other hand , if you can design a handler that knows how to > make appropriate calls to the scanner 's sendchars ( ) method so that > the buffer gets flushed when a maximum buffer size is reached , then > perhaps a pluggable handler would n't be necessary since the default > behaviour would always work when an application has chosen to set > this limit . the code i have , as written , does have the pluggable handler notion , since i did n't want to arbitrarily couple the xmlbuffer class implementation ( or worse , it 's interface ) to the scanner . i did n't go so overboard as to allow multiple registered handlers , or anything like that ; this seemed simple enough without being a hack . > i 'd also observe that xmlbuffer has to check to use the > infelicitously named " insurecapacity ( ) " method to make sure it 's > large enough yes , this is where i implemented the full - handler invocation . it 's more or less as you describe . once i get everything cleaned up , i 'll post the patch here ; you 'll probably find it to be entirely unsurprising . i think what i 'll end up doing to allow user - configurable buffer size limit will be to add a setter method on parser and abstractdomparser , something like setinputbuffersize ( ) . i think that would be most consistent with the existing api . sound ok ?
+__label__love	i just committed this . thanks amareshwari !
+__label__love	i have committed this . thanks , aaron !
+__label__love	thanks andrew for covering me .
+__label__love	committed to trunk . thanks jeff !
+__label__love	committed . thanks zheng !
+__label__love	junit patch committed revision : - thanks john .
+__label__love	thanks . yes , when that fragment is part of an rtf file it provokes the exception , so if you could put it into a valid rtf file it should throw the exception .
+__label__love	hey aidan , can you cast your eye over this again . thanks .
+__label__love	if you ment this < s:div id = " t4 " showloadingtext = " false " > < s:form id = " form " action = " ajaxtest " > < input type = textbox name = " data " > < s:submit type = " button " theme = " ajax " label = " update content " targets = " t4 " id = " ajaxbtn " / > < / s:form > < / s:div > it still does n't post the form values in ie but works fine in ff thanks a lot for your quick response . i really really appreciate - ravi -- ravi mangalagiri www.bluepitch.org ( my personal website . coming soon ! ) - - (c)
+__label__love	committed , thanks
+__label__love	thanks for the patch , applied to .x and
+__label__love	hi colm , my comments are the same , see above : https://issues.apache.org/jira/browse/codec- ? focusedcommentid = & page = com.atlassian.jira.plugin.system.issuetabpanels : comment - tabpanel#comment- i 've not gone through to see if you 've addresses any of comments but a quick scan shows that you did not pick up and so i 'll wait for the next version of the patch 😉 thank you , gary
+__label__love	patch applied , thanks !
+__label__love	committed to trunk . thanks , navis ! [ ~ thejas ] i will recommend inclusion of this bug fix in as well .
+__label__love	i have committed the patch to trunk , branch- , and branch- - alpha . thanks you jagane !
+__label__love	thanks for the commit !
+__label__love	i 've committed this to trunk , branch- , and branch- . yingda , thank you for the patch . chuan , thank you for help with the code review .
+__label__love	thanks for the new patch , kim . upvote
+__label__love	integrated to trunk . thanks for the patch ramkrishna . thanks for the review michael and j - d.
+__label__love	i have committed this . thanks , junping !
+__label__love	i committed this . thanks , raymie !
+__label__love	thanks martijn !
+__label__love	thanks for the patch . committed to .
+__label__love	hi chris , could you add my username as initial developers for the spark jira ? thanks .
+__label__love	thanks jarcec - that clarifies .
+__label__love	thanks ilya , aleksei - the patch was applied to bti branch at r542776 . please check that the patch was applied as you expected .
+__label__love	thanks daryn i put this into trunk and branch-
+__label__love	hi pieter , it looks fine now ; thanks ; your mirror will be added to the list in an hour or so . groeten , henk penning
+__label__love	i 've just committed this to trunk and branch- . thanks a lot for the reviews / testing , chris and todd .
+__label__love	hi victor thanks alot for your help testing this issue ! would be good to know if it works on centos too . kind regards bob
+__label__love	yes it can be resolved . thank you !
+__label__love	alexei , the patch has been applied as expected . you can close the issue , thanks .
+__label__love	the patch is in : https://git-wip-us.apache.org/repos/asf ? p = sqoop . git ; a = commit ; h = 3865f7deec722948a60cc1746e2330bd1c5cb9e4 thank you vasanth ! jarcec
+__label__love	committed as . thanks for ivan 's improvement , thanks flavio for reviewing .
+__label__love	i just committed this . thanks vinod !
+__label__love	upvote committed . thanks suresh
+__label__love	committed to branch and trunk . thanks a ton kai !
+__label__love	thank you !
+__label__love	siying , can you rebase this patch ? thanks !
+__label__love	thanks luis !
+__label__love	trunk and . thanks for the review jd.
+__label__love	applied patch with thanks to chris .
+__label__love	integrated to trunk . thanks for the patch , rajesh . thanks for the review , ram .
+__label__love	thanks , i 've committed your patch , leaving out the change to equals ( ) and not removing mergebooleanqueries ( ) as that is a public method which someone might be using . also , could you please check if the test case is correct now ? i could n't apply that part of your patch cleanly and something might have been broken .
+__label__love	apllied at revision : , thanks !
+__label__love	hi michael , thank you for your answer . i thought that it would not be so easy to solve this issue . unfortunately . i agree with you that the main problem here is that a copy action is missing and i guess attachstrategy . persist is the right place to add some kind of copy functionality . i started looking into the source code of the enhanced class from the test . persistencecapable declares a public method to copy fields ( pccopyfields ( ... )) . unfortunately you ca n't use in attachstrategy . persist , because the entity to persist has no statemanager at this point ( an exception invalidstateexception will be the result ) . my suggestion is to modify the class enhancement and remove the statemanager check in pccopyfields ( i do n't see the need for this check ) . afterwards you can use pccopyfields in attachstrategy . persist by adding something like ... if ( manager . getcopynew ( )) { int [ ] fields = new int [ meta . getfields ( ) . length ] ; for ( int i = ; i < fields . length ; i ++ ) fields [i] = i ; newinstance . pccopyfields ( pc , fields ) ; } ... this solution works for my testcase . as an alternative you can modify ( or add an additional ) newinstance to copy the data . i have no real experience with openjpa . perhaps there is a much better solution .
+__label__love	thanks for fixing it !
+__label__love	thanks for the review jimmy . committed to trunk .
+__label__love	guillaume , i took a quick look at your suggestions . i agree that we can reduce the code a bit . however , i think that we need to keep the activate method as it initializes the servingxml internals . i 'm not sure about the deactivate method . i also noticed that you have added a patch , but , being new to jira , i 'm not sure if that means that you 've made changes to my attachment or something else . are you still looking for me to correct the formatting and to remove the extraneous methods / classes ? thanks , james
+__label__love	applied patch into trunk and cxf- .x branch with thanks to william .
+__label__love	applied to master and branch .x. thanks klaus .
+__label__love	applied to branch and trunk . thanks for the patch ramkrishna .
+__label__love	please review the submitted patch . thanks .
+__label__love	thanks otis .
+__label__love	committed . thanks !
+__label__love	thanks uwe !
+__label__love	thanks for finding and fixing . the patch applied at r474719
+__label__love	committed to trunk . thanks for patch tudor and review michael .
+__label__love	committed to trunk . thanks , teddy !
+__label__love	done , thanks chatra
+__label__love	knut and rick , thanks for your feedbacks . i will take care of the comments posted by knut . rick , thanks for adding - lint directive , it will be good to see the error from the compiler .
+__label__love	thanks for raising these documentation issues ! i just committed a fix .
+__label__love	committed to trunk . thanks , gunther !
+__label__love	committed . thanks gang tim liu
+__label__love	thanks jacques 🙂
+__label__love	+ . just committed this to trunk and branch- . thanks jason !
+__label__love	hi aidan , can you review this change please , thanks .
+__label__love	jean - marc , can you review it ? thanks .
+__label__love	thanks .
+__label__love	that is useful advice ( call me biased if you 'd like ) .
+__label__love	thanks for providing the patch .
+__label__love	thank you !
+__label__love	thanks , adrian !
+__label__love	thanks , alexei !
+__label__love	thanks ilya .
+__label__love	thanks jimmy .
+__label__love	thanks for the explanation .
+__label__love	thanks , nandana
+__label__love	thanks for your patience .
+__label__love	thank you ravi .
+__label__love	upvote , thanks tom !
+__label__love	thanks andrew - the patch was applied to sql module at r525019 .
+__label__love	thank you for the patch sergey .
+__label__love	i love a solution that 's simpler and easier to understand than the original .
+__label__love	hi henry , thanks for checking it out .
+__label__love	thanks for reminding me ; i agree , i 'll do it .
+__label__love	thanks , jinjie !
+__label__love	hi sagara , thank you very much for looking into this .
+__label__love	thanks for the quick patching donald !
+__label__love	thank you very much , richard .
+__label__love	thanks henry !
+__label__love	hello george , the fix looks fine , many thanks !
+__label__love	best regards , andrew
+__label__love	thank you brandon .
+__label__love	this is quality work .
+__label__love	thanks a lot for the reviews , todd .
+__label__love	thanks for your patience .
+__label__love	thanks richard , patch applied to nio_char module java.nio.charsetencoder at repo revision .
+__label__love	it will be great if you could confirm it either way first .
+__label__love	i 'm glad we were able to resolve this issue .
+__label__love	megan , glad to be of service : )
+__label__love	aha ,, thanks for the information . that makes sense . glad to hear that it helped ! 🙂
+__label__love	thanks for looking into this suresh .
+__label__love	thanks a lot subin .
+__label__love	that s sweet that you have the prior experience hacking this on top of a store already .
+__label__love	excellent work , doğacan - thank you .
+__label__love	this looks simple and sweet to me .
+__label__love	sweet kickstart for our new wiki !
+__label__love	thank you babak !
+__label__love	could you please port it to branch- that that we could integrate it to branch- - win slavik , thanks for the review !
+__label__love	thanks ashish , for committing the patch .
+__label__love	thanks pat .
+__label__love __label__joy	odd that you ca n't get the attached to build as it builds fine for me with the current latest code ; never mind because i 've tried it for you and yes this has fixed the problems and it now works . thanks jim ! ( side note ; i agree % about moving all the non-java container specific tests out of the java container project )
+__label__love __label__joy	thanks for the sample app ; i updated it for and verified the problem ; then tried the fix . had to modify the mixins to return false from beforerenderbody ( ) ; but then everything worked as expected ( the any component omitted its body ) .
+__label__love __label__joy	ah ; fantastic - that works very well . thanks !
+__label__love __label__joy	thank you very much for your positive review and for improving the patch ! also , a small correction to your previous comment , it should be : " unit tests included in her patch " , as you know i 'm one of the girls in this year 's gsoc program . it was a great experience to collaborate with you and i thank you for everything !
+__label__love __label__joy	thanks a lot for your excellent work shazron !
+__label__love __label__joy	looks fine , thank you , george .
+__label__love __label__joy	looks good . applied , thanks ! http://svn.apache.org/viewvc ? rev = & view = rev
+__label__love __label__joy	great , thanks !
+__label__love __label__joy	awesome , works for me . lg committing . thanks !
+__label__love __label__joy	awesome . thanks !
+__label__love __label__joy	that looks great , thanks ! i replicated the database but ca n't figure out how to start the couchapp , can you help ? cheers , chris .
+__label__love __label__joy	jaigak - its nice to see another application on top of yarn . since its a lot of new code , could you please add some notes on the high level components and suggest some pointers on navigating the code . it will help review the changes . thanks !
+__label__love __label__joy	bq. if you back - port this to , you ca n't use any of the java.util.concurrent . * very good point ! - did n't thought about back porting at all . bq. i 'm not sure you need a separate searcherholder class - ca n't you re-use indexreader 's decref / incref ? i guess i did not see the simplicity the reader offers - blind due to java.util.concurrent . * 🙂 bq. i think there are some thread safety issues … this is weird - on my dev machine and in the patch it is not synchronized … on the machine i run the tests it is . anyway you are right . i changed the code to be compatible with using indexreaders.dec/incref… will attache in a minute
+__label__love __label__joy	thanks ! looks like a good clean - up to me . i admit i did n't check all the changed lines in detail , but the approach gets my upvote 🙂
+__label__love __label__joy	works fine with my minimal test case and the tutorial . thank you !
+__label__love __label__joy	looks like a good solution ! thanks for taking care of this , uwe ! { quote } should we backport this to and ( which is easy ) ? { quote } upvote
+__label__love __label__joy	the patch looks good , just applied on the branch and trunk . thanks a lot , keep them coming ! 🙂
+__label__love __label__joy	+ . patch looks good . thanks jian , and zhijie , bikas for the reviews .
+__label__love __label__joy	many thanks ... looks good
+__label__love __label__joy	committed to trunk . thanks mathias !
+__label__love __label__sadness	i 'm sorry , the error was only triggered on a clean build . thanks for the catch eric , can you please review the simple fix ?
+__label__love __label__sadness	i apologize for taking so long to get to reviewing this . this has some good elements but also quite a few problems . here are a few suggestions . . the bindinggbeans do not need to know the name of the gbean they are getting something to bind into jndi from , they need a reference to it . similarly they do not need to bind a naming reference , they can bind the object itself . for instance , the connector binding gbean can do something like this : private final managedconnectionfactorywrapper managedconnectionfactorywrapper ; // this is the reference to the gbean that gives us the connection factory to bind ... // now it 's time to bind the connection factory object connectionfactory = managedconnectionfactorywrapper.$getresource ( ) ; globalcontext . bind ( jndiname , connectionfactory ) ; this is also going to affect how the builders set up the binding gbeans : they know the name of the appropriate gbean such as managedconnectionfactorywrapper , since they just created it , so they need to use that name to set the reference pattern in the binding gbean . the binding gbean will then get ( a proxy to ) the " real " gbean that it can use as outlined above . . i do n't see an implementation of a writable thread safe jndi context , as dain pointed out you would need . . the zip file consists almost entirely of irrelevant files and the actual source files do not all appear to be in the geronimo project structure . this makes it extremely hard to figure out what to look at . . some of the code modifications ( such as to serviceconfigbuilder ) appear to be test cases rather than production code . it will be a lot easier to evaluate your work if you keep test cases and production code clearly separated as is done in typical maven projects . . i think you will need to redo the openejb work after dain 's reintegration of his container rewrite . thanks ! let us know if you have any questions about this .
+__label__sadness	fixed . sorry folks ; the contributions asm_8001_java and asm_12011 did not get committed from my local machine since the projects somehow were not part of my eclipse workspace when i did the commits of these changes
+__label__sadness	unfortunatly ; this minimal example is not very small ... when i try to simplify it to reduce size ; it stops to crash because of different memory allocations sizes it goes through the other code branches . the problem can be reproduced only by transforming two files hac_oper_hier.xml and hac_oper_list_form.xml with one xalantransformer without recreating it ( i modified attached xalanexe . cpp to reproduce it )
+__label__sadness	thanks for accepting this patch . i 'm sorry i was n't sensitive to the brace convention already in the file . i probably could have javadoc 'd the inner class , too 🙂 i did n't think about the lack of thread safety of the simpledateformat class : good catch . so this counts as a bugfix by markt ( format was being used in an unsynchronized way prior to this patch ) as well as an enhancement by me 🙂 if dbcp typically uses localized error messages , i 'd be happy to provide another patch that localizes the exception 's message .
+__label__sadness	same attachement with asf grant this time ( forgot to check the first time , sorry )
+__label__sadness	hello oliver , sorry for the late response . i have n't had any time to look into this again , maybe it was a misuse on my side after all . since i have n't been working on the project i encountered the behavior in for months , this issue might as well be closed .
+__label__sadness	stepan , sorry , i did n't see you comment until i 'd committed the change - sian tested it for me . i 've no idea what the msvcr71.dll issue is - but i do n't think that is anything to do with my changes . the fetch - depends / checksum issue for icu- .zip should be fixed with my patch .
+__label__sadness	we 'll get it fixed soon , sorry for the inconvenience . i just wanted to point you ( and others who may land here ) to alternative resources meanwhile 🙂
+__label__sadness	regrettably i do not have a working instance of svn so i ca n't create a proper patch i have attached the modified source file : org.apache.tuscany.sca.assembly.builder.impl.compositewirebuilderimpl.java i have commented the place where i modified a single line with : // fix for jira bug : tuscany-
+__label__sadness	i think my first preference would be to make this only a java and up feature . the change is very clear and we can use our normal testing methods . meanwhile users can set their umask appropriately . my second preference would be only to only change permissions by default with java and higher . i think we really need to have tests for the default configuration and non-portable tests might have to be customized to different environments , which seems like a lot of effort for something that wo n't be used moving forward . i am sorry i did n't chime in earlier . time has been quite tight recently .
+__label__sadness	yes , sorry i forgot to mention this 🙂 but a header where this is stored would work great , and probably there should be a config item if you want it or not .
+__label__sadness	sorry for the delay
+__label__sadness	sorry about that .
+__label__sadness	i 'm afraid one ca n't extract the text from the given pdfs. both are using fonts with a non human readable encoding and as there is n't included any mapping , you 'll get rubbish instead of the text . even the acrobat reader ca n't extract the text .
+__label__sadness	sorry , should be : path - p6 < pluto- -taglib-el.diff
+__label__sadness	sorry for the noise , i forgot to grant the license to previous attachment for inclusion in asf works . thanks
+__label__sadness	good catch , sorry about that . i had run the tests but i guess i did n't re-run on the very latest rev against latest trunk . new patch fixes the npes .
+__label__sadness	oops , sorry . certainly right .
+__label__sadness	sorry michael , but i did find one small last issue with the patch . i guess you meant to use boolean . parseboolean ( this.jcd.getattribute ( " org.apache.jetspeed.enginescoped " , " false " )) instead of boolean . getboolean ( ... ) . after correcting that , the patch works for me and i 'll commit that change . if you can confirm it still works for you then i hope we really can close this issue .
+__label__sadness	unfortunately i have no sql server to test against at the moment . but i wonder , does this work when using a table name like ' sometable ' ( note the upper case ) . if you could verify for me that such mixed case names work with your patch when not in delimited mode , then i 'll apply it asap . tom
+__label__sadness	i meant the findbugs addon . sorry for the confusion .
+__label__sadness	ah , this is in solr - land , sorry , thought it was lucene .
+__label__sadness	sorry carl , this wo n't make it in the release which is about to be released very shortly now … maybe it could get into the release if you are able to send us a patch or a reproducible testcase . thanks , maarten
+__label__sadness	sorry i missed this since it was n't tagged ios . looking at it now .
+__label__sadness	sorry looks like we took to long to get to this , the patch no longer applies . can you please upmerge to latest ?
+__label__sadness	[ ~ sershe ] sorry for late reply . i upload the patch to https://reviews.facebook.net/d13341. could you help to review it ? thx.
+__label__sadness	sorry for my delay . i would have answered early but i completely missed the notification mail about christiano 's comment ☹️ @christiano : i 've just tested it again and it seams to work for me : { code } karaf@root > list start level , list threshold : id state blueprint level name [ ] [ active ] [ ] [ ] apache shiro :: core ( .snapshot ) [ ] [ active ] [ ] [ ] apache servicemix :: bundles :: ehcache ( ) [ ] [ active ] [ ] [ ] apache shiro :: support :: ehcache ( .snapshot ) { code } looking into the shiro ehcache pom i found the following : { code } < import - package > org.apache.shiro * ; version = " $ { shiro.osgi.importrange } " , net.sf.ehcache * ; version = " [ , ) " , * < / import - package > { code } -- > org.apache.shiro.ehcache [ ] : unable to resolve : missing requirement [ ] package ; ( & ( package = net.sf.ehcache ) ( version > = ) ( ! ( version > = ))) says that you 're using an old snapshot - version of shiro ehcache . this could happen with the snapshots since karaf simply takes what it could find in your local mvn repo . either simply remove your local . m2 / repository / org / apache / shiro folder and let maven grep the latest version or build shiro yourself locally should fix the problem . sorry again for the delay and kind regards , andreas
+__label__sadness	sorry , but your testcase does n't fail on my machine , it gives me two counters in two windows - the second one with a ten second start delay . winxp + jdk .0_09 + tomcat + t4.
+__label__sadness	sorry , i use jdk .2_06 and not 🙂
+__label__sadness	it is a nasty bug that i 've seen in real life , though .
+__label__sadness	sorry for the delay and thanks for the good work , works like a charm !
+__label__sadness	( i could not get what keyword means . )
+__label__sadness	seems to be failing for a different reason now testcontainerlaunch ( org.apache.hadoop.yarn.server.nodemanager.testlinuxcontainerexecutorwithmocks ) time elapsed : sec <<< failure !
+__label__sadness	sorry , for all the issue mails , i forgot to mention the second : ) there is commented source in the test , should it be enabled or removed ?
+__label__sadness	i should have been very careful before doing this .
+__label__sadness	you are going to kill me when i say this , but it seems like we should just commit your first patch .
+__label__sadness	one of the error is that hiddenactivations can not be resolved .
+__label__sadness	oh , i did n't consider one flow like after the edit log conversion , immediately #store failed .
+__label__sadness	i misunderstood the case and sorry for the confusion .
+__label__sadness	you would need to implement session resume ; that s a whole new can of worms .
+__label__sadness	done , sorry for all the mess on a simple patch .
+__label__sadness	html is quite uncomfortable to work with .
+__label__sadness	our caller may not notice what happend right now .
+__label__sadness	this is only a problem with exceptions from java .
+__label__sadness	i misread .
+__label__sadness	seems to be a faulty mailserver setup at laguna-industries.com .
+__label__sadness	unfortunately , in these days where everyone that can put a cd the right way up in a drive is a linux / unix / windows / internet expert , this has become pretty common .
+__label__sadness	mac , looks like the tests are failing ( especially testharfilesystem ) .
+__label__sadness	@luke , sorry for the late , attaching latest version patch
+__label__sadness	sorry , we are no longer using xerces .
+__label__sadness	the cause is that the call to specificresponder . writeerror in responder . respond ultimately calls genericdata . resolveunion which in turn calls genericdata . getschemaname before the line where the unresolvedunionexception gets thrown .
+__label__sadness	sorry , this affects version too .
+__label__sadness	phabricator is being a little buggy .
+__label__sadness	sorry about the noise , was trying out the precommit job .
+__label__sadness	sorry , i see that you say the same , mike 🙂
+__label__sadness	sorry about the confusion before
+__label__sadness	sorry folks , the full fix was committed in rather a messy manner due to some platform specific issues .
+__label__sadness	sorry - the above comes across as terse .
+__label__sadness	i really do n't know how to solve this problem .
+__label__sadness	ha sorry varun , thanks for the reminder , i will have a look at it soon …
+__label__sadness	sorry , my code base is a little old , looks like hadoop- add some new test in testfilestatus .
+__label__sadness	sorry , missed that select - box .
+__label__sadness	on - - : : woflexair commented : joan , sorry for the noise in the bugbase but it 's not a bug .
+__label__sadness	sorry about the report .
+__label__sadness	the biggest problem is that we 've had too many committers over the years and we 'd have to get all of their permission to change it .
+__label__sadness	sorry .
+__label__sadness	sorry for the misspelling 😉
+__label__sadness	i must have looked at this before my morning coffee …
+__label__sadness	wow , that was some bad copy / paste work .
+__label__sadness	sorry .
+__label__sadness	sorry , misunderstood the issue !
+__label__sadness	sorry for delay
+__label__sadness	sorry for the delay , was away .
+__label__sadness	this was my bad .
+__label__sadness	did n't got the time to try it yet .
+__label__sadness	um sorry , i thought this ticket was about something else - patch attached , david would you give a try ?
+__label__sadness	sorry .
+__label__sadness	sorry , yes i believe this has been resolved .
+__label__sadness	yes , the patch is badly named - sorry !
+__label__sadness	sorry , https://bugzilla.mozilla.org/show_bug.cgi ? id = is related but not same .
+__label__sadness	wow….you are right….i 'm deeply sorry to bother you guys ( and i 'm also a bit embarrassed ) .
+__label__sadness	sorry to nag .
+__label__sadness	sorry i 'm wrong about # .
+__label__sadness	sorry for the noise .
+__label__sadness	aaron , sorry about this .
+__label__sadness	my patch would n't compile .
+__label__sadness	line ( sorry , the codeline )
+__label__sadness	sorry old xml here is the used one : < ? xml version = " " encoding = " utf- " ? > < root > < value > ? ¤ ? ¶ ? ¼ und ? ? ? ? ? ?
+__label__sadness	sorry for the super-slow uptake on this , the new job is using up all of my limited brain resources .
+__label__sadness	s / [ ~ apurtell ] / [ ~ lhofhansl ] / sorry guys .
+__label__surprise	very curious as to where you saw that exception . because digging through my log files ; all i see are series of ' noclassdeffound ' exceptions . same goes for the sample project i submitted . i get the following stack trace : java.lang.runtimeexception : java.lang.classnotfoundexception : caught an exception while obtaining a class file for org.apache.tapestry.transformationtest.pages.start at org.apache.tapestry.internal.services.componentinstantiatorsourceimpl.findclass ( componentinstantiatorsourceimpl.java: ) at org.apache.tapestry.internal.services.componentinstantiatorsourceimpl.findinstantiator ( componentinstantiatorsourceimpl.java: ) at $ componentinstantiatorsource_1177c5597da.findinstantiator ( $ componentinstantiatorsource_1177c5597da.java ) at org.apache.tapestry.internal.services.pageelementfactoryimpl.newrootcomponentelement ( pageelementfactoryimpl.java: ) at $ pageelementfactory_1177c5597e8.newrootcomponentelement ( $ pageelementfactory_1177c5597e8.java ) at org.apache.tapestry.internal.services.pageloaderprocessor.loadrootcomponent ( pageloaderprocessor.java: ) at org.apache.tapestry.internal.services.pageloaderprocessor.loadpage ( pageloaderprocessor.java: ) at org.apache.tapestry.internal.services.pageloaderimpl.loadpage ( pageloaderimpl.java: ) at $ pageloader_1177c5597e5.loadpage ( $ pageloader_1177c5597e5.java ) at org.apache.tapestry.internal.services.pagepoolcache.checkout ( pagepoolcache.java: ) at org.apache.tapestry.internal.services.pagepoolimpl.checkout ( pagepoolimpl.java: ) at $ pagepool_1177c5597e4.checkout ( $ pagepool_1177c5597e4.java ) at org.apache.tapestry.internal.services.requestpagecacheimpl.get ( requestpagecacheimpl.java: ) at $ requestpagecache_1177c5597e3.get ( $ requestpagecache_1177c5597e3.java ) at $ requestpagecache_1177c5597d7.get ( $ requestpagecache_1177c5597d7.java ) at org.apache.tapestry.internal.services.pagerenderrequesthandlerimpl.handle ( pagerenderrequesthandlerimpl.java: ) at $ pagerenderrequesthandler_1177c5597cc.handle ( $ pagerenderrequesthandler_1177c5597cc.java ) at org.apache.tapestry.internal.test.pagelinkinvoker.invoke ( pagelinkinvoker.java: ) at org.apache.tapestry.test.pagetester.invoke ( pagetester.java: ) at org.apache.tapestry.test.pagetester.renderpage ( pagetester.java: ) at org.apache.tapestry.transformationtest.pages.teststart.render _ start ( teststart.java: ) even turning on debugging output ; i do n't see the exception message you posted .
+__label__surprise	i wonder why not so many people use linux ?
+__label__surprise	why would i want to use xml , when i can use the qbc api , or hql ( hql can be embedded in the xml , remember ) , to express this stuff much more naturally ?
+__label__surprise	any suggestion ?
+__label__surprise	can this be closed ?
+__label__surprise	is there any documentation how to use axis2 - wsdl2code - maven - plugin , with jibx binding , and how on hell you define xmlns:tns from you binding file
+__label__surprise	it could be something as stupid as accidentally deleting the output file .
+__label__surprise	can we even be sure that the thread is the same ?
+__label__surprise	hi amardeep , are we sure that this does not introduce any side effects , regressions ?
+__label__surprise	is the bug really in ngramtokenfilter ?

@@ -1,0 +1,153 @@
+"Brilliant, thanks!"
+"Hey, thanks for that, I gave it some testing and thought about it over the weekend and it looks perfect, thanks! - Aidan"
+Patch looks good to me. Reuploading patch with one corrected code-comment.
++1. Looks god. Thanks for making it better.
+Ah; great; things are running now. Thanks guys.
+"Thanks a lot for fixing those issues, Alejandro. I re-ran all the tests I ran last night and everything worked great. Additionally, I tried out test-patch.sh, which seemed to work flawlessly. +1, patch looks good to me."
+I now realize hadoop-1662 is required. So i will wait. Thanks.
+"Thanks for taking this, patch looks good. Is this good to be committed?"
+bq. I just committed this to trunk and branch-0.23. Thanks Derek! Also branch-2.
+thanks tom....let me see if I can come up with a test case for the LineReader reset. I did forget adding a test case for that. I probably file that as part of this patch.
+"Thanks for the patch, applied for 2.0.1/2.1"
+"Thank you, Ashish Vijaywargiya and Pranay Pandey :) Thanks and Regards -- Akash Jain"
+"Thanks, Tom"
+Closing based on comments from Matt. Thank you.
+Thanks Christian.
+Thanks a lot Willem :-)
+"I just committed this patch. Thanks, Richard!"
+[~shreepadma] thank you for working on it. Do you have plan when you submit a patch? I know it takes efforts to code and test in 4 different types of databases. Would you please release mysql version first? Then file a jira to follow up Postgres/Oracle/Derby. Just a suggestion for fast release but up to you to decide. thanks a lot again Tim
+"Patch v6 integrated to trunk. Thanks for the patch, Jean-Marc. Thanks for the review, Matteo. @Lars: Do you want this in 0.94 as well ?"
+Thanks Vasily - the patch was applied to BTI branch 2.0 at r615105. Please check that the patch was applied as you expected.
+"Thanks, Arvind"
+"Thanks for the patch Niall, +1"
+Committed. Thanks Stephen.
+I just committed this. Thanks Giri!
+I just committed this. Thanks Patrick!
+"Committed, rev:088067c. Thanks Roman!"
+"committed to 0.94, 0.95 and trunk Thanks Jerry for the patch and Stack for the review!"
+"I just committed this. Thanks, Prachi!"
+Oleg A minor comment.. I don't see why the close() method would throw an IOException.. thanks asankha
+"I just committed this. Thanks, Sanjay!"
+Hi Aidan can you take care of this when you do QPID-1010. Thanks
+"Owen, thanks for the slides."
+"Failed test is covered by HBASE-5992. Integrated to trunk. Thanks for the patch, Matteo. Thanks for the review, Andy."
+Thanks Dianne!
+Thanks for your work on this Allen!
+"Thanks for spotting this, fixed at r487519"
+I've just committed this. Thanks Arun!
+"Thanks, Ravi!"
+"Ruth, patch applied at r526665, thanks a lot for this enhancement, please verify, thanks."
+"Committed, thanks"
+"committed, thanks Xiao Li!"
+Patch looks good to me.
+Committed to trunk. Thanks Jarcec!
+I committed the patch to trunk. Could you please submit a patch for the 0.16 branch. This one doesn't apply cleanly. Thanks!
+"Hi Anders, I agree with Knut, this issue can be marked as fixed, Thanks a lot for working on this improvement. -suresh"
+Could you see my 2nd patch? :) Thank you.
+"Vishal Kher to Benjamin, Camille 9:38 AM (54 minutes ago) Hi Ben, I was going to open a jira after checking with you guys. With your solution won't we run in into the problem that Camille pointed out by marking the snapshot for lastZxid - 1? - Peer fails after taking the snapshot. The snapshot has applied lastZxid, which created a child znode. During recovery it will apply lastZxid, which will faill with NodeExists and we will increment the Cversion of the parent (after fix for ZOOKEEPER-1046). So creation of sequential znodes won't be be really sequential. This is probably acceptable, but should be clearly documented. If not, then from this bug, it looks to me that patch ZOOKEEPER-1046 was also not complete. We may need to conditionally update cversion. I think we need a clear document of how snapshots are supposed to work and what to assume while taking snapshots and while recovering from snapshots. It will be very helpful for to verify the correctness of implementation and for future bug fixes.I will open a jira for this bug shortly and post our discussion as well. Thanks. -Vishal"
+"Fixed, thanks for the suggestion: http://svn.apache.org/viewvc?view=rev&revision=498105"
+"Hi Atul, that looks good at a first glace."
+"Committed, thanks Jingwei."
+Patch is in. Thanks.
+Committed. Thanks Hitesh
+hi. Ping? :)
+"Guillaume, Thanks for your commit. It fix this problem and my example works fine now with this fix."
+"I just committed this. Thanks, Arun!"
+"I've committed this to 0.94,0.95 and trunk. Thanks for the patch gautam."
+"Committed to trunk. Thanks, Sushanth!"
+I just committed this. Thanks pat!
+"Thanks Atul, Your patch is in trunk at r933169 I just added some ""mod for OFBiz layered lookups"" comments around changes as suggested Sascha"
+patch by Dennis Byrne. Thanks a lot!
+Thanks!
+"Carl Lindberg, absolutely you are right. I was not far-sighted enough to think of that. Thank you about your point.^^ My one is not a good idea. I will try to fix it. (T.T). Thanks again."
+fixed in trunk... thanks Henri!
+"Committed to trunk. Thanks, Sushanth!"
+"Committed to trunk. Thanks, Sergey!"
+"Damn it, sry lost the orientation."
+I should have marked this resolved back in September.
+The rest are *totally* unrelated.
+I'm an idiot... there's nothing wrong with the readme.txt.
+Damn...
+damn this was assigned to you since months.
+My bad.
+"I don't think there is any sense in this, who cares?"
+Bug Flavio more? Seriously; discuss with Flavio and come up with a patch & test that is deterministic. Another option would be to refactor to allow the code in question to be tested as a true unit test; rather than as a system test (we need to work on that in general in ZK). Mockito?
+Must be: size >= 0!
+Inserting timestamps automagically would be bad because it would limit a whole swath of use cases.
+oh ...geez I'm an idiot.
+"Aaarrggh, how stupid of mine to have a System.out, again!"
+"I used to be the latter, but then I went to law school and got a degree in this shit."
+This is weird.
+It's not too bad once CacheConfig is in.
+Pull it back in if you think different.
+Damn it !
+"I lost the whole morning cause HBase's RegionServer was dying with no logs, no nothing... how Am I supposed to debug the issue if u do not even generate a core dump?"
+"Hmm, that sucks."
+When you install a node module globally it goes into /usr/local where you don't have permissions to move shit into unless you sudo.
+Splitting an existing sub-shard gets stuck up.
+"I don't have to ensure that the classloader knows groovy classes, *you* must do that."
+Damn time has flown...
+Weird.
+I just hate having no clue what a file is really depending on ;)
+"Ugh, well that sucks."
+This has been fixed for 1.1 by Upgading to POI 3.8 beta 5. Perhaps somebody with more power than me can mark this accordingly.
+woops; thought this was already fixed...
+Thanks for reviewing the patch Mamta!
+Sorry for the mistake.
+"Thanks so much, sorry that this isn't in the appropriate place."
+Sorry for the trouble Vikram!
+"Sorry, I missed Bill's comment. bq. We've seen similar exceptions when loading data that contains text with the column delimiter in it, which produces shorter than expected tuples. Could that be the case here? I don't think that's the case here. However, I've made many silly mistakes&misunderstandings in pig before. Let me double check."
+Sorry Gav DONE Committed @revision 2487.
+I am new to Mina and the whole environment.
+"Seems we didn't enforce an exec for sh, but we did for fs."
+Sorry about that... http://bit.ly/12UiaS
+I don't have strong opinions about it either way.
+"Sorry guys, I've been pretty busy @ work but I have been watching this."
+First guess: something's getting confused about reversed-ness.
+"Sorry, this should be YARN JIRA - filed YARN-350 instead"
+"Hi Lars. Sorry, I wasn't watching this before so I missed your work til you mentioned it on the HBase JIRA. I'll try to take a look at this this week. Feel free to grab me on IRC if you have specific questions."
+"Sorry,I haven't tried you patch."
+I have a really bad habit of not reading thru all the bug comments before asking questions.
+"Sorry, that should be FileChannel inputChannel = input.getChannel(); FileChannel outputChannel = output.getChannel(); in the try block."
+> then we don't save IO by limiting the buffer size to 1 KB I'm confused by this.
+"Wrong patch, sorry."
+Incidentally if we all nag Joe Walnes enough we might be able to persuade him to release a new qdox which can ignore annotations etc (though it will still struggle with generics I think)
+"I'm very busy for the moment so I didn't know when I 'd be able to the change myself, so if you can, your contribution would be one more time really appreciated."
+"if someone wants to work on this please go ahead, I still plan to, just no time yet."
+Sorry.
+I did not have time to do it yesterday.
+"Hey, sorry I did not get back to you sooner."
+"Well it's me that didn't get the whole point, now i got more, sorry for the noise."
+"Patch is not well formed, cancel patch. Sorry about this."
+RMAppAttemptImpl.recoverAppAttemptTokens() Looks like all changes in RMAppImpl are unnecessary.
+"I have this issue, where my server and client is creating a lot of loopback threads, that I believe must be related to this issue."
+Sorry...
+"I'm sorry Mark, I came back here to remove my comment as after building the app from scratch I have found that by default it used WhenExhaustedAction = GROW and not BLOCK!"
+"Oh, sorry, will submit them tomorrow. Hmm, svn diff is really strange. Don't know why the files were not included though I did the diff from the src/java/o/a/c/jci dir."
+Sorry for the noise.
+"Sorry Chris, I missed it, done !"
+"And with a network that tolerates almost everything to get a mail somehow in the right place, it is only seldom noticed (or when it is, it is blamed on Microsoft."
+Sorry about that.
+Pretty sure this was fixed by the time we released JRuby 1.6.
+"+1, looks good. Checking this in."
+That's a very promising idea !
+"bq. Here the patch for the groovy script. cool, looks good, thanks!"
+Thanks!
+Patch looks good to me.
+"new patch looks good to me, +1"
+I've tested them out and everything is fine.
++1 patch looks good.
+Looks good.
+"Thanks, Daryn!"
+Many thanks for your help.
+"+1, branch-2 patch looks good to me. I'll commit this to branch-2 later today to give others a chance to comment."
+"Thanks to both of you, and to Deepesh for the initiative."
+"Great! Awesome! thanks, Dims"
+Are we on the good path...
++1 looks good - will commit if the tests pass
+"Wow, sure!"
++1 patch looks good.
+"+1 This looks good to me. Existing configurations will still work with this patch, so there are no compatibility concerns."
+Looks quite perfect after solving PDFBOX-490.
+"Thanks, Jeff!"
+"Thanks, Willem. Sorry, I was trying to get to the wiki but it's been a busy week."

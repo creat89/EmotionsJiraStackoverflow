@@ -1,0 +1,25 @@
+INDEX VERSION 1.130+C:\Users\diegol\Dropbox\EHU\Programs\MultiLabelJava\.metadata\.plugins\org.eclipse.jdt.core
+1389570320.index
+1046042467.index
+1966944624.index
+2223624367.index
+4219445297.index
+2619689787.index
+1158928043.index
+3263932521.index
+3786350874.index
+2485967645.index
+34708004.index
+1626123904.index
+3079516570.index
+2709497916.index
+391141953.index
+4147178321.index
+3760125788.index
+3746392557.index
+1012913553.index
+2792112484.index
+2378670909.index
+1002076184.index
+3300073905.index
+657907325.index

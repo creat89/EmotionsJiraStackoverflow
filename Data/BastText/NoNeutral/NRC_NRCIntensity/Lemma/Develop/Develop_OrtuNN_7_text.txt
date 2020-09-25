@@ -1,0 +1,153 @@
+__label__joy	cool , look good .
+__label__joy	nothing wrong , everything be cool .
+__label__joy	look pretty cool . fresh and minimalist . love it 🙂 good work .
+__label__joy	awesome discussion .
+__label__joy	much oblige ! thank you ! 🙂
+__label__joy	it work fine now !
+__label__joy	thanks guy for save mankind !
+__label__joy	cool feature ! performance : - it look like script be read from the resource loader and parse again ( eval ) for every update request .
+__label__joy	but both idea and idea seem to handle them just fine .
+__label__joy	this look safe also
+__label__joy	this be now fix !
+__label__joy	😃
+__label__joy	sound good .
+__label__joy	upvote patch look good . i have commit this .
+__label__joy	thanks to edward and brock for the review .
+__label__joy	great ! it 's be good to be able to contribute and i hope to be able to more for this awesome project when i have the spare time .
+__label__joy	daryn , the current patch look good .
+__label__joy	look good . upvote , pending hudson .
+__label__joy	i like this title .
+__label__joy	awesome stuff stephen !
+__label__joy	i be still not in love with the sarcasm or excessive negativity . i will just point a few thing out . / i do not veto anything , and this have nothing to do with c ++ . i think it be a bad idea for us to generate code in a way that cause semantics to silently change when a new optional field be add . this in dangerous in the long term . / i have no problem revert this change . / restore the old constructor and mark in deprecate be probably a good idea .
+__label__joy	bertrand - nice work . this be a great idea and the patch look good overall . couple of point : - do not forget the apache header on the new error class - maybe do the grammar correction on the counter error message separately ? just so we keep the commits to a single issue each . - i be not sure we need to retain the delegating " formatvaluelist " method in testdriver . something to discuss … as for use guava to do the string join - i know mrunit use to have it as a dependency but this be remove in mrunit- . probably not worth bring it back for such a simple method .
+__label__anger	oops , have a bad comparator in the testcli config .
+__label__anger	that 's weird .
+__label__anger	my bad , upload the wrong patch .
+__label__anger	why the hell do they deliver duration , if they can not instantiate it 😕
+__label__anger	an output connector should also have a say in what url it will accept .
+__label__anger	and debugging be hell , because the test environment need to have the exact same loader setup .
+__label__anger	ie , both at be bad .
+__label__anger	my bad .
+__label__anger	@matt … i be an idiot , i use the wrong patch . sigh .
+__label__anger	so , it be stick somewhere .
+__label__anger	i suspect it have nothing to do with the file system connector or infinispan connector , and be simply a ( stupid ) mistake in the federated join processor .
+__label__anger	the food be very bad .
+__label__anger	you be mess down deep below hbase in dfs.
+__label__anger	durrrh , that suck .
+__label__anger	btw : this be #crd# reason why i hate this autoboxing shit since java . i would love to have a way to prevent it in code ( forbid check should detect this somehow ) .
+__label__anger	damn dyslexia !
+__label__anger	if the different segment be somewhat homogeneous then these stat should pretty much be very close anyway .
+__label__anger	the recommendation in the wiki be bad .
+__label__anger	fix bad patch
+__label__anger	well , damn .
+__label__anger	i do not care about code duplication here .
+__label__anger	then you be pretty well screw .
+__label__anger	i just notice your public tweet … bq. " @wilhelmbierbaum true . fuck the avro c api . "
+__label__anger	i do not know how the hell my diff program decide to add seemingly random cr char , but i have remove them now .
+__label__anger	it 's kind of annoying to have to use 0gb of temporary space nope , it only write the compressed file to disk ; {{ gzip downvote }} compress 0gb of #crd# to mib .
+__label__anger	damn …
+__label__anger	it seem really confusing .
+__label__love	attach patch for review … christian could you see if this work for you ? thanks !
+__label__love	thanks for the review andrew !
+__label__love	hi ian , this look brilliant to me ! so fat upvote from me .
+__label__love	commit . thanks for the patch 🙂
+__label__love	thanks todd , glad to be on board !
+__label__love	i just commit this . thanks , jitendra !
+__label__love	thanks sijie .
+__label__love	thanks ken ! patch apply to trunk : r0
+__label__love	tim , the fix be good . please close this jira . thanks a lot .
+__label__love	thanks , aaron !
+__label__love	i see you rebased the patch , thanks a lot .
+__label__love	thanks for be patient devaraj !
+__label__love	commit . thanks hitesh !
+__label__love	yes please - pull request away , my friend !
+__label__love	i have now port the fix to and deploy a new snapshot . could someone give it a try to make sure it really be fix so that we can close this off for ? thanks !
+__label__love	i just commit this . thanks , milind !
+__label__love	patch commit . thanks jarek !
+__label__love	the patch look good to me , aside from the lack of unit test .
+__label__love	i just commit this to trunk and branch , as they be test case and no change to functionality . thanks , vinod !
+__label__love	thanks sandy .
+__label__love	upvote i commit this . thanks , hong !
+__label__love	commit . thanks yongqiang
+__label__love	commit . thanks navis
+__label__love	thanks [ ~ cnauroth ] & [ ~ tomwhite ] for the review !
+__label__love	commit . thanks kevin !
+__label__love	patch verify at r0 . thank you for apply it .
+__label__love	thanks , oliver !
+__label__love	commit to ( operability ) and to trunk . thanks for the patch jie .
+__label__love	marcelo , thanks for point out this ; it be now fix in rev.
+__label__love	thanks kathey .
+__label__love	hi ivan , as donald have reassign this jira to you , please help to review and commit these patch after i submit the patch for tranql localization . thanks . btw , the #ord# patch in the list have already be commit .
+__label__love	look fine , thank you .
+__label__love	work for me . thank you alexei .
+__label__love	patch apply . thanks !
+__label__love	commit , thanks !
+__label__love	just commit this to trunk and branch . thanks rakesh !
+__label__love	thanks awdesh - done at r0 .
+__label__love	patch apply , thank you .
+__label__love	commit . thanks a lot very much ashish ! !
+__label__love	after apply mathias patch the sample document work fine . thanks mathias .
+__label__love	hi aki , i strongly suggest you write a persistence system test both for client and server side , which can expose the problem you mention and also verify your fix work . actually we already have serverpersistencetest and clientpersistencetest in systests / ws - spec , i think you can add yours in those #crd# class . btw , your suggestion seem ok for me . thanks freeman
+__label__love	hi daniel , thanks in advance for your support .
+__label__love	thanks a lot for your help !
+__label__love	commit to trunk . thanks for the patch doug .
+__label__love	thank you jacques for the quick commite ! ! pierre
+__label__love	hi . should this be ok to commit to trunk ? thanks .
+__label__love	yes , it work ok now , thanks .
+__label__love	commit . thanks ning
+__label__love	integrate into trunk and . thanks .
+__label__love	hi willem , i have just try the late version from the trunk . now everything work like a charm . thank you very much for such a great help . regard , sergey
+__label__love	thanks karthik .
+__label__love	commit to trunk . thanks for review prakash .
+__label__love	thanks ankit , your patch be in trunk at r0 , i do not backport as it 's not break anything
+__label__love	robert ; your patch be in ; please help verify ; thanks . rgds ; peiyong
+__label__love	patch apply . thanks matt !
+__label__love	v0 up in pb. thanks for the review
+__label__love	commit . thanks siying
+__label__love	i just commit this to trunk and branch- . thanks arun !
+__label__love	upvote look good .
+__label__surprise	be the - put command return non- to indicate failure ?
+__label__surprise	throw an exception ?
+__label__love __label__sadness	yes , update the rb just now . sorry , no perf number yet . let me run some experiment for that . thanks .
+__label__sadness	sorry to close this david , but the messenger component head over to codehaus where i think it 's pretty much dead .
+__label__sadness	i do it wrong this time .
+__label__sadness	unable to reproduce issue .
+__label__sadness	whoops , sorry .
+__label__sadness	sorry about that …
+__label__sadness	i misread the original description .
+__label__sadness	it be attach to the wrong bug .
+__label__sadness	sorry i think submit patch be the way to attach a patch .
+__label__sadness	sorry - the federated build be still work out kink …
+__label__sadness	this be my fault , do not try other profile , yarn be break as well . work now .
+__label__sadness	for some reason , i could not upload the straight patch .
+__label__sadness	yes exactly -- sorry to be so unclear .
+__label__sadness	sorry , i take martin 's comment to mean the patch be commit and issue close , which certainly discard all the patch the #ord# time around .
+__label__sadness	sorry again , i try with the same revision , same language , same theme and i use also ff0 and i still do not reproduce ( see screenshot- ) it would be interesting ot have other person test
+__label__sadness	thanks jukka for fix this 🙂 ( sorry )
+__label__sadness	aside from the job succeed ( it do not ) , what effect should i be able to measure ( in order to see if this be do anything ) ?
+__label__sadness	sorry for the mess there , i be just try to port cfs and hive metastore too … but those test do not work right now , so put it on hold , get it to work with cql0 column family be a priority for me right now , so will come back to those later . just for the hive handler , please look at the ( cas - support - simple - hive ) branch - #hlink# all the test case ( whatever few they have ) pass there and it be work perfectly with thrift / compact storage column family .
+__label__sadness	i screw up the encoding of the stopwords file ( sorry ) .
+__label__sadness	i be sorry for make it confusing .
+__label__sadness	sorry i put a comment here which be for another issue ( tired as say already )
+__label__sadness	sorry , forget to mention this . try to switch the tab a #ord# time . the #ord# click on " tab b " will correctly render " content b " . but switch back to " tab a " and then again back to " tab b " fail to render " content b " .
+__label__sadness	some file be miss in the last patch , sorry .
+__label__sadness	sorry for my poor review , do not notice try / catch ☹️
+__label__sadness	mark , alexey 's right , the original fix be invalid . please undo all the patch . sorry .
+__label__sadness	last try .
+__label__sadness	sorry to have not spot this #crd# , and thanks for your care .
+__label__sadness	no sorry .
+__label__sadness	sorry .
+__label__sadness	fixed . sorry for long waiting . i do not find the time . author : tterm date : mon jul new revision : url : #hlink# ? rev = & view = rev log : preserve or configure content - type of http - header modify : servicemix / smx0 / branch / servicemix- / deployables / bindingcomponents / servicemix - http / src / main / java / org / apache / servicemix / http / httpendpoint . java servicemix / smx0 / branch / servicemix- / deployables / bindingcomponents / servicemix - http / src / main / java / org / apache / servicemix / http / processor / providerprocessor . java
+__label__sadness	sorry for the wild goose chase !
+__label__sadness	sorry to come in late . some clarification : # mr0 jt kill all run task on a tt when it 's deem ' lose ' . # it also kill all complete map on that tt for ' active ' job . # the task be mark kill rather than fail and thus do not count towards the job , which be correct since it be not the job 's fault . hope this help .
+__label__sadness	you misunderstand the response : stopfilter indeed do not change .
+__label__sadness	i be new to spring integration , so forgive me for the stupid thing i might say .
+__label__sadness	this might be a bug indeed .
+__label__sadness	sorry alvaro , lot of thing need to be do at the same time . but i be still not % clear what you want me to do / change . i put installation / wiki link on top - right now : #hlink# what about the link to the tutorial , you want to put those in the section " installation and upgrade " right ? sebastian
+__label__fear	out of curiosity ; could we save a follow notification as our lastmessage then ; even if we do not send it ? that would give you the ' current ' state more accurately than a stale look notification and it seem like it could solve this particular problem . we could ; but that would not give an accurate state as well . a peer might be in the look state ( next fle round ) while the lastmessage get send . there will be race condition . in my opinion ; a good way of do this be to send the current state instead of lastmessage . in which case ; i agree with flavio that send the final notification wo not be necessary . this will also reduce the number of notification exchange .
+__label__love __label__joy	upvote look good to me . thanks , hyunsik !
+__label__love __label__joy	commit to trunk . thanks , bharath ! and thanks cos for help review .
+__label__love __label__joy	ah great , thanks !
+__label__love __label__joy	thanks randy ! commit ; - r
+__label__love __label__joy	patch look great ! thanks artem . no more mixing in of fuzzy - ness into analyzingsuggester . it look like we be do the utf0 conversion + det twice per lookup , once in convertautomaton and once in getfullprefixpaths . but , i think this be inevitable : the #ord# conversion be on the " straight " automaton , for exactfirst match , and the #ord# #crd# be on the lev automaton , for non-exactfirst . really we should only do the #ord# convertautomaton if exactfirst be true .. but this be an optimization so we do not need to fix it now .
+__label__love __label__joy	hi leon , thanks i will take a look . anyway i think of refactoring this parsing mechanism , we can do well 🙂 . cheer sascha

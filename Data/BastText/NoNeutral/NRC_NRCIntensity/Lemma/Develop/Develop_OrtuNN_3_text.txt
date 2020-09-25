@@ -1,0 +1,154 @@
+__label__sadness	i be in too much of a hurry , sorry hold on a sec .
+__label__sadness	sorry for the delay , i be recreate the mirror now .
+__label__sadness	sorry for let you guy wait .
+__label__sadness	the patch here seem to be attach to a wrong jira . sorry about the confusion . i have re-attached the path here .
+__label__sadness	sorry , you be right .
+__label__sadness	i be sorry .
+__label__sadness	i open [ hadoop- ] to fix a wrong url , but appart from that i do not there 's still reference to the old structure .
+__label__sadness	oops , my bad , sorry . i indeed do not ' svn add ' the new class since i do not have write access to the repository anyway . but this way ' svn diff ' go wrong , of course . i will submit a new patch on monday when i be back at my work machine . i be really sorry for the incovencience !
+__label__sadness	yes it be a dup , thanks mike for take care of this ( i plan to do this yesterday but do not make it )
+__label__sadness	ah , sorry i misunderstand you .
+__label__sadness	secondly read this code i can see why this bug be happen , after complete stage above when add the new item the code do " order - cancel = quantity " which equate to " - = " .
+__label__sadness	hi lars , sorry about the delay in respond . good point about the treemap always return result in a deterministic ordering . the patch itself i think be still beneficial because it remove a little bit of redundancy in the exist equality code . imo , the fix make it easy to understand as well . in addition , the test be beneficial since we be miss coverage there . i think it would be good if the fix be in soon , but it 's probably not an issue if we move it to .
+__label__sadness	sorry jacques , i will upload another file .
+__label__sadness	run test on this . will commit once it be do . sorry , this #crd# fall off my radar …
+__label__sadness	sorry , i be not able to create #crd# diff - file , so i add for every build . xml an own diff .
+__label__sadness	fix the bug description - sorry for the noise
+__label__sadness	if you know of a way , please describe it .
+__label__sadness	sorry that i think i miss some discussion in the mailing list . the implementation and test and breakiterator be attach .
+__label__sadness	thanks for the report , and sorry its take so long to fix it .
+__label__sadness	< pctony > herbert , sorry we can not do this . the scope of the blemlist aiui be at the svn repo level - and we run a single repo for all the asf project . however buildbot work at the per-project level . short of perhaps re-write all of our buildbot mechanism from the svn master this be not do - able . sorry .
+__label__sadness	thx for the confirmation , vm will be create along with dns etc. hopefully later this week . sorry for the need to be a bit formal . rgds jan i.
+__label__sadness	i find the ( sad ) attempt at a script you ask about and upload it to mapreduce- .
+__label__sadness	i miss the context .
+__label__sadness	i have not have any time to try re-upgrading after have to back out , but i will be sure to let you know how it work out as soon as i get the opportunity .
+__label__sadness	sorry ; i hit close by accident .
+__label__sadness	sorry , i be try to get to the wiki but it 's be a busy week .
+__label__sadness	i be not able to reproduce the problem with the attachment . i see appropriate error message ; line number ; etc. however ; line number information be miss for the testcase idkeyerr0 ; so i have commit a patch which remedy this .
+__label__sadness	sorry , i be wrong about need to fix gump - that just need the build . xml patch to remove the copy of the file in lib.
+__label__sadness	strange thing go on . with google chrome , upload patch file corrupt the file . with msie it work . sorry for the noise . yesterday it work normally …
+__label__sadness	sorry .
+__label__sadness	sorry ivan , attach a new patch with -- no - prefix .
+__label__sadness	no , sorry - priority have be shift around …
+__label__sadness	yes , sorry .
+__label__sadness	sorry , i have accidentally delete the -- disable - eventfd from my compilation script .
+__label__sadness	sorry 🙂
+__label__fear	currently the user password be too insecure .
+__label__love __label__joy	look great , thanks tinny !
+__label__love __label__joy	code look good to me , patch 's be commit , thanks ! awesome to now be able both the and messaging api through the same interface , this be go to save us a lot of headache 🙂
+__label__love __label__joy	the patch look good , and so do the test . thanks . my only question be why be the follow line add to setup ? { code } conf . set ( #hlink# , " file: // bin / echo " ) ; conf . set ( #hlink# , " file: // dev / null " ) ; { code } the test seem to pass just fine without them , and i do not understand their need .
+__label__love __label__joy	look good ; the other service have the type hint too ; so this be indeed an erroneous situation . apply & commit ; thanks !
+__label__love __label__joy	good catch ! thanks for the thorough explanation and suggestion . i think it all make sense . will work on a patch .
+__label__love __label__joy	upvote ! thanks ! i also run with mvn clean install and it look good .
+__label__love	thanks a lot !
+__label__love	hi digy , i like to know a bit more about this patch : ) what test case be it fix ? ) how do you determine the race condition ? the change to the threadclass be considerable and i be try to understand why this be not a problem in early version . thanks . -- george
+__label__love	please apply this patch file . cheer , kaushalye
+__label__love	thanks , amar !
+__label__love	thanks again for this really great patch , andrew .
+__label__love	commit to trunk . thanks , francis !
+__label__love	apply the patch into trunk with thanks to luca after minor refactoring .
+__label__love	thanks a ton for your review , todd . here 's an update patch which address all of your comment except the follow . bq. in editlogfileinputstream , why do we need to pass isinprogress as a boolean ? if it 's in-progress , that mean we do not know the lasttxid , so it would be invalid_txid , right ? so we can implement isinprogress ( ) by just compare lasttxid . because in the case of pre-transactional elfis , we pass in invalid_txid , even though the log be not yet in progress . i be still work on produce an update patch which also add testing for the pending dn message queue .
+__label__love	thanks again uwe
+__label__love	thanks scott , i have commit your last work in svn with rev.
+__label__love	thanks radim , i put this into trunk , branch- , and branch-
+__label__love	the v0 change look good . thanks
+__label__love	apply . thanks !
+__label__love	commit to trunk . thanks johnny !
+__label__love	thanks for testing ; shinobu . probably a misconfiguration . chris ; try ask on the user list if this problem persist .
+__label__love	i would love it in , will upload a patch for that version .
+__label__love	hi , gianmarco , thanks for your concern . actually we need #crd# additional step to make bin / pig work . we shall copy $ pig_home / build / #hlink# to $ pig_home / #hlink# . this will be handle in ant 's " package " target when release . but if you check out from svn , we will do this additional step to work with bin / pig .
+__label__love	thanks for apply the image . please check and apply the patch i have submit to for- [ ] . since the change require to resolve this issue involve file modify there , it have to be apply #ord# . [ ] #hlink#
+__label__love	commit , thanks !
+__label__love	integrate to and trunk . thanks for the patch , anoop . thanks for the review , stack .
+__label__love	thanks tom !
+__label__love	hi [ ~ wikimore ] , [ ~ michaelstockton ] , or any other ruby user : i would really like to commit that , but i need someone of you to review and confirm before . so if you want this be part of the next release .. thank you !
+__label__love	hi charles , thanks for the confirmation … we will chat with willem , i be off today but will work for a couple of day this week … sergey
+__label__love	this look like a fine approach to me . thanks for put the patch together . .
+__label__love	i have just commit this . thanks eli !
+__label__love	i have commit this . thanks , cw !
+__label__love	commit to trunk . thanks edward .
+__label__love	thanks for the clarification . i will reintroduce separate datum structure for lead / follow notification .
+__label__love	yes , i just try it and this change work when the user 's classpath variable be unset . i have just commit this . thanks michael !
+__label__love	apply patch with thanks to william .
+__label__love	thanks , sravya !
+__label__love	hi sascha , there be an overlap with ofbiz- , could you please check ? thanks
+__label__love	hi hairong , the speedup you measure with this patch be very impressive . it would be great to have it include in the system . the patch still apply successfully to current trunk when i try it . so can you please go ahead and " submit patch " so we see how it do with test - patch ? and i will review it , and try to get someone else to also . thanks !
+__label__love	i just commit this . thanks , raghu !
+__label__love	commit to trunk . thanks , enis !
+__label__love	please try this patch . thanks a lot !
+__label__love	bq. though , pig itself compile fine and be ready to go , the contrib project ( owl , zebra , piggybank / hiverc ) do nt compile , i think because either it do not download dependices of those project or do not include them in the build path . ashutosh , yes . i do realize it and as you rightly guess , it be because the ivy - dependency list do not have some jar that be actually be use by contrib package . this be not an issue relate to eclipse - classpath . however , there have to be a jira open to solve this issue of download the miss jar by ivy . can you please file a jira for this ? thanks
+__label__love	patch commit to trunk . thanks niraj .
+__label__love	thanks for the review , guy !
+__label__love	thanks , jing !
+__label__love	thanks to fabrizio for the patch .
+__label__love	thanks for provide this update . will try to take a look at this sometime this week .
+__label__love	thanks , apply ok .
+__label__love	thanks for catch this , i have fix it .
+__label__love	i want to integrate the sweet sweet logo andrew craft .
+__label__love	i just commit this . thanks , tom !
+__label__love	thanks zheng !
+__label__love	would you please try the patch ? thanks very much !
+__label__love	the code have be check in. thanks to gordon for that .
+__label__love	i just commit this . thanks mahadev !
+__label__love	that fix my testcase . thank you !
+__label__love	apply . thanks simon !
+__label__love	commit @revision in trunk thanks lufeng , if and when you get around to the patch for .x i can review . the patch for test be very welcome in nutch . thank you .
+__label__love	i just commit this . thanks for the review , doug . ( btw the last patch do not include the removal of lang / java / mapred / src / main / java / org / apache / hadoop / io / sequencefilebase . java , so i do that manually when i commit . )
+__label__love	upvote jihoon , thank you for your contribution . sergio , thank you for your review .
+__label__love	i have commit this . thanks , michele !
+__label__love	otherwise , hopefully someone else will improve this code when they have get some time .
+__label__love	🙂 good regard , fabian .
+__label__love	thanks alex . it look like a good path to solve this issue .
+__label__anger __label__sadness	this be pretty embarassing !
+__label__surprise	thirdly , the scenario you present in which someone copy a subset of their schema would only error if that person also choose to omit the defaultsearchfield declaration -- but why would they do that ?
+__label__surprise	what be convenient for the user to download #crd# archive to run the project ( or install maven ) ?
+__label__love __label__sadness	i be sorry for the delay in respond . if you think the new patch be read for commit can you check patch available and it will get back on the radar . be derbyall clean as well l ? i be not see the original path anymore . for future reference , i think it be good in general to keep the old #crd# there to see what 's change . thank you so much for all your work on derby !
+__label__joy	> - fouseragent . getstream ( ) be cool and very easy to use ( now that it 's properly > document ) .
+__label__joy	xueqiang , i just commit your late patch . keep up the good work ! #hlink# ? rev = & view = rev
+__label__joy	look like this be fix 🙂
+__label__joy	tim , the fix be good . please close this jira . thanks a lot .
+__label__joy	ok cool , this be just a matter of add string to the various [ notfound ( ) | #hlink# return in file . cpp there be a number of error case in the [ browse | #hlink# and [ read | #hlink# endpoint , i would imagine #crd# could change the javascript to generate bad request which should be sufficient to test this 🙂
+__label__joy	bq. ok w / the late patch all test pass for me ! great awesome ! 🙂
+__label__joy	cool cool - thanks stack !
+__label__joy	upvote on intent from look at what the patch fix .
+__label__joy	patch look good . upvote
+__label__joy	cool man it look good . we need a change entry but from my side this look good . we can tackle the todos on trunk
+__label__joy	thanks for move so quickly on this guy .
+__label__joy	thanks , sanjay !
+__label__joy	upvote patch look good .
+__label__joy	look good . thanks george .
+__label__joy	wow , thanks raghu , that 's awesome and will save me a ton of time .
+__label__joy	cool . thanks for consider my bug report !
+__label__joy	cool , will do ! thanks for the review and good question … and the whole idea ! 🙂
+__label__joy	thanks , dhruba !
+__label__joy	thanks !
+__label__joy	it be good to have the test .
+__label__joy	awesome ! this tool be cool .
+__label__joy	i will be happy to edit the wiki when i get this resolve !
+__label__anger	my bad .
+__label__anger	seek back be pretty inefficient in dfs.
+__label__anger	i be confused .
+__label__anger	django be a fullstack framework , click be not .
+__label__anger	i be not enter bogus report for the hell of it 😉 matt
+__label__anger	weird .
+__label__anger	no , it 's not off the table , but it 's moot unless we decide we want cqlsh in-tree at all .
+__label__anger	well , that suck .
+__label__anger	that 's weird .
+__label__anger	{ quote } you be mess down deep below hbase in dfs.
+__label__anger	bad memory .
+__label__anger	hudson be stuck .
+__label__anger	stupid maven
+__label__anger	turn off hint be basically intend as a " oh shit , something be break with hint , let 's turn it off " switch .
+__label__anger	hell , this be gon to take me a lot of work to raise .
+__label__anger	of course , it could … 🙂 doh !
+__label__anger	that 's my bad .
+__label__anger	holy hell , i think i find #crd# problem with turn a bignum into anything else .
+__label__anger	ah , that be my bad .
+__label__anger	my bad .
+__label__anger	ok . stupid user error here .
+__label__anger	this whole thing be very distressing to me .
+__label__anger	durrrh , that suck .
+__label__anger	this suck * so much * ..
+__label__anger	a feature with wrong functionality be as bad as , if not bad than , a bad performance .
+__label__anger	they do not vote , they whine that something ( or everything ) suck .
+__label__anger	i do not care what we do as long as we do not change the attribute in jsp significantly .

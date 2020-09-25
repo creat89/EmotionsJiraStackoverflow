@@ -1,0 +1,225 @@
+__label__anger __label__sadness	i have spent days trying to find any information or working samples on how i can get google data such as emails in my gmail inbox , list of my contacts , my calendar events etc … none whatsoever ☹️ there are broken pieces of some code fragments here and there , % say it 's been deprecated , is the a one single page on the internet that gives me a working example how to do that from javascript . many pages about oauth , but i have absolutely no idea how to use it , i have spent days reading broken pieces here and there , but i was unable to understand what that it and how i can use it practically . very sad , and i am very tired to waste so much time on things that do nt work and are not documented in human language , possible to understand . why do they have to overcomplicate thing so much and spread broken pieces of information everywhere ?
+__label__fear	the other day i noticed that if i run ieinspector 's httpanalyser and capture the post data when logging into my bank account or amazon account the post data shows my user name and password in the clear . this is a little concerning . does anyone know at what point the ssl encryption takes place ? this i assume would mean that any software that is installed on your machine could potentially get access to this post data . very scary .
+__label__fear	i 'm working on a webservice + ajax interface , and i 'm worried about authentication . this moment i 'm passing username and password to the webservice as arguments , but i fear that this approach is highly insecure . i was told that ssl could solve my problem , but i want more alternatives . my webservice is written in php and my interface is in php + ajax . the webservice receives arguments from post or get and retreives xml ( in a future maybe i 'll use json )
+__label__fear	i 'm using this practice to add comments using ajax , by sending the data to an asp . net handler which collect the information and then insert the comment , but i am afraid that any one could use it , am i wrong ! ?
+__label__fear	i am planning to use community sever for one of our projects , i used it in the past but we had a lot of problems customizing it and understanding how things work , im affraid to get into that again , and i would like to add some things to it but i do nt know how flexible it is .
+__label__fear	standard lamp config . as the guy said below , i imagine the file is just not being delivered correctly or something . just worried something is breaking for my users !
+__label__fear	a copy of an infinitely long string terrifies me !
+__label__fear	i have vs2005 installed . but i was afraid about installing vs2008 and lose everything . i think i have to install framework first . is that correct ?
+__label__joy	i wrote a tool to create svg maps : which also has a world map that you can customize to your liking : hope this will help you or any other folks who are after a customizable world map !
+__label__joy	i would just use an @import command at the top of my css file , then you can simply add a new font by adding a pipeline to the end of the font and type the name of any other fonts you want . to use them , simply use the css font - family style command : html hope this helped !
+__label__joy	i 've been programming ruby pretty extensively for the past four years or so , and i 'm extremely comfortable with the language . for no particular reason , i 've decided to learn some python this week . is there a specific book , tutorial , or reference that would be well - suited to someone coming from a nearly - identical language , or should i just " dive into python " ? thanks !
+__label__joy	excellent ! i hope you liked the ` $ . when . apply ( ... ) ` with its double nested . joins . that 's the bit i had to test .
+__label__joy	there are a few plugins which you could look at for that functionality , if not flat - out use : good luck , hope these help !
+__label__joy	thanks for the answers . i 've found a great sitemap generator over at codeplex . if anyone is interested you can check it out here : enjoy !
+__label__joy	there is a guy who made the exact same observation as you , and he has published a blog post with a simple working example of a quartz . net console application . i used it with great success yesterday !
+__label__joy	wow , exactly what i was looking for !
+__label__joy	excellent news !
+__label__joy	yes - that feature is extremely useful for writing upgrade scripts .
+__label__joy	this is simple i hope 🙂 when i create a new web application in wss does it need to be on port if i want to point an external domain name at it ? everything is standard in terms of iis and ports that are open i.e. port is the only one open . i am guessing if i let wss assign a port number to the new web application surely this can never be accessed externally unless i open the assigned port ? cheers
+__label__joy	i 've had great success with 's auto-suggest implementation . it includes php examples too .
+__label__joy	i 'm just getting my feet wet with multiprocessing ( and its totally awesome ! ) , but i was wondering if there was any guidelines to selecting number of processes ? is it just based on number of cores on the server ? is it somehow based on the application your running ( number of loops , how much cpu it uses , etc ) ? etc….how do i decide how many processes to spawn ? right now , i 'm just guessing and add / removing processes but it would be great if there was some kind of guideline or best practice . another question , i know what happens if i add too few ( program is slooow ) but what if i add ' too many ' ? thanks !
+__label__joy	wow , great many thanks ! file was data !
+__label__joy	paradise , if you submit that as a separate response i 'll make you the winner !
+__label__joy	that 's excellent , and works absolutely beautiful !
+__label__joy	@user2717118 : excellent ! please consider [ accepting this answer ] ( http://meta.stackexchange.com/questions/ /how-does-accepting-an-answer-work), then 🙂
+__label__joy	the effect i believe you are seeking is achieved by providing a headertemplate for the tabitem 's in you tab collection . hope this helps !
+__label__joy	after some tests i found a fast solution , you can add in top of your index page : it work very fine 🙂
+__label__joy	look into these links . they may help .
+__label__joy	wow ! very simple , but great effect …
+__label__joy	yeah … i 'm not a huge fan . their documentation , tutorials , and guides are pretty nice . here 's the guide : https://parse.com/docs/ios_guide#top/ios here 's the documentation : https://parse.com/docs/ios/api/ here 's the video tutorial for pfquerytableview : https://parse.com/tutorials/parse-query-table ( a little dated but very nice ) hope this helps ! 🙂
+__label__joy	in our eternal quest to integrate javascript into our rspec and cucumber workflow we 're evaluating and are provisionally very excited about it . any advice on culerity in general or specifically as compared to selenium ?
+__label__joy	you would need to create a counter integer variable that can keep track of the line index for you . hope it helps !
+__label__joy	excellent and simple .
+__label__joy	there is a plugin for wordpress to help you with that . hope that helps !
+__label__joy	no prob . good luck !
+__label__joy	@phoenixx_2 no worries !
+__label__joy	i m really excited to know that html has in build support for audio and video playback ( i know its old news but i just woke up ! 😛 ) . what is even more exciting is that it can play local audio / video files in matters of some click . i had a look at this , could not find any offline video player . my question is why is that people are not developing an offline media player which could just be loaded form a website ? are there some issues ? thanks
+__label__joy	have you looked into creating a plugin with waffle ? from the waffle guys if should be possible to create a module using the servlet filter code . that would be a pretty awesome module for play ! i 'll look into it when i get some spare time . https://groups.google.com/forum/ ? hl = en # ! topic / waffle - users / q9arpjitp6g
+__label__joy	wpf is a fascinating platform to develop our next generation applications on ! the ability to style just about anything , the databinding support and attached / dependency properties . wow ! but let 's not throw caution to the wind because while wpf performance is great , it 's not the best … yet . definitely is a strong contender , but as developers we are still left with design principles for our front ends .
+__label__joy	@edwardruchevits hey passing in cat and page worked ! it now remembers it each time i navigate pages ! excellent ! question though , is ' cat ' a predefined php variable for urls ? also , while this works for me locally … how will this function when different users specify their own category ?
+__label__sadness	i 've tried several other ides ( the last one was eclipse ) but always come crying back . the thing i end up missing most is homesite 's ' tag insight ' for all the html tags .
+__label__sadness	i just wrote this function , so there are no versions to speak of … i 'm afraid i 'm not very faimiliar with mapping !
+__label__sadness	still no go , i am afraid 😕 this does not remove ' www ' from the url .
+__label__sadness	when specified as above , spring distinguishes constructor arguments by order of appearance . the notation would only switch between setting the attributes by constructor to setting them by accessor . i 'm afraid , this will not change anything .
+__label__sadness	a very sad face ☹️
+__label__sadness	beat detection looks incredibly complicated ☹️
+__label__sadness	i am really desperate ☹️
+__label__sadness	a ( it does n't have to be a class ; structs and interfaces can be partial too ) is basically a single type which has its code spread across multiple files . the main use for this is to allow a code generator ( e.g. a visual studio designer ) to " own " one file , while hand - written code is put in another . i 've no idea whether python / perl have the same capabilities , i 'm afraid .
+__label__sadness	thatâ´s really sad ☹️
+__label__sadness	i 'm afraid i ca n't entirely follow your question - do you want to have a sign up form for membership or email notifications shown as an article ? if so , then the easiest way is to install ' m2c ' - the ' module to component ' component . then you can put any module ( ie the sign up box ) in the centre content area . the m2c component can be found here :
+__label__sadness	i 'm afraid i do n't know of any other option than work !
+__label__sadness	i 'm trying to bake my controllers but i keep getting the following error : it 's making me frightfully sad , has anyone ever come across this ?
+__label__sadness	@gap : no , i never wrote the helper class , i 'm afraid .
+__label__sadness	unfortunately , no . that 's my major pain when merging vcproj file changes .
+__label__sadness	finally found something , here : no reference to it from the oracle pages , but found a direct link to a page on some forum post . really sad how hard it was to find .
+__label__sadness	i actually tend to prefer pascalcase here - but out of habit , i 'm guilty of upper_case …
+__label__joy __label__surprise	wow ! yeah , i did 'nt know that ! great new feature .
+__label__love __label__joy	excellent ! exactly what i needed 🙂
+__label__love __label__joy	i was using an old version of sinatra - updated to version and it works fine 🙂 thanks everyone !
+__label__love __label__joy	i 'm trying to make a link inside the fancybox single image title . i want it to redirect me to another fancybox window ( witch is inline ) ... i have a script that makes the whole single image a link , but this targets my document title instead of the anchor title … i really hope someone will have a solution or a better idea on how to do it ! ! 🙂 thank you thank you thank yooou ! 🙂 btw : i have almost never worked with scripts … in depth anyways …
+__label__love __label__joy	i did try the demo and did end up buying it . i 'm thrilled ( thus far ) . thanks for your comment .
+__label__love __label__joy	excellent advice here , and it seems like you know know this field . i hope you 'll keep participating .
+__label__love __label__joy	i am trying to get titanium studio to work for some time now … i am using linux mint xfce edition . i have to install nodejs and the packages titanium , alloy , acs , acs - node with npm. now every time i install nodejs again and install a titanium or alloy via npm it creates a new directory i actually have a directory called in my root dir ( where username is my username ) . all the other pacakages i need to install ( acs , acs - node ) give me : i really hope , someone can help me ! i do n't understand at all what is going on . i am installing nodejs from ppa : because the version from the linux mint repository are way to old . any help very much appreciated !
+__label__love __label__anger	i 'm integrating protobuf - net into our wcf services based solution but have ran into a snag that i ca n't figure out . the following class will serialize fine , all except for the objectid property . here 's the class that 's toying with me : i 've tried multiple things with no luck . any thoughts would be greatly appreciated !
+__label__sadness __label__fear	you need to or if you target windows phone .and port you code to directx the call is . it will be painful ! you will still use this feature level .
+__label__anger	freeing the local array " buffer " is undefined , and probably horrible , behavior ! you ca n't free something unless it was allocated with malloc ( ) or calloc ( ) . it 's likely corrupting the heap and causing the crash .
+__label__anger	fyi : when c or c ++ say " undefined " they usually mean " crash " or " memory corruption " or something equally terrible . beware .
+__label__anger	sorry , most of the code for this is 3rd party and i do not have access to it , making things extremely difficult / frustrating .
+__label__anger	this is similar to the accepted answer ( because it is using java to represent the newline rather than el ) but here the < c:set / > element is used to set the attribute : the following snippet also works , but the second line of the < c:set / > element can not be indented ( and may look uglier ) :
+__label__anger	the problem that i am having is while designing an email to be sent to users the border of the html table is not disappearing even though it is set to and so leaves horrible white lines through areas which are menu to be solid blue colors , below is my html code ! untitled document
+__label__anger	i completely disagree with the answers so far . i feel that internal is a horrid idea , preventing another assembly from inheriting your types , or even using your internal types should the need for a workaround come about . today , i had to use reflection in order to get to the internals of a system.data.datatable ( i have to build a datatable lightning fast , without all of its checks ) , and i had to use reflection , since not a single type was available to me ; they were all marked as internal .
+__label__anger	why do you need the class explicitly ? could n't you use the interface ? note that casting is not encouraged , which is why it looks so awful in scala !
+__label__anger	i need from document object or from a dom element ( i.e. a div ) to know which is its window object . in firefox i can do : but obviously in that awful browser that statement not work ! ! !
+__label__anger	tested / cross - browser : if there is no submit button , the form will degrade miserably if javascript is not available !
+__label__anger	it is incredibly frustrating that outlook does not preserve the timestamp when you export . i have no idea why they decided to omit that .
+__label__anger	ok this is really annoying , ca n't find a solution that works !
+__label__anger	that link is full of horrible advice .
+__label__anger	you ca n't move the cursor with javascript . it would be incredibly annoying anyways .
+__label__anger	i have this script and been breaking my head on trying to change it so that instead of cropping the center part of the image it will crop from the top to the $ height sent to the function , any help will be extremely great :
+__label__anger	right , i 've got this horrible mess of html and erb ( that does work ! ) , but i want to do things properly and render the whole thing with the method . but i 'm not sure how to do this , i can only render text with the link_to at the moment .
+__label__anger	in vc ++ mfc application project , i will not get the compile error , but when i run the project i will get the error debug assertion failed ! program : project . exe file : winocc . cpp line: for information on how your program can cause an assertion failure , see the visual c ++ documentation on asserts . ( press retry to debug the application ) what error it is and why this type of error occurs , how to debug this error , plz help any body ,
+__label__anger	i really hate people who downvote for no reason . just tell me what your problem is in a comment after you downvote . god !
+__label__anger	i really hate asking questions that i feel were asked a thousand times before . this is one of those questions i feel others must have encountered , , none of the supposed solutions work for me so i must be doing something wrong … i have an extremely simple app setup . index . htm , and terms . htm . there is some textual data in test . htm . i set both and at the appropriate time after stuff has loaded . at first i tried loading terms . htm ' s data into an element within index using ( both test and index are in the same root / assets / www / directory , and my webview loads index oncreate ) but absolutely nothing was happening . so i opted to try . ajax so that i could at least get an error message , and all i get is ' error ' . surely , it is possible to load local textual assets with jq on droidgap ?
+__label__anger	no betas involved , the lack of repro is really annoying me !
+__label__anger	schemas - okay , has owners , but they can be a real pain to get permissions right on .
+__label__anger	i thought i 'd commented . complete rubbish http://stackoverflow.com/questions/ /performance-space-implications-when-ordering-sql-server-columns/ #
+__label__anger	i 've been tackling the same issue . it 's a pain !
+__label__anger	i 'm having an extremely frustrating experience attempting to change directories in python using variables within the program . specifically , suppose i have : gives oserror : [ errno ] no such file or directory : ' $ dir_name ' and yet returns ' directory_name_999 ' ( a valid directory name ) and similarly changes the directory without error . where am i going wrong here ?
+__label__anger	this ws - addressing issue is a real pain in the ass . not only does wss2 use an old , pre-release version of ws - addressing , it adds propritery elements to the soap header ( e.g. wsa:via ) that are nt part of the schema . what a crock .
+__label__anger	i have just finish that site , but there is a silly bug that remain … if you check tu horizontal position of the whole page there is a slight shift … nothing to cry about but why here is the pages any idea , the horizontal css is : i do nt like my page to do the cha - cha - cha !
+__label__anger	i have a query that has approx columns and i would like to export this to an excel file with the column headers . i thought this would be easy to figure out but no luck ! i searched the web and found one suggestion that did not end up working so i am stuck . anyone have any working ideas ? thanks ,
+__label__anger	dude , you scare me ! at least make an effort in providing code !
+__label__anger	its amazing + questions tagged " programming " i just had to go find out how many quesitons were tagged " question " and there are some ! ! @jon : fyi , so is always about programming , non programming questions will very quickly get voted closed .
+__label__anger	herbert 's answer is a suggested way of marginally automating the browser to check the boxes and click the delete button . if one was to setup a browser automation project with selenium or such , then this would be a legitmate but painfully slow solution to delete all entities via the admin screen as it only deletes at most entities at a time .
+__label__anger	it 's a terrible idea to include a using directive in a header file too . this simply mitigates that problem .
+__label__anger	this does seem to be the answer . absolutely terrible api design .
+__label__anger	this is horrible . first you 're sleeping , which will never wait exactly the right amount of time . it may fail if the computer is busy and shutdown takes longer than expected . and otherwise it will waste time . furthermore , you 're using shared * persistent * state . the right solution is simply to free the ` runonce ` mutex before calling ` application . restart ( ) ` .
+__label__anger	if i have a setup project in a vs solution and i add / remove another project , or unload / reload another project any setup projects in the solution are expanded in the solution explorer . it only does this for setup projects and it is extremely annoying . is there any way to disable this behaviour ?
+__label__anger	@suma how can this be a duplicate if the question you mentioned was posted a year after this one ?
+__label__anger	on win with msvc there 's but it 's really horrible and you do n't want to use it if you can possibly avoid it . better to say that there are no exceptions .
+__label__anger	no , it is not possible -- we tried hard and ended up reverting to the way of using a custom class … check maattachedwindow well with enough swizzling and posing it 'd be possible of course … but that is very evil and at least as much work as your own class !
+__label__anger	i really hate to give any pointers without explanation but i think your requirements are bigger ::: so --- >
+__label__anger	looks like you have changed your needs . that 's disgusting
+__label__anger	too bad this behavior is n't a setting . i think it makes sense in theory why they did it this way , but in practice it 's just really annoying
+__label__anger	i do n't understand this part : one thing i 've found with this is that passing the config around to all the other utility functions that i 'd prefer and do n't think should be a a part of one the the above mentioned classes can seem to get incredibly tedious . anyway , look up on thread - local storage . you could make a singleton config object that is thread - local .
+__label__anger	i am working on an app that uses some basic view types , but i find the default attributes extremely ugly in android ( for example , a bright yellow ) . i can get the basic seekbar if i create it from code , using only the parameter , but i would like to know if there is a way to do this inside an xml layout file . is there an attribute i can set that will remove all default attributes - such as ?
+__label__anger	okay , a before < example > and a desired after < example > i know , horrific ( do n't ask ! ) see how the slash in the key indicates children , and how the order is nested accordingly ? and items without orders are simply shifted to the bottom . but also how multiple ' same level ' items with the same order are merely sorted by key ?
+__label__anger	terrible ! why do you post all that code ? three asynctasks . do we have to dig through all that ? you should only post the relevant code .
+__label__anger	so " options " always has one item , and " option " can have multiple ? what a horrid api !
+__label__anger	is this seriously the only way to modify the default template ? this seems absolutely terrible .
+__label__anger	i 've done some easy . hover ( function ( ) statement in jquery . when i hover over a text i simply want a # div . fadein , and on non-hover fadeout . it works . but it 's just if i spam the text - trigger with hover and un-hoverring really quickly and then stop the animation begin to give a blinking effect . it just kind of loops , really annoying !
+__label__anger	it 's horrible ! no , seriously , i do n't like it .
+__label__anger	@robáµ© i really hate passing booleans into functions .
+__label__anger	i 'm trying to pull the whole set of objects that i want to work with into memory so i can cut down on calls to the database . if i call a select for each iteration i 'm looking at hundreds of thousands of calls , which is running horrifically slow .
+__label__anger	regex is a horrible option for performing replaces on a large amount of text . as powerful as it is , many regex proponents see all the world as a nail and regex as their hammer . for use cases involving large amounts of text , look at fastreplacer http://stackoverflow.com/a/ /
+__label__anger	oh the horror ! try ` page . php #iframe_id ` as the target .
+__label__anger	it is being deprecated because it is old and unsafe . switch now or feel the pain later !
+__label__anger	@chris two different control statements just to appease developers who want their switch statements to work in a slightly different way ? that 's a ** terrible ** idea . vb [ had that mentality for loops ] ( http://en.wikibooks.org/wiki/visual_basic/loops), and it worked out terribly .
+__label__anger	i do n't see how this is possible , but i really , really hate to run my query an extra time just to get the record count so i can build a pager . when i say a " pager " i simply mean the common gizmo with a link for each records for example .
+__label__anger	upvote serapth - i hate this . i ** hate ** it !
+__label__anger	this in an extremely ignorant answer .
+__label__anger	i have issues with aptana ( …. ) on dark themes . every time i hit the cursor , the horizontal scroll bar in the workspace flickers into view and out again . this seems to be a bug , which has been reported already a long time ago : has anyone else found a solution ? makes working in aptana incredibly annoying .
+__label__anger	i 'm using vs2008 , in a normal mid-size solution . sometimes , debug stepping becomes very slow . a padlock gets rendered on the every file tab for every " step " ( f10 / f11 ) , and it can take up to two seconds for every step . that makes debugging very annoying and slow . has anyone seen this problem ?
+__label__anger	i have developed my site with firefox and firebug plugin , but when i deploy it to other browsers ( ie / chrome ) , the console window appears at the bottom of the screen ( very annoying ) . how can i disable this ? and why is it appearing ? gath
+__label__anger	i have a basic app written with atl , using the wizard with vs2008 . i have a treeview in the left side of the app . i see how to ( painfully ) add tree items . question is how do i show a menu when the mouse is right clicked ? how do i trap any click events on each item that could be selected ?
+__label__anger	based mostly on , but also , and my own experience , i do n't think it 's possible without a lot of ugliness , pain or without converting your linq to sql code generation over to ( not appealing , imo ) .
+__label__anger	iâ€™ll try this . string needs to be iterable . and while we are at it : how come java is so damn awful ? no sane person would specify ` remove ` in an interface , just to add ` throws unsupportedoperationexception - if the remove operation is not supported by this iterator ` .
+__label__anger	this is one thing that i really hate within development is forms . below is my code and what i am trying to do is align the inputs with the labels . is there a rule that you use to help remember when coding forms ? css : html :
+__label__anger	i 'm trying to delete several working copy directories , but i get an access denied on all the svn files , running as admin or normal user . i 've killed the tortoise cache process , and can not figure what is wrong . any suggestions ?
+__label__anger	so for example if i need to run git pull in the commandline , i need to specify the full path to everything … ? that 's really annoying .
+__label__anger	we use hessian in our software , and i wish the previous developers did n't do this as we now have to access the hessian endpoint from c ++ . it 's a pain and i prefer things to be in simple http xml or json .
+__label__anger	i really hate using gui - designer for writing a swing application ☹️
+__label__anger	i tested this code out with an access database with no exceptions ( i went as high as inserts ) . however , what i noticed is that it is terribly slow as you are creating a connection every time . if you put the " using ( connection ) " outside the loop , it goes much faster .
+__label__surprise	oops ! yeah , that was just radio functionality heh . it turns out this is n't as straightforward as i thought . give me a few minutes and i think i can fix it .
+__label__surprise	my work just gave me a quad core computer , and wow build times are fast ! ( what used to take + minutes now takes minutes ) . anyway , visual studio builds project in parallel ( great for build times ) , but scrambles the output : is there a plugin that sorts the output when the build is complete ?
+__label__love	great manual , helped immensely !
+__label__love	google led me to solution ( base64_encode ) . hope this helps !
+__label__love	fortunately i 'm doing * very * little with office - really just trying to show the new features . thanks very much for the link though - very helpful !
+__label__love	i have discovered a mode in , where i can instantly change all same variables . when i am in this mode i get a box around the same variables and i can change one and instantly all others change . i do not know how to enter this mode " by will " , i just entered it " randomly " . therefore , i really appreciate your suggestions , how to enter this mode , because it is extremely useful to me ! ps. : i am using no plugins , just a plain new eclipse installation with java !
+__label__love	i have noticed this come and go . after runnings specs in rubymotion ( which is incredibly great by the way ) this annotations appear even when running specs from the console . then they go away . i have no idea why .
+__label__love	nice work ! ! loved it .
+__label__love	you can also try the mknetworkkit framework : easy to use and works really fine !
+__label__love	upvote - what a great article !
+__label__love	i have this regex and i really need it in a vba version for words . find method ( do n't need the matching - groups ) , here is what i have so far but i ca nt get the last part to work , here i 'm talking about i really hope someone can help me , as regex in this case is not an option ( although i know i can use regex in vba ! ) cheers
+__label__love	i 've handled the by doing this in the global . asax file now , if anyone can help me with the google widget that would be great !
+__label__love	thnx man , it works really good , awesome stuff ! ! !
+__label__love	#error !
+__label__love	absolutely . do n't be afraid to just try stuff out !
+__label__love	i stumbled upon this site and really loved the way they have done the navigation on the left hand site . i noticed that site is using jquery but did nt see any plugins . any ideas on how to go about doing this ?
+__label__love	wow , you are right , thanks ! i 'll accept brians ' answer .
+__label__love	svg transform on text attribute works excellent ! this snippet , for example , will increase your text by 2x at y - axis .
+__label__love	very useful , thanks you !
+__label__love	strange - no one mentioned gedit ( gnome ) or openkomodo ( windows , mac , gnu / linux … ) . both of them are great ! openkomodo especially deals with tabs and spaces very well . and - it 's free . whee ! when i need a lighter weight thingy , i just use gedit . download openkomodo here -
+__label__love	https://github.com/masterexploder/phpthumb/wiki/basic-usage an excellent tool for showing and / or saving images !
+__label__love	very nice beautiful 🙂
+__label__love	excellent method and exactly what i need right now . i wish i could upvote this twice .
+__label__love	http://delta.tigris.org is an excellent tool for automated minimization of a test case .
+__label__love	i want to programatically detect if my site is within the facebook iframe app so i can display certain features specifically for facebook . otherwise if someone goes site without facebook . preferably an fbml , c # or js solution would be great 🙂 thx !
+__label__love	wowww thanksss !
+__label__love	when using sifr on the titles ( . content h1.pagetitle ) in my wp theme , it somehow messes up the spacing and pushes the title down . the actual flash video is the same size as the font , so i think it has something to do with css , though i 've tried just about everything i could think of and ca n't get it lined up properly . here 's a link to the site : any help would be absolutely appreciated 🙂 sean
+__label__love	thanks ! this looks very promising !
+__label__love	there 's an excellent series of posts on execution plans and how to read and interpret them - and a totally free e-book on the topic as well ! - on the excellent simple - talk site . check them out - well worth the time !
+__label__love	` : r ! date " +% y - %m - %d % h:%m:%s " ` wo nt work because ` % ` reserved to insert buffer name into the command line my vim version is . i 'd love to know how to escape ` % ` !
+__label__love	herb sutter has a great treatment of this exact topic in items , and , " minimizing compile - time dependencies , parts , and " , in his excellent book exceptional c ++ , isbn : . imho , this is one of the best c ++ programming books available .
+__label__love	these are the tables : how would i do to list the last commented thread on top ? this is currently how it looks : i ca n't figure this one out folks . so if someone could give me an hand that would be great ! cheers !
+__label__love	i recently posted a question regarding how to scale an image using the input type = " range " element . i recieved an excellent answer from user : however ! this scales the image towards its upper left corner and i need an image that scales towards its center . how do i achieve this ? ca n't seem to get it to work using text - align:center or anything … thanks in advance !
+__label__love	jim did a great job !
+__label__love	you….are….awesome ! ! !
+__label__love	that is really , really , really smart ! thanks .
+__label__love	that would be great ! @heinz : contact established 🙂
+__label__love	great thanks ! serverfault . com - the new server admin equivalent of stackoverflow !
+__label__love	excellent question . imho this type of thinking makes programs much more robust , especially when they undergo constant change .
+__label__love	there is an really excellent short (!) book on stripes that covers all aspects : by frederic daoud ( pragmatic programmers )
+__label__love	great question , but please update the accepted answer to iainmh 's ! 🙂
+__label__love	excellent ! works exactly like i wanted . thanks .
+__label__love	recently i 've started operating systems course….now going through its contents i 'm thinking about learning unix from its internals . also i have completed a computer architecture course and really loved it . can you suggest a good book on unix internals from which i can learn the practical aspects of how the architecture designs work in a real life os ?
+__label__love	if i am using iis + server / vista enterprise , any ways from iis side to control the upload speed ? for example , max upload speed at m bytes / second ? any configuration based easy solution is great ! and any programming based solution is also appreciated . 🙂 thanks in advance , george
+__label__love	since i 've been working with the built - in microsoft charting controls in . net lately ( and loving every minute of it ! ) , i thought i 'd take a crack at answering my own question …
+__label__love	thanks @brunolowagie ! ( i 'm so thrilled to get your reply ! if you write that as answer i would accept it ! ) i have found the relevant code samples : [ itext in action , ch. , resizeimage sample ] ( http://itextpdf.com/examples/iia.php ? id = ) , and also [ how to recompress image in a pdf on chris j. haas 's website ] ( http://cjhaas.com/blog/ / / /how-to-recompress-images-in-a-pdf-using-itextsharp/) the first sample modifies a ` pdfwriter ` replacing virtually every ` pdfdictionary ` key in an ` pdfimageobject ` , even passing in a byte array - bypassing image validation . second sample goes through an image
+__label__love	awesome answer ! very helpful
+__label__love	good luck with the browser project !
+__label__love	it would be super great ! if you can help me with iframe and cookies stuff … data . message contains url
+__label__love	excellent ! on a mac as well … i 'll look into railsapi . com . thank you for your help !
+__label__love	excellent , thanks very much ! moving them to inst / tests and running test ( ) worked .
+__label__love	excellent , thanks !
+__label__love	catalyst has which is pretty excellent .
+__label__love	i have a button that , when hovered over , i would like the background image to display also . ( it is an arrow an explanation of the button ) . there are quite a few questions similar , but i could n't quite tweak the answers to work for me . the html looks like the css then is any ideas hugely welcome !
+__label__love	i 'm using rob con 's repository pattern also - absolutely love it . but i 'm not worrying about concurrency checks . i load the most recent object , then update the fields the submitchanges . i would look at seeing if you could use the attach and / or timestamps . it 's been a while since i 've looking into linq + concurrency .
+__label__love	excellent , thank you ! i did not now that .
+__label__love	excellent code @ peter , but not to be generating consecutive events , it might be better to use unbind ( ) , like this : thanks !
+__label__love	library independent , very nice ! although i prefer the declaration more " class " like : ` function myclassname ( ) { } ; `
+__label__love	excellent ! it works . but could you please explain how this works ? does javascript take time to load ? could a thread . sleep step done the same thing ?
+__label__love	@rachel - excellent ! good job they did n't use all lower case then - not sure if there would be any way round that .
+__label__love	marked up the question , while i do n't think it 's a great idea , i think its a good question to ask !
+__label__love	more than a year after this post , we are using : activiti a workflow engine with bpmn support . as modeller we use activiti designer and yaoquiang ( excellent tool ! ) .
+__label__love	afaik , the creator of delphicodetodoc is actually still actively working on it . have you tried sending him an e-mail ? in my experience , he 's very helpful !
+__label__love	your best bet is probably tcpclient . there 's a great sample that does exactly what you 're doing right in the . net documentation here : good luck to you !
+__label__love	thanks so much for the excellent answers ! all answers worked beautifully .
+__label__love	great answer ! but as @paercebal mentioned , ` auto ` now has a different meaning , so could you please update the table at the end ?
+__label__love	glad to see i 'm not the only one who got that ! the free book is actually really exciting ; it will definitely motivate you to do peer code review .
+__label__love	excellent answer , worked for me .
+__label__love	i 'm trying to write a batch process that can take an mp3 file and mute certain parts of it , ideally in python or java . take this example : given a minute mp3 , i want to mute the time between : and : . when saved back to a file , the rest of the mp3 will play normally -- only that portion will be silent . any advice for setting this up in a way that 's easy to automate / run on the command line would be fantastic !
+__label__love	great question ! 🙂
+__label__love	excellent . thanks .
+__label__love	i have an old friend who is a mathematician . he has his own math to compress his formulas , which are incredibly beautiful . he works in a program called mathematica , which transforms the formulas for d - shapes . i wonder if it is possible to obtain these figures using canvas and javascript ? see attached formula and figure . i know little of this myself . but i would be delighted if some one could show me an example .
+__label__love	awesome ! i 'm actually familiar with sdl. i 'm going to look into this .
+__label__love	if your memory consideration is only about these integers , then all i say is woooow 🙂
+__label__love	download the directx / xna sdk - it comes with plenty of sample code . great place to start !
+__label__love	excellent ! onward with your project …
+__label__love	❤ ❤ ❤ ! ! ! 🙂
+__label__love	there are many ways to do this , one way is : followed by : in general , the sqlite project has really fantastic documentation ! i know we often reach for google before the docs , but in sqlite 's case , the docs really are technical writing at its best . it 's clean , clear and concise .
+__label__love	great question and great answers ! ! ! thanks guys ! !
+__label__love	awesome , thanks !
+__label__love	#error !
+__label__love	trying to get users email address upon load of the html document . they already login in a previous page . i 've tried implementing the solutions proposed on different threads , but most are outdated and looks like it requires " scope : email " ? not sure . what i have right now does n't work . on a side note , i want to get these emails written down somewhere so i can use them later . given that js is client based , anyone know the easiest way to do that ? if you could help me out , that would be superrrr awesome ! !
+__label__love	upvote very interesting question !
+__label__love	excellent answer ! ! my vote is +
+__label__love	you are right . see my update ! make a suggestion pls and i 'll catch your thoughts 😉
+__label__love	excellent method for minor changes . just what i was looking for . thank you .
+__label__love	no worries , his answer is much better !
+__label__love	this was a very quick and excellent way to show me everything i needed !
+__label__love	thanks , this is extremely helpful ! !
+__label__love	@adrian - that article was brilliant 😃 thanks for sharing it !
+__label__love	the following scripting is a custom addition to this hover fade button ; in my version it keeps the text of the button while changing the background images through css classes only . i have able to everything except when you click on another button you get two active buttons and so on . i like the buttons to hover { span . hover class } , click { span . active class } , and remove any other buttons with the span . active class and put back to regular state . greatly appreciate a solution !
+__label__love	i am pretty sure this can help ! cheers !

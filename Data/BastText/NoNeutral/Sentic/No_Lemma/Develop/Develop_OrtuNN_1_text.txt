@@ -1,0 +1,154 @@
+__label__anger __label__sadness	sorry but this is just stupid .
+__label__surprise	google was also strangely quiet .
+__label__surprise	any ideas ?
+__label__anger	though i disagree with a signficant amount of statements you made , i do n't think we would ever come to agreement anyway .
+__label__anger	i did n't know we needed to retain backwards config capability across .x to .x ☹️ that sucks and it 'll make old code stick around longer .
+__label__anger	but now that i think about it , it may crap out when coming back to read even on a recovered file .
+__label__anger	igor is an idiot , and we * do * need gmake .
+__label__anger	this way lies metadata hell .
+__label__anger	my bad .
+__label__anger	precommit - hdfs - build is stuck .
+__label__anger	i disagree … and i guess i 'm willing to go to bat for this .
+__label__anger	this was a very bad bug , introduced by me being an idiot .
+__label__anger	that is bad .
+__label__anger	my bad !
+__label__anger	( how bad is this ?
+__label__anger	ah , damn , i thought it was fixed 😕 guillaume ?
+__label__anger	umm ... call me crazy , but why are we making this public ?
+__label__anger	the state stuck at " allocated state " , it is a dup of .
+__label__anger	it may cause conflicts , but if your intent is to break system security , you probably do n't care .
+__label__anger	stupid user error 🙂
+__label__anger	hadoop- : - if tarball is specified , hod no longer validates for the pkgs directory in gridservice - hdfs or mapred sections as these are not going to be used anyway .
+__label__anger	pull it back in if you think different .
+__label__anger	that 's pretty unlikely .
+__label__anger	@jira - i wish you did n't suck so much .
+__label__anger	i abbreviated the heck out of my arguments and thinking , but damn it that s what i think 🙂
+__label__anger	bad .
+__label__anger	that sucks , why is n't the escape mechanism working ?
+__label__anger	damn it !
+__label__anger	crap , forgot to verify that this is inconsistant with mri , it 's not .
+__label__anger	then , to make matters worse , since the mid- 's i 've been offering pro bono advice to non-profit foundations whose members insult me regularly and assume i 'm an amateur .
+__label__fear	we 'll look at the issue for
+__label__love __label__joy	upvote the patch looks good .
+__label__love __label__joy	looks excellent . really sweet . + where does the jar come from and what s its license ? + the rest api looks good . very resty . there might be little nitpicks later but for it looks great . how different is it from current rest . should the two be the same ? if not , how to deprecate the old ? + the annotations look interesting . could their serializations be used in other contexts , the shell say ? or -- warning - > crazy - thought coming -- somehow producing thrift idl ? + in hadoop / hbase , line lengths are < chars ( your new classes are missing apache license , classes are missing comments describing what class is about , etc ) . + is there anything we could do refactoring htable say , so your modeling was easier ? looks like lots of code in your cell and database controllers . should our client be taking on this model ? + can you add a note on how you 've changed how rest works , high - level ? that s all for now .
+__label__love __label__joy	upvote for the patch , pending successful jenkins run for the latest version . the changes look good . i verified on both mac and windows . thanks for addressing this , andrey ! i 'll commit this after jenkins responds with upvote for the latest version .
+__label__love __label__joy	hi luca , i 've applied the changes you mentioned and it worked fine on my end ( windows ) . can you try this on your end as well ? i 've attached the patch . thanks !
+__label__love __label__joy	excellent , thanks a lot !
+__label__love __label__joy	as olivier does all the great work here , i assigned the issue to him . thank you !
+__label__love __label__sadness	nadya , thanks a lot for applying the patch . the changes are on the site . everything looks the way it should . imho , we should close the issue now . p.s. forgot to mention other changes . sorry . will be more attentive in future .
+__label__love	committed to branch- and trunk . thanks rohini .
+__label__love	thanks areek , new patch looks great ; i 'll commit shortly .
+__label__love	thanks , mayank
+__label__love	thanks avi !
+__label__love	thanks for double - checking the fix , knut . i am thinking of merging the fix into tomorrow just to make sure that tests run fine on the tinderbox . all the tests ran fine on my machine .
+__label__love	hi james , this patch has been applied by chirino in the revision at sep .
+__label__love	hi dan ! !
+__label__love	patch committed . thanks , pradeep !
+__label__love	i just committed this to trunk . thanks ! note : made some slight changes to patch to apply correctly to trunk .
+__label__love	thanks to simon kitching .
+__label__love	hi alena , hope all is well , sorry for delayed response , the vms do nt belong to any project . i could not find a way to retrieve all vms without looping the projects . thanks ilya
+__label__love	patch applied ! thanks .
+__label__love	thanks doug for the change .
+__label__love	thanks suresh .
+__label__love	hi sandy , thanks so much to give me such comments , that 's really helpful , i will update this later .
+__label__love	committed to trunk . thanks ning .
+__label__love	thanks in advance jens
+__label__love	thanks for your comments , konstantin .
+__label__love	thanks daniel . we will get back on this as soon as we have the correct information . thank you .
+__label__love	thanks ravi .
+__label__love	upvote for . thanks .
+__label__love	[ ~ apresta ] thanks for the fast review .
+__label__love	that sounds like a plan . i love peer - reviews … 🙂
+__label__love	committed to branch , thanks eli .
+__label__love	i rather we do n't work on older versions . if this is still an issue in , please submit a new patch for . thanks .
+__label__love	patch applied . thanks florian .
+__label__love	thanks bob your patch is in trunk at r932317
+__label__love	thanks a lot for sharing that , josh !
+__label__love	committed . thanks hitesh !
+__label__love	a patch for this . thanks a lot .
+__label__love	thanks . i 'll look into this .
+__label__love	committed to trunk . thanks , harish !
+__label__love	thanks john for bringing this up and also for providing the patch .
+__label__love	will review by eod today . thanks for the tip .
+__label__love	thanks
+__label__love	patch applied . thanks
+__label__love	committed to trunk . thank you lorand !
+__label__love	committed . thanks yongqiang
+__label__love	thanks , joe !
+__label__love	thanks alejandro .
+__label__love	patch applied . thanks a lot , especially for the test case . http://svn.apache.org/viewcvs ? rev = & view = rev http://svn.apache.org/viewcvs ? rev = & view = rev the result for and - is definitely wrong . there 's a bug that needs to be fixed eventually . but since this is low - priority for me , i 'm going to leave it for now . i 've added a comment to the new test case block - container4a that explains what is wrong . so i think i 'll close this issue . it 's primarily for the patch , after all , and the bug wo n't be missed now that there is a check in our test suite . if anyone disagrees , just reopen the issue or create a new one .
+__label__love	committed to trunk . thanks for the review , alan !
+__label__love	thanks kihwal !
+__label__love	thanks for the work haohui ! i 've committed it to branch- .
+__label__love	committed revision . thanks patrick !
+__label__love	thanks hairong !
+__label__love	thanks ivan .
+__label__love	i just committed this . thanks , sanjay !
+__label__love	these look just fine -- thanks for your hard work on all these fixes , dag ! if they are technically correct , i say upvote to commit .
+__label__love	committed to and trunk . thanks !
+__label__love	committed , thanks maheshwaran .
+__label__love	thanks areek , patch looks good !
+__label__love	i just committed this . thanks , boris !
+__label__love	thanks a lot for the review , todd . i 've just committed this to the hdfs- branch .
+__label__love	committed . thanks for the patch j - d
+__label__love	i love this .
+__label__love	sumeet , we did it purposely because if the proxy services are dynamically loaded then we need to build those services at the runtime and redeploy them which is a little bit risky on a production environment . also there is no mechanism to check whether a particular proxy definition is updated in the registry or not because this configuration is used only at the startup . we can add this functionality to load the proxy services only at the startup time from the registry ( this does n't mean they are dynamic ) , but i do n't see any value there . if you could explain a bit about your exact requirement , i might be able to provide an alternative to this . thanks , ruwan
+__label__love	i just committed this . thanks nicholas !
+__label__love	andrew , patch applied at revision r428265 , thanks a lot for this enhancement , please verify that the problem is fully fixed as you expected .
+__label__sadness	sorry , on holiday last week and just catching up .
+__label__sadness	forgot about these , sorry .
+__label__sadness	snappycodec check for hadoop native lib is wrong .
+__label__sadness	sorry for misleading attachment name .
+__label__sadness	sorry , thiru , i hope you have n't already started working on this !
+__label__sadness	sorry i forgot to mention : this is for the future branch !
+__label__sadness	however , i figured it was better to get it in the public domain sooner and let the iterative process do it 's work .
+__label__sadness	sorry , attached the file to the wrong issue .
+__label__sadness	resolving again …
+__label__sadness	sorry if this spam 's things , however it 's unlikely that i 'll work on these .
+__label__sadness	, hours gone .
+__label__sadness	while creating the derbytest i did notice that this problem is caused by the database pool because it tries to connect to the database in the background .
+__label__sadness	sorry for the delay .
+__label__sadness	sorry ; i 've reread the ioc code ; and you 're right . this is indeed not an issue . my apologies …
+__label__sadness	please ignore attachment ( id = ) .
+__label__sadness	tests no longer sleep
+__label__sadness	sorry [ ~ svenkat ] , i just committed this .
+__label__sadness	sorry about that .
+__label__sadness	oops , it is my fault . please defer this patch , i 'll raise jira for other classes / interface as its dependance soon , sorry for inconvenience .
+__label__sadness	sorry , fixed .
+__label__sadness	a quickstart for the bug as eclipse / maven project . sorry for the delay .
+__label__sadness	sorry about that .
+__label__sadness	sorry again !
+__label__sadness	sorry about that , fixed now .
+__label__sadness	oh , sorry .
+__label__sadness	this half - reuse is more confusing for new devs who see this code for the first time .
+__label__sadness	my misunderstanding .
+__label__sadness	sorry , i meant to have this patch in sooner but got quite busy , i expect to have it soon .
+__label__sadness	hi , i just made some more ( long running ) tests , and found some problems in the patch i submitted . the mechanism is working , but it shrinks the caches too quickly , and it prints too much log output ( log . info instead of log . debug ) . i will fix those problems and submit a new patch . sorry . thomas
+__label__sadness	sorry , no longer working on this
+__label__sadness	problem - the bit to sign the source - release is being called when the source - release is n't being built because the source - release is only built at the " executionroot " .
+__label__sadness	sorry .
+__label__sadness	here are patches ... one for adjustexamplepaths . bat & . sh and the other a new file holding user libraries ... uima_lib & uima_as_lib not sure where this should go ...
+__label__sadness	here is a stronger / generalized version of this patch . due to a lack to time on my part , this has not been compiled or tested , ( sorry ) . please test if you can david / joachim .
+__label__sadness	sorry about this .
+__label__joy	cool stuff ! a good candidate to put on myfaces - commons - utils , so the user can just add the resource handler on its webapp faces - config .
+__label__joy	interesting that you decided not to detect the error based on finding two similarly - named operations .
+__label__joy	yay ! it should be really really easy ( not including the test ; i think it 's just deleting characters )
+__label__joy	this is awesome - works in a one - liner .
+__label__joy	thanks for the patch mubarak .
+__label__joy	fixed thus : http://svn.apache.org/viewvc ? rev = & view = rev
+__label__joy	thanks for the reviews …
+__label__joy	this is awesome stefan - thanks a million !
+__label__joy	( @ddlatham : that s kinda funny that you wrote the linked - to article -- it was a random google search )
+__label__joy	i have n't seen any bad behavior . i was using open ssh to test this . i used the escape character ; ~ ; and the period character ; . ; with open ssh to disconnect ; ' ~ . ' .
+__label__joy	great ! i 'm glad you found it helpful .
+__label__joy	thank you , ivan !
+__label__joy	now why did i not think of that … 🙂 great idea , i 'll move the files to svn !
+__label__joy	thanks for the help bj !
+__label__joy	seems to work reliably now .
+__label__joy	looks good to me markus . upvote
+__label__joy	upvote , looks good , i will commit this patch .
+__label__joy	patch looks good to me .
+__label__joy	interesting , i just replaced my src with the latest in the trunk and did a compleatly clean build and the problem seems to have gone away .
+__label__joy	automatic location selection is very cool .
+__label__joy	great idea
+__label__joy	cool , that 's all good news too ! thanks guys . one less on my radar .

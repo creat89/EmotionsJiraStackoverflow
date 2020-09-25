@@ -1,0 +1,152 @@
+"bq. I'm gonna hold off on LUCENE-2771 until we figure this one out... because it would make your getSequentialSubReaders in the synced=true case quite heavy (without modifications). Sorry, I was wrong on this... I totally forgot the norms cache is lazy-loaded always in that patch. I'll commit LUCENE-2771 it shouldnt affect this!"
+"The problem is that it builds awt, and that requires some dependencies."
+Tried some more stuff and realized I was doing it wrong.
+Sorry but I was running on the 1.1.1 branch. We will hopefully have a release out shortly (in a week or so) that should fix this issue. Although an example would still be helpful so we could add a cactus test that makes sure we don't reintroduce the problem.
+Maurice I don't have such option or maybe I don't know where it is.
+Damn.
+Another backport (for a different jira) of mine is failing and I want to see if I can figure out what might be wrong there before doing a new backport.
+"To upgrade to a recent version of Jackrabbit, see http://wiki.apache.org/jackrabbit/BackupAndMigration I'm afraid I can't say much about the risk."
+Which API at the thrift client you are referring?
+but app developers should always explicitly set it based on their application My guess is that a large enough group of people take the defaults that it matters.
+"Sorry, that should have said fixed via HADOOP-4980, not 6980."
+The patch went to the wrong bug.
+"sorry, unassigning myself from this backport."
+Forgot to add that I also tried this with and without HBASE-5864
+"Phil, I must have missed this email. I am sorry. I will get this done, and the other changes to support the UpdatingMultipleLinearRegression class. I updated my source and noticed the changes were missing. I did my detective work and noticed this. Mea Culpa!! -Greg"
+"Actually that's what this change did, sorry for the noise."
+My apologies for the confusion.
+Added to trunk in #1098800 3.x in #1098896 sorry about visad.UnimplementedException!
+"sorry, should have been getDataModel not getDataTable."
+Sorry to let you lose a wild goose chase.
+Sorry for the trouble.
+I will figure out the details and do the port later this week if you don't get to it first.
+Sorry.
+App developers never do what they should :)
+"Sorry if this was not clear, and yes, by <blank> I meant an empty string."
+"Sorry, I miss. This bug is same STR-2372. I change resolution to INVALID."
+"bq. 1) Sorry, didn't create a patch for the README since it was a small change, it is included in this patch with the comment revision."
+Sorry for that.
+"Ok, I just downloaded trunk and the patch is 99% the same with mine so I'll close the issue now...One comment though and sorry for nitpicking...Shouldn't the second constructor simply be ""this(patterns, null);"" or even better ""this(patterns, ""default"");"" ? In any case I can confirm it works - it just looks a bit ugly duplicating code like that... :)"
+"So, sorry I can't be more obliging."
+"Sorry, I tought I could commit this patch but I did not realize that one of the files is in the framework (and I have not access to it)."
+"Sorry about that, tiredness."
+"The guy on our team that was going to do this was swamped, so I re-assigned this to you."
+"Oh, ok."
+Sorry for delay. This patch is including LRU cache. But changing static class into member is not done. What should I do?
+"Got it, thanks for the explanation."
+The fknames patch looks good!
+Works fine. Thanks
+any chance to get a patch also for this? :)
+"i kinda like the black acctually .. but that may largely be due to my prefering the ""fire"" solr logo over the futuristic magnifying glass (the red/orange contrasts nicely with the black/grey. to my mind, the ""Solr"" ""Sun"" connection has allways been really cool ..."
+Cool. sounds good to me.
+looks good. Thanks!
+"Thanks, it works fine!"
+I will be the sponsor for your beer the next time we meet.
+I think its a good idea to go ahead and put a patch together so we can discuss it directly.
++1 looks good
+"+1, the latest patch looks good to me."
+"Hi, very cool!"
+"Nice feature, lars!!"
+Holy crap that worked!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
++1 great job pat.
+"Patch looks good. One minor comment, PlanHelper.LoadStoreFinder may better be PlanHelper.LoadStoreNativeFinder."
+"great, thanks Joel."
+"I think SSTableDeletingTask is a good spot, I just wasn't sure if that would be appropriate."
++1 This looks good to me.
+dc36d49eb3e240b3d8fd8b89ab178a7b1ec17d8b TS-1513: SPDY plugin crashes on connection close Thanks for testing!
+"+1, patch looks good."
+"I have committed this. Thanks, Rodrigo!"
+Hi. The code above is a copy of the CharsetUtil class just run within a Junit Test case. There is no exception other than junit.framework.AssertionFailedError. Are you able to reproduce the error? Thanks Richard
+Committed to 92 branch and trunk. Thanks for review stack.
+"I just committed this. Thanks, Jim!"
+thanks
+"Thanks Richard, Patch was applied to LUNI module at repo revision 397522. Please check that the patch was applied as you expected. (I've got strange commit notification with message: [... 31 lines stripped ...] )"
+Changes look good. Could you run regression tests with your patch and let us know how it goes? Thanks Kathey
+"Thank you, Gregory, Eugene. Verified on Harmony-r547521-msvc-debug."
+"Committed, thanks for the review, Avery!"
+"Gregory, thanks - the patch is applied as expected."
+I really like what I am seeing so far.
+Committed. Thanks Jarek
+thanks edgar for finding this one!
+Looking forward to your patch.
+Applied to TRUNK. Thank you for the patch Erik.
+Thank you for the patch Xuefu! I have committed it to trunk!
+Hi Holly Thanks! I have the one comment - where is the code for InternalRecursiveBundleTracker? I don't see it in the patch Did I miss the source code for it? Lin
+"Bruno, you mentioned in a gtalk conversation that you had a patch for this, but I can't find it here in JIRA.. could you attach it please? thanks!"
+"Thanks, did that. Hopefully it syncs now. Cheers --Kurt"
+Thanks Vladimir - the patch was applied to BTI branch 2.0 at r602881. Please check that the patch was applied as you expected.
+"In fact, if you happen to know why ObserverHammerQuorumTest is failing with this latest patch, I'd love to hear."
+"Committed to branch and trunk, thanks for the review Stack."
+Fixed rev 1190423. Thanks Jose!
+"Hi Mike, Do you know how to get the virtual machine file? The link to download from the rcmes web site is broken. Thanks. ----------------------------------------------------------------------------------------------------- Jinwon Kim Dept. Atmospheric and Oceanic Sciences and Joint Institute for Regional Earth System Science and Engineering University of California, Los Angeles Los Angeles, CA 90095-1565"
+Thanks for the patch
+Committed revision 1506513. Thanks Vinay.
+"Thanks, Omkar! I committed this to branch-0.23 as well."
+"I'll look into the namespace handler. Thanks. Yes, I should have added the different event handling support to the TODO above. I need to think more about this and look into the camel code a bit more. Using just the endpoint api, I couldn't create routes on the fly, hence the polling consumer approach. I'll keep hacking away at in in my toolbox when customer needs dictate. Am I missing something in your approach, how would I do this then in the XML DSL using your approach? I think virtual routing is a known limitation of Camel when you start to deploy large scale systems. Out of curiosity have you seen camel ever been deployed with 1000's of routes (and/or routes files)? I think this would have FD and thread overkill problems. Everything repeats itself :)"
+"Ok. I will do that. Adrian, thanks for taking a look at this. :)"
+Thanks Kathey and Myrna. The release note looks good and it passes the ReleaseNoteReader's checks.
+"[~bikassaha] Thanks for the heads-up Bikas! This JIRA is not concerned with the Tez integration for Pig and is simply the abstraction in Pig to allow for alternate ExecutionEngines in Pig. But will certainly change this on the Tez integration side of stuff. Thanks a lot [~cheolsoo] for continuing this! I think everything looks good from my end. I can certainly see why we may want to keep this on a different branch until everything is finalized. Certain things may still need more work. For example, OutputStats is not completed abstracted out, as it still has references to POStore which is a MR implementation construct. ScriptState/PPNL/JobStats may still need more abstraction (especially PPNL) and reworking to incorporate a new ExecutionEngine abstraction. I think what we have done here is the minimum foundation for an abstraction though, and it would be appropriate to put into trunk, but these are not my decisions to make. With regard to public methods that were changed, I don't think most of them are a big deal, besides as Cheolsoo said, the PigServer throwing PigException. I never thought IOException was a good exception to throw, but I think reverting PigServer back to IOException as it is userfacing code is not a big deal. The rest of the method signature changes shouldn't be worrisome because most of them are internal to the project. However, the change from JobStats to MRJobStats, while necessary (as each ExecutionEngine would have it's own type of JobStats it would present to the end user), could be problematic because it is userfacing code and would probably break people who were previously using JobStats. That I think is the most important thing to keep in mind. The task of making the PPNL and JobStats clearly tied to the ExecutionEngine should be thought through also."
+"Hi John, I would agree, using object notification is probably a cleaner way to do this."
+"I just committed this. Thanks, Sameer!"
+"Mathias, please close this issue as it is not reproducing any more... Thanks."
+Great - thanks for the heads up Ben!
+Please contact me if you need any clarifications.
+Committed as r1406707. Thanks for reviewing Sijie.
+Ludger; thanks for the patch. I've just committed it. See SVN rev 1103164. Thiwanka; thanks for your help in investigating this issue.
+thanks Attila. I fixed the test/header already
+"Hi Steve, gentle reminder as per your instructions about reviewing this patch. Thanks!"
+"Johannes -- Thanks for the complete testcase! Sorry about taking so long to fix this one. Thanks, Rick"
+"Thanks Adrien for looking into this, nice explanation!"
+"Thanks Bryan for converting these tests. In using the DERBY-2152 conversion tool, can you double check that it does not omit the fail assert method after a method call in a try-catch block when the statement is expected to fail. e.g. instead of try { s.execute(command); } catch (SQLException e) { assertSQLState(""42502"", e); } It should be: try { s.execute(command); fail(""Command expected to fail"" + command); } catch (SQLException e) { assertSQLState(""42502"", e); }"
+Fix checked in at revision 648768. Thanks Xu.
+I verified the fix using the xml-xerces_20040107172932.tar.gz CVS snapshot. Thanks!
+"Patch committed, rev: 84f4fa61b6607d8699bb28743b568f4a716b4288. Thanks Mike!"
+Thanks for that comment Richard! I was laboring under the (false) impression that I could not change the docs that went with our previous releases; but I see these are coming from a copy on our svn site; and we could actually change that one. Anybody object to my doing that? I could correct the link; and also indicate this release is 2 levels out of date.
+A pleasure :>.
+Thanks Laura.
+"Hi Nick, Can you please re-create this patch as I can't get the code to compile? For starters, I can't get the class AttributeImplItem to compile. Please use the latest trunk when doing so Thanks. -- George"
+"Thanks for review and test case, Knut."
+Committed revision 728746. Thanks Shai!
+I've just committed this. Thanks Aaron!
+Patch applied. Thanks!
+"Thanks a lot for the review, Todd. The test failure is unrelated and is already tracked by another JIRA. I'm going to commit this momentarily."
+Committed. Thanks Ashish!
+"Committed to branch. Thanks, Remus!"
+"Thanks, that looks good now; much easier for the end-user."
+Hi George; I just checked in a fix for the empty stack exception. Can you please verify? Thanks.
+Weird.
+"Heh, that's one hell of a bug, 275 bytes exactly, eh?"
+This sucks badly.
+My bad.
+Since this patch is so damn large already I won't be making anymore changes to this other than critical/blocker bug fixes.
+"Oh, my stupid:)"
+Pretty much everything that FSNamesystem (ie.
+"What the hell, I'll give this a shot."
+bq. this is solr's fault by having a getter that does some heavy duty xml shit.
+Damn.
+How on earth is it buggy?
+Weird.
+"+1 (damn intellij, it's not like patch format hasn't been standard for years)"
+"The defect from hell 666, be scared.."
+"Damn, Chuck is scary."
+that's bad Content-Type from gSOAP.
+Damn maven!
+Pull it back in if you think different.
+"I'm starting to think of ""DLL Hell."""
+Too bad we can't use position:fixed in IE6.
+Pull it back in if you think different.
+Hell or high water.
+Both equally bad.
+"who the fuck is asking for scores, but not the max score, and why does their insanely specialized use case justify all these booleans on a central lucene class."
+It must be lost somewhere.
+I sure as hell don't want to start attaching models for the sake of detaching them directly afterwards.
+"I have stupidly deleted the original test dir, but judging from the suite's output files, no output was created after 3 1/2 hours."
+Patch 3 looks good to me too. Thanks for all the work.
+">Tilman Hausherr hello, finally it works! I just downloaded the revision 1535956, and bulded it with Ant. and added the new *.jar to my project's build path. it printed very well. thank you very much."
+I did it works fine with 2.1 and iOS6. Thanks! Dominic
+"No, this was on 3.3.3 (sorry, I should have mentioned that before). That's great to know, thanks!"
+Sounds good. We'll postpone HBASE-2993 til then. Thanks!
+Thanks! :-)
+Triage: Not for Xalan-J 2.2. We still need to evaluate this in light of Gary's point: exactly what location should we report for result tree events in this kind of situation? I'm not sure we intended to set the locator in this particular situation. Also; if we never set the locator; then we're still following the SAX spec - while this is somewhat useful; it's still an optional feature.
+Do I miss something there?
+Woo hoo!

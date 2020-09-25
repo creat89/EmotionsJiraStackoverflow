@@ -1,0 +1,154 @@
+__label__love __label__joy	upvote for the patch , pending successful jenkins run for the late version . the change look good . i verify on both mac and windows . thanks for address this , andrey ! i will commit this after jenkins respond with upvote for the late version .
+__label__love __label__joy	as olivier do all the great work here , i assign the issue to him . thank you !
+__label__love __label__joy	excellent , thanks a lot !
+__label__love __label__joy	hi luca , i have apply the change you mention and it work fine on my end ( windows ) . can you try this on your end as well ? i have attach the patch . thanks !
+__label__love __label__joy	upvote the patch look good .
+__label__love __label__joy	look excellent . really sweet . + where do the jar come from and what s its license ? + the rest api look good . very resty . there might be little nitpicks later but for it look great . how different be it from current rest . should the #crd# be the same ? if not , how to deprecate the old ? + the annotation look interesting . could their serialization be use in other context , the shell say ? or -- warning - > crazy - thought come -- somehow produce thrift idl ? + in hadoop / hbase , line length be < char ( your new class be miss apache license , class be miss comment describe what class be about , etc ) . + be there anything we could do refactoring htable say , so your modeling be easy ? look like lot of code in your cell and database controller . should our client be take on this model ? + can you add a note on how you have change how rest work , high - level ? that s all for now .
+__label__sadness	sorry , on holiday last week and just catch up .
+__label__sadness	sorry about that , fix now .
+__label__sadness	, hour go .
+__label__sadness	sorry , fix .
+__label__sadness	this half - reuse be more confusing for new devs who see this code for the #ord# time .
+__label__sadness	forget about these , sorry .
+__label__sadness	sorry , no long work on this
+__label__sadness	sorry , attach the file to the wrong issue .
+__label__sadness	a quickstart for the bug as eclipse / maven project . sorry for the delay .
+__label__sadness	however , i figure it be good to get it in the public domain soon and let the iterative process do it 's work .
+__label__sadness	sorry i forget to mention : this be for the future branch !
+__label__sadness	sorry , thiru , i hope you have not already start work on this !
+__label__sadness	test no long sleep
+__label__sadness	oh , sorry .
+__label__sadness	sorry about that .
+__label__sadness	sorry .
+__label__sadness	my misunderstanding .
+__label__sadness	sorry for the delay .
+__label__sadness	sorry again !
+__label__sadness	snappycodec check for hadoop native lib be wrong .
+__label__sadness	problem - the bit to sign the source - release be be call when the source - release be not be build because the source - release be only build at the " executionroot " .
+__label__sadness	here be a strong / generalized version of this patch . due to a lack to time on my part , this have not be compile or test , ( sorry ) . please test if you can david / joachim .
+__label__sadness	sorry [ ~ svenkat ] , i just commit this .
+__label__sadness	while create the derbytest i do notice that this problem be cause by the database pool because it try to connect to the database in the background .
+__label__sadness	sorry , i mean to have this patch in soon but get quite busy , i expect to have it soon .
+__label__sadness	sorry ; i have reread the ioc code ; and you be right . this be indeed not an issue . my apology …
+__label__sadness	please ignore attachment ( id = ) .
+__label__sadness	sorry about that .
+__label__sadness	sorry if this spam 's thing , however it 's unlikely that i will work on these .
+__label__sadness	sorry about this .
+__label__sadness	oops , it be my fault . please defer this patch , i will raise jira for other class / interface as its dependance soon , sorry for inconvenience .
+__label__sadness	sorry for misleading attachment name .
+__label__sadness	resolve again …
+__label__sadness	here be patch .. #crd# for adjustexamplepaths . bat & . sh and the other a new file hold user library .. uima_lib & uima_as_lib not sure where this should go ..
+__label__sadness	hi , i just make some more ( long running ) test , and find some problem in the patch i submit . the mechanism be work , but it shrink the cache too quickly , and it print too much log output ( log . info instead of log . debug ) . i will fix those problem and submit a new patch . sorry . thomas
+__label__fear	we will look at the issue for
+__label__love __label__sadness	nadya , thanks a lot for apply the patch . the change be on the site . everything look the way it should . imho , we should close the issue now . p.s. forget to mention other change . sorry . will be more attentive in future .
+__label__surprise	any idea ?
+__label__surprise	google be also strangely quiet .
+__label__love	commit . thanks for the patch j - d
+__label__love	thanks for double - check the fix , knut . i be think of merge the fix into tomorrow just to make sure that test run fine on the tinderbox . all the test run fine on my machine .
+__label__love	thanks avi !
+__label__love	thanks suresh .
+__label__love	commit to trunk . thanks for the review , alan !
+__label__love	commit , thanks maheshwaran .
+__label__love	thanks doug for the change .
+__label__love	thanks . i will look into this .
+__label__love	patch commit . thanks , pradeep !
+__label__love	commit to branch , thanks eli .
+__label__love	[ ~ apresta ] thanks for the fast review .
+__label__love	thanks a lot for share that , josh !
+__label__love	hi alena , hope all be well , sorry for delay response , the vms do nt belong to any project . i could not find a way to retrieve all vms without loop the project . thanks ilya
+__label__love	commit to trunk . thanks , harish !
+__label__love	thanks ravi .
+__label__love	hi dan ! !
+__label__love	i love this .
+__label__love	i just commit this . thanks , sanjay !
+__label__love	thanks alejandro .
+__label__love	patch apply . thanks
+__label__love	i just commit this to trunk . thanks ! note : make some slight change to patch to apply correctly to trunk .
+__label__love	commit . thanks yongqiang
+__label__love	will review by eod today . thanks for the tip .
+__label__love	upvote for . thanks .
+__label__love	thanks bob your patch be in trunk at r0
+__label__love	commit . thanks hitesh !
+__label__love	thanks for your comment , konstantin .
+__label__love	sumeet , we do it purposely because if the proxy service be dynamically load then we need to build those service at the runtime and redeploy them which be a little bit risky on a production environment . also there be no mechanism to check whether a particular proxy definition be update in the registry or not because this configuration be use only at the startup . we can add this functionality to load the proxy service only at the startup time from the registry ( this do not mean they be dynamic ) , but i do not see any value there . if you could explain a bit about your exact requirement , i might be able to provide an alternative to this . thanks , ruwan
+__label__love	commit to trunk . thanks ning .
+__label__love	thanks kihwal !
+__label__love	i just commit this . thanks , boris !
+__label__love	thanks for the work haohui ! i have commit it to branch- .
+__label__love	commit revision . thanks patrick !
+__label__love	commit to trunk . thank you lorand !
+__label__love	thanks daniel . we will get back on this as soon as we have the correct information . thank you .
+__label__love	hi james , this patch have be apply by chirino in the revision at sep .
+__label__love	a patch for this . thanks a lot .
+__label__love	thanks a lot for the review , todd . i have just commit this to the hdfs- branch .
+__label__love	that sound like a plan . i love peer - review … 🙂
+__label__love	thanks hairong !
+__label__love	thanks
+__label__love	hi sandy , thanks so much to give me such comment , that 's really helpful , i will update this later .
+__label__love	thanks areek , new patch look great ; i will commit shortly .
+__label__love	andrew , patch apply at revision r0 , thanks a lot for this enhancement , please verify that the problem be fully fix as you expect .
+__label__love	patch apply . thanks a lot , especially for the test case . #hlink# ? rev = & view = rev #hlink# ? rev = & view = rev the result for and be definitely wrong . there 's a bug that need to be fix eventually . but since this be low - priority for me , i be go to leave it for now . i have add a comment to the new test case block - container0a that explain what be wrong . so i think i will close this issue . it 's primarily for the patch , after all , and the bug wo not be miss now that there be a check in our test suite . if anyone disagree , just reopen the issue or create a new #crd# .
+__label__love	thanks john for bring this up and also for provide the patch .
+__label__love	patch apply ! thanks .
+__label__love	i rather we do not work on old version . if this be still an issue in , please submit a new patch for . thanks .
+__label__love	thanks ivan .
+__label__love	patch apply . thanks florian .
+__label__love	thanks areek , patch look good !
+__label__love	these look just fine -- thanks for your hard work on all these fix , dag ! if they be technically correct , i say upvote to commit .
+__label__love	thanks to simon kitching .
+__label__love	commit to branch- and trunk . thanks rohini .
+__label__love	commit to and trunk . thanks !
+__label__love	thanks , mayank
+__label__love	thanks in advance jens
+__label__love	thanks , joe !
+__label__love	i just commit this . thanks nicholas !
+__label__anger __label__sadness	sorry but this be just stupid .
+__label__anger	pull it back in if you think different .
+__label__anger	( how bad be this ?
+__label__anger	precommit - hdfs - build be stuck .
+__label__anger	@jira - i wish you do not suck so much .
+__label__anger	but now that i think about it , it may crap out when come back to read even on a recover file .
+__label__anger	umm .. call me crazy , but why be we make this public ?
+__label__anger	that be bad .
+__label__anger	damn it !
+__label__anger	my bad !
+__label__anger	this way lie metadata hell .
+__label__anger	i abbreviate the heck out of my argument and think , but damn it that s what i think 🙂
+__label__anger	igor be an idiot , and we * do * need gmake .
+__label__anger	though i disagree with a signficant amount of statement you make , i do not think we would ever come to agreement anyway .
+__label__anger	this be a very bad bug , introduce by me be an idiot .
+__label__anger	i do not know we need to retain backwards config capability across .x to .x ☹️ that suck and it will make old code stick around long .
+__label__anger	then , to make matter bad , since the mid- 's i have be offer pro bono advice to non-profit foundation whose member insult me regularly and assume i be an amateur .
+__label__anger	that 's pretty unlikely .
+__label__anger	crap , forget to verify that this be inconsistant with mri , it 's not .
+__label__anger	stupid user error 🙂
+__label__anger	the state stick at " allocate state " , it be a dup of .
+__label__anger	my bad .
+__label__anger	hadoop- : - if tarball be specify , hod no long validate for the pkgs directory in gridservice - hdfs or mapred section as these be not go to be use anyway .
+__label__anger	bad .
+__label__anger	i disagree … and i guess i be willing to go to bat for this .
+__label__anger	that sucks , why be not the escape mechanism work ?
+__label__anger	it may cause conflict , but if your intent be to break system security , you probably do not care .
+__label__anger	ah , damn , i think it be fix 😕 guillaume ?
+__label__joy	yay ! it should be really really easy ( not include the test ; i think it 's just delete character )
+__label__joy	interesting that you decide not to detect the error base on find #crd# similarly - name operation .
+__label__joy	this be awesome stefan - thanks a #crd# !
+__label__joy	upvote , look good , i will commit this patch .
+__label__joy	thanks for the help bj !
+__label__joy	i have not see any bad behavior . i be use open ssh to test this . i use the escape character ; ~ ; and the period character ; . ; with open ssh to disconnect ; ' ~ . ' .
+__label__joy	great ! i be glad you find it helpful .
+__label__joy	look good to me markus . upvote
+__label__joy	thanks for the review …
+__label__joy	( @ddlatham : that s kinda funny that you write the link - to article -- it be a random google search )
+__label__joy	thanks for the patch mubarak .
+__label__joy	patch look good to me .
+__label__joy	now why do i not think of that … 🙂 great idea , i will move the file to svn !
+__label__joy	thank you , ivan !
+__label__joy	fix thus : #hlink# ? rev = & view = rev
+__label__joy	automatic location selection be very cool .
+__label__joy	seem to work reliably now .
+__label__joy	this be awesome - work in a #crd# - liner .
+__label__joy	interesting , i just replace my src with the late in the trunk and do a compleatly clean build and the problem seem to have go away .
+__label__joy	cool , that 's all good news too ! thanks guy . #crd# less on my radar .
+__label__joy	cool stuff ! a good candidate to put on myfaces - common - utils , so the user can just add the resource handler on its webapp face - config .
+__label__joy	great idea

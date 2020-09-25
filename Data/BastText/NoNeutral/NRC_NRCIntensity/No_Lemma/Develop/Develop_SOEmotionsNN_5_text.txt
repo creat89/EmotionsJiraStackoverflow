@@ -1,0 +1,224 @@
+__label__fear	but i 'm afraid the cacheobject would get gc'ed not the data it caches .
+__label__fear	it generate but i need but in i did not find a way how to change id attribute . i need to use text_field_tag because it fills textbox with params if submit fail . if i think about im worry if i change an id it does not fill a param ? !
+__label__fear	was afraid someone would say that … ! is there any hack i could put in place ?
+__label__fear	to be honest i do n't even know where to start . i guess the solution might entail using a zillion iif statements . i 'm fairly new to this i 'm afraid !
+__label__fear	is there a sensible way to group long utc dates by day ? i would mod them by but that does n't take leap seconds into account . does anyone have any other ideas , i 'm using java so i could parse them into date objects , but i 'm a little worried of the performance overhead of using the date class . also is there a more efficient way than comparing the year month and day parts of a date object ?
+__label__fear	its not one is it ? i have a method that gets five lists from different repositories . each call opens and closes a new datacontext . is this ok to do or should i wrap everything in one datacontext . in this case it is not straightforward to use the same datacontext , but i am afraid that opening and closing numerous datacontext in one page request is not good .
+__label__fear	cat'ing a script to paster shell scares me . the interactive python shell has different rules for , e.g. terminating multi-line statements .
+__label__anger __label__sadness	technically , xhtml can not be poorly formed . a stipulation of xhtml is that it is well formed and valid . sorry for the lame comment , invalid xhtml angers me .
+__label__joy	@massive i 've replied to your question about dealing with concurrency issues in bulk updates by editing my answer . hope this helps !
+__label__joy	i ran this code in eclipse … it is running absolutely fine ! ! the output is : thu may : : ict i am using java jre7
+__label__joy	is it possible to re-open an . xcarchive file on xcode ? i know this is not common , but i would like to open a project exactly as it was submitted to the app store . i do n't have back up of that exact build , so it would be really great to open the archive copy ! before you ask why do n't i just download it from the store , i must say this build has been approved and is just pending on my release . 🙂 thanks !
+__label__joy	then you might want to take full control over how preferences should follow your desired storage by implementing . you can see a linux based implementation here : good luck !
+__label__joy	very interesting ! the code it produces does not work for me but the code is definitely useful as an example . i 'll mark this answer as accepted since it seems unlikely an actual reference that says more than msdn even exists .
+__label__joy	you have to created a new model for hold referral code . below are given model syntax . add these lines in your last lines your models . py above mention line will create your user profile at the time of creating user . hope this work for you ! ! !
+__label__joy	excellent ! look forward to hearing from you .
+__label__joy	i would like to get back all the option selected of a multiple select when i submit my form . like : using somthing like that : and get an array with all the value selected like [ ' ' , ' ' ] all that , without jquery and in js or php is fine 🙂 thx !
+__label__joy	excellent ! it 's very useful to me !
+__label__joy	we ended up rolling our own , similar to figaro but with support for nested values , multiple files , and placeholders . it 's pretty awesome : !
+__label__joy	i added an example of how to use the wraptext function . good luck with your project !
+__label__joy	sure play around it , wp is easy it will just take a bit of time to get used to the structure .
+__label__joy	code contracts are pretty cool , but they do have some limitations . they will only create compiler warnings , not errors . also , this analysis is pretty slow on large projects . however , i 'm hoping this technology will evolve and eventually be integrated into the language itself . it 's incredibly promising !
+__label__joy	rofl ! ! i love the comparison to getting married …
+__label__joy	@le dorfier - i 'm extremely good at complex sql , just not the t / sql ways of doing declares , conditionals , assignment , loops , cursors , etc … since i do n't do it that often , i find myself having to look up simple t / sql examples every time .
+__label__joy	i hope fortune favors the brave 🙂
+__label__joy	excellent - i 'm glad you found it ! the double quotes may be a unix / linux thing . note that oracle will accept ` username / pw@db ` or ` username@db / pw ` .
+__label__joy	check out some tool like snippetcompiler ( http://www.sliver.com/dotnet/snippetcompiler/) - let s you take a short snippet of c # and try it out without all the overhead of visual studio ! absolutely priceless …
+__label__joy	it seems to be working really fine for me , ie , not tested but ff / chrome it works !
+__label__joy	i answered the same question . best of luck ! as you will see , i like the tools .
+__label__joy	is really awesome !
+__label__joy	calculate the height is easy , enjoy : hope it will help ! update ! ! ! you only need : instead of :
+__label__joy	as you may know , tonight , at exactly : : utc , epoch time will reach ! hurray ! one way of watching epoch time is by using perl : can you do the same in another programming language ?
+__label__joy	sure , you can . just mark your content with the appropriate langauge code : if you use the following css , the spanish text is formatted with the most - loved font style comic sans ms : easy !
+__label__joy	great 🙂 thanks !
+__label__joy	indeed your question is an easy one , so i answer your question with some additional points that i think help you more than the answer itself:first , this is the code : notes : please1 - do n't a simple problem a real hard one ! if it 's a hw you can convince the tutor about defining the string delimited with something like " , " ( if he / she insists ) or whatever , and if this is a real project convince the customer , you do n't want to torture yourself ! - you said you want to split the string into a x matrix , what if you want a 5x5 matrix ? so take advantage of constants , and the same for the delimiter hope these help .
+__label__joy	@catsby is correct -- you 'll want to use the to do this . sidenote : heroku 's platform api is actually incredibly awesome . you can use it to scale dynos , set variables , provision / deprovision addons , etc.
+__label__joy	you have at wrong place , that must be in element , so you should try like : referred from here hope it will help you !
+__label__joy	i can only repeat what others have said . parametrized sql is the way to go . sure , it is a bit of a pain in the butt coding it - but once you have done it once , then it is n't difficult to cut and paste that code , and making the modifications you need . we have a lot of . net applications that allow web site visitors specify a whole range of search criteria , and the code builds the sql select statement on the fly - but everything that could have been entered by a user goes into a parameter .
+__label__joy	excellent - cool
+__label__joy	that is what i am doing now . i find this a more practical solution and i see there are other people doing the same . well , great !
+__label__joy	great , excellent . you 're welcome !
+__label__sadness	i was wondering if there was somewhere i could get some starter kit / theme sample for asp . net . i am not a designer , but i need to build a prototype for a project , and if i do it myself it 'll certainly be awful do you know where i could find that ( asp . net specific ) ?
+__label__sadness	i 'm not sure that the given approach will work with hosts using npt / ept .
+__label__sadness	the current solution i implemented is awful ! i use a for inserting records from an ado . net data - table into an sql table . i would like to insert at once the data - table into the sql table , without iterating … is that possible , or am i asking too much ?
+__label__sadness	it 's really sad when you ca n't trust your coworkers …
+__label__sadness	i 'm sorry , but i did n't had an eye on this thread . i 'm afraid the topic is n't hot anymore ! ?
+__label__sadness	yes . you make me sad ☹️
+__label__sadness	link is now dead ☹️
+__label__sadness	@afr0 i 'm afraid i do n't understand what you mean ! that example is using an ajax call when creating a productviewmodel object to get the data .
+__label__sadness	yes , there are , i 'm afraid
+__label__sadness	shameeeee on me ! ! !
+__label__sadness	its really depressing . ended up with downloading the whole bundle again .
+__label__sadness	i 'm currently having exactly the same issue with monotouch and that 's why i found your question . i get the very same exception as you do . this makes me assume that i 'm not facing a monotouch issue but a basic ( mis ) behavior of xibs / cocoatouch . so the answer is : no , it is not possible . very sad though . renã©
+__label__sadness	i have a controller which has a few actions , which are triggered by hitting various buttons on the page . i would like to have a default action , but am unsure how to annotate the method . here is an example : how can i annotate a method which will act on a post with any submit button pressed with no key selected ? i have tried : i 'd really hate it if i had to set required = false on each of the methods which take requestparams and then conditionally check to see if one comes in or not … is there a way to annotate this to work properly ?
+__label__sadness	the really sad thing is i could do this in about lines of ada code …
+__label__sadness	@java1 i had totally forgotten about the moderators _ hating _ the _ link - only - answers _ . ! ! ☹️
+__label__sadness	oh . that 's really sad . so it would be only plane menu options with white background. , is it ?
+__label__love __label__joy	i have a script that prints out the average time when pinging a server , shown below : how can i add the line number to output of the script above when pinging a list of servers ? ? my actual output when pinging list of host is : i want the output to be like this : so that this can be read by excel 🙂 thank in advanced ! !
+__label__love __label__joy	i use following code for displaying three simple rollover images over one main background image . the code works absolutely fine with chrome , but unluckily not with mozilla ! i hope , somebody might have an idea to improve my lines ! thank you already very much !
+__label__love __label__joy	carom3 d is a great one , they seem to have mastered the physics . see these links for more info : good luck !
+__label__love __label__joy	as things are evolving very fast , there are some major update . for example , a framework named total . js has made much work to make angular . js work in hand with node . js . please have a look at their web site and at the (!) example they provide on how to use it : . pretty amazing ! hope that helps ! note : i have no affiliation with total . js at all .
+__label__love __label__joy	excellent point ! thanks ! ! i did mean just the left side though … ( i should have specified that ) . was glad to learn your insight though …
+__label__love __label__joy	@dutchie432 : you described exactly what i was looking for … i 'm also using the pulsate effect . i had a ` . stop ( ) ` in place but it did n't work . now it works as expected . what a comment can do ? it 's also an answer … 😃 the search outsourcing was hilarious 😮 )
+__label__sadness __label__fear	when you call " su " you 're creating a new process that runs that command , so after running exec ( " su " ) you have a new process with su rights . you ca n't give your already running application su rights i 'm afraid ! i 'm not sure how other applications do this , but you can run " su - l ls / data " and then read from the outputstream of the process .
+__label__love __label__anger	@marlon : commendable attitude . if you still have it in years , i 'll be first in line to work for your canonization . ( grumble grumble , get off my lawn , et cetera )
+__label__anger	i am currently developing a system on a server running php version thus i am forced to use symfony in the current environment . i am planning to migrate the application from to in the somewhat near future and i was wondering if anyone has any experience with this ? i have attempted to migrate a system from to and that was a major pain in the rear . how has it been for anyone out there migrating from symfony to ?
+__label__anger	oh , how i hate iframes ! ! !
+__label__anger	there is no ide work on my computer just devc ++ and turboc and the two is too bad i want vc ++ express or netbean c ++ but nothing work ! i do n't know why but i hate this situation it 's too bad ! ☹️
+__label__anger	i have a screen with say controls on it . i want to show all twenty , then hide only the ones that do n't relate to what i 'm working on . my problem is that between the loops the screen paints . it looks very ugly . i know i 've seen this done but for the life of me i ca n't find that code , or even remember what app i 'd seen that code in … does anyone know how to suspend the paint for a bit ?
+__label__anger	my approach to this problem would be : create a that hosts a add a dependency property to the . in the event handler , parse the csv and update the accordingly . add a dependency property to the - and when this changes , parse the csv and add the data to the . see this question for a few pointers : by the way , a csv of column names is a horrible interface ! why not expose a , then add a so that you can use a csv string in xaml ?
+__label__anger	is there an easy way to find parse errors in javascript code ? last week i was debugging a javascript problem where the first javascript function that was called gave an ' object expected ' error . i later determined that this was because the browser was n't able to parse my javascript code . i eventually solved the problem but it was a painful process that involved pouring over my code line by line , trying to find my mistake . there must be an easier way .
+__label__anger	effective , but what a pain ! you 'd think there 'd be an easier way .
+__label__anger	i have a main flash from wich i load another swf file from the server . from time to time i change the second swf file and want to load a fresh copy from the server . i clean the cache from the browser but my client does not know how to do that and it 's a pain to give him directions . if i want to load a fresh copy of the main swf i just add a " main . swf ? version2 " but i ca n't do that with the loadmovie function in flash . any ideas how i can get a fresh copy from the server without changing the name of the file ?
+__label__anger	can you help ? i have a db , the unique identifiers are guids - we need to implement url rewriting however the page names look terrible for example : testpage-2668ff87-0a3a-4cac-b9ab-2367d17a76c3.aspx title of page / unique identifier my db 's that i setup i use ints as unique identifiers so i never had this problem : testpage- .aspx title of page / unique identifier ( int ) what do you suggest ?
+__label__anger	@frederick marcoux : it is really terrible advice
+__label__anger	hi all i have a horrid database i got ta work with and linq to sql is the option im taking to retrieve data from . anywho im trying to reuse a function by throwing in a different table name based on a user selection and there is no way to my knowledge to modify the tentity or table < > in a datacontext query . this is my current code . i want to populate my viewdata with enumerable records .
+__label__anger	extending the class to handle new tags or syntax is not a bad idea , but eval'ing inline ruby code from a possibly untrusted source is an absolutely horrible idea !
+__label__anger	i wish i 'd have found this question yesterday , as it has been causing me grief for hours ! surely this is a bug with the emulator ?
+__label__anger	downvote for font abuse
+__label__anger	i am crying on the inside . and on the outside .
+__label__anger	is there a way to automatically call a function using an event after the user has browsed a file using a i 've been trying to find something for the past hour but failed horribly , i saw that i should try onchange but that also failed …
+__label__anger	i hate to say it , but the selected answer is wrong . c # express ships with sp1 , including . net sp2 , etc …
+__label__anger	i hate skype ! ! !
+__label__anger	does anybody have a simple code to display a list ( list view ? ) of all the apps installed on a phone , and have the user open one when clicked ? or even an app drawer . i just need a way to have the user open all of their apps . i have tried searching for tutorials , but could n't find any , and i downloaded the example home from android , but i absolutely hate looking through code and digging out what i want .
+__label__anger	when i apply on ( ) - handlers i prefer the following notation if i have more than one to apply : does anybody knows how to set a namespace within this notation ? i solved the problem in this case with falling back to a single notation : but i really hate to repeat myself . same issue / question for using the off ( ) - method with more than one handler . this works : i bet the off ( ) - thing is a easy one , but i do n't get it after coding the last hours .
+__label__anger	oh god , i remember this , it was absolutely horrible . worse , i ca n't remember how to fix it offhand .
+__label__anger	i do n't understand why ( apple in this moment i 'm hating you ! ) , but alassetslibrary in ios does not allow fetching in a background thread ( i was running a series of in a ) . i solved by creating a little wrapper using . edit : after a code refactoring and the upgrade to ios , i finally realized that the problem is actually related to how alassetslibrary works , there is no need to use . .
+__label__anger	i am writing a wscf service to retrieve data for multiple clients . i have a service layer that references business manager objects . in essence on the service call , i want to retrieve the provider type ( a custom enum in my code ) and the connection string from the web . config . for some reason , the code is unable to find the settings in my project web . config . i am gathering the iis express and the vs development web server are referencing the machine . config . how do i override this . it is extremely frustrating . as you can see from the snippet the setting and the connection string name exist , but the code never picks it up . my code : private sub getdbinformation ( ) the web . config :
+__label__anger	@ceejayoz i use svn for development , but i really hate the idea of having many " . svn " folders in production .
+__label__anger	i hate to say it , but constant polling over http is the poor mans solution .
+__label__anger	i ended up writing a python parser myself . i managed to do it by following the spec here : and then taking the code tables from the horde . org cvs. the open mobile alliance 's site and documentation are terrible , this was a very trying project ☹️
+__label__anger	i am running vs . working on a project that is stored on a mapped network drive . whenever i go to close the solution it takes several minutes ( - ) for visual studio to close . it does eventually close , but very painful waiting for it to finish . anyone have any suggestions on how to fix ?
+__label__anger	@martinho : indeed . but you have to learn an awful lot of c ++ to understand wtf type traits do , and what the corresponding syntax means !
+__label__anger	very annoying ! if you are desperate to get this working you could force chrome to redraw the element ( on window resize , maybe ? ) :
+__label__anger	the plan of making a mum / dad accessible upgradeyourbrowser page was growing for me the last few days , but now caffeine and this bug just filled me with angry rage ( the green kind )
+__label__anger	my company currently use cruisecontrol . net , which i find quite a pain on the neck to configure . what ci solution do you use ?
+__label__anger	this is sad , i told you how to handle raw packets , and i only got votes , while the accepted answer has votes and basically did n't answer the question …
+__label__anger	ah , this was actually dumb….i solved it . i had two checked out directories that were both very much the same . i was in eclipse and i did n't realize that i had been editing the wrong file all along . stupid ! stupid ! stupid ! oh well it 's not a total loss , now you all get to see how to fix ff3 .
+__label__anger	well , i hate using so as just a syntax checker , but for the life of me i can not figure out why i get thi error here is the offending code : i 'm using the simpleform gem , and am not too familiar with it yet ( obviously ! ) tia , -- rick
+__label__anger	we ended up using a java applet . it was a nightmare . normally it would have been awful , but as this was for the beijing olympics , the added distance & language differences made it a nightmare . in the end , it worked " enough . " but again , nightmare . i would not recommend it .
+__label__anger	whatever you do , make sure that you do n't use apache 's dbcp. it 's a horrible implementation that will actually cause performance problems , not fix them .
+__label__anger	ok , i can continue to do web dev on my mac by sharing the webdev folder on my ubuntu laptop . this is a really terrible solution though .
+__label__anger	here is my php code….i 'm extremely crappy with my javascript code , could someone help me convert this ? i basically want to convert a variable such as " marine - heavy " to " marine ( heavy ) " .
+__label__anger	this api stinks , it is terribly designed and has lots of bugs !
+__label__anger	if you 're debugging at the instruction level rather than the source level , it 's an awful lot for you easier to map unoptimized instructions back to the source . also , compilers are occasionally buggy in their optimizers . in the windows division at microsoft , all release binaries are built with debugging symbols and full optimizations . the symbols are stored in separate pdb files and do not affect the performance of the code . they do n't ship with the product , but most of them are available at the .
+__label__anger	downvote this is n't language agnostic .
+__label__anger	when i 'm drag and drop some in chrome , it always make some noise , you can try it in your chrome : click on some empty place , then drag , then release mouse , it makes the sound . i really hate it , and i have seen some page do n't have the chime sound , and i think it can avoid use javascript , can anyone tell me ?
+__label__anger	i hate it too . but did you stop to think why i wanted to do this instead of just assuming im an idiot ? its a small personal site , not a money maker . rebuilt it to learn a new technology . not bothered 301ing pages to their new versions . so instead trying to get some value to the homepage .
+__label__anger	@samfridaywelch because i hate using ` ! important ` ... the second solution is better
+__label__anger	visual studio is ok , but i really hate the fact that you have to go through all the process of project creation just to compile one source file . is there any compiler in windows that allows compilation directly from directory ?
+__label__anger	have created a module in dotnetnuke . have made changes on my local test version which has created several rows in the database . i then copied these rows into the live database but they do nt appear in the live version of the module . have tried clearing the cache through host settings and restarting the application and it still wo n't show new rows . have even tried setting cache settings to non-specified and still wo n't load new rows . is there a way i can completely reset and get it find the new rows . this is an extremely irritating feature .
+__label__anger	there are an awful lot of c / c ++ libraries out there , most no longer updated . there 's not much for c # , but i have seen a couple . i have n't really used any of them in anger , so i ca n't give any recommendations . i would start with and see if you find anything of use there . alternatively , a search for on sourceforge . net has plenty of results .
+__label__anger	ok , so what do you want me to do about that ? hint : how about * telling us * what your problem is ?
+__label__anger	i have full control of the deployment enviroment , it 's an internal intranet application . office interop / autmation is horrible , and while the documents are generated by c # , we use aspose . words . i can accept using interop . automation for printing , going to give it a try .
+__label__anger	sometimes in a long commit log , it 's really painful to navigate the all - expanded diffs . ( you get expanded - diffs when hitting enter from the magit - blame - mode for example ) is there a way to collapse these diffs ?
+__label__anger	is there a simple library out there for java in a maven repository that will give me simple , one - liner hash methods for the popular hash functions such as md5 , sha1 , sha256 , and sha512 ? i 'd really hate to have to reinvent the wheel to do this .
+__label__anger	dotfuscator community edition is not good at all …
+__label__anger	ugh , indecent exposure of mod_rewrite should be a crime . put a bathrobe on it , or something .
+__label__anger	that 's horrible ! !
+__label__anger	this serves me right for browsing s.o. on waking up . my eyes hurt !
+__label__anger	this should do the job ( but i hate ) :
+__label__anger	oh , how i hate tfs for giving me these headaches !
+__label__anger	imho multi-core processors are still so rare , and threading is such a horrible and hairy and dangerous place to go , that you 're just better off sticking to one thread .
+__label__anger	i really hate when this happens … i search and search for an answer and then i post a question . then minutes later i find the answer … the answer was on line … this let me make the call … i mean i get a pile of junk on the screen , but it does n't fail … no exception .
+__label__anger	i am fed up having to turn them on every time i open the application .
+__label__anger	the toolstripmanager is hopelessly broken . loadsettings does n't do a thing….and i 'm evidently not the only one with this problem : https://connect.microsoft.com/visualstudio/feedback/viewfeedback.aspx ? feedbackid = so….anyone have a workaround ? the one posted in that thread just moved all the toolbars to the bottom of the window .
+__label__anger	is there a vb6 equivalent to the c / c ++ ' continue ' keyword ? in c / c ++ , the command ' continue ' starts the next iteration of the loop . of course , other equivalents exist . i could put the remaining code of the loop in an if - statement . alternatively , i could use a goto . ( ugh ! )
+__label__anger	can i replace my entire windows vista with ubuntu and is it free ? i really hate vista
+__label__anger	clock ( ) is not accurate enough .
+__label__anger	yes , we used to use starling . but it 's a pain to always delegate the stuff that could take awhile to a different process .
+__label__anger	yes , yes it is . it is really horrible though . there is also this atrocity :
+__label__anger	what 's the easiest static ( non - animating ) d model format to load with java ? i used . obj in c ++ , but that 's a pain to do in java . is there anything better ?
+__label__anger	ran into this myself . very annoying limitation imo .
+__label__love	i love those - space tabs you are using….very sexy .
+__label__love	excellent ! thanks much .
+__label__love	@kdj it means the elements siblings whose id 's end in _ dd , and no worries !
+__label__love	that looks like an excellent technique and pretty much negates my question ! 🙂
+__label__love	i 've used this : ... it 's really great !
+__label__love	excellent diagnosis !
+__label__love	mike , totally agree . i really like the idea of silverlight , its ties with visual studio are really awesome , but it has quite a way to go before it is mature enough for primetime use .
+__label__love	is a popular choice . it 's a full multimedia framework much like directshow or quicktime , has the advantage of having legally licensed codecs available , and has excellent python bindings .
+__label__love	excellent , thanks !
+__label__love	this is an excellent question . i look forward to hearing an answer .
+__label__love	i know i 'm a little bit late but for math and physics , i recommend or . i have learned so much from him . he is a really great teacher and all of his lessons are free !
+__label__love	g'day , one of the best recommendations i can make is to read the relevant section (s) of steve mcconnell 's code complete ( ) . he has an excellent discussion on naming techniques . hth cheers , rob
+__label__love	hi there , i just moved from c# / c ++ to javascript last night , and am loving it ! i 've just come across some behavior that i do n't understand , wondering if anyone can shed some light on it ? when i call this script , i 'm getting the expected alert box showing ' ' , however after that box is closed i get another alert simply showing " undefined " , can anyone shed any light on this ? code below : many thanks
+__label__love	thanks for the link . that 's pretty cool !
+__label__love	i am in need of generating a random string with spaces and mixedcase . is all i got so far : i am getting only uppercase strings with no spaces - i believe the tweak should be pretty striaghtforward to get mixed case and spaces in the soup . any help greatly appreciated !
+__label__love	i 've got a php array : i want to pass this array via jquery ajax , with this : and here 's my jquery : how can i pass the array , so that with the " replymessage . php " page , i could take each id from the array , to do something like this : any help is greatly appreciated !
+__label__love	you can easily define a comparator for a one - level , so that lookup becomes way less cumbersome . there is no reason of being afraid of that . the comparator defines an ordering of the _ key template argument of the map . it can then also be used for the multimap and set collections . an example :
+__label__love	do n't forget about ! json seems to have better support though . for example , the library has excellent built - in json functions .
+__label__love	check this thread on joel of software forum : lots of excellent free icons packs !
+__label__love	great question ! there have already been a few questions that address a few :
+__label__love	upvote because seriously , this question has n't been asked yet ? i remember getting incredibly frustrated the first time i had to figure it out .
+__label__love	agreed . excellent question .
+__label__love	can anyone help me add children to a plist ? i think i want to record an index of rows from the plist and then state which index row to write the key too . i 'm not sure how to say if the key will be a string , dictionary or array . the following is code from another question on adding a key to root . any help would be extremely appreciated 🙂
+__label__love	six more years and still loving it .
+__label__love	is a really great option for git . most of the free , public hosting sights will insist that you license your code with an oss license ( and , possibly , your documentation ) . that 's potentially a different thing that you 're talking about ( backups ) . for just backups , you may want to try a for - pay service or even something like .
+__label__love	i appreciate your warm welcome , i never seen such a warm regard here for trying to be helpful , it was a really pleasant introduction and i want to thank you for taking your time to write - at last the end of the questions reads " if anyone has any ideas i would be extremely grateful ! "
+__label__love	this is a really great idea ! ! ! please standby while i try thank u so much
+__label__love	is it possible to use some kind of attribute to throw an exception . this is what i mean . instead of doing this : do something like this : any help would be greatly appreciated ! best regards , kiril
+__label__love	excellent answer , thanks !
+__label__love	excellent man ! you know what you are doing ! i appreciate your help with this one .
+__label__love	hehe this is nothing compared to some other little adventures i had with them 🙂 " ... i love them *^ o ^* ! !
+__label__love	designing with web standards is a great first read !
+__label__love	i realize this is old , but there is an absolutely fabulous php activecord library called , appropriately , php activerecord . i 've used it for several months and it blows away the other libraries . check it out :
+__label__love	works great 🙂 thanks a lot !
+__label__love	i 'm reading about the callcontext class ( ) . the documentation says something about " logical threads " and " thread local storage " . what 's a logical thread , i did n't know that there existed multiple kinds of threads ? what 's a thread local storage , is it a class or a principle of some kind ? i have not been able to find it in on msdn , but i 'm sure it is there some place , so any links would be great 🙂
+__label__love	upvote for " do n't believe into the myths that there are a lot of issues with ms access "
+__label__love	daniel , that is * awful * ! ` 🙂 `
+__label__love	i 'm looking for an xsl lint tool which is actively maintained . the only one i can find is , but the last update was in ( years old ! ) . any help would be great !
+__label__love	i work with office ( excell ) in my c # program . i do this reference : it work excellent ! , but if in the computer there is office is it work good ? if not , what i need to do ? thank 's in advance
+__label__love	___ yours was very good and fast ! ! thanks for the response ___
+__label__love	by the way , i upvoted you because i think it 's an * excellent * question .
+__label__love	i recently moved from a mac + textmate back to visual studio . the one thing i absolutely loved about textmate was it 's find / search feature . it made navigating solution files so easy . is there an equivalent shortcut / addon for visual studio ?
+__label__love	upvote pines is excellent !
+__label__love	excellent ! thanks for the additional detail sean !
+__label__love	see also this excellent answer : http://unix.stackexchange.com/a/ /
+__label__love	there is a free ebook that microsoft released about windows phone developement . its extremely useful and it could probably answer this and many other questions you might have ! you can download the book from this website :
+__label__love	awesome explanation ! ! this is seriously awesome …
+__label__love	excellent information , thanks !
+__label__love	thank you very much , this is really interesting stuff !
+__label__love	an excellent book i have , which covers this topic , is , by clifton nock . it has got many good explanations and good ideas on how to decouple your business layer from the persistence layer . you really should give it a try . it 's one of my favorite books .
+__label__love	@evan it 's not compilable java . it 's used to navigate the code in eclipse / idea and is excellent if you have a large code base with lots of long class names .
+__label__love	i 'm pretty familiar with pgp , and the way it works . i 'd like to include some functionality in a project , but so far my research has left my head spinning . what i 'd like to do is create a public key with a defined private pass phrase . from there , i 'd share the public key with someone where they can then encrypt a message using the key and return it to me where i can decrypt . i envision the code looking something like this . to generate my private pgp key : to encrypt i 'd give my shared key to a friend : to decrypt the encrypted string after being sent back to me : obviously i know i 'm skipping out on a ton of details . through my research i 've seen references to libraries like bouncy castle and spongy castle . any help would be hugely appreciated !
+__label__love	i am trying to make my javascript change when the window resizes , but can not seem to get it to work . the only difference i would like is for the offset ( ) .top to change from - to - as the window becomes smaller than 768px . this is what i have so far : any advice would be really great ! thank you
+__label__love	i understand not liking xaml , as it really intimidated me at first , but i will quickly say that it is a powerful tool . i am not sure how to do it through the designer , but in c # let 's say you name your datagrid ' mydatagrid ' and your list is named ' stringlist ' . it is as simple as the following : and the data grid is now bound to your string list .
+__label__love	i think the question is valid . i agree with the other responses , but it does n't mean it 's a terrible question . i 've only ever had to use a safari css hack once as a temporary solution and later got rid of it . i agree that you should n't have to target just safari , but no harm in knowing how to do it . fyi , this hack only targets safari , and also targets opera .
+__label__love	we are currently using pde to automatically build features and our complete product . it works quite well . make sure you use the right script for product build or feature build . edit : we 've now migrated to , which has an excellent command line interface .
+__label__love	excellent ! thank you for the follow - up . i added a variation above .
+__label__love	this is an excellent link thanks a ton ! have nt gone through it in detail . just glanced . but it looks really promising . will read it in detail shortly
+__label__love	askgeo . com is fantastic , thanks !
+__label__love	excellent thanks !
+__label__love	upvote excellent question . personally i 'm starting to think that externals should never have been allowed to track the head of other repositories . always specifying the exact revision of the external is much safer .
+__label__love	that works ! very awesome 🙂 how do i select your answer as the solution ?
+__label__love	excellent answer . this should be the selected answer .
+__label__love	excellent answer , thank you !
+__label__love	very nice work !
+__label__love	@sheidaei great 🙂 keep it up ! you even get point bonus for accepting .
+__label__love	i am working on where i have two tables like and country : city : cidcountryidid means many - to - one mapped with now i need to access the details from i created already ' country.hbm.xml ' i created already ' city.hbm.xml ' query : query result i do n't know why it is showing this exception … , if anyone knows , it will a great pleasure for me … ! ! note : i am retrieving child details from parent
+__label__love	upvote from me , i loved the leap from mfc to qt 😉
+__label__love	excellent explanation ! upvote for you sir
+__label__love	@mattburland no worries !
+__label__love	thank you for all the great answers ! sam & talljoe 's answers accomplished this most simply using linq . thx again !
+__label__love	customise toolbar above ipad keyboard adding a single line textfield aka sms style i have ipad app with landscape locked view with multiple textfields that i do nt want to scroll up but like to enter single line text via a textfield in the toolbar , next to the done , next and previous buttons . i am new to coding and built the app except for this customisation of the toolbar any help would be excellent 🙂
+__label__love	i have a product selection page where you choose a phone and a plan using radio buttons and i need jquery to display the " current selection " . for example i have phones with two plans : nokia n95 and nokia n96 , $ / month and $ / month each of these ' options ' has it 's own radio button . when n95 and the $ / month plan are selected i need to display this information in a div : your current order phone : nokia n95 plan : $ / month any help would be greatly appreciated ! 🙂
+__label__love	great chart ! good find .
+__label__love	@guffa : a * very * excellent question . there 's not typically a good reason to do so .
+__label__love	upvote for the excellent approximation !
+__label__love	+ . brian , you saved me from hours and hours of research , great insight !
+__label__love	check out gson for converting pojos to json : we 've been using for a couple of years now . very excellent library . for pojos to xml , jersey uses jaxb or you could roll your own serializer .
+__label__love	excellent ! this should be marked as an answer . very good solution .
+__label__love	i 'm quite new to this wonderfull tool that selenium is , and i 'm trying to make some examples tests in my web app ( html / js ) . i managed to select some ( most ) elements withtheir id with the command but i 'm unable to find some elements that do not have an tag . i tried these following lines without result , as i have have an a mix of the two aboce ( alt and src in xpath and cssselector this element html code is if somebody could help me , that would be very nice 🙂 thanks , and have a good day !
+__label__love	i use grunt to run my unit tests without assert modules , i just log what i need with grunt and use my " custom " coditions to check the variables 's states and values . i was thinking about using mocha with grunt , but i am trying to find out how it will really change something when i run my tests . how my tests will be more valuable using mocha ( for example ) ? regarding the success of these tools , i feel like i am missing something in their utility . if someone could explain to me how and when they are usefull , it would be really great !
+__label__love	try it out very helpful , loved it n its easy to use
+__label__love	nick rigby wrote an excellent article for a list apart titled uses fieldset , legend , label . highly semantic .
+__label__love	thanks for this , i did n't know about fluid . great little piece of software !
+__label__love	excellent snippet !
+__label__love	take a look at [ this answer ] ( http://stackoverflow.com/a/ / ). hope it helps !
+__label__love	raymond chen has a really excellent blog post on this :
+__label__love	tried it , loved it . using it right now .
+__label__love	good morning , i 'm using sharepoint designer to create a workflow for a moss site i have created . what i 'm looking to do is have the workflow send out an email if a document in the library has n't been modified for the past days ( and it 's status field is not set as " closed " ) , but i 'm stumped as to how i can do this . any help would be greatly appreciated ! thanks !
+__label__love	excellent answer to a very general question ! 🙂
+__label__surprise	wow ! i always thought double quotes were required !
+__label__surprise	i ca n't believe sql server does n't have a feature for this …

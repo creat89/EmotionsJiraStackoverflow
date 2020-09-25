@@ -1,0 +1,153 @@
+"Hi Guillaume, I did not have an answer right away, so I sent you question to Leonard Rosenthol."
+"Unless we switch to Antlr 3.0 ( and even though, I'm not sure this would fix the problem), there is nothing we can do."
+Sorry [~fiberlijun] - havent had a chance to look at it yet.
+"Oh, signed shift!"
+That is a bit too lax I think.
+"Sorry, but look at mapSubtract and further down in the source you will find plenty."
+It does not look very useful.
+"Sorry, I forgot to change the priority of this one."
+"okay, I'm convinced. Sorry about the wait. As an apology I have coded up the URL-based version in v3. (Haven't actually tested it on non-local files though, but it compiles. :)"
+"Sorry Avdhesh, I forgot to add these two files to the patch, here is the new patch containing the missing files"
+"I am not really sure what does the receive payment do before the shipment, it doesn't sound as if it is doing what we expect it to do."
+sorry for your time.
+Git is tricky that way.
+"Sorry typo: ""our part"" in place of ""one part"" above."
+I was not aware of being required to call that method.
+"Sorry, forgot that dev lists were merged before JMeter was made TLP"
+Sorry everyone.
+Keep repeating this and the problem just gets worse.
+Hi Rupert! Sorry it took so long but i thought i'd test building in a linux environment too so i set up a Centos 6.3 machine running Maven 3.0.4 and Java 1.6_41. Got the exact same error on both machines. I have attached corresponding logs both from windows8 and centos to this issue. Link here: https://issues.apache.org/jira/secure/attachment/12570981/surefire_reportsR1450112_win8_centos6.3.zip Kind regards Esse EDIT: I'll also run mvn clean install for just jenatdb with logging when i get home.
+"Sorry, my bad. Let me upload what I have."
+"Otis, You need to grab the 'zipped' version aka solr-215.patch.zip (since June 23). I was trying to be space & bandwidth friendly... Sorry I did not make it more obvious in some previous comments. Henri"
+Sorry again.
+"Igor, sorry it took me so long to get back to this."
+"Sorry if this spam's things, however it's unlikely that I'll work on these."
+"Hi Marco, I changed the name of patch because it was made in Java earliar, sorry for inconvenience."
+"Sorry, in rushing to commit I forgot to add author during the commit."
+This is a silly one.
+"sorry, last patch was missing new files"
+My error.
+Sorry I missed some of this the first time.
+"sorry, After investigation, the real source of the problem is when a tag is using dots (<a.variable>) Apparently, XMLConfiguration does not support this. Should it ?"
+"Unfortunately, we can't do that, because that is not explicit on the spec javadoc, and there is a way to do what is expected using ""targets"" property."
+"Qianshi is working on the SSL session reuse, but this buggy Bug system does not allow him assign this ticket, sigh"
+"{quote} because they are non-javadoc Eclipse-related only, and not everybody uses Eclipse. {quote} ouch... sorry about that. You will not see that again."
+"Sorry Timothy, I forgot to include a couple of dlls, GTOU.dll and GTOUD.dll in the test tool that I uploaded last Friday. I have added them to CMS_Test_Tool.7z. They are under CMS_Test_Tool\dll. Please register one of these dlls (for example GTOUD.dll) to compile CMSMessageHandlerCOM. Thanks! Helen"
+"Took me a few seconds to get it, but then I realized how awesome it is."
++1 patch looks good
+Thanks Bryan!
+Awesome - great stuff Maria. Thanks!
+Is that ok for this file (b/c I have no idea how to do the svn move now ... after I've made all the changes already) :)
+The patches look good :)
+I like the elegant parser!
++1 Looks good to me.
+The patch & tests look good to me.
+This is awesome!
+"Great last enhancements, thanks guys!"
+Jonathan: over to you :)
+"Good advice, this works..."
+great. awesome job sergey!
+"Looks good, thanks!"
+"Thanks, Owen!"
+John it would be great!
+Thanks Koji!
+Looks good to me.
+"Many thanks, Neeme."
+Looks like the 0.95 issues are timeout related...should be good to go.
+Thanks Galder:)
+Thanks Tom; sorry for the mess.
+Given the dependencies; I don't think this is going to be an option for the cannonical Struts 2 distribution; unless it is reworked to use iBATIS or Cayenne.
+What was the outcome of the discussion?
+Why is it unsafe to share filter in SelectStatement for NQF?
+bq. Opened LUCENE-3595. thanks! I committed this to trunk and backported to 3.x nice iterations.. ;) heavy committing
+"Hi Paulex, The fix looks good, thanks! Best regards, Andrew"
+"+1 I committed this. Thanks, Jothi!"
++1 The patch looks good to me. I will commit this later.
+"+1 I committed this. Thanks, Kay Kay!"
+"Nice! Thanks for adding nice debug logging, too :-)"
+My bad.
+Not pretty.
+Doh.
+"Sun RI sucks, why the hell is saveState() and restoreState() not called with with javax.faces.STATE_SAVING_METHOD = server???"
+Here is quite bad.
+-1 to jar hell.
+"Actually I don't want to specify the encoding, because I don't care how the data is transported to me."
+> We can't let fear of back-compat prevent us from making progress.
+"This looks reasonable to me... sucks we have to special case handling of "" ""..."
+bq. this is solr's fault by having a getter that does some heavy duty xml shit.
+"*Damn*, I forgot."
+"But, even if it wasn't it would be totally worthless where it is at."
+The evil NPE strik back !!
+My bad.
+ah - my bad.
+You are mixing runtimes. You must link _all_ executables with the same run- time library. For release; it's Multithreaded DLL; for debug; it's Debug Multithreaded DLL. Otherwise; bad things will happen when memory allocated from one heap is freed in another. I rebuilt your code with the appropriate setting; and everything worked fine. See the project settings dialog box; C/C++ tab; and the 'Code generation' category.
+"bq. Here's a patch for the general case, and it also adds a warning that you should set your similarity with Similarity.setDefault, especially if you omit norms. Is there no way to remove this stupid static default and deprecate Similarity.(g|s)etDefault()? Can we not use the Similarity from IndexWriter for the case of NormsWriter?"
+CSS is really confusing sometimes.
+it's my bad.
+"Don't hate me, just throwing this out there."
+"It seems some of the wrappers in ink_hrtime.h() might no longer be used either, e.g. ink_gettimeofday() is never used, so lets get rid of that shit."
+What the hell?!
+Hmm ... this is quite bad.
+Where on earth are you anyway?
+"Damn, it seemed it didn't work."
+"And I think if we're going to do a sweep up of shit, we should just kill root."
+"Ok, wow, welcome to Linux hell..."
+committed! to branch hadoop-eclipse-merge. Thanks Srimanth.
+"Thanks Tucu! You are right. I had not thought of that. I'm on the fence because we are serializing a process which should happen fast (so parallelizing is good). Like you already mentioned bq. 1* Add a method in the FileSystem to disable its shutdown hook. MRAppMaster would disable it and call closeAll() explicitly (it already does). This is already present (by setting conf.setBoolean(""fs.automatic.close"", false) ) So I'm not sure what problem this JIRA is fixing. Or are we planning for the future? I'm fine with the latter answer being yes. I'm just curious. The patch looks good for what it intends to do, although the latest one doesn't include the fixes you made in response to Nicholas' comments."
+"Agreed, the current behavior is incorrect, I just didn't want you disappointed. :-) If you create your singleton jira patch before this one is applied, then just include them together and close this bug. I agree that commit rights would make this simpler and supplying patches is the primary way to gain commit rights, so you are on the right path regardless what happens with Pax Web. :-)"
+@Ashutosh: thanks a lot for the comments.
+"First sorry for the delay. It looks like this patch slipped through. I tried to apply it, but there are a bunch of conflicts (some of them are related to recent docstring format changes and other seem to be related to other changes). Can you please re-generate the patch against the latest trunk? Thanks!"
+"Thank you, + Harit Himanshu"
+"Fixed at r504842, thanks!"
+"Committed to 0.20 branch. @Stack, any chance of some trunk love? :) If not I will get to it later."
+Thanks for the patch Erik (and Jon)
+"Thanks for the very clear explanation of the needed change, Dag."
+Thanks Klaus!
+"Thanks Bilgin, it is working fine now."
+Thanks for taking a look Bikas and Devaraj. Committing this.
+Committed trunk and 0.92 branch. Thanks for the patch N.
+Committed to trunk and 4x. Thanks Simon!
+"committed, thanks!"
+"Hi Jacques, hi Ankit ... i think i found the reason why we can't call layer recursivly ... i made a patch but i can't sync my trunk today (i'm at our friends house and they have only internet via gps connection ... it's so slow :-D). I will provide the patch on monday morning. Have a good Weekend Sascha"
+I just committed this to trunk and branch-2.0. Thanks Xeiguiming!
+"I just committed this. Thanks, Amareshwari!"
+Did you set: struts.devMode=false struts.configuration.xml.reload=false This did the trick for me :)
+patch committed thanks!
+Thanks Wei. I've committed your latest patch to SVN.
+Thanks for looking into this Allan.
+Committed. Thanks Namit!
+Applied to trunk. Thanks Andrey
+Patch committed to trunk Thanks Hari!
+"I've just committed this. Thanks Espen, Andrzej, and Owen!"
+Thanks Erwan for you're effort :-)
+"Fixed the minor nits. Thanks, Sid!"
+Thanks Robert. Committed to trunk.
+"I applied the patch, thanks!"
+"Thanks Oliver, that's fixed it."
+"hi, Im Sujan. I need to send proposal for gsoc 2012 for AIRAVATA-345. how can i do it? please let me know the steps what should i do ? Thank u email: hardsujan@gmail.com"
+"Committed to trunk, branch-2 and branch-2.1-beta. Thanks Jian."
+"It is OK, thanks Stepan."
+Committed. Thanks Chris!
+"Committed to trunk. Thanks for review, Stack and Ryan."
+"Thanks René, Your patch is in trunk at r1061167, R10.04 at r1061173, R9.04 at r1061174"
+"Committed to branch and trunk, thanks Gab!"
+Thanks Anton. Fix applied to ACCESSIBILITY module at repo revision r598652. Please check it is fixed as you expected.
+"Patch applied to FOP trunk, see r793095. Thanks for the fix!"
+"committed, thanks!"
+Thanks for sweet patch Erik.
+"Hi Tri, Those files looks good. I cursorily checked only.CommonUiLabels.xml.patch but from their sides I guess the others are good as well. But done from the OFBiz roo directory, it's the main OFBiz directory where you fine the LICENSE and APACHE2_HEADER files. Anyway not a big deal I will try to apply them as is and will let you know You don't have to remove the old files, as you can see they are now grayed, and it's good that you checked the grant license box. Thanks"
+"Thanks a lot, Jon for signing up this."
+"Cheers, Ashwin..."
+"Hey Tom, The change in your patch looks good. Latest patch just updates two tests. I'll commit this if Hudson comes back OK. Thanks, Eli"
+Forgot to mention: Thanks to Alejandro and his team for pointing this one...
+"Thanks, Joseph!"
+"Hello, Thanks a lot! It works. Lisa"
+"Committed to trunk, 0.92 and 0.94. Thanks for the patch Shaneal."
+"+1 looks good. Once it is committed, I will deploy it. Thanks Sourygna."
+Thanks Rick for applaying the patch.
+Thanks Dawid!
+I would love to have it right now for storm too. If you want me to sign up as a use case I am happy to.
+I like Richards update as well :) What I did was out of pure anger so it may not have been the sexiest.
+"Thanks, Andreas, I will check it,"
+added in rev 546223. Thanks Will!
+"Incorporating Konstantin's comment Thanks, Mayank"

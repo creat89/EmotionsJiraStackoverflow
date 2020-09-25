@@ -1,0 +1,152 @@
+__label__love	great - thanks for the heads up ben !
+__label__love	thanks , did that . hopefully it syncs now . cheers -- kurt
+__label__love	thanks edgar for finding this one !
+__label__love	fixed rev . thanks jose !
+__label__love	thanks richard , patch was applied to luni module at repo revision . please check that the patch was applied as you expected . ( i 've got strange commit notification with message : [ ... lines stripped ... ] )
+__label__love	committed to branch . thanks , remus !
+__label__love	fix checked in at revision . thanks xu .
+__label__love	patch applied . thanks !
+__label__love	committed . thanks jarek
+__label__love	thanks adrien for looking into this , nice explanation !
+__label__love	applied to trunk . thank you for the patch erik .
+__label__love	in fact , if you happen to know why observerhammerquorumtest is failing with this latest patch , i 'd love to hear .
+__label__love	ok . i will do that . adrian , thanks for taking a look at this . 🙂
+__label__love	thanks a lot for the review , todd . the test failure is unrelated and is already tracked by another jira . i 'm going to commit this momentarily .
+__label__love	committed . thanks ashish !
+__label__love	hi mike , do you know how to get the virtual machine file ? the link to download from the rcmes web site is broken . thanks . ----------------------------------------------------------------------------------------------------- jinwon kim dept. atmospheric and oceanic sciences and joint institute for regional earth system science and engineering university of california , los angeles los angeles , ca -
+__label__love	johannes -- thanks for the complete testcase ! sorry about taking so long to fix this one . thanks , rick
+__label__love	thank you , gregory , eugene . verified on harmony - r547521 - msvc - debug .
+__label__love	hi . the code above is a copy of the charsetutil class just run within a junit test case . there is no exception other than junit.framework.assertionfailederror . are you able to reproduce the error ? thanks richard
+__label__love	ludger ; thanks for the patch . i 've just committed it . see svn rev . thiwanka ; thanks for your help in investigating this issue .
+__label__love	hi steve , gentle reminder as per your instructions about reviewing this patch . thanks !
+__label__love	committed to branch and trunk , thanks for the review stack .
+__label__love	gregory , thanks - the patch is applied as expected .
+__label__love	committed revision . thanks shai !
+__label__love	committed to branch and trunk . thanks for review stack .
+__label__love	i 've just committed this . thanks aaron !
+__label__love	hi holly thanks ! i have the one comment - where is the code for internalrecursivebundletracker ? i do n't see it in the patch did i miss the source code for it ? lin
+__label__love	committed as r1406707 . thanks for reviewing sijie .
+__label__love	thanks laura .
+__label__love	thanks kathey and myrna . the release note looks good and it passes the releasenotereader 's checks .
+__label__love	hi george ; i just checked in a fix for the empty stack exception . can you please verify ? thanks .
+__label__love	a pleasure :> .
+__label__love	i just committed this . thanks , sameer !
+__label__love	bruno , you mentioned in a gtalk conversation that you had a patch for this , but i ca n't find it here in jira … could you attach it please ? thanks !
+__label__love	i 'll look into the namespace handler . thanks . yes , i should have added the different event handling support to the todo above . i need to think more about this and look into the camel code a bit more . using just the endpoint api , i could n't create routes on the fly , hence the polling consumer approach . i 'll keep hacking away at in in my toolbox when customer needs dictate . am i missing something in your approach , how would i do this then in the xml dsl using your approach ? i think virtual routing is a known limitation of camel when you start to deploy large scale systems . out of curiosity have you seen camel ever been deployed with 's of routes ( and / or routes files ) ? i think this would have fd and thread overkill problems . everything repeats itself 🙂
+__label__love	[ ~ bikassaha ] thanks for the heads - up bikas ! this jira is not concerned with the tez integration for pig and is simply the abstraction in pig to allow for alternate executionengines in pig . but will certainly change this on the tez integration side of stuff . thanks a lot [ ~ cheolsoo ] for continuing this ! i think everything looks good from my end . i can certainly see why we may want to keep this on a different branch until everything is finalized . certain things may still need more work . for example , outputstats is not completed abstracted out , as it still has references to postore which is a mr implementation construct . scriptstate / ppnl / jobstats may still need more abstraction ( especially ppnl ) and reworking to incorporate a new executionengine abstraction . i think what we have done here is the minimum foundation for an abstraction though , and it would be appropriate to put into trunk , but these are not my decisions to make . with regard to public methods that were changed , i do n't think most of them are a big deal , besides as cheolsoo said , the pigserver throwing pigexception . i never thought ioexception was a good exception to throw , but i think reverting pigserver back to ioexception as it is userfacing code is not a big deal . the rest of the method signature changes should n't be worrisome because most of them are internal to the project . however , the change from jobstats to mrjobstats , while necessary ( as each executionengine would have it 's own type of jobstats it would present to the end user ) , could be problematic because it is userfacing code and would probably break people who were previously using jobstats . that i think is the most important thing to keep in mind . the task of making the ppnl and jobstats clearly tied to the executionengine should be thought through also .
+__label__love	changes look good . could you run regression tests with your patch and let us know how it goes ? thanks kathey
+__label__love	hi john , i would agree , using object notification is probably a cleaner way to do this .
+__label__love	hi nick , can you please re-create this patch as i ca n't get the code to compile ? for starters , i ca n't get the class attributeimplitem to compile . please use the latest trunk when doing so thanks . -- george
+__label__love	thanks vladimir - the patch was applied to bti branch at r602881 . please check that the patch was applied as you expected .
+__label__love	thanks attila . i fixed the test / header already
+__label__love	thanks bryan for converting these tests . in using the derby- conversion tool , can you double check that it does not omit the fail assert method after a method call in a try - catch block when the statement is expected to fail . e.g. instead of try { s.execute ( command ) ; } catch ( sqlexception e ) { assertsqlstate ( " " , e ) ; } it should be : try { s.execute ( command ) ; fail ( " command expected to fail " + command ) ; } catch ( sqlexception e ) { assertsqlstate ( " " , e ) ; }
+__label__love	i really like what i am seeing so far .
+__label__love	thanks , that looks good now ; much easier for the end - user .
+__label__love	thanks for that comment richard ! i was laboring under the ( false ) impression that i could not change the docs that went with our previous releases ; but i see these are coming from a copy on our svn site ; and we could actually change that one . anybody object to my doing that ? i could correct the link ; and also indicate this release is levels out of date .
+__label__love	thanks for review and test case , knut .
+__label__love	thanks for the patch
+__label__love	looking forward to your patch .
+__label__love	thanks , omkar ! i committed this to branch- as well .
+__label__love	thanks
+__label__love	committed , thanks for the review , avery !
+__label__love	thank you for the patch xuefu ! i have committed it to trunk !
+__label__love	patch committed , rev : 84f4fa61b6607d8699bb28743b568f4a716b4288 . thanks mike !
+__label__love	committed revision . thanks vinay .
+__label__love	i just committed this . thanks , jim !
+__label__love	mathias , please close this issue as it is not reproducing any more … thanks .
+__label__love	i have committed this . thanks , rodrigo !
+__label__love	i verified the fix using the xml-xerces_20040107172932.tar.gz cvs snapshot . thanks !
+__label__love	please contact me if you need any clarifications .
+__label__sadness	i will figure out the details and do the port later this week if you do n't get to it first .
+__label__sadness	my apologies for the confusion .
+__label__sadness	the guy on our team that was going to do this was swamped , so i re-assigned this to you .
+__label__sadness	sorry to let you lose a wild goose chase .
+__label__sadness	sorry , that should have said fixed via hadoop- , not .
+__label__sadness	actually that 's what this change did , sorry for the noise .
+__label__sadness	sorry , i tought i could commit this patch but i did not realize that one of the files is in the framework ( and i have not access to it ) .
+__label__sadness	sorry but i was running on the branch . we will hopefully have a release out shortly ( in a week or so ) that should fix this issue . although an example would still be helpful so we could add a cactus test that makes sure we do n't reintroduce the problem .
+__label__sadness	ok , i just downloaded trunk and the patch is % the same with mine so i 'll close the issue now….one comment though and sorry for nitpicking….should n't the second constructor simply be " this ( patterns , null ) ; " or even better " this ( patterns , " default " ) ; " ? in any case i can confirm it works - it just looks a bit ugly duplicating code like that … 🙂
+__label__sadness	sorry if this was not clear , and yes , by < blank > i meant an empty string .
+__label__sadness	damn .
+__label__sadness	phil , i must have missed this email . i am sorry . i will get this done , and the other changes to support the updatingmultiplelinearregression class . i updated my source and noticed the changes were missing . i did my detective work and noticed this . mea culpa ! ! - greg
+__label__sadness	sorry .
+__label__sadness	so , sorry i ca n't be more obliging .
+__label__sadness	sorry , unassigning myself from this backport .
+__label__sadness	sorry for delay . this patch is including lru cache . but changing static class into member is not done . what should i do ?
+__label__sadness	the patch went to the wrong bug .
+__label__sadness	app developers never do what they should 🙂
+__label__sadness	sorry , i miss. this bug is same str- . i change resolution to invalid .
+__label__sadness	sorry for that .
+__label__sadness	sorry for the trouble .
+__label__sadness	bq. ) sorry , did n't create a patch for the readme since it was a small change , it is included in this patch with the comment revision .
+__label__sadness	sorry , should have been getdatamodel not getdatatable .
+__label__sadness	maurice i do n't have such option or maybe i do n't know where it is .
+__label__sadness	to upgrade to a recent version of jackrabbit , see http://wiki.apache.org/jackrabbit/backupandmigration i 'm afraid i ca n't say much about the risk .
+__label__sadness	which api at the thrift client you are referring ?
+__label__sadness	forgot to add that i also tried this with and without hbase-
+__label__sadness	added to trunk in # .x in # sorry about visad . unimplementedexception !
+__label__sadness	tried some more stuff and realized i was doing it wrong .
+__label__sadness	bq. i 'm gon na hold off on lucene- until we figure this one out … because it would make your getsequentialsubreaders in the synced = true case quite heavy ( without modifications ) . sorry , i was wrong on this … i totally forgot the norms cache is lazy - loaded always in that patch . i 'll commit lucene- it should nt affect this !
+__label__sadness	another backport ( for a different jira ) of mine is failing and i want to see if i can figure out what might be wrong there before doing a new backport .
+__label__sadness	but app developers should always explicitly set it based on their application my guess is that a large enough group of people take the defaults that it matters .
+__label__sadness	the problem is that it builds awt , and that requires some dependencies .
+__label__sadness	sorry about that , tiredness .
+__label__sadness	oh , ok .
+__label__joy	got it , thanks for the explanation .
+__label__joy	cool . sounds good to me .
+__label__joy	nice feature , lars ! !
+__label__joy	upvote , the latest patch looks good to me .
+__label__joy	upvote looks good
+__label__joy	holy crap that worked ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+__label__joy	any chance to get a patch also for this ? 🙂
+__label__joy	upvote , patch looks good .
+__label__joy	great , thanks joel .
+__label__joy	dc36d49eb3e240b3d8fd8b89ab178a7b1ec17d8b ts- : spdy plugin crashes on connection close thanks for testing !
+__label__joy	i think sstabledeletingtask is a good spot , i just was n't sure if that would be appropriate .
+__label__joy	upvote this looks good to me .
+__label__joy	looks good . thanks !
+__label__joy	works fine . thanks
+__label__joy	i will be the sponsor for your beer the next time we meet .
+__label__joy	i think its a good idea to go ahead and put a patch together so we can discuss it directly .
+__label__joy	hi , very cool !
+__label__joy	patch looks good . one minor comment , planhelper . loadstorefinder may better be planhelper . loadstorenativefinder .
+__label__joy	i kinda like the black acctually .. but that may largely be due to my prefering the " fire " solr logo over the futuristic magnifying glass ( the red / orange contrasts nicely with the black / grey . to my mind , the " solr " " sun " connection has allways been really cool ...
+__label__joy	the fknames patch looks good !
+__label__joy	thanks , it works fine !
+__label__joy	upvote great job pat .
+__label__love __label__joy	thanks ! 🙂
+__label__love __label__joy	patch looks good to me too . thanks for all the work .
+__label__love __label__joy	no , this was on ( sorry , i should have mentioned that before ) . that 's great to know , thanks !
+__label__love __label__joy	sounds good . we 'll postpone hbase- til then . thanks !
+__label__love __label__joy	> tilman hausherr hello , finally it works ! i just downloaded the revision , and bulded it with ant . and added the new * . jar to my project 's build path . it printed very well . thank you very much .
+__label__love __label__joy	i did it works fine with and ios6 . thanks ! dominic
+__label__fear	triage : not for xalan - j . we still need to evaluate this in light of gary 's point : exactly what location should we report for result tree events in this kind of situation ? i 'm not sure we intended to set the locator in this particular situation . also ; if we never set the locator ; then we 're still following the sax spec - while this is somewhat useful ; it 's still an optional feature .
+__label__anger	too bad we ca n't use position:fixed in ie6 .
+__label__anger	oh , my stupid :)
+__label__anger	both equally bad .
+__label__anger	what the hell , i 'll give this a shot .
+__label__anger	damn , chuck is scary .
+__label__anger	my bad .
+__label__anger	pull it back in if you think different .
+__label__anger	weird .
+__label__anger	pull it back in if you think different .
+__label__anger	hell or high water .
+__label__anger	i 'm starting to think of " dll hell . "
+__label__anger	damn maven !
+__label__anger	damn .
+__label__anger	heh , that 's one hell of a bug , bytes exactly , eh ?
+__label__anger	since this patch is so damn large already i wo n't be making anymore changes to this other than critical / blocker bug fixes .
+__label__anger	pretty much everything that fsnamesystem ( ie .
+__label__anger	how on earth is it buggy ?
+__label__anger	who the fuck is asking for scores , but not the max score , and why does their insanely specialized use case justify all these booleans on a central lucene class .
+__label__anger	upvote ( damn intellij , it 's not like patch format has n't been standard for years )
+__label__anger	the defect from hell , be scared …
+__label__anger	that 's bad content - type from gsoap .
+__label__anger	bq. this is solr 's fault by having a getter that does some heavy duty xml shit .
+__label__anger	weird .
+__label__anger	this sucks badly .
+__label__anger	it must be lost somewhere .
+__label__anger	i have stupidly deleted the original test dir , but judging from the suite 's output files , no output was created after / hours .
+__label__anger	i sure as hell do n't want to start attaching models for the sake of detaching them directly afterwards .
+__label__surprise	do i miss something there ?
+__label__surprise	woo hoo !

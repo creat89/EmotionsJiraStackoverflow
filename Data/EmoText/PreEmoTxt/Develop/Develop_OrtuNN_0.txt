@@ -1,0 +1,157 @@
+I've been running with -Xmx1024M -Xms1024M before and that worked in the past...Not sure what's going on now.
+Thanks.
+Enjoy!
+"Thanks very much for your response. I want to thank your team for the great job they've done building a superior open-source solution. Not only do I use but I also promote it everywhere I go. I just did a hands-on lab using JSPWiki to create 'qwiki' WEB apps for 40 people at DEVCON 2007. It got excellent reviews. I promote this as an Enterprise Open-source solution. If a company wanted to purchase a support contract or services for a production implementation of the product who should they contact? Thanks again, Jim Mason https://issues.apache.org/jira/browse/JSPWIKI-24?page=com.atlassian.jira.plugin.system.issuetabpanels:all-tabpanel --------------------------------------------------------------------------------------------------------------- __________________________________________________ Do You Yahoo!? Tired of spam? Yahoo! Mail has the best spam protection around http://mail.yahoo.com"
+Fixed; closing
+I think we are very close too.
+"great idea, those are lost to the ages but I'll try to reproduce."
+"I think you should get rid of the open-ended version spec [1.2,) as it occasionally screws things up by bringing in snapshots or non-working code. Otherwise, to my eyes, it looks good."
+Thanks Ashish!
+"I'm happy to use it as the standard logo (i.e. website, etc.)."
+"Hey, you're right, that idea was probably not the best approach to the problem - 0.6 looks really nice, looking forward to it :)"
+Great job. I'll review this patch today's night.
+This looks good to me.
+"Thanks for reporting, solved!"
+Builds fine for me and the code looks good. Great work! I did not run the integration tests. [~abayer] what do you think?
+"Waaaaay cool! I especially like the ""upload file"" option."
+Thanks for fixing it so quickly!
+This looks good to me.
+:) Will have a look.
+Thanks Uwe!
+Thank you!
+Awesome work: this is a great first cut!
+"+1 as well. Patch looks good, like the javadoc, we get lots of users asking what those exceptions mean."
+(sorry if that was confusing)
+Sorry about the error guys.
+"Oops, didn't mean to leave that in."
+"In the past, I have enjoyed working with everyone here."
+It is not yet tested - I ran into strange build problems with APR.
+"(back from holidays, so a bit delayed, but) I confirm Andrzej's suggestion -- a plain-text only summarized is ideal for clustering for example."
+Dean I am sorry it didn't work out-of-the-box for you. Yes by all means if you have time later and still have issues then open a new ticket.
+"[~shazron]Sorry, that was weird."
+i found the class - so there is no bug - sorry
+It was my mistake.
+"Sorry, I narrowed down the issue to Chrome's over-zealous caching. I was able to reproduce the problem on two separate computers in a simple project where I had upgraded from Wicket 1.4.0 to 1.4.15. But due to testing before and after, Chrome had cached the buggy version of wicket-ajax.js from 1.4.0 and did not detect that it changed with the update. Clearing the browser cache resolved the issue. Sorry about the bogus bug report."
+"Sorry, didn't look at the code until commit... Can you test making it hash to a Long or a 8-byte ByteBuffer?"
+huh ... i thought i did resolve this.
+"Sorry, I had attached an older version... let's try this one."
+"Oh, I never saw your answer. Sorry Ryan I never searched for _libthrift_, thanks for pointing it out Stack. As this is a custom release by the Hadoop folks are we sure this is not in any way customized by them? I haven't looked at the Maven stuff in a while but by being in a custom group we might get a different version by accident as a transitive dependency if any other project decides to do the same as Hadoop."
+Sorry for the confusion :)
+"Sorry, it seems I forgot a few references to 2.0.2 in ./deps/cxf-all I'm attaching a new patch to fix these references."
+Any word on whether it will be fixed?
+Sorry for the hassle.
+Bug in existing testDelegationTokenRestoredOnRMrestart().
+Sorry for the delay.
+"I am checking out the dojo fixes and patching them in, sorry for the delay, it has been a long time"
+Bugs like this make me sad.
+Sorry.
+"Sorry, forgot to mention it in issue description. I use commons-net-2.0.jar, i.e. version 2.0. It's because Scott Bjerstedt wrote in VFS-264 that for his patch to work we need to use commons-net 2.0."
+"My bad, forgot to include the test file in the patch... Resubmitting in a second."
+I didn't have time to work on this yet ...
+"Sorry to hack your issue Bilgin, my intention is to keep readable traces (in ML you can't read easily stack)"
+Sorry for the spam - but which test method - can't find any related to the SnapPuller on trunk.
+Yes exactly -- sorry to be so unclear. Just really wondering/hoping you'd be interested in working on these ?? I'd like to get them cleaned up because there are now so many that other more important and/or meaningful warnings are likely to be ignored.
+This was my accident. I had the wrong JIRA opened. This should have been filed against Apache Drill. Opened DRILL-146 instead. Sorry
+Sorry clicked the wrong button. Its intended for inclusion.
+I'm sorry for frequently updating the issue title and contents.
+"Sorry for the patch error. I have created a patch both for 562 and 564,and attached it in 564."
+Ignore comment.
+"Sorry for that ! It's sometimes hard for us to describe a usecase that is so clear for us, but indeed not always for somebody else. Thanks for the time, and we'll try harder to explain in the future. About the jira issue, we'll try with full url's instead. This worked in 1.5.8 and 6.0.0, so we thought it was a bug. But now we know that it's just not supported anymore."
+I'll just put fix in under this issue.
+I think you made mistakes in ivy.xml.
+"Hell, UnaryFunction might even be faster than all of these calls in a row."
+"My bad, had a typo in the subscription e-mail."
+If they do then Suse's cpio works for old ascii but the -c switch is broken.
+I think it's time to just close this issue.
+"why on earth would it match anything, you have not even touched the Apache install."
+Does this suck?
+Sucks to rush a commit when an issue is under discussion.
+You may want to carefully examine your assumption about this.
+Ok here is a patch that works. I was stupid enough not to see it...
+Damn it.
+Original edited patch was messed up... stupid sed!
+This whole thing is really pretty trivial.
+Pull it back in if you think different.
+"My bad, I screwed up the assertion -> RuntimeException transition."
+Replaced patch with fix to catch more bad variables
+I always get the same stupid error.
+Incomplete example.
+Doing it at the hackathon you'd have a few fellas at your shoulder to give you pointers should you get stuck.
+Please close as this is just me being stupid.
+My bad.
+Gav...(Hoping I'm not teaching you how to suck eggs :) )
+I think the comments here are a bad sign... I sent us down an unfortunate slippery slope we are a search engine library! don't put shit in the index directory! or we will delete your shit. dead simple.
+"* Replaced TreeMap with an Array of final 'Segment' objects ** (now very slightly faster than trunk) * Rebased for trunk * Removed the patch renaming SSTableReaderTest to SegmentedFileTest I didn't remove the builder pattern, because the alternative seems pretty ugly (copying the segments array for every append)."
+This is always a really bad way to design software.
+Imo all this just doesn't make sense from a pure performance aspect.
+Looks fine to me now. Thanks!
+"ok,it works fine,thank you."
+"Looks good to me. Works for me, too. :-)"
+After re-compiling the applcation and re-deploying everything worked properly; seems like during the first deployment something wrong happened and something got corrupted. Closing this issue as invalid. Thanks for your assistance.
+"Thanks for the revision, Jørgen! I think the release notes look good now. I will resolve the issue after a few days, to allow for any feedback on Knut's suggestion."
+"Hi Anurag, Thanks for the preliminary peek at this patch. Looks good. I like the way you handled the optional inclusion of the JDBC4-specific classes in the jar file. I recommend adding class and method comments to the test classes so that reviewers will know what these tests are supposed to stress. Thanks for the explanation of why you disabled the SecurityManager and for commenting the property file accordingly. When we do commit this patch, let's leave the JIRA open to remind us to re-enable the SecurityManager after mustang fixes its bug. Cheers-Rick"
+Thanks Stepan.
+Thanks Chandan Khandelwal
+Committed to trunk and branch-0.4. Thanks Rohini.
+"I just committed this. Thanks, Jordà!"
+"Integrated to trunk. Thanks for the patch, Bryan. Thanks for the review, Chunhui."
+"Thanks for the patch Daryn, +1 I put it into trunk, branch-2, and branch-0.23"
+Thanks Elena.
+"Hi Oliver, Thanks for catching this problem and for your suggested fix. We can go one step in simplifying the fix by removing the need for URI altogether if we use the getResourceAsStream() method of ClassLoader rather than getResource(). Modified version of your fix committed in revision 405036. Please could you check that this version of your fix works in your environment. Best regards, George"
+Committed. Thanks Robert!
+Committed to TRUNK. Thanks for the patch Doug.
+Thanks Tony.
+applied patch; slight indentation reformating. Thanks Tommaso!
+"Thanks a lot, Kiran for the patch."
+Thanks for the patch! http://svn.apache.org/viewvc?view=revision&revision=1361531
+Can anyone please review the attached patch ? Thanks
+"ah, got it. thanks Ivan for explanation."
+"I'll do it now, thanks!"
+"I've just committed this to the HDFS-347 branch. Thanks a lot for the contribution, Colin."
+"Thanks Mirdul, committed in trunk r903428 and 9.04 r903429"
+I just committed this. Thanks pat.
+"Thanks Dawid. bq. Yes, this is pretty much the top-n nodes reordering that I did, albeit without any optimization of how many n to take (the hardcoded magic constants should probably be justified somehow? Or replaced by a default in FST somewhere?). bq. Deciding how many nodes to reorder is I think hard – I failed to provide any sensible fast heuristic for that and I simply do a simulated annealing to find a local optimum. Yeah the algo is simplistic now... and it does force caller to pick the params (though minInCountDeref=3 and maxDerefNodes=Inf are probably pretty good)... we can and should make it more sophisticated over time. We have at least one spare bit to still use in the arc flags :) bq. One thing I was wondering is why you decided to integrate the packer with the fst – wouldn't it be cleaner to separate packing from construction? Granted, this requires a double pass over the fst nodes and more intermediate memory but it wouldn't add any more complexity to the builder which is already, ehm, a bit complex . You can compare this design in Morfologik: Well... it's tricky. First, I decided to change node targets to ords so that pack could use an array to (relatively!) efficiently hold node data, eg inCount, newAddress, etc. That required making the first pass FST ""modal"" (deref'd or not). If we didn't do this then the packer would have to use even less RAM efficient data structures (eg Map<Int,X>) I think? Second, the format written by the packer is tightly coupled with the FST reading, ie there are sizable differences when reading packed vs unpacked FST. But I agree it'd be cleaner if we could move packing out (eg Util.pack), and more strongly decouple packing from FST format... One thing I'd really like to somehow do is create different classes for FST writing vs reading, and different classes for each format. We now have write-ord, write-non-ord, read-packed, read-unpacked (and even the two readers have 3 different modes depending on INPUT_TYPE)."
+Thanks Tom.
+"Best regards, Andrew"
+patch applied - thanks!
+I just committed this. Thank you Lohit.
+"abhi, can this be assigned to someone thanks /sudha"
+I just committed this to trunk. Thank you Uma. The patch does not apply to 0.23 branch any more. I recommend it for back porting.
+Great investigations Doron!
+Thanks for the patch; Michael. Applied with a few modifications.
++1 looks good.
+"Integrated to 0.94 Thanks for the backport, Jeff. Thanks for the review, Lars."
+"Thanks for the finding, Andrey. createDir() is recursive. Would be nice to write it in iterative manner. Would FileSystem.mkdirs() do the job ?"
+Thanks Hari!
+"Hi Rustam, Finally I will not commit the IMAP-351 patch, so it will be good that you attach your patch here. Thx, Eric"
+Applied to trunk revision 987457. Thanks Bob.
+"Thanks, Mayank"
+Thank you!
+Sweet :) You got there before me
+Thanks for the info David.
+Completed: At revision: 614842 -- Thanks Maja!
+"Ray, Jacoo, I finally commited it in revision: 485087. Thanks"
+"I committed this to 0.20 and above. Thanks, Corinne!"
+Done at 946323 and 946322 Thanks Blas !
+"Release Candidate 1 of this patch. This patch contains: + add IP Address to CrawlDatum Version 5 (as byte[4]) + a IpAddress Resolver (map runnable) tool to lookup the IP's multithreaded + add a property to define if the IpAddress Resolver should be started as a part of the crawlDb update tool to update the parseoutput folder (contains CrawlDatum Status Linked) of a segment before updating the crawlDb. + using cached IP during Generation Please review this patch and give me any improvement suggestion, I think this is a very important issue, since it helps to do _real_ whole web crawls and not end up in a honey pot after some fetch iterations. Also if you like please vote for this issue. :-) Thanks."
+This was a temporary connectivity issue. You can close this bug. Thank you.
+"Committed to branch, thanks Eli"
+Thanks henry and pat... we'll have to re submit all the PA's so trigger hudson.
+"I committed this. Thanks, Nicholas"
+Fixed; thanks for the patch. http://svn.apache.org/viewcvs.cgi?rev=354520&view=rev
+Thanks Martina.
+"Richard, patch applied at revision r437600, thanks a lot for this enhancement, please verify that the problem is fully fixed as you expected."
+Thanks Lukas for pointing these issues out. Will review your fixes and do the necessary changes. The JMS transport fix should go to Axis2 Transports project.
+"Hi Gary, I think I have a rather nice and elegant patch for this; but if you don't mind waiting, I'd like to get some clearance from my current employer. Thanks."
+Applied to trunk. Thanks Elliott.
+bq. First of welcome :) Thank you.
+"I just committed this, thanks Jothi!"
+"Brilliant feedback, thanks! I'm glad you found the issue, and the solution!"
+Thanks again to Claudio Tasso
+"Committed to trunk and branch-22. Thanks, Ari!"
++1. Patch looks good. I want to wait until FALCON-85 is committed to commit this else I'll have to regenerate the merge patch. Sorry about that.
+Why on earth does createLink() need a request?
+I think with the latest code; this 'pop' message should only show up if an AVT is used with an incorrect value. If AVT's aren't used; the error should be caught statically and you should see the message: Illegal value: sideways used for ENUM attribute: order. Valid values are: ascending descending. Do we have a testcase where the invalid value is in an AVT?
+This was my bad.
+Didn't we just do this a month ago?
+How should integer division work for decimals and floating point?

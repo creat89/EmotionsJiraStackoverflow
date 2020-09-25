@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SubSet01Loss.java&apos; to &apos;MulanLoader/src/mulan.evaluation&apos;&#x0D;&#x0A;- Original project: &apos;MulanLoader&apos;&#x0D;&#x0A;- Destination element: &apos;MulanLoader/src/mulan.evaluation&apos;&#x0D;&#x0A;- Original element: &apos;mulan.evaluation.SubSet01Loss.java&apos;" description="Copy compilation unit" destination="/src&lt;mulan.evaluation" element1="/src&lt;mulan.evaluation{SubSet01Loss.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1544011689091" units="1" version="1.0"/>
+</session>
