@@ -80,3 +80,7 @@ The code needs to be cleaned, we will work on this aspect as soon as possible. B
 Currently, the data is already processed. However, We will upload in the future the code for processing the data and getting the numeric values. And also the indixes used for splitting the corpora.
 
 In all the cases, if you have any issue or problem running the code, don't hesitate in opening a Github issue. We will answer as soon as possible.
+
+# License
+
+The code is available under a GPL3 License. The reason is that we make use of the library Mulan, which it is based on Weka. In the future, we will analyze if changing the license is possible based on the fact that we don't modify Mulan but we use it as an external library.
